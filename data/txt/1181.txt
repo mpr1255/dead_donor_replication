@@ -1,0 +1,53 @@
+﻿• 55() •
+中华器官移植杂志 2()(?年 9 月第 28 卷第 9 期 Chin J Organ Transplant:,September 2()07, Vol 28,No. 9
+缺血时间超过六小时的供心保护以及 移植术后近期效果
+洪涛王春生 宋凯赖颖 陈昊杨兆华
+【摘要】目的 探讨缺血时间超过6h的供心保护以及该类心脏移植的效果。方法 因客观原 因导致26例供心缺血时间超过6 h,达(4()1 ±43)min。切取供心时，快速显露心脏,进行有效的左、右 心腔减压，然后从主动脉根部灌注4 °C改进的St. Thomas液500 ml,心脏表面用冰生理盐水冲洗降 温。取下心脏后，从主动脉根部顺行灌注4 °C UW液2()(2 ml,置于UW液中保存。针对肺动脉压较 高者，术中给予硫前列酮，并持续吸入一氧化氮，以降低肺动脉压。26例均行双腔静脉吻合法原位心 脏移植术。结果26例全部存活,21例心脏自动复跳,5例电击后复跳。术后1周，超声心动图检查 提示26例的心脏各腔室大小均在正常范围，肺动脉压力在正常范围,左室射血分数正常。1例因冠 状动脉开口异常导致术后不能停用体外循环,经再手术重新吻合后顺利停止体外循环。1例术后因 心功能不全而不能停用呼吸机，并出现肾功能异常，行气管切开及床旁血液透析。2例出现I度房室 传导阻滞。1例有中等量心包积液，未予处理。结论 在贯穿供心切取至移植的良好的心肌保护前 提下，适度超过安全保存时间的供心，移植后也能获得满意的近期效果，即便如此，仍应主张供心保存 时间应在安全时限内。
+【关键词】心脏移植;心肌缺血;细胞保护;移植物存活
+Early results in 26 patients with long donor ischemia time in orthotopic heart transplantation HONG Tao , WANG Chun-sheng , SONG Kai, et al. Department of Cardiothoracic Surgery , Zhongshan Hospital, Fudan University ■, Shanghai 200032 > China
+[Abstract] Objective To introduce the donor heart preservation techniques and study the chni-cal results in 26 patients undergoing orthotopic heart transplantations with long donor ischemia time (DIT) in our center. Methods From Sept. 2004 to Aug. 2006, 26 patients underwent orthotopic heart transplantation at our center with DIT longer than 360 mirL Crystalloid cardioplegia was infused through aortic root after aorta was cross clamped. UW solution was used when donor heart was removed. All patients underwent bicaval anastomotic cardiac transplantation. NO was inhaled through ventilator during and after operation in patients with pulmonary hypertension. Results DIT was 36056() (mean 401 ± 43) min. There was no operative death in this group. Echocardiography and X-ray examinations in one month were normal. One case of abnormal coronary orifice was subjected to reanastomosis of aorta. One case of renal failure post-operation was subjected to blood dialysis. Conclusion With proper donor heart procurement and preservation, recipient selection, anastomotic technique, efficient postoperative surveillance and pulmonary hypertension treatment, transplanted patients with long DIT can obtain the satisfactory short-term outcome.
+[Key words) Heart transplantation； Myocardial ischemia； Cytoprotection；Graft survival
+心脏移植是治疗各种终末期心脏病的有效方法 之一，近年来在国内发展迅速，每年手术量达到20() 余例，受者术后近期存活率已与国外许多移植中心 相近卬。相对于国内大量等待移植的终末期心脏病 患者，目前手术数量仍然十分有限，主要原因之一是 供者极度缺乏。目前关于供心可耐受的缺血时间上
+基金项目：上海市科委重大项目(024119001)
+作者单位：2001)32上海，复旦大学附属中山医院心脏外科
+限尚不清楚，一般认为心肌缺血时间应控制在4 h 内o我院2004年9月至2006年8月，因客观原因 有26例患者接受缺血时间超过6 h的供心移植，现 将我们的心肌保护体会和患者术后近期情况报告如 下。
+资料与方法
+一、供、受者资料
+本组26例受者中，男性22例，女性4例，年龄
+中华器官移植杂志 2007 年 9 月第 28 卷第 9 期 Chin J Organ Transplant,September 2007, Vol 28,No. 9
+(43±12)岁(10〜69岁),体重(62±21)1^(23〜103 kg),其中扩张型心肌病19例，扩张型心肌病行瓣 膜置换术后2例,肥厚型心肌病1例,冠心病行冠状 动脉搭桥术后1例，冠状动脉支架放置术后1例，右 心房肿瘤2例。术前患者的心功能均为N级 (NYHA分级)，经内科保守治疗，效果较差,7例需 应用较大剂量的多巴胺和(或)多巴酚丁胺,3例术 前安装永久起搏器。术前超声心动图检查显示，左 心室舒张末期内径(LVEDD)为(76±13)mm(41〜 98 mm),左心室射血分数为(34±9)%(19 %〜69 %)，肺动脉压为(46 ± 14)mm Hg(20~78 mm Hg, 1 mm Hg = 0. 133 kPa)。
+本组均为尸体供者，其中男性25例，女性1例, 年龄21〜3()岁。1例卵圆孔未闭，予褥式垫片对缝 2针修补;1例冠状动脉开口异常;1例伴有脑瘤;其 余既往无心血管疾病或其它重要脏器疾病史。
+供、受者ABO血型相同,淋巴细胞毒交叉配合 试验或群体反应性抗体(PRA)阴性。供、受者体重 之差在30 %之内。
+二、供心保护方法
+快速显露心脏后，从上腔静脉远端注入肝素3 mg/kg0在阻断主动脉前，先剪开肺静脉和下腔静 脉,进行左、右心腔减压，然后从主动脉根部灌注4 °C改进的St. Thomas液500 ml,心脏表面用冰生理 盐水冲洗降温。仔细解剖，取下心脏,用大量冷生理 盐水漂洗干净后，再从主动脉根部顺行灌注4 °C UW液2000 ml,并置于UW液中保存。获取心脏 时需保留足够长度的上、下腔静脉，以便行双腔静脉 吻合。
+三、受者手术方法
+常规建立体外循环，经上腔静脉和下腔静脉插 直角引流管，升主动脉置灌注管,3例既往接受过心 脏手术者行股动、静脉插管。术前均留置Swan-Ganz 漂浮导管,24 例导管进入肺动脉者，通过其监 测肺动脉压力，计算肺血管阻力;2例导管不能进入 肺动脉者，心脏吻合结束后，由术者辅助将导管送入 肺动脉，用于术后测量肺动脉压力。本组均行双腔 静脉吻合法原位心脏移植术。
+四、术中及术后处理
+开放主动脉前给予甲泼尼龙500 mg。对于术 前肺动脉压升高者，体外循环开始前即给予硫前列 酮10〜30 mg・kgT 。19例患者术中和术后经 气管插管吸入一氧化氮，持续吸入24〜130 h,以降
+• 551 • 低肺动脉压。术后第1天行超声心动图和床边胸部 X光片检查,之后每周随访1次。
+术后采用环抱素A(CsA)、泼尼松(Pred)及霉酚 酸酯(MMF)预防排斥反应。根据血CsA浓度调整 CsA用量,维持血CsA浓度在().166〜().250 Mmol/L (0. 2〜().3 mg/L)0 泼尼松用量为 1 mg・kg7 »d-1,1 周后逐渐减量到1()mg/d,并维持此剂量。霉酚酸 酯用量为1.5 g/d,分3次口服。若发生急性排斥反 应,则采用甲泼尼龙冲击治疗。
+结 果
+本组供心热缺血不超过5 min,总缺血时间为 (401 ± 43)min(36()〜560 min) 0 术前 24 例的肺动 脉收缩压为(42 ± ll)mm Hg(2()〜58 mm Hg)。术 中均安置心外膜临时起搏导线，但未长期使用。呼 吸机支持时间为16~120 h。21例心脏自动复跳,5 例电击后复跳。本组26例全部存活，胸部X光片 均正常，术后1周,超声心动图检查提示26例的心 脏各腔室大小均在正常范围，肺动脉压力在正常范 围，左室射血分数正常。患者需重症监护时间平均 为7 d,隔离病房住院时间为2周，住院时间平均为 28 d,出院时受者心功能明显改善。
+1例术后不能脱离体外循环，表现为右心室收 缩无力，肺动脉压较术前明显增高，再次阻断主动脉 后，打开主动脉，发现左、右冠状动脉共1个开口，前 次手术吻合导致右冠状动脉扭曲，重新吻合后顺利 停止体外循环。1例术后出现心功能不全而不能停 用呼吸机，并出现肾功能异常，故行气管切开术及床 旁血液超滤。术后1个月，2例的心电图提示I度 房室传导阻滞，其余未见异常。1例心脏超声检查 提示心脏后方有中等量心包积液，未予处理。
+讨 论
+心肌保护的目的是保护供心心肌细胞的活力， 保证移植后心脏功能正常，应贯穿于心脏移植的整 个过程。供心的缺血(热缺血和冷缺血)及再灌注损 伤是造成术后心功能不全的主要原因，其中热缺血 的影响可能更大。研究表明，温度每升高10 °C，心 肌组织能量代谢增加1. 5〜2. 5倍。心脏保存温度维 持在3〜5 °C时，心肌组织代谢率只有常温时的 l/10Mo因此,在获取心脏时，要尽量缩短心脏的 热缺血时间,快速显露心脏，进行有效的左、右心腔 减压,从主动脉根部灌注冷的晶体停搏液，使心脏停
+• 552 •
+中华器官移植杂志 2007 年 9 月第 28 卷第 9 期 Chin J Organ Transplant,September 2()07, Vol 28,No. 9
+搏和降温。主动脉根部灌注停搏液时,应注意排气, 以防冠状动脉栓塞。同时在心脏表面放置大量冰 屑，让心脏内、外温度迅速降低,以减少心肌耗氧量。 供心取出后，立即置于含冰块的生理盐水中,使心脏 温度进一步降低，并洗净残留心腔的血液。灌洗供 心时，压力要均匀、适中。
+心肌保护液的选择也甚为重要，目前还没有十 分理想的心肌保护液。细胞内液型保护液的钾离子 浓度较高，过去认为这会对心肌和血管内皮细胞造 成一定的损伤，但大量的实验研究发现，细胞内液型 心肌保护液的效果优于细胞外液型。UW液是目前 比较理想的心肌保护液，其特点如下:（1）减轻低温 保存导致的心肌细胞水肿;（2）能抑制再灌注时对细 胞有毒性作用的氧化物的产生;（3）减少钠、钾离子 跨细胞膜移动，从而维持ATP的储备81。
+我们近年来采用的双腔静脉吻合法等手术技 术,可以更好地保护窦房结功能，保持完整的右房形 态及正常的血流动力学，从而减少术后心房纤颤、三 尖瓣返流、二尖瓣返流及心房血栓的发生。我们在 完成左心房、主动脉和下腔静脉吻合后，开放主动脉 阻断钳，缩短了主动脉阻断的时间，进一步缩短了心 肌缺血的时间。
+防止术后右心功能不全是移植成功的关键之 一。供心只能承受很低的肺动脉压力，长时间的心 肌缺血又加重术后右心功能损伤，故术后右心功能 衰竭更为多见。本组术前肺动脉压增高者,在建立 体外循环之前及体外循环期间,加用硝酸甘油、硫前 列酮和一氧化氮,并适当延长呼吸机辅助时间，以减 轻右心系统的负荷,减少右心功能衰竭的发生。
+虽然动物实验证实，采用目前的心肌保护方法 可使心肌耐受缺血时间达到8 h或更长，但临床对 于心肌所能耐受的缺血时间上限尚未达成共识，国 外文献认为心肌缺血时间一般不宜超过6 h。但随 着需要心脏移植患者的增多，供者来源不足的问题 更加突出。若供心缺血时间延长1 h,获取供心的 来源和范围也随之增加。本组26例的供心缺血时 间均超过6 h,术后近期受者全部存活，供心多能自 动复跳，也未明显增加血管活性药物的使用,患者均 康复出院。除1例术后心功能不全并发肾功能异 常，行气管切开及床边血液透析外,其余患者术后呼 吸支持时间、一氧化氮的使用时间、监护室滞留时间 以及住院时间等与供心缺血时间不超4 h者比较，
+均未见明显延长。本组结果提示，在采取良好的心 肌保护措施下，供心缺血时间达560 min时,也可获 得较满意的近期效果，但供心长时间的缺血对患者 远期心功能以及冠状动脉血管有何影响，还有待观 察。
+编后:本组26例供心因客观原因导致冷缺血时间即保 存时间超出公认的安全时限，需要强调的是,使用该类供心 只是为了充分利用有限的资源，系不得已而为之。此外，也 应考虑到供心本身质量以及供心热缺血时间对保存和移植 效果的影响。在本组临床取得初步成功的基础上，应进一步 进行实验研究，以证实延长供心保存时限的可能性。总之, 供心缺血时间越短心肌保护效果越好，这是不争的事实。我 们仍应主张即使在安全时限内也应尽量缩短供心的缺血时 间，以确保移植心功能正常。尽管存在各种各样的原因，临 床医师应综合考虑患者生命的风险，不宜追求长时间缺血供 心在人体的移植。应该指出的是，本研究中所采取的心肌保 护措施是心脏移植临床实践中的常规要求，并非特别针对长 时间缺血的心脏。
+参考文献
+[1]王春生，洪涛，赵强，等.11例原位心脏移植成功的初步经 验.中华心血管病杂志，2002, 3()⑴：43-46.
+[21 Boku N, Tanoue Y, Kajihara N, et al. A comparative study of cardiac preservation with Celsior of University of Wisconsin solution with or without prior administration of cardioplegia. J Heart Lung Transplant, 20()6,25(2) ：219-225.
+[3] Fernandez J, Aranda J, Mabbot D, et al. Overseas procurement of donor hearts： ischemic time effect on postoperative outcomes. Transplant Proc, 2001, 33(7-8) ：3803-3806.
+[41 Briganti EM, Bergin PJ, Rosenfeldt FL, et al. Successful long-term outcome with prolonged ischemic time cardiac allografts. J Heart Lung Transplant, 1995, 14(5) ：840-843.
+[5]	Stringham JC, Love RB, Welter D, et al. Impact of university of Wisconsin solution on clinical heart transplantation. A comparison with Stanford solution for extended preservation. Circulation, 1998, 98(19 Suppl) ： Si57-159.
+[6]	Okada K, Yamashita C. Okada M, et al. Successful 24-hour rabbit heart preservation by hypothermic continuous coronary microperfusion with oxygenated University of Wisconsin solution. Ann Thorac Surg, 1995, 60(6) ： 1723-1728.
+[7]	Shirakura R, Matsuda H, Nakano S, et al. Cardiac function and myocardial performance of 24-hour-preserved asphyxiated canine hearts. Ann Thorac Surg, 1992, 53(3):440-444.
+[8]	Menasche P, Pradier F, Grousset C, et al. Improved recovery of the heart transplantation with a specific kit of preservation solutions. J Thotac Cardio vase Surg, 1993, 105(2) . 253-263.
+[9]	Swanson DK, Pasaoglu I, Berkoff HA, et al. Improved heart preservation with UW preservation solution. J Heart Lung Transplant, 1988, 7(6) ：456-467.
+(收稿日期：20()6T)9-26)

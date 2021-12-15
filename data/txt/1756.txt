@@ -1,0 +1,105 @@
+﻿疾病监测与控制杂志 2009 年 6 月第 3 卷第 6 期 j di seasea monitor & control Jun, 2009. vol.3 No.6 321
+•基础研究・
+原位心脏移植术后早期的血流动力学实验研究
+刘志平I王亮？，朱宪明'，张玉龙'，王坚I李淑珍'， 赵龙I郭俊晓I任杰I高荣I邱能庸।
+（1.内蒙古医学院第一附属医院胸心外科，内蒙古呼和浩特 010059； 2.北京市结核病胸部肿瘤研究所，北京 101149）
+摘要：目的通过心脏移植的实验研究，比较双腔静脉法同种异体原位心脏移植术与全心脏移植法同种异体原位心脏移植术的出血量，移植后 心脏的早期血流动力学方面的不同。方法供、受体杂种犬16只，将实验动物分成双腔静脉心脏移植术组和全心脏移植术组，每组各8只，分别在 全麻、中度低温体外循环下进行手术。记录术中出血量，术后采用GE-vivid7型彩色多普勒超声诊断仪，心电监护仪观察血流动力学指标。结果5 例移植心脏自动复跳（双腔静脉心脏移植术组3例，全心脏移植法组2例），3例移植心脏通过电除颤复跳（双腔静脉心脏移植术组1例，全心脏移 植法组2例），双腔静脉法心脏移植与全心脏移植法出血量对比为（475±20.81ml vs 545±26. 45ml）,术后早期血流动力学参数两组均比较稳定。 结论提高手术技术，避免吻合口出血，加强心肌保护是心脏移植手术的关键，双腔静脉法心脏移植在出血量方面少于全心脏移植术，两组心脏移 植术后早期血流动力学方面无明显差异。
+关博词z心脏移植；血流动力学；术式
+中图分类号：	R 617 文献标识码： A 文章编号：1673-9388 （2009） 06-0321-04
+Experimental Research Of Early Hemodynamic Changes After Orthotopic Heart Transplantation liu zhi-pin g, WANG Liang? ZHU Xian-ming» et al. (Department of Cardiothoracic Surgery, Affiliated Hospital, Inner Mongolia Medical College, Huhhot 010050, China)
+Abstract t Objectives Through experimental study of canine heart transplanttation ,it was the comparison of blood loss and early hemodynamic changes after orthotopic homologous heart transplantation between bicaval orthotopic cardiac transplantation and total orthotopic cardiac transplantation. Methods Donor、receptor 16 hybrid dogs.Experimental animal were divided into 2 groups each group 8 dogs.Operations were performed on general anesthesia and moderately low temperature cardiopulmonary bypass. Respectively reported blood loss、postoperation hemodynamics parameters in were observed by GE-vivid7 color doppler ultrasonic diagnostic apparatus and ECG monitor. Results Spontaneous recovery of heart beat occurred in 5 cases (bicaval orthotopic cardiac transplantation group 3cases,total orthotopic cardiac transplantation. Group2 cases) and recovery of heart beat by defibrilltion in 3 cases (bicaval orthotopic cardiac transplantation group leases,total orthotopic cardiac transplantation. Group2 cases). Espectively blood loss(475±20.81 ml vs 545±26.45ml), postoperative early Hemodynamic parameters were relatively stable Respectively.ConcIusfon Gentle manipulation、reduce bleeding at anastomosis and improvement of myocardial protection are key to cardiac transplantation. Bicaval orthotopic cardiac transplantation is better than Total orthotopic cardiac transplantation in blood loss. There is not remarkable different in early hemodynamic changes after orthotopic homologous heart transplantation between bicaval orthotopic cardiac transplantation and total orthotopic cardiac transplantation
+Key words* cardiac transplantation； hemodynamics： operative methods
+心脏移植已被公认为是治疗各种终末期心脏 病最有效的方法之一。自1967年人类首例同种心 脏移植成功以来，全世界共完成了心脏移植7万余 例卬。随着移植技术的提高和其他相关学科的发展， 心脏移植疗效有了很大的提高，在发达国家已成为 常规手术，最长存活者达30余年。原位心脏移植 术用于临床已近40年，手术方式主要包括三种：（1） 标准原位心脏移植（standard orthotopic cardiac transplantation, SOCT）： 1960 年 Lower 和 Shumway⑵米用供体左房和右房后部与受体左、右房 分别吻合，供体和受体的主动脉，肺动脉分别吻合， 成功的完成了原位心脏移植的动物实验。随后，许 多外科医生沿用他们的方法完成了原位心脏移植 手术。由于这种方法操作相对简单，技术安全可靠, 移植后近期临床效果明显，被公认为原位心脏移植 的标准术式。但是，近年有资料研究表明，按标准 术式植入的心脏在解剖学和生理学上存在一些缺 点⑶，这种术式正面临着许多挑战。两种全新的术 式：双腔静脉原位心脏移植术和全心脏原位移植术 逐渐被各大移植中心所采用。（2）双腔静脉原位心 脏移植（bicaval orthotopic cardiac transpl antation, B0CT） ： Sarsam⑷提出保留右心房完整 性的心脏原位移植法，供体心脏的完整右心房、窦
+基金项目，内蒙古自治区卫生厅科研基金资助。编号：2006028
+作者倚介，刘志平（1967-〉，男，医学硕士，内蒙古医学院附属医 院胸心外科教授，硕士研究生导师。研究方向：胸心外科基础与临床。
+王亮：北京胸部肿瘤研究所在读博士。
+房结、上腔静脉近心段及下腔静脉开口完整保留。 术中将受体的右心房及窦房结一并切除，左心房、 主动脉、肺动脉的手术方法同标准的心脏移植术， 这种术式近年来也被用于临床⑸。（3）全心脏原位 移植术：（total orthotopic cardiac transplants tion, TOCT） 1991年，Reitz等⑹提出保留完整的 右心房和左心房的全心脏原位移植术。这种术式保 存了供体心房结构的完整性，左、右心房的大小和 几何形状不变，移植后的房间隔完整，三尖瓣和二 尖瓣不会因心房的过分牵拉而变形目前世界各 大心脏移植中心多采用后两种心脏移植手术方式。 我们通过心脏移植的实验研究，比较B0CT与TOCT 同种异体原位心脏移植术的出血量，移植心脏术后 早期血流动力学方面的差异。
+1材料与方法
+1.1实验动物 呼和浩特市郊杂种犬16只。体重 15〜20kg,性别无特定限制，供、受体体重适当进 行匹配，相差＜3kg。
+1. 2实验方法 将实验动物分成B0CT组和TOCT 组，每组各8只，进行手术。
+1. 2. 1双腔静脉原位心脏移植（B0CT）组（1）供、 受体分别气管插管+静脉复合全身麻醉。（2）供、 受体分别穿刺颈外静脉、梯动脉、心电监测各项生 命体征。（3）心脏供体的制备：供体快速横断胸骨 进胸，静脉肝素化3mg/kg,切开心包，游离上腔静 脉至奇静脉水平，游离下腔静脉至膈肌，套上、下
+322	疾病监测与控制杂志 2009 年 6 月第 3 卷第 6 期 j diseasea monitor & control Jun. 2009. vol.3 No.6
+阻断带，阻断升主动脉，在主动脉根部灌注4，C的 st. thomas冷停跳液500毫升，使心脏迅速停搏。 上腔静脉在奇静脉汇入处切断，在与膈肌交界处切 断下腔静脉。在近头臂动脉干起始处切断升主动 脉。在肺动脉分叉处切断肺动脉主干。其后依次切 断左侧2根肺静脉和右侧2根肺静脉，将供心取下 后依次装入装有4C冷生理盐水的塑料盆中，其后 塑料盆周围包绕覆盖冰屑保存，待受心组完成受心 切除后，修剪供心备用。同时回收供体血液到储血 瓶备用。（4）受体准备和受体心脏的切除：正中劈 胸骨，静脉肝素化3mg/kg,剪开心包，主动脉靠近 头臂动脉起始部插体外循环动脉灌注管或切开右 侧股动脉插体外循环动脉灌注管，上、下腔静脉尽 量向远端游离后套阻断带，插引流管。经右上肺静 脉开口插左房引流管，转机降温至30°C时，在靠近 主动脉瓣和肺动脉瓣环稍上方横断主动脉和肺动 脉，在远离右房处横断上、下腔静脉。沿左房室沟 切开左房壁，上方达左心耳根部，并将左心耳一并 切除，向右上绕行切除左心房顶部房壁。再沿此切 口延续剩余左房，将受体心脏取出后可见左心房呈 四方型口，4根肺静脉开口位于其中。（5）开始吻 合：左房：将供体心脏按正常位置放入受体心包 内，并以长轴方向向左，后方旋转，充分暴露后方 左房壁的外切缘。吻合开始于受体心脏左房切口的 左肺上静脉处，与供体心脏左心耳根部切缘相对 应。用6/0 prolene线，先缝下缘，后缝上缘，直 到绕左心房切口一圈为止，最后缝线两端在房间隔 中部相遇时结扎。上、下腔静脉：根据受体下腔静 脉和上腔静脉之间切除右房范围，裁剪供体的上腔 静脉和下腔静脉，必须保留较长的长度才能进行吻 合。裁剪过短会造成吻合时的困难。吻合时可以从 腔内后壁开始，用6/Oprolene线以连续缝合法进 行吻合，先向两侧，后转向前方，缝线的两端在前 壁中点结扎。主动脉吻合：无论是受体还是供体， 都保留有较长的主动脉。吻合主动脉时，首先是裁 剪成理想的长度，开始于受体及供体主动脉的左后 缘，从动脉腔内做吻合，缝至主动脉右侧壁时，缝 针自主动脉腔内穿出主动脉壁主动脉腔外，然后在 主动脉腔外以连续缝合法进行吻合，两端缝线缝至 主动脉前壁中央部时相互结扎。肺动脉吻合：肺动 脉吻合方法与主动脉相似，首先也是将受体及供体 肺动脉裁剪成合适的长度，方法与主动脉吻合相 同，吻合操作的方法也与主动脉相同⑷。
+1.2.2全心脏原位移植术（TOCT）组 （1）供， 受体分别气管插管+静脉复合全身麻醉。（2）供， 受体分别穿颈外静脉、槎动脉，心电监测各项生命 体征。（3）心脏供体的制备：同双腔静脉组。（4） 受体的制备：建立体外循环时，主动脉插管按常规 方法施行，而上腔静脉插管必须经上腔静脉本身插 入，下腔静脉插管必须紧靠膈肌处的下腔静脉插 入。先按常规方法切除心脏，再游离左房、右房、 上腔静脉及下腔静脉的后方，自上、下腔静脉心房
+的入口处切断，切除右房及左房，但保留右肺上、 下静脉在一个袖状的切口内，左肺上、下静脉在另 一个袖状切口内。（5）开始吻合：上、下腔静脉， 主动脉，肺动脉吻合同双腔静脉组。左肺静脉组的 吻合：供体的左肺上、下静脉已被裁剪成一椭圆形 孔，将与受体左肺上、下静脉保留的袖状切口相吻 合，使用6/0prolene缝合线，从袖状切口的内上 方开始，以连续缝合法作吻合。缝线的两端在左前 方中点相互结扎。右肺静脉组的吻合：吻合的方法. 操作及注意事项与左肺静脉组吻合完全相同⑺。
+1. 2. 3记录两组手术中出血量。
+1. 2. 4术后用美国产GE-vivid7型彩色多普勒超声 诊断仪观察血流动力学指标 （1）采用二维超声 心动图观察心脏各标准切面，测量各房室内径，主 动脉内径（aortic dimension, AoD）,重点观察供、 受心连接吻合口处。观察室壁的运动情况。（2）应 用M型超声计算射血分数（Ejeetionfraetion, EF）,每搏输出量（stroke volume, SV ）,评价左 心功能。（3）应用脉冲多普勒频谱测量E、A峰值 流速，评价心脏舒张功能。（4）应用彩色多普勒观 察主动脉瓣，肺动脉瓣，三尖瓣，二尖瓣返流情况。
+（5）监测ECG、心率（Heart rate, HR）等数据⑻。
+检查于术后立刻开始，每次由同一操作者检 查，避免主观误差。以连续测量5个心动周期的平 均值作为最后的检测数据。
+1. 2. 5统计学分析 采用SPSS 13. 0统计学软件包 处理数据，分别比较两组实验结果各指标，采用两 个独立样本t检验,以PV0. 05为差异有统计学意义。
+2实验结果	，
+5例移植心脏自动复跳（B6£t组3例，TOCT组 2例）,3例移植心脏通过电除颤食跳（B0CT组1例, TOCT 组 2 例）。
+2. 1出血量 B0CT组出血量（475±20. 81ml ）与 TOCT 组出血量（545±26. 45ml）。两组比较 P<0. 01, 差异有统计学意义，见表1。
+表1 BOCT组与TOCT组出血量		
+BOCT (ml)		TOCT (ml)
+例1	500	580
+例2	450	550
+例3	470	530
+例4	480	520
+2. 2血流动力学结果术后早期血流动力学参数两 组均比较稳定，BOCT组与TOCT组各项指标之间P >0. 05,差异均无统计学意义，见表2。
+3讨论
+3.1	出血量由于原位心脏移植手术操作的复杂 性，我们实验两组均出血较多。原因如下：犬的心 房壁及上、下腔静脉壁非常薄，韧性差，易撕裂， 与文献报道一致⑶。实验前两只动物均因为出血而 死亡。在后边的手术中我们采用了 6〜0 prolene
+疾病监测与控制杂志 2009 年 6 月第 3 卷第 6 期 i diseasea monitor & control Jun. 2009. vol.3 No.6 323
+表2 BOCT组与TOCT组手术时后心脏超声指标（I土 s）
+	B0CT	T0CT
+HR (次/min)	177. 50 ±6. 45	170.00 ±4. 08
+LAd (mm)	21.25+0. 95	22. 75 ±0.95
+RAd (mm)	23.00±l. 15	23. 25±1.25
+RVd (mm)	21.00+1.41	20. 00±0.81
+LVd (mm)	21.25±1.70	20. 25±1.25
+AoD (mm)	18. 00±0.81	20. 25 ±0.95
+IVS (mm)	6. 25 ±0. 95	6. 00±0.81
+LVPW (mm)	7.25±0. 50	7.75±0. 95
+EF%	68. 50 ±5. 32	65.80 ±4. 35
+SV (ml)	14.42±0.45	14.97 ±0. 27
+ME (cm/s)	5L50±3.40	51.75 + 3.86
+MA (cm/s)	36. 50±3.41	37. 75±2.98
+注：HR：心率；LAd：左心房内径；RAd：右心房内径；RVd：右心室内 径；LVd：左心室内径；AoD：主动脉内径；IVS：室间隔；LVPW ：左 心室后壁；EF：射血分数；SV ：每搏输出量；ME ：二尖E瓣峰值； MA：二尖瓣A值峰。
+线吻合,保持针距在1. 5mm~2.0mm,边距5. 0mm,同 时特别注意操作要轻柔，按针的弧度进出针，不过 度牵拉缝线，以防切割撕裂。受供体因年龄及个体 差异，主、肺动脉壁的厚度不一，口径不完全匹配, 给吻合造成一定的难度，易导致吻合口出血或扭 曲。因此，在行主、肺动脉吻合时，壁薄的一端进 针的边距适当要大一点，每针之间的距离大口径动 脉端要略大于小口径端，使缝线均匀、严密、确实、 牢固。另外，对主动脉外膜脂肪不要修剪切除过多, 一旦出血时可以缝合外膜压迫止血。经按以上方法 改进处理，使出血问题得到了有效的解决。由于 T0CT在手术操作上较B0CT多了 一个吻合口，手术 时间较长，出血量多于B0CT。
+3.2	左心房两种术式最主要是区别在于左心房 的吻合有文献报道，标准原位心脏移植 CSQCT）移植后的心房是由受体和供体共同组成， 故两个心房腔较正常明显扩大，供受体心房吻合 缘形成一道堤状隆起凸入心房腔内。心房内血液易 形成涡流，很容易形成血栓。由于双腔静脉原位心 脏移植（B0CT）同样是房-房吻合（左房），也存在 心房腔过大，吻合口容易形成堤状隆起，易形成血 栓等问题。本实验重点观察移植心脏后的左心房, 二维超声下观察B0CT和T0CT的心脏未见此表现。 考虑可能由于术后观察时间较短所致。
+3.3	心功能在M型超声下测量左室舒张末期内径 及收缩末期内径，用辛普森法计算左室射血分数
+（EF值），从评价心脏的收缩功能。我们观察到实 验动物EF值在心脏移植术后的监测过程中均变化 不明显。有文献报道：排斥反应所导致的心肌损害、 室壁增厚、心包积液、心房压的改变以及心脏移植 性血管病可引起心脏收缩及舒张功能的异常而引 起血流动力学变化。我们实验4例动物心脏移植术 后早期左室均呈高收缩性，与文献报道一致。其机 制可能为无神经支配的移植心脏的B受体数量和亲 和力增加所致
+3.4	房室瓣返流术后早期两组实验均未出现明显 的房室瓣返流。原因可能为：（1）两种术式都较好 的保留了心房完整性和心房的容积而避免了血液
+涡流和房室瓣返流的发生回。（2）考虑可能由于术 后观察时间较短所致。移植心脏出现房室瓣返流的 主要原因为：受体心房残留越多，与供体心房比值 越大，因电生理活动不同步和机械运动的不同步， 两者之间的扭曲也越大，从而影响房室瓣环运动。
+3. 5心肌肿胀 我们实验中共有2只动物在手术中 死亡（未包括实验结果内），我们分析原因可能为 心肌肿胀所致。移植吻合过程中我们发现左心室膨 胀，张力很高,被迫停止灌注心肌保护液，检查二 尖瓣口关闭严密。其原因可能是操作过程中致使主 动脉瓣关闭不全，心肌停搏液直接流入左心室。术 中尽量保持主动脉瓣在正常位置状态，另外要保持 二尖瓣口开放，可将左房引法管深插入左心室，保 持通畅的引流，可预防左心室膨胀，进而防止心内 膜下心肌缺血和坏死。心肌保护不良也是实验发现 的一个重要问题，从剖开的心室肌断面肉眼可见有 的心室壁增厚、苍白、水肿、体积和重量增加。我 们在建立确切的心肌保护系统时费时较多，建立冠 状静脉窦逆灌时要选择最小号的灌注管，冠状静脉 窦口周围的荷包线缝扎实，保证不脱出。灌注标准 的托马氏液,不要随意改变成分，确保渗透压、pH 值在合理的范围内。供心的保护关系到心脏移植手 术的成败，在提取供心时，先进行气管插管和辅助 呼吸，维持心脏的血液循环和氧供，避免和缩短供 心的缺血时间。供心的心肌保护是否良好关键在于 心脏的快速停跳和可靠的降温。
+4结论
+心脏移植已被公认为是治疗各种终末期心脏 病最有效的方法之一，但对于B0CT和T0CT两种术 式，哪种术式的血流动力学更完善，心功能更好， 对患者的长期生存更有益，目前尚无定论。我们实 验研究表明：提高手术技术，避免吻合口出血，加 强心肌保护是心脏移植手术的关键。两组动物都获 得短期存活。B0CT在出血量方面少于T0CT,两组 心脏移植术后早期血流动力学方面无明显差异。但 对于长期存活，还需进一步实验研究和临床观察。 我们认为应在保证手术操作顺利完成的基础上，尽 量保留心房解剖和功能上完整性.因研究例数尚 少，部分指标的变化趋势不明显，有待进一步对大 样本，移植后长期生存犬的观察。
+参考文献
+[1]王春生.中国大陆心脏移植的现状与进展[J].继续医学教育,2007, 21 （11）:6 〜9.
+[2]朱晓东.心脏外科指南[M].第1版.北京：世界图书出版公司，1990, 620.
+[3] Schnoor M.Schafer T,Luhmann D,et al.Bicaval versus standard techniq ue in orthotopic heart transplantation: a systematic review and meta-an alysis[J].Thorac Cardiovasc Surg,2007,Nov 137（5）: 1322^ 1331
+[4]廖崇先.实用心肺移植学[M].第1版.福建：福建科学技术出版， 2003,145.
+[5] Tsilimingas NB.Modification of bicaval anastomosis: an alternative tec hnique for orthotopic cardiac transplantation [J], Ann Thorac Surg,2OO3, 75（4）: 1333〜1334.
+[6] Aleksic I,Freimark D,Blanche C,et al.Does total orthotopic heart transp
+324 疾病监测与控制杂志 2009 年 6 月第 3 卷第 6 期 j diseasea monitor & control Jun. 2009. vol.3 No.6
+lantation offer improved hemodynamics during cellular events [JJ.Tran splant Proc,2003,35(4):1532〜1535.
+[7]域旺福.可供选择的心脏移植术式一全心脏原位移植术[J].中华 器官移植杂志，1998, 19(2): 127-128.
+[8]谷笑蓉,卢中秋,倪显达,等.原位心脏移植术后多普勒超声心动图 的动态监测[J].中国超声诊断杂志,2005,6 (3): 167-169.
+[9]马胜军，马增山，董铭锋,等.10例犬心脏移植实验手术技巧体会 [J].实用心脑肺血管病杂志,2003,11(6):321-322.
+[10] Morgan JA,Adwards NM.Orthotopic cardiac transplantation: comparis on of outcome using biatrial, bicaval.and total techniques]J].Card Sur g, 2005,20(1):102〜106.
+[11] Angerman CE.Spes CH.Tammen A,etal.Anatomic charateristics and valvular function of the tansplanted heart: Transthoracic versus transe sophageal echocar-diographic findings [J]. Heart Tansplant, 1990,9:331 〜338.
+[12]钟玲，陈良龙，陈道中，等.超声心动图对移植心脏的动态观察[J]. 中华超声影像学杂志,2004, 13(3):176-178.
+[13] Koch A,Remppis A,Dengler TJ,et al.Influence of different implantat ion techniques on AV valve competence after orthotopic heart trans plantation] J] .Eur Cardiothorac Surg,2006»Apr29(4):634〜635.
+[收稿日期：2009-02-11]
+金属螯合亲和介质吸附重组类人胶原蛋白条件研究
+王晓军'，范代娣2
+(1.西安工程科技学院环化学院，陕西西安 710048； 2.西北大学化工学院，陕西西安 710062)
+摘要，本研究对利用金属螯合亲和方法纯化重组类人胶原蛋白的吸附条件进行了优化。采用分批式操作对金属离子、平衡缓冲液的类型、pH值、 离子强度及上样量进行了选择，结果显示当采用Cu离子进行螯合，pH7.5、含0. 5 mol - L-Wl的磷酸盐缓冲液作为平衡缓冲液，上样量为1. 5ml/ml 介质时，吸附效果最佳。
+关健词，金属整合亲和；重组类人胶原蛋白；吸附条件
+中国分类号，R 318.08	文就标织码,A	文章・号* 1673-9388 (2009) 06-0324-02
+Study On Metal-Chelated Affinity Adsorption Conditions For Ecombinant Human-Like Collagen wang Xiao>jun 巴 FAN Dai-di^l.Department of Chemical Engineering, Northwest University, Xian 710069, China； 2.Department of Environmental and Chemical Engineering, Xi,an University of Engineer Science & Technology, Xi'an 710048, China)
+Abstracts Recombinant human-like collagen with a hexahistidine tail attacked to the carboxyl end could be purified by Metal-chelated affinity adsorption. To choose the best adorption conditions, the metal ion, equilibrate buffer, pH, ionic strength and the volume of sample were optimized by using the batch chromatography. The results were that Cu2+ as the metal ion, 20mM Na-phosphate buffer pH 7.5 containing 0.75M NaCl as the equilibrate buffer and 1.6ml sample per millilitre matrix.
+Key words। Metal-chelated affinity； Recombinant human-like collagen； Adsorption condition
+金属螯合亲和吸附是利用蛋白质分子表面的 组氨酸咪唾基、半胱氨酸疏基和色氨酸口引跺环能与 铜、锌、银等离子间形成稳定的螯合而对蛋白质加 以分离的。该技术具有简便、快速、专一和高效等 特点，已应用于生命科学的各个领域川。目前国内 所采用的胶原蛋白制备方法多为动物组织提取或 人胎盘中提取⑵。本实验室用基因工程技术对人源 性胶原水溶性、免疫排异性、稳定性等特性进行了 改进，并在竣基端加了 6个组氨酸，之后重组并转 化于大肠杆菌内，该基因工程菌经高密度发酵后应 用金属螯合亲和技术纯化。本研究主要采用分批式 操作对金属螯合亲和过程中的吸附条件进行优化。
+1材料与方法
+1.1	材料
+1.1.1试剂和仪器 所用试剂均为国产分析纯。超 声破碎仪（JY98-III宁波新芝仪器研究所）、超滤 系统（美国Pall公司）、亲和层析柱（1.2X12cm）。 1.1.2实验材料 基因工程菌E.coli BL21 3.7 his,质粒pRC-NWCP （卡那抗性，温度诱导）由本 实验室构建并保存。该工程菌经高密度发酵后 5000r , min-1离心30min收集菌体。
+1.2	方法
+1.2.1类人胶原蛋白的分离 以质液比1:6将菌体 悬浮于细胞破碎缓冲液（lmmol • L-1 EDTA、 5mmol • L''Tris）,用超声破碎仪（1500w）间断超 声10次（每次90秒）。破碎液于4°C、5000r ・minT
+离心lh,收集上清液。上清液用硫酸铉分级沉淀， 收取15%〜65%饱和度的蛋白沉淀溶于 20mmol • L-1 Tris-HCl （pH8.0）的缓冲液，用截留 分子量为30ku的超滤膜包脱盐、浓缩。
+1.2. 2金属螯合亲和吸附
+1.2. 2.1螯合离子的选择 在五份各10曲已偶联了 亚氨基二乙酸（IDA）的介质中各分次加入50mL 50mmol , L_1 的 ZnC。、CuSO”、C0CI2、CaCh、NiS（h 溶液螯合lh,均加入pH7. 0磷酸氢二钠-磷酸二氢 钠缓冲液平衡，将已超滤的样品上样，取上清测定 总蛋白浓度和胶原蛋白的浓度。
+1. 2. 2. 2平衡缓冲体系及pH的确定 在各10mL螯 合了金属离子的介质中分别加入pH为6.0、6.5、 7. 0、7. 5、8. 0的磷酸氢二钠-柠檬酸缓冲液及pH 为6. 0、6. 5、7. 0、7. 5、8. 0的磷酸氢二钠-磷酸 二氢钠缓冲液100矶平衡，将已超滤的样品上样， 取上清测定总蛋白浓度和胶原蛋白的浓度。
+1.2. 2. 3平衡体系离子强度的确定 在各10mL螯合 了金属离子的介质中分别加入NaCl浓度为0,0. 25、 0.5、0.75、1.0 mol •!?的平衡缓冲液平衡,将已 超滤的样品上样，取上清测定总蛋白浓度和胶原蛋 白的浓度。
+1.2. 2. 4上样量的确定 在各10mL螯合了金属离子 且用平衡缓冲液平衡好的介质中将样品各加入5、 10、15、20mL吸附，取上清测定总蛋白浓度和胶原 蛋白的浓度。
+1.2.3鉴定方法 总蛋白定量采用Bradford法⑶；

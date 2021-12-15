@@ -1,0 +1,143 @@
+﻿第11卷 第6期 2020年11月
+器官移植
+Organ Transplantation
+Vol. 11 No.6
+Nov. 2020
+•捐献之窗•
+基于器官捐献视角论我国脑死亡标准的立法
+李小杉 胡春晓 杨雅君 钱共甸 陈静瑜
+【摘要】 近年来我国器官捐献事业快速发展，然而我国尚未对脑死亡标准进行立法确认。本文介绍了国内 外脑死亡标准立法现状和我国现阶段公民逝世后器官捐献实行的死亡判定标准，从器官捐献视角探讨了我国进行 脑死亡标准立法的必要性，并基于实际国情对脑死亡标准立法的形式和内容提出了建议，旨在为开展脑死亡标准 立法工作提供参考。
+【关键词】 脑死亡；心脏死亡；脑死亡标准；脑死亡器官捐献；心脏死亡器官捐献；脑-心双死亡器官捐献; 器官移植；立法
+【中图分类号】R617，D901【文献标志码】A	【文章编号】1674-7445（2020）06-0014-07
+Discussion on legislation of brain death criteria in China from the perspective of organ donation Li Xiaoshan*, Hu Chunxiao, Yang Yajun, Qian Gongtao, Chen Jingyu. *Organ Donation and Transplant Management Office, Wuxi People's Hospital Affiliated to Nanjing Medical University, Wuxi 214023, China
+Corresponding authors: Chen Jingyu, Email: chenjy@wuxiph.com
+Qian Gongtao, Email: qiangongtao@sina.com
+【Abstract 】 In recent years, organ donation has developed rapidly in China, whereas the brain death criteria have not been confirmed by relevant legislation- In this article, the current legislation situation of brain death criteria at home and abroad, and the current criteria for determination of death for organ donation after citizen's death in China were introduced-The necessity of legislation of brain death criteria in China was discussed from the perspective of organ donation, and suggestions on the form and content of brain death criteria legislation were proposed based on the actual national conditions, aiming to provide reference for the legislation of brain death criteria-
+【Key words] Brain death; Cardiac death; Brain death criteria; Donation after brain death; Donation after cardiac death; Donation after brain death followed by cardiac death; Organ transplantation; Legislation
+自2015年以来，我国实现了公民逝世后器官捐 献的转型，器官捐献事业也得到了快速发展。我国现 阶段公民逝世后器官捐献临床操作实行的是3类死亡 判定标准，即脑死亡器官捐献，心脏死亡器官捐献和 脑-心双死亡器官捐献［1］。但目前我国尚未对脑死亡
+标准进行立法确认，因此在公民逝世后器官捐献过程 中存在诸多法律风险，严重影响了捐献器官的质量和 利用效率。本文从器官捐献视角探讨了我国进行脑死 亡标准立法的必要性，并基于实际国情对脑死亡标准 立法的形式和内容提出了建议，旨在为开展脑死亡标
+DOI: 10-3969/j-issn-1674-7445-2020-06-014
+基金项目：中国人体器官捐献专项研究课题（CODMP2017016）
+作者单位：214023江苏无锡，南京医科大学附属无锡人民医院器官捐献与移植管理办公室（李小杉、胡春晓、钱共匐），肺移植中心 （陈静瑜）；江苏云崖律师事务所（杨雅君）
+作者简介：李小杉，男，1987年生，博士，助理研究员，研究方向为器官捐献与器官移植质量管理，Email： sclxs87@163.com
+通信作者：陈静瑜，男，1963年生，主任医师，研究方向为肺移植，Email： chenjy@wuxiph.com;钱共匐，男，1983年生，器官捐献 与移植管理办公室主任，研究方向为器官捐献与器官移植质量管理，Email： qiangongtao@sina-com
+・738・
+器官移植
+第11卷
+准立法工作提供参考。
+1	国内外脑死亡标准立法现状
+20世纪60年代以前，心脏死亡一直为宣告死亡 的通用标准，即将人体心脏停搏和呼吸停止作为判 定死亡的标准［2］。但随着医学的进步，许多出现心脏 停搏和呼吸停止的危重患者可通过心肺复苏来恢复 全身循环；甚至随着体外循环技术的出现，患者可在 体外循环或体外膜肺氧合（extracorporeal membrane oxygenation, ECMO）等体外生命支持技术的辅助下 长时间维持生命体征［3］。因此，心脏死亡标准的固 有缺陷逐渐显现出来。自1959年法国神经内科学家 Wertheimer等首次提出脑死亡的概念后，经过近半个 世纪的发展，脑死亡已成为公认的死亡判定标准［4］。
+在死亡判定过程中，脑死亡标准的法律地位主要 表现为3种形式：（1）直接以法律形式承认脑死亡 是宣布死亡的依据，如芬兰、美国、法国、阿根廷、 澳大利亚、意大利、西班牙、日本和丹麦等国家； （2）虽然没有正式制定脑死亡相关法律，但承认脑 死亡是宣布死亡的依据，临床上也以脑死亡作为死亡 的最终依据，如捷克、爱尔兰、新西兰、韩国和泰国 等国家；（3）法律上未承认脑死亡是宣布死亡的依据， 但医学上承认脑死亡，如中国。
+目前，我国司法实践中采用的死亡标准仍为传统 的心脏死亡标准，脑死亡标准尚未被法律确认。但我 国医学专家关于脑死亡标准立法的理论研究与临床实 践探索从未停止，这为推进我国脑死亡标准立法起到 了重要作用。在我国医学界，脑死亡标准已被普遍接 受并广泛应用，说明我国已具备脑死亡标准立法的医 学专业基础。近年来，我国诸多学者呼吁对脑死亡标 准进行立法确认［5］，这引起了社会的广泛关注。
+2	我国公民逝世后器官捐献死亡判定 标准
+我国现阶段公民逝世后器官捐献的临床操作实行 的是3类死亡判定标准，即脑死亡器官捐献，心脏死 亡器官捐献和脑-心双死亡器官捐献［1］。脑死亡器官 捐献是指潜在供者经医学评估达到脑死亡标准，且家 属认可脑死亡作为死亡判定标准后进行的器官捐献行 为；获取器官时，供者已被判定为脑死亡，但心脏并 未停搏。心脏死亡器官捐献是指潜在供者经医学评估
+未达到脑死亡标准，但其具有不可逆脑损伤，已无继 续治疗的意义，在家属同意放弃治疗的前提下撤除生 命支持措施，经医学评估达到心脏死亡标准后进行的 器官捐献行为；摘取器官时，供者心脏已不可逆性停 搏，并随即（数分钟之内）达到脑死亡状态。脑-心 双死亡器官捐献是指潜在供者经医学评估达到脑死亡 标准，但家属不认可脑死亡作为死亡判定标准，在家 属同意放弃治疗的前提下撤除生命支持措施，经医学 评估达到心脏死亡标准后再进行的器官捐献行为；其 特点为摘取器官时，供者脑、心脏均已死亡［6］。
+3	器官捐献视角下我国脑死亡标准 立法的必要性
+3.1	基于合规摘取脑死亡个体器官存在的法律困境
+合规即是完全遵照供者生前意愿或其近亲属意愿， 根据我国现阶段实行的公民器官捐献流程获取人体器 官。心脏死亡和脑-心双死亡器官捐献时，供者均已 达到心脏死亡状态，因此与我国现行司法实践中认定 的死亡判定标准相一致，其获取器官的行为并不存在 法律风险。但如何认定从脑死亡个体体内摘取器官行 为的法律性质，目前仍存在较大争议。脑死亡个体被 摘取器官时尚未达到心脏死亡状态，若采用我国司法 实践中认定的心脏死亡标准，那么从法律角度该个体 应该被认为是“存活”的，从活人体内摘取器官并导 致其死亡是严重的犯罪行为，应该受到《中华人民共 和国刑法》的处罚。但从犯罪的主观方面而言，该种 行为并不具备构成犯罪的故意或过失的主观意愿和心 理状态。在国内外的司法实践中也尚未有将此类行为 认定为犯罪的案例报道。因此，对于脑死亡器官捐献 这种涉及人体生命健康的重大行为在法律层面实则处 于一种模棱两可的状态，这不仅不利于维护法律的庄 严性，也不利于器官移植事业的发展。因此，从法律 层面确定脑死亡为死亡的判定标准有利于破解这种尴 尬的法律困境，使得合规摘取脑死亡供者器官具备坚 实的法律基础［7-8］。
+3.2	基于违规摘取人体器官行为定罪的法律困境
+违规即违背供者生前意愿或其近亲属意愿摘取人 体器官。《中华人民共和国刑法》第234条之一关于 “组织出卖人体器官罪”规定，“违背本人生前意愿 摘取其尸体器官，或者本人生前未表示同意，违反国 家规定，违背其近亲属意愿摘取其尸体器官的按‘盗 窃、侮辱、故意毁坏尸体、尸骨、骨灰罪’处三年以
+第6期
+李小杉等．基于器官捐献视角论我国脑死亡标准的立法
+・739・
+下有期徒刑、拘役或者管制；若未经本人同意摘取其 器官，或者摘取不满十八周岁的人的器官，则按照‘故 意伤害罪’或‘故意杀人罪’定罪。”由此可见违规 摘取器官的焦点在于受害者是否已经死亡。
+我国司法实践过程中目前仍以“心脏死亡”为宣 布个体死亡的依据。因此，违规摘取心脏死亡或脑-心 双死亡个体的器官应按照“盗窃、侮辱、故意毁坏尸 体、尸骨、骨灰罪”定罪。但对于违规摘取脑死亡（尚 未达到心脏死亡）个体器官行为的定罪则存在一定困 境。若采用我国司法界目前认定的心脏死亡标准，此 时受害者应被视为具有生命的个体，则需按照“故意 伤害罪”或“故意杀人罪”定罪。但这种定罪方式显 然与“故意伤害罪”或“故意杀人罪”的危害程度不 相适应，有悖于《中华人民共和国刑法》第5条“罪 责刑相适应”规定的“刑罚的轻重，应当与犯罪分子 所犯罪行和承担的刑事责任相适应”。反之，如果采 用脑死亡标准，此时受害者被视为尸体，可按照“盗 窃、侮辱、故意毁坏尸体、尸骨、骨灰罪”定罪，显 然更为合理。但鉴于我国法律目前并未承认脑死亡为 个体死亡的判定标准，因此在针对此类案件量刑定罪 时面临着无据可依的困境。因此，从法律层面确定脑 死亡为死亡的判定标准有利于对违规摘取人体器官的 行为进行合理定罪。
+3.3	基于工伤类器官捐献过程中面临的法律困境
+工伤致死者在器官捐献案例中占有较高比例，该 类捐献案例往往涉及赔偿问题［9］。在一起器官捐献案 例中，患者由于突发脑出血于发病当日被医学诊断为 脑死亡，出于继续抢救已无意义的客观事实和节约医 疗费用的考虑，家属同意放弃治疗，并进行了脑死亡 器官捐献。但该案例在后续工伤赔偿中引发了较大的 法律争议。原单位认为死者虽然病情严重，但还未达 到法律层面的死亡，恰恰是家属放弃治疗并进行的脑 死亡器官捐献直接导致了患者的死亡，因此单位可不 予赔偿或只愿意给予象征性的慰问金补助。该案中， 家属放弃治疗是基于脑死亡的事实而作出的决定，因 此争议焦点主要在于脑死亡是否为有效的死亡判定标 准。如果从法律层面确定脑死亡为死亡的判定标准， 则本案就不存在争议。该案引发的后续效应即是诸 多工伤致死器官捐献者家属为了避免不必要的赔偿纠 纷，往往会继续延长无效抢救治疗时间，从而错过了 最佳捐献时机，导致捐献失败。因此，从法律层面确 定脑死亡为死亡的判定标准有利于避免在工伤类器官
+捐献过程中出现赔偿纠纷，从而促进器官捐献事业的 发展。
+4	器官捐献视角下我国脑死亡标准 立法的具体构建
+立法形式和内容是我国脑死亡标准立法构建中 需要重点考虑的两个方面。合理的脑死亡标准立法形 式应妥善处理脑死亡标准立法和器官移植法律之间的 关系、脑死亡标准和心脏死亡标准之间的关系，并符 合我国立法的一般途径；而脑死亡标准立法内容应 对死亡的概念、脑死亡的判定标准和程序进行明确的 界定。
+4.1	对我国脑死亡标准立法形式的建议
+4.1.1 脑死亡标准立法与器官移植法律的关系 全球范 围内，脑死亡标准立法与器官移植法律之间的关系不 尽相同，主要有器官移植法律之内和之外的脑死亡标 准立法两种形式。英国《人体组织法》和美国《统一 遗体捐献法》中均涉及了脑死亡的判定，但未在法律 中对其进行详细的解释，是属于器官移植法律之外的 脑死亡标准立法。而罗马尼亚《人类组织与器官摘取 与移植法》明确规定，只有医学上确认为脑死亡后才 能摘取器官，并在附录中明确了具体的脑死亡判定标 准，则属于器官移植法律之内的脑死亡标准立法。相 比于器官移植法律之内的脑死亡标准立法，器官移植 法律之外的脑死亡标准立法可能更符合我国当前国 情。首先，脑死亡标准立法除了有利于增加器官移植 中的有效器官以外，还对判断何时可以撤除呼吸机 等生命支持系统、节省医疗资源具有重要意义，若仅 将脑死亡标准立法置于器官移植法律之内，并不能全 面有效地发挥它的其他功能。另外，器官移植法律之 内的脑死亡标准立法难免会让人们产生“器官捐献者 相较于一般患者有可能被特殊对待或不合理对待”的 感觉，甚至会产生“医生为了获得有效器官而提前宣 布患者死亡”的误解。由此可能会对器官捐献和脑死 亡产生一定的抵触心理，反而不利于器官捐献事业的 发展［10］。
+4.1.2 脑死亡标准与心脏死亡标准的关系 目前关于死 亡的判定标准，主要有一元标准及等效二元标准2种 立法形式。一元标准是指以脑死亡或心脏死亡的其中 1种作为判定死亡的唯一标准。瑞典在《关于人死亡 判定标准的法律》中规定，“脑的全部机能不可逆地 完全丧失时为人体死亡”，即采用的一元标准中的脑
+・740・
+器官移植
+第11卷
+死亡标准。而我国司法实践中目前则采用的一元标准 中的心脏死亡标准。等效二元标准是指将心脏死亡和 脑死亡并列作为判定死亡的标准，两者具有同等的法 律效力。如美国《统一的死亡判定法案》中规定，“血 液循环与呼吸机能不可逆性停止，或者包括脑干在内 的全脑机能不可逆性丧失时，可宣布死亡。”鉴于我 国当前具体国情，有学者认为可能采用等效二元标准 立法较为合适［11］。因为心脏死亡标准在我国一直被 使用，在公众的观念中已经根深蒂固［12］，特别是在 广大农村及少数民族地区，心脏死亡仍然是医学上判 定死亡的有效标准。等效二元标准立法形式充分考虑 了民意基础，容易被公众所接受，有利于法律的实施。 同时，等效二元标准立法形式可以给大众以适当的选 择余地，较为符合脑死亡标准立法的本质，即脑死亡 标准立法并不是强制人们接受脑死亡判定标准，也不 是强制脑死亡患者捐献自己的遗体或器官，而是体现 公众对死亡具有自己的决定权［13］。我国当前器官移 植领域提出的具有中国特色的公民逝世后器官捐献死 亡判定标准，同时承认并使用国际标准化脑死亡器官 捐献、国际标准化心脏死亡器官捐献和中国过渡时期 脑-心双死亡器官捐献3种类型的死亡判定标准，其 实质完全符合等效二元标准立法论的观点［6］。但该标 准也存在一定缺陷：从生理角度而言，一般情况下脑 死亡和心脏死亡都不是同时达到，因此等效二元标准 会使个体的死亡处于不确定的状态，可导致一个人在 某一时刻既是死的，又是活着的，如此一来，发生争 议时则使人无所适从。
+鉴于一元标准和等效二元标准的缺陷，有学者又 提出了相互补充的二元标准［14］，即脑死亡和心脏死 亡中任何一种首先出现则以此为判定死亡的标准。就 生理过程而言，无非可将死亡分为2种情形：即首先 出现不可逆性呼吸停止和心脏停搏，然后达到脑死亡 状态；或是先达到脑死亡状态，再出现呼吸停止和心 脏停搏。从器官捐献角度而言，相互补充的二元标准 可最大限度缩短器官受损时间，提高捐献成功率和器 官利用率。
+4.1.3 我国脑死亡标准立法途径 我国《中华人民共和 国立法法》提供了多种立法途径，包括制定法律、行 政法规、地方性法规、自治条例、单行条例、国务院 部门规章和地方政府规章。全国人民代表大会有权制 定和修改刑事、民事、国家机构和其他的基本法律， 而有关死亡和器官移植的问题又属于民事基本制度范
+畴，因此可由全国人民代表大会对脑死亡标准进行专 项立法。若由全国人民代表大会常务委员会进行脑死 亡标准立法，可通过《中华人民共和国刑法修正案》， 对即将生效的《中华人民共和国民法典》做进一步的 司法解释，或印发指导性案例等方式，进行补充、修 改和完善。鉴于目前我国还没有脑死亡法律，也可将 本应由全国人民代表大会及其常务委员会制定脑死亡 法律的事项，明确授权予国务院。国务院根据授权目 的和范围，结合脑死亡判定标准在医学界的实际施行 情况，对脑死亡相关事项制定行政法规，从而实现对 脑死亡标准的立法。脑死亡相关行政法规可作为制定 法律的基础和过渡，待脑死亡行政法规成熟后再制定 法律。由于我国目前并无脑死亡相关的法律法规，因 此地方性法规也有权制定脑死亡法律。但对于能否以 自治条例和单行条例的形式进行立法的重要考量之一 即是其是否具有民族特点。尽管有学者认为脑死亡问 题随医学科学发展而产生，不具有民族的特点，原则 上不能以自治条例和单行条例对脑死亡标准立法［11］。 但笔者基于长期的临床脑死亡判定工作实践发现，患 者家属对于死亡判定的接受其实极易受风俗习惯和民 族地域的影响。因此，在立法实践过程中，有必要进 一步深入研究探讨。
+4.2	对我国脑死亡标准立法内容的建议
+4.2.1 明确死亡的概念 对于自然死亡我国法律条文中 并无明确规定。长期司法实践中，我国一直使用的是 心脏死亡标准，即以不可逆性呼吸停止和心脏停搏为 判定死亡的最终标准。因此，在脑死亡标准立法时， 有必要在法律条文中清楚地界定死亡的概念，如死亡 是指经过医学判定个体的不可逆性呼吸停止和心脏停 搏或包括脑干在内的所有脑功能不可逆性丧失。
+4.2.2 确定脑死亡的判定标准 随着医学技术的进步， 国外脑死亡判定标准从最初的“超昏迷不可苏醒”状 态［4］，过渡到全脑死亡标准［15］，再到脑干补充标准［16］。 至今，国外脑死亡判定标准仍在不断的发展和完善之 中，但关于脑死亡的定义基本已达成共识，即脑死亡 是指全部脑组织机能完全地不可逆性地永久丧失，包 括大脑皮质弥漫性死亡、脑干死亡和全脑死亡3种 类型。
+我国于20世纪70年代开始了脑死亡判定的理论 研讨与临床实践。1986年，医学界便草拟了我国首 个《脑死亡诊断标准（草案）》。2003年，原国家 卫生部起草了《脑死亡判定标准（成人）（征求意见
+第6期
+李小杉等．基于器官捐献视角论我国脑死亡标准的立法
+・741・
+稿）》和《脑死亡判定技术规范（成人）（征求意见 稿）》 [17-18]。经过10多年的脑死亡判定临床实践和 基础研究，原国家卫生和计划生育委员会脑损伤质控 评价中心于2013年正式制订了《脑死亡判定标准与 技术规范（成人质控版）》和《脑死亡判定标准与技 术规范（儿童质控版）》 [19-20]，自此，我国有了脑 死亡判定的行业标准。2019年，国家卫生健康委员 会修改、完善并出版了《中国成人脑死亡判定标准与 操作规范（第二版）》和《中国儿童脑死亡判定标准 与操作规范》 [21-22]。
+在最新的《中国成人脑死亡判定标准与操作规 范》中，脑死亡的判定标准为深昏迷、脑干反射消失 和无自主呼吸，且经脑电图、短潜伏期体感诱发电位 和经颅多普勒超声中的两项进行确认。可见，我国医 学界采用了较为保守的全脑死亡标准。这是因为尽管 脑干死亡意味着脑整体机能丧失，但若是在脑干一次 性损伤而致脑死亡的情况下，脑干反射消失后，还可 能存有脑电波。在当前我国脑死亡民意基础较为薄弱 的情况下[23-24]，若患者还存有脑电波便被判定生命终 结，无疑会增加公民接受脑死亡的难度。因此，在立 法过程中使用全脑死亡标准可能更为合适。
+4.2.3 脑死亡的判定程序 脑死亡的判定应遵循严格的 判定程序以保障患者的生命安全和伦理安全，在脑死 亡标准立法内容中应对判定的“共同原则”和“回避 原则”明确界定以强调其严谨性。“共同原则”可规 定做出脑死亡判定的决定应当是基于合法团体（如脑 死亡判定专家委员会或工作组）遵照判定标准合议后 的共同决定，而不能是某位成员的个人决定。脑死亡 判定操作规范具有极强的医学专业性，且处于不断的 更新变化之中，因此在立法时不宜涉及详细的专业操 作，但法律中应明确规定可以判定脑死亡的医疗机构 的等级资质，专家委员会的专业组成和专家资质。例如， 可规定脑死亡判定必须由二级甲等及以上资质的医疗 机构的脑死亡判定工作组做出决定。工作组的组成人 员应满足以下条件：（1）人数不少于5人；（2）从 事本职专业10 年以上；（3）学科专业至少包括神经 外科学、神经内科学、重症医学、急诊医学和麻醉学；
+（4）具有高级职称；（5）经过专业培训，且获得脑 死亡判定资格证书。脑死亡的判定应经工作组一半以 上的专家书面签署意见后共同宣布。“回避原则”主 要是鉴于脑死亡判定与器官捐献和移植之间的紧密关 系，以防道德风险的发生。对此，可作出以下规定：
+（1）不允许与供者有利害关系的医师为患者判定脑 死亡；（2）不允许与器官移植等待名单中的受者有 利害关系的医师为患者判定脑死亡；（3）参与脑 死亡判定的医师不得再参与后续的器官获取和移植 工作[25]。
+5	小 结
+对脑死亡标准进行法律确认，已成为国际社会的 普遍做法。本文从器官捐献视角探讨了我国进行脑死 亡标准立法的必要性，并基于实际国情对脑死亡标准 立法的形式和内容提出了建议。但脑死亡标准立法工 作涉及法律、医学、伦理、社会、文化等多个层面， 本文仅从器官捐献角度讨论了我国脑死亡标准立法的 相关内容，还不能为立法工作提供全面的参考意见， 有待后续从更多维度对脑死亡标准立法进行深入综合 的讨论。
+参考文献：
+[1]黄洁夫，叶改发.建立中国模式的公民器官捐献体系, 为人民群众提供高质量的器官移植医疗服务[J].武 汉大学学报（医学版）,2017,38（6）：861-865.DOI：10. 14188/j.1671-8852.2017.06.001.
+HUANG JF, YE QF. Establishing the Chinese model of organ donation and transplant system to provide high level ethical transplant service for the Chinese people[J]. Med J Wuhan Univ, 2017,38（6）:861-865. DOI:10.14188/ j.1671-8852.2017.06.001.
+[2]	DRAKE M, BERNARD A, HESSEL E. Brain Death[J]. Surg Clin North Am, 2017,97（6）:1255-1273. DOI:10.1016/j.suc.2017.07.001.
+[3]	中国医师协会体外生命支持专业委员会.成人体外 膜氧合循环辅助专家共识[J/OL].中华重症医学电 子杂志（网络版）,2018,4（2）:114-122[2018-07-02]. http://d.wanfangdata.com.cn/periodical/zhzzyxdzzz-wlb201802003.DOI:10.3877/cma.j.issn.2096-1537. 2018.02.003.
+Professional Committee of Extracorporeal Life Support of Chinese Medical Doctor Society. Expert consensus on the circulation assistance of extracorporeal membrane oxygenation in adults[J/OL]. Chin J Cri Care Intensive Care Med（Electr Edit）, 2018,4（2）:114-122[2018-07-02] .http://d.wanfangdata.com.cn/ periodical/zhzzyxdzzz-wlb201802003.DOI:10.3877/cma. j.issn.2096-1537.2018.02.003.
+[4]	SETTERGREN G. Brain death: an important paradigm shift in the 20th century[J]. Acta Anaesthesiol
+•742•
+器官移植
+第11卷
+Scand, 2003,47(9):1053-1058.	DOI:10.1034/j.1399-
+6576.2003.00227.x.
+[5]	中国人体器官捐献管理中心.2018两会观察：遗体和 人体器官捐献议题再获关注[EB/OL]. [2018- 03- 19]. http://www.rcsccod.cn/cnews/cpicnews/20180319/ 699013.htm.
+[6]	中华医学会器官移植学分会. 中国公民逝世后器官捐 献流程和规范(2019版)[J].器官移植，2019, 10(2)： 122-127. DOI: 10.3969/j.issn.1674-7445.2019.02.003.
+Branch of Organ Transplantation of Chinese Medical Association. Process and specification of Chinese donation after citizen's death (2019 edition) [J]. Organ Transplant, 2019, 10(2): 122-127. DOI: 10.3969/ j.issn.1674-7445.2019.02.003.
+[7]纪晓彬.我国器官移植法律问题研究[D].昆明理工大 学, 2017.
+[8]赖彦华，杨建荣.我国器官捐献现状及展望[J].中 国临床新医学,2019,12(10):1045-1048.	DOI:10.3969/
+j.issn.1674-3806.2019.10.01.
+LAI YH, YANG JR. Current situation and prospect of organ donation in China[J]. Chin J New Clin Med, 2019,12(10):1045-1048.DOI:10.3969/j.issn.1674-3806. 2019.10.01.
+[9]晓月.脑死亡是否可以作为认定工伤的判定条件[J]. 中国医疗保险,2019(7):67-68.
+XIAO Y. Whether brain death can be used as a criterion for determining industrial injury[J]. Chin Health Insur, 2019(7):67-68.
+[10]	叶子云,肖燕平.中国器官捐献立法完善的若干意 见[J]医学与哲学,2018,39(17):72-76. DOI：10.12014/ j.issn.1002-0772.2018.09a.16.
+YE ZY, XIAO YP. Suggestions on the legislation of organ donation in China[J]. Med Philos, 2018,39(17):72-76. DOI:10.12014/j.issn.1002-0772.2018.09a.16.
+[11]	宋儒亮,邓绍林,李幼平.脑死亡和器官移植问题解决 需要立法直接介入[J].中国循证医学杂志,2007, 7(11)： 816-826. DOI: 10.3969/j.issn.1672-2531.2007.11.011.
+SONG RL, DENG SL, LI YP. Direct legislation is required to solve brain death and organ transplant related issues[J]. Chin J Evid Based Med, 2007,7(11)：816-826. DOI：10.3969/j.issn.1672-2531.2007.11.011.
+[12]周吉银，刘丹.论采用脑死亡标准的伦理挑战[J]. 中 国医学 伦理学,2019,32(2)：195-198.DOI：10.12026/ j.issn.1001-8565.2019.02.12.
+ZHOU JY, LIU D. Discussion on ethical challenge of adopting brain death standard[J]. Chin Med Ethics，2019, 32(2)：195-198. DOI： 10.12026/j.issn.1001-8565.2019.02.12.
+[13]刘长秋，陆庆胜，韩建军.脑死亡法研究[M].北京： 法律出版社, 2006：161.
+[14]李长兵,许晓娟.论我国刑法中的死亡标准[J].江西 社会科学,2012(8)：132-136-DOI：10.3969/j-issn-1004-518X. 2012.08.026.
+LI CB, XU XJ. Discussion on the death standard in the criminal law in China[J]. Jiangxi Social Sci, 2012(8)：132-136. DOI：10.3969/j.issn.1004-518X.2012.08.026.
+[15]	CRAFOORD CC. Cerebral death and the transplantation era[J]. Dis Chest, 1969,55(2)：141-145. DOI：10.1378/ chest.55.2.141.
+[16]	Guidelines for the determination of death. Report of the medical consultants on the diagnosis of death to the President's Commission for the Study of Ethical Problems in Medicine and Biomedical and Behavioral Research[J]. JAMA, 1981,246(19)：2184-2186.
+[17]脑死亡判定标准(成人)(征求意见稿)[J].中华医 学杂志,2003,83(3)：262.DOI：10.3760/j：issn：0376-2491. 2003.03.028.
+Criteria for determining brain death (adult) (draft) [J]. Natl Med J China, 2003,83(3)：262. DOI：10.3760/ j：issn：0376-2491.2003.03.028.
+[18]脑死亡判定技术规范(成人)(征求意见稿)[J].中 华急诊医学杂志, 2003, 12(2)：142-144.
+Technical specification for determining brain death (adult) (draft) [J].Chin J Emerg Med, 2003, 12(2)：142-144.
+[19]	国家卫生和计划生育委员会脑损伤质控评价中心.脑 死亡判定标准与技术规范(成人质控版)[J].中国现 代神经疾病杂志,2015,15(12)：935-939. DOI：10.3969/ j.issn.1672-6731.2015.12.002.
+Brain Injury Evaluation Quality Control Centre of National Health and Family Planning Commission. Criteria and practical guidance for determination of brain death in adults (BQCC version) [J]. Chin J Contemp Neurol Neurosurg, 2015,15(12)：935-939. DOI：10.3969/ j.issn.1672-6731.2015.12.002.
+[20]	国家卫生和计划生育委员会脑损伤质控评价中心.脑 死亡判定标准与技术规范(儿童质控版)[J].中华儿 科杂志,2014,52(10)：756-759. DOI：10.3760/cma.j.issn. 0578-1310.2014.10.008.
+Brain Injury Evaluation Quality Control Centre of National Health and Family Planning Commission. Criteria and practical guidance for determination of brain death in children (children quality control version)[J]. Chin J Pediatr, 2014,52(10)：756-759. DOI：10.3760/cma. j.issn.0578-1310.2014.10.008.
+(下转第748页 to page 748)
+•748•
+器官移植
+第11卷
+on lung injury and systemic organ inflammation in mice[J]. Am J Physiol Lung Cell Mol Physiol, 2003, 285(3):L710-L718. DOI:10.1152/ajplung.00044.2003.
+[33]	SIKMA MA, HUNAULT CC, VAN DE GRAAF EA, et al. High tacrolimus blood concentrations early after lung transplantation and the risk of kidney injury[J]. Eur J Clin Pharmacol, 2017, 73(5):573-580. DOI:10.1007/ s00228-017-2204-8.
+[34]	HOGERLE BA, KOHLI N, HABIBI-PARKER K, et al. Challenging immunosuppression treatment in lung transplant recipients with kidney failure[J]. Transpl Immunol, 2016, 35:18-22. DOI:10.1016/j.trim.2016.02.002.
+[35]	TAYLOR JL, PALMER SM. Critical care perspective on immunotherapy in lung transplantation[J]. J Intensive Care Med, 2006, 21(6):327-344. DOI: 10.1177/0885066606292876.
+[36]	THONGPRAYOON C, CHEUNGPASITPORN W, LERTJITBANJONG P, et al. Incidence and impact of acute kidney injury in patients receiving extracorporeal membrane oxygenation: a Meta-analysis[J]. J Clin Med,
+2019, 8(7):981. DOI:10.3390/jcm8070981.
+[37]	JAVIDFAR J, BRODIE D, IRIBARNE A, et al. Extracorporeal membrane oxygenation as a bridge to lung transplantation and recovery[J]. J Thorac Cardiovasc Surg, 2012, 144(3):716-721. DOI:10.1016/ j.jtcvs.2012.05.040.
+[38]	IMAI Y, PARODO J, KAJIKAWA O, et al. Injurious mechanical ventilation and end-organ epithelial cell apoptosis and organ dysfunction in an experimental model of acute respiratory distress syndrome[J]. JAMA, 2003, 289(16):2104-2112. DOI:10.1001/jama.289.16.2104.
+[39]	KOYNER JL, MURRAY PT. Mechanical ventilation and the kidney[J]. Blood Purif, 2010, 29(1):52-68. DOI:10.1159/000259585.
+[40]	PUTTARAJAPPA CM, BERNARDO JF, KELLUM JA. Renal complications following lung transplantation and heart transplantation[J]. Crit Care Clin, 2019, 35(1):61-73. DOI:10.1016/j.ccc.2018.08.009.
+(收稿日期：2020-08-18)
+(本文编辑：石梦辰 吴秋玲)
+(上接742页 from page 742)
+[21]	国家卫生健康委员会脑损伤质控评价中心,中华医学 会神经病学分会神经重症协作组,中国医师协会神 经内科医师分会神经重症专业委员会.中国成人脑 死亡判定标准与操作规范(第二版)[J].中华医学 杂志,2019,99(17):1288-1292. DOI:10.3760/cma.j.issn. 0376-2491.2019.17.003.
+Brain Injury Evaluation Quality Control Centre of National Health Commission, Neurology Critical Care Cooperative Group of Neurology Branch of Chinese Medical Association, Neurology Critical Care Committee of Neurologist Branch of Chinese Medical Doctor Association. Criteria and practical guidance for determination of brain death in Chinese adults (2nd version)[J]. Natl Med J China, 2019,99(17):1288-1292. DOI:10.3760/cma.j.issn.0376-2491.2019.17.003.
+[22]	国家卫生健康委员会脑损伤质控评价中心.中国 儿童脑死亡判定标准与操作规范[J].中华儿科杂 志,2019,57(5):331-335. DOI:10.3760/cma.j.issn.0578-1310. 2019.05.003.
+Brain Injury Evaluation Quality Control Center of National Health Commission. Criteria and practical guidance for determination of brain death in Chinese children[J]. Chin J Pediatr, 2019,57(5):331-335. DOI:10.3760/cma.j.issn.0578-1310.2019.05.003.
+[23]	王霖婧,郏将希,王璐璐, 等.不同人群对脑死亡认识 及立法可行性调查报告[J].医学信息,2019,32(10):133-135. DOI:10.3969/j.issn.1006-1959.2019.10.044.
+WANG LJ, JIA JX, WANG LL. Report on the understanding of brain death and legislative feasibility of different populations[J]. Med Inf, 2019,32(10):133-135.
+DOI:10.3969/j.issn.1006-1959.2019.10.044.
+[24]	李小杉, 缪俊艳, 胡迪, 等. 公民对脑死亡标准立法态 度的现状调查[J].器官移植，2020, 11(1): 87-92. DOI： 10.3969/j.issn.1674-7445.2020.01.014.
+LI XS, MIAO JY, HU D, et al. Investigation of current status of citizen's attitude to legislation of brain death criteria [J]. Organ Transplant, 2020, 11(1): 87-92. DOI: 10.3969/j.issn.1674-7445.2020.01.014.
+[25]	蔡昱.对我国脑死亡的立法形式、立法内容及判断程 序的建议[J].中国医学伦理学,2019,32(2):187-194. DOI:10.12026/j.issn.1001-8565.2019.02.11.
+CAI Y. Suggestions on the legislative form, legislative content and judgment procedure of brain death in China[J]. Chin Med Ethics, 2019,32(2):187-194.
+DOI:10.12026/j.issn.1001-8565.2019.02.11.
+(收稿日期：2020-08-02) (本文编辑：林佳美 邬加佳)

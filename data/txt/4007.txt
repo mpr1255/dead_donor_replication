@@ -1,0 +1,25 @@
+﻿第4期.徐青镭，等.1型胶原糖胺聚糖模板的制备与检测
+339。
+以接近种子细胞的生理环境,可以提高胶原纤维的 抗压、抗张及抗剪切等力学特性,并能适当地增强胶 原海绵的微孔结构［6］。
+有学者研究发现［2,7］,利用I型胶原加入GAG 作为人工皮肤覆盖烧伤患者的创面,其微孔大小可 控制至平均（50± 46），"m,很利于细胞的长入和粘 附Srivastava等［8,9通过体内和体外研究确认海绵 状胶原中加入1（% Ch6s最有利于细胞的粘附，而 且组织异物反应及炎性反应最轻微。在这些研究结 果的有力支持下，我们设计采用Yannas法制成重 构的I型胶原-10% Ch6s模板，希望以此作为 MSCs的载体，探讨其在半月板组织工程学重建中 的价值。
+组织切片及扫描电镜的观察表明,本实验制成 的I型胶原-10% Ch6s模板是一种海绵样结构，其 表面及内部均含有丰富的微孔结构,因而应该能够 便于种子细胞在其中的生长,这在组织切片的观察 中得到了证实。
+但是，培养2周后，在此I型胶原-10% Ch6s 模板中并未见有类软骨样组织形成。我们认为这与 体外培养条件的限制有关，位于胶原-GAG模板内 部的细胞要形成类软骨样组织块,必须有适宜的微 观流体内环境及一定密度阶106个/ml）的细胞数 量［10］,以利于其内部MSCs的物质交换，使之得以 不断地增生分化,并获得形成类软骨组织的必要的 相关表现型表达以及相应的胞外基质合成堆积［10］。
+有鉴于此，在后续实验中我们设想将MSCs按 照形成类软骨组织必要的细胞密度移入胶原载体, 在不经体外培养的条件下直接回植入体内,探讨这 一方法对重建半月板组织缺损的可行性。
+[参考文献]
+1	Piez KA, Eigner EA, Lewis MS. The chromatographic separa-ti on and amino aci d composi tion of th e sub uni ts of s everal collagens [ J] . Bioch emis t ry, 1963, 2( 1): 58-66.
+2	Yannas R’ , Burke JF, Gordon PL, et al Design of an artificial skin. II . Control of chemical composition | J|. J Biomed Mater Res, 1980, 14( 1): 107-131.
+3	A rno c zky S P. Bui lding a meniscus: biologi c considerations [ J |. Clin Orthop, 1999, 367( Suppl): 244-253.
+4	何尧祥.糖蛋白和糖脂.见:陈诗书,汤雪明主编.医学细胞与分 子生物学|M |.上海：上海医科大学出版社,1995. 153-166,
+5	Torres DS, Freyman TM , Yannas IV , et al. Tend on cell cont raction of collagen-G AG matrices in vitro: effect of cros s-lin k-ing[J |. Biomaterials, 2000, 21( 15): 1607-1619.
+6	Rodkey WG, St eadman JR, Li S. A cli nica l st udy of collagen m enisc us implan ts to rest ore th e in jured menis cus [ J | . Clin O r-thop, 1999, 367( Suppl): 281-292.
+7	Lee C R, Brei nan HA, N eh rer S, et a l. A rtic ular cartilage ch on-drocytes in type I and type I collagen-G AG matrices exhibit contractile b ehavior in vitro [ J| . Ti ssu e Eng, 2000, 6 ( 5): 555565.
+8	Srivas tava S, Gorham SD , Cou rtn ey JM . The attach ment and g row th of an est ablish ed cell line on collagen, chemically modified coll ag en, and collag en composit e s urf aces [ J| . Biomaterials , 1990, 11( 4): 162-168.
+9	Srivas tava S, Gorham SD, Cour tney JM. In vivo eval uation and comparis on of collagen, acetylated collagen and collagen /g lycos ami nog lycan composite fil ms and spo ng es as c andidat e biomaterials [ J| . Biom aterials, 1990, 11( 4): 155-161.
+10	Si t ting er M . Tiss ue engin eeri ng and au tologous t ransplant for-mati on: prac ti cal approaches w ith resorbable biomat erials and new cell cult ure tech ni ques [ J| . Biomat erials , 1996, 17 ( 2): 237242.
+[收稿日期| 2000-09-19	[修回日期| 2000-12-08
+[本文编辑| 汪立鑫
+我校长征医院实施国内首例“脑死亡者”捐献器官移植手术
+我校长征医院日前将一名脑死亡者的肾脏移植到了 2位尿毒症患者的体内,这是我国首例“脑死亡者”捐献器官移植手 术。“捐献”器官的脑死亡者是一名外地来沪的劳务人员,因意外事故受重伤,虽经全力挽救,两天后医生确诊其“脑死亡”。家 属得知继续抢救无效时,主动提出将脑死亡者的遗体无偿捐献给长征医院。
+据介绍,到目前为止,我国一直沿用传统的“心死亡”来界定死亡,即心脏停跳就算死亡。但国际上有众多国家均以“脑死 亡”为死亡标准,国内虽有许多人认同,但仍有较多争议和压力。
+肾移植专家、长征医院泌尿科主任闵志廉教授认为,从医学角度说,实行“脑死亡”更有意义。呼吸没有了可以用呼吸机代 替,心脏停跳可通过按摩和药物来恢复其跳动,而死亡的脑神经细胞是不可逆的,复活的机会几乎为零。其次,脑死亡对于器 官移植工作的顺利开展具有举足轻重的意义。移植的器官从供体上取下的时间距供体停止呼吸的体内循环的时间越短越好, 相反,成活率越低,甚至为零。因此,脑死亡者是最佳的器官供者。有资料显示,我国器官移植的活体器官严重缺乏,仅肾脏移 植一项,每年全国约有 15万名尿毒症患者需要移植,而有幸能移植的只占 2%左右。
+长征医院此举表明了他们改变“传统观念”的立场。由神经内科、脑外科专家组成的专家鉴定小组进行的最后会诊确认, 患者已经“脑死亡”——其脑电图呈平直线;脑干反射（包括瞳孔反射、角膜反射、垂直性眼球运动等）全部消失。有关医生当即 将死者的两个肾脏分别移植到上海和江苏两名尿毒症患者体内。术后,两名患者状况良好。

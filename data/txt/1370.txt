@@ -1,0 +1,37 @@
+﻿•152•
+《实用器官移植电子杂志》2019 年 3 月第 7 卷第 2 期 Prac J Organ Transplant (Electronic Version), March 2019, Vol.7, No.2
+.综述.
+再次心脏移植的研究进展
+柴军武，王凯，孔祥荣（天津市第一中心医院心血管外科,天津 300192）
+随着心脏移植技术的进步,越来越多的晚期心 衰患者接受了心脏移植,而心脏移植术后供心可能 再次因多种原因出现心功能衰竭,此时再次心脏移 植可能成为唯一有效的治疗方法,本文将从以下几 个方面综述再次心脏移植（RTx）相关的研究进展。 1 背 景
+原位心脏移植是终末期心脏病的最为有效的治 疗方法，国际心肺移植学会（International Society of Heart and lung Transplantantion，ISHLT）报告全 世界已经进行了超过10万例心脏移植手术。随着 免疫抑制剂、心脏保存技术、手术技术、供体和 受者的选择、排斥反应监测等方面的进步,心脏 移植受体在术后30 d、1年和5年的存活率分别为 90%、86%和70%。全球每年接受心脏移植的患者 近5 000例,而对于心脏移植患者,近期可能出现 急性排斥反应、感染、移植物失功等,而中远期的 排斥反应、感染、移植物血管病变等均可导致移 植心脏功能衰竭，而不得不接受RTx，而全球RTx 的临床经验相对有限。对于移植物血管病变以及瓣 膜病变，目前采用了冠脉球囊成形、冠脉支架置入、 冠状动脉旁路移植术、瓣膜修补术及机械循环辅助 装置等方法。然而，RTx仍然是更有效的心脏移植 后心功能衰竭的治疗方法。考虑到器官短缺，RTx 与首次心脏移植（HTx）的预后相对较差，RTx须 慎重评估［1-2］。
+2 再次心脏移植的适应证与相对禁忌证
+再次心脏移植的适应证主要包括：①移植物 血管病变；②急性排斥反应；③早期移植物功能 衰竭；④不明原因的心功能衰竭等。Rizvi等⑵报
+DOI：10.3969/j.issn.2095-5332.2019.02.020
+基金项目：天津市科技计划项目（14RCGFSY00147）
+通讯作者:孑L祥荣，Email： kongxiangrong001@sina.com
+道再次心脏移植以移植物血管病变为主（61.5%）， 急性排斥反应为24.7%，首次移植后早期心功能衰 竭为19.1%，不明原因的慢性心衰为27.1%。RTx 中其中约35.2%患者为首次移植后30 d内完成。 RTx距HTx平均时间间隔为5.03年。HTx的相对 禁忌证包括：①移植6个月以内虽然经规范化的 抗排斥反应治疗，仍然持续出现急性排斥反应，并 且心功能持续恶化者；②对于首次移植后应用机 械辅助的患者须更加谨慎选择RTx ；③年龄超过 60 ~ 65岁以上；④其他如首次移植后患有淋巴细 胞增生性疾病等特殊情况［3］。
+3国际报道的RTx的临床数据
+早期的文献报道显示全美有13个移植中心进 行了 RTx，1年生存率仅为60%，但再次移植和原 移植受体之间的排斥反应、感染和心脏同种异体 移植物血管病变发生率并无差异。1982年1月— 2003年6月，ISHLT的登记数据共有56 609例患 者接受心脏移植，其中1 125例患者接受了再移植， 仅占移植受者总数的2%。在国际移植注册系统 中，自2000 — 2005年共登记364例再次心脏移植， 临床数据分析中显示其1、3、5年移植物存活率明 显低于首次心脏移植者（分别为82%比86%、70% 比80%、58%比73%，P v 0.001 ）。文献显示再次 移植后的效果明显受移植间隔时间的影响，两次 移植间隔2年或更短，其1年生存率低于60%。然而， 如果再次移植间隔大于2年，1年生存率接近80%， 明显缩小与首次心脏移植的生存率差距［2，4］。
+4 RTx的免疫抑制问题
+尽管有人认为再次心脏移植可能需要更强的免 疫抑制治疗，但其实接受再次移植的患者已经为长 期免疫抑制状态，术后可能需要相对低剂量的免疫 抑制治疗，这样才可能减少术后感染及肿瘤的发
+《实用器官移植电子杂志》2019 年 3 月第 7 卷第 2 期 Prac J Organ Transplant (Electronic Version), March 2019, Vol.7, No.2
+•153•
+生风险［5］。再次移植的术后排斥发生率与首次移 植相似,术后免疫抑制策略与常规心脏移植并无明 显区别,免疫抑制用药同样需要考虑患者年龄、病 种、首次移植后是否存在排斥反应、人类白细胞抗 原(human leukocyte antigen，HLA)配型、药物毒性、 肾功能情况、感染、肿瘤等［6-7］。
+5儿童RTx
+对于儿童的再次移植,由于移植心脏可能衰 竭,儿童受者接受再次移植(有时还需要第三次移 植)的可能性很大。一组来自美国器官共享联合网 络(United Network for Organ Sharing， UNOS)的数据 显示,在1987—2004年期间4 227例儿童心脏移植 受者中219例接受了再次心脏移植,其主要原因为 移植物血管病(51%)、原发性失功(21%)、急性 排斥反应(9%)、慢性排斥反应(7%)、超急排斥 反应(3%)及其他原因(10%)。平均移植间隔时 间为(4.7±3.8)年,6个月内的再次移植风险明 显大于6个月以后的再次移植,尤其对于在6个月 内的原发无功情况,不能再次接受心脏移植［2,9］。
+6 RTx面临的问题与挑战
+国际上考虑到心脏供体的短缺,再次心脏移植 相对风险较大,对于供心的分配往往需要伦理与心 脏专业团队全面慎重的评估。再次心脏移植主要面 临以下几个方面的问题：①供心的短缺；②近期 的(V 6个月)再次心脏移植的低存活率；③受 体体内抗体对再移植后结果的影响以及脱敏的必要 性 ,;④再次移植后的免疫抑制治疗调整；⑤再 次移植后的移植物血管病；⑥长期免疫移植剂所 致的慢性肾功能不全的处理；⑦心肾联合移植受 体评估与处理等［3,10］。
+参考文献
+[ 1]	Shuhaiber JH, Kim JB, Hur K,et al. Comparison of survival in primary and repeat heart transplantation from 1987 through 2004 in the United States[J] . Ann Thorac Surg,2007,83(6)： 2135-2141.
+[ 2]	Rizvi SA, Luc JGY, Choi JH,et al. Outcomes and survival following heart retransplantation for cardiac allograft failure： a systematic review and meta-analysis[J] . Ann Cardiothorac Surg,2018,7(1)：12-18.
+[ 3]	Johnson MR, Aaronson KD, Canter CE,et al. Heart retransplantation[J] . Am J Transplant,2007,7(9)：2075-2081.
+[ 4]	Parikh RV,Khush K,Pargaonkar VS,et al. Association of endothelin-1 with accelerated cardiac allograft vasculopathy and late mortality following heart transplantation[J] . J Card Fail,2018,[2018- 12-28] .https：//www.ncbi.nlm.nih.gov/ pubmed/30543947.[published online ahead of Dec 10,2018]
+[5]	Kubiak GM, Kwieci n ski R, Zakliczy n ski M, et al. Cardiac retransplantation as a promising treatment option for late graft failure - Zabrze experience[J] . Kardiol Pol,2018,76(6)： 1015-1017.
+[ 6]	Lund LH, Khush KK, Cherikh WS,et al. The registry of the International Society for Heart and Lung Transplantation： thirtyfourth adult heart transplantation report-2017；focus theme： allograft ischemic time[J] . J Heart Lung Transplant,2017, 36(10)：1037-1046.
+[ 7]	Lund LH,Edwards LB,Kucheryavaya AY,et al. The registry of the International Society for Heart and Lung Transplantation： thirtieth official adult heart transplant report-2013；focus theme：age[J] . J Heart Lung Transplant,2013,32(10)： 951-964.
+[8 ]	Klauss V, Konig A, Spes C, et al. Cyclosporine versus tacrolimus (FK 506) for prevention of cardiac allograft vasculopathy[J] . Am J Cardiol,2000,85(2)：266-269.
+[ 9]	Phan K,Luc JGY,Xu J,et al. Utilization and outcomes of temporary mechanical circulatory support for graft dysfunction after heart transplantation[J]. ASAIO J,2017,63(6)：695-703.
+[10]	Sabatino M,Vitale G,Potena L,et al. Clinical relevance of the International Society for Heart and Lung Transplantation consensus classification of primary graft dysfunction after heart transplantation： Epidemiology, risk factors, and outcomes[J] . J Heart Lung Transplant,2017,36(11)：1217-1225.
+(收稿日期：2019-1-13)
+柴军武，王凯，孔祥荣.再次心脏移植的研究进展［J/CD］.实用器官移植电子杂志,2019,7(2): 152-153.

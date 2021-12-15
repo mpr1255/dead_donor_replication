@@ -1,0 +1,88 @@
+﻿•248•
+《实用器官移植电子杂志》2020 年 7 月第 8 卷第 4 期 Prac J Organ Transplant (Electronic Version), July 2020, Vol.8, No.4
+.述评.
+心脏移植术后急性肾损伤及其肾脏替代治疗
+刘俊铎(天津市第一中心医院肾内科,天津 300192)
+在全球范围内，各种原因导致的急性肾损伤有 逐步增多的趋势 ［1］，估算每年全球急性肾损伤有 13.3百万人次，并导致1.7百万患者的死亡 ［2-4］，存 活者也面临着较高的心血管事件、慢性肾脏病及进展 为终末期肾脏病(end stage renal disease,ESRD)的 风险［5］。
+自从1967年第1例成功的心脏移植以来，心脏 移植数量逐年上升，特别是20世纪80年代钙调神经 磷酸酶抑制剂(calcineurin inhibitors,CNI)类免疫 抑制剂的使用更是大大促进了器官移植的发展，逐步 成为多种终末期心脏疾病患者延续生命的治疗手段之 一⑹。但是急性肾损伤(acute kidney injury,AKI) 是心脏移植术后常见的并发症，可以导致围术期及 术后早期患者的死亡，也可以导致心脏移植术后患 者发展为慢性肾脏病，甚至进展为ESRD。尽管过去 20多年心脏移植外科技术和药物方面都取得了巨大的 进步，但是心脏移植术后AKI的发生率、病死率仍居 高不下。
+1 AKI的定义、分期和诊断
+人们很早就认识到了急性肾衰竭(acute renal failure, ARF),但一直缺乏一个广泛的认同标准， 而且忽视了肾脏损害早期的病理生理变化，因此越 来越多地使用AKI。2002年急性透析质量指导组给 出了RIFLE分级诊断标准，分为3个严重级别：危险、 损伤、衰竭；2个预后级别：肾功能丧失和ESRD。 2005年急性肾损伤网络(acute kidney injury newwork,AKIN)专家组在RIFLE标准基础上提出 了 AKIN诊断标准，2012年改善全球肾脏病预后组 织(Kidney Disease ： Improving Global Outcomes,
+DOI：10.3969/j.issn.2095-5332.2020.04.003
+通讯作者:刘俊铎，Email : gzhuofeng@163.com
+KDIGO)在前两者的基础上发布了新的AKI诊断和 分期标准，目前被广泛采用。KDIGO的AKI的定义为： ①48 h内血肌酐升高0.3 mg/dl (26.5战mol/L)以 上，或②(已知或推定)1周内血肌酐升高1.5倍 以上，或③ 尿量少于0.5 ml/(kg-h)持续6 h以上。
+表1 AKI的KDIGO的分期标准
+分期	肾小球功能指标(Scr)	尿量指标
+1期	升高三26.5 2mol/L或升高1.5〜	V 0.5 ml/(kg , h),
+	1.9倍	时间6〜12 h
+2期	升高 2.0 ~ 2.9 倍	V 0.5 ml/(kg , h), 时间三12 h
+3期	升高N 353.6 umol/L,或需要启动肾	V 0.3 ml/(kg , h),
+	脏替代治疗，或患者V18岁，估	时间三24 h,
+	计 GFR 降低到 35 ml /(min-1.73m2 ), 或升高M3倍	或无尿M12 h
+注：	GFR为肾小球滤过率	
+2心脏移植后AKI的发生率
+心脏移植术后AKI的发生率报道不一，首先 因为在不同阶段采用了不同的诊断标准,文献报 道心脏移植术后急性肾损伤发生率为14% ~ 76%, 导致严重肾功能损害而需要透析治疗的比例为 5% ~ 39%〔7-12〕，本中心77例心脏移植术后发生急 性肾衰竭且需要肾脏替代治疗的比例为19.5% ［13］。 Thongprayoon等［14］最近的一项荟萃分析中包含了 27个研究,共137201例心脏移植,总体估算的 AKI 的发生率为 47.1%(95% CI = 37.6% ~ 56.7%), 而采用不同的诊断标准，AKI的发生率分别为： RIFLE 标准为 35.3%(95% CI = 20.5 ~ 52.5%), AKIN 标准为 29.9%(95% CI = 16.3% ~ 48.3%), KDIGO 标准为 62.8%(95% CI = 49.2% ~ 74.7%)。 其中严重肾损伤而需要替代治疗的比率总体估算 为 11.8% (95% CI = 7.1% ~ 18.8%)。而根据手 术年份(2015年之前和2015年之后)AKI及需要
+《实用器官移植电子杂志》2020 年 7 月第 8 卷第 4 期 Prac J Organ Transplant (Electronic Version), July 2020, Vol.8, No.4 ，249,
+替代治疗的严重AKI发生率分别是，2015年之前 33.8%(18.8% ~ 52.9%)和9.4%(5.6% ~ 15.3%), 而2015年之后分别为49.4%(35.7% ~ 63.2%)和 12.3%(7.2% ~ 20.1%)。
+3心脏移植术后发生AKI的危险因素
+尽管移植外科技术和药物不断改进,但心脏移 植术后AKI的发生率并没有下降，反而呈上升趋势， 心脏移植术后短期及1年病死率也没有明显下降。 因为AKI没有有效的药物治疗，所以预防AKI的发 生，以及早期预警AKI发生就显得尤为重要。研究 发现口41，心脏移植术后发生AKI的危险因素包括 术前、术中及术后多重因素。其中术前危险因素包 括慢性肾脏病、低白蛋白血症、糖尿病、供者年龄、 高龄受者、肥胖、高血压、败血症、肝病、肌钙蛋 白升高、心脏手术史等,均被报道增加心脏移植 后AKI的发生风险，心脏原发病为瓣膜病更易发生 AKI。充血性心肌病(53%)和缺血性心肌病(38%) 为心脏移植主要原发病,这些患者往往有较多合 并症,比如糖尿病、充血性心力衰竭(右心衰及术 前肺动脉搏动指数下降)等都易发生AKI ;术中及 术后危险因素包括体外循环时长、手术时长、术后 早期使用CNI或药物浓度过高、器官保存(缺血) 时间、贫血/血小板减少及术中输血量、术后大出 血及再手术、术后右心衰及右室辅助设施、机械通 气时间、体外膜肺氧合(extracorporeal membrane oxygenation,ECMO)的使用均影响此后AKI的发 生114［有报道心脏外科术后使用ECMO的AKI的发生 率大于80% ［15］。此外体外循环过程中的尿量以及甘 露醇或呋塞米的使用往往预示术后AKI的发生风险。 4心脏移植术后AKI的血液净化治疗
+4.1	治疗时机，对严重的AKI患者来说，是否接 受肾脏替代治疗以及何时开始肾脏替代治疗(renal replacement therapy,RRT)是所有治疗的关键， 尤其是开始治疗的时机问题,一般情况下,开始 RRT治疗的依据是患者容量负荷过重、氮质血症、 高钾血症及酸中毒等。临床医生往往因为对RRT本 身的风险如低血压、心律失常、透析膜生物相容性、 抗凝及出血风险、血管通路相关风险(出血、感
+染)的顾虑而推迟RRT的进行，也有人会担心RRT 会影响AKI的恢复及增加进展为慢性肾脏病的风 险116%KDIGO指南建议在出现威胁生命的水、电解 质平衡紊乱时立即开始RRT，而对生化指标的评估 中不要单纯倚重尿素、肌酐等。血肌酐的升高要滞 后肾损伤24 ~ 72 h,因此可能错失早期有效的干 预时机 ［17］。近年来一直从血、尿中寻找肾损伤早 期标志物,已经发现中性粒细胞明胶酶相关载脂蛋 白(neutrophil gelatinase-associated lipocalin, NGAL)、IL-18、胱抑素C、KIM-1等均可能用于急 性肾损伤的早期诊断及危险分层。研究发现术后进 入重症监护病房(intensive care unit,ICU)6 h 内尿IL-18和血浆NGAL升高并达峰，这与AKI密 切相关(AKINH或出期)，而且这些标志物的升高 预示着AKI的恶化和病死率的增高口8-®。
+虽然“早”开始RRT的标准不一，多数研究 证明早开始治疗能降低AKI患者的病死率120-211或 ICU住院时间121-22］。尽管现有心脏移植术后RRT开 始治疗时机的证据仍然缺乏,但有研究表明冠脉搭 桥术后AKI患者早开始RRT有生存获益⑵-2，
+4.2	治疗模式及滤器选择：理论上,连续性肾脏 替代治疗(continuous blood purification,CRRT) 可以更优于超滤、避免体液大幅度波动和转移 (包括脑水肿风险)、可调节性强、操作相对简单 (可以由ICU护士监管)等优点，CRRT更多地用 在重症患者及AKI患者。不足之处是患者治疗期 间不能移动、需要持续抗凝、有导致低体温风险、 费用相对较高等。间断血液透析(intermittent hemodialysis,IHD)最突出的优势是可以快速清除 小分子毒素,缩短治疗时间,因此,如果出现严重 高钾血症、某些物质中毒、肿瘤溶解综合征等情况 可以选择IHD。相对于IHD,CRRT在提高生存率、 缩短ICU住院时间、提供肾功能恢复机会等方面有 无优势目前没有明确的结论,但对血流动力学不稳 定的重症患者,以及有脑损伤或其他原因导致颅压 升高风险的患者，建议使用CRRT,而非IHD。建议 采用生物相容性较好的透析器/血滤器,治疗剂量 推荐 25 ~ 30 ml/(h・kg)。
+•250•
+《实用器官移植电子杂志》2020 年 7 月第 8 卷第 4 期 Prac J Organ Transplant (Electronic Version), July 2020, Vol.8, No.4
+4.3	容量管理:KDIGO指南指出，AKI患者RRT治 疗的目标是：①保持水、电解质平衡；②预防严 重肾损伤；③为肾脏恢复创造机会；④为其他支 持治疗(抗菌药物、营养支持等)创造条件。其中 容量管理是危重症患者AKI治疗的关键，容量负荷 过重增加患者病死率125-271。早期开始RRT避免容 量负荷过重，以及治疗中增加超滤减轻容量负荷都 能提高存活率125-271。对于心脏移植术后AKI这类 复杂、重症患者来说，更不应该过度看重尿素、肌 酐等传统肾功能指标，比如轻度氮质血症、重度 容量负荷过重患者，此时的血液净化治疗，与其 称为RRT，不如称为肾脏支持治疗(renal support therapy，RST)。尽管缺乏足够来自心脏移植术后 AKI的直接证据，但是心脏移植术后早期移植物功 能恢复不良或者供受者不匹配问题，要求避免容 量负荷过重，需要强化超滤，但后者对肾功能的 负面影响值得关注。Rao等〔28〕报道对充血性心衰 合并肾损害患者强化超滤，在观察到血液明显浓 缩的同时，肾小管损害的标志物如NAG、KIM-1、 NGAL等升高更明显，但60 d后肾功能恢复得更好， 意味着强化超滤通过改善心功能从而间接改善肾脏 灌注不仅弥补且超过了血容量不足导致的肾小管损 伤的加重，并最终改善了预后。有报道供受者不匹 配的心脏移植术后AKI，通过强化超滤，心功能得 以恢复，术后315 d后肾功能恢复12"。当然心脏 移植术后合并AKI患者早期RTT治疗中容量控制中 如何处理心功能与肾损害之间的关系，需要更多 RCT研究的证据。
+4心脏移植术后AKI对预后的影响
+心脏移植术后合并AKI会显著增加患者的病 死率，尤其是需要透析的患者，住院期间病死率 达50%以上。而且过去这些年，不仅是AKI的发生 率，患者的病死率也没有明显的下降。在最近的 一项荟萃分析中，心脏移植术后AKI和严重AKI需 要RRT治疗患者住院期间或90 d死亡风险分别升 高 了 3.46 倍(95% CI = 2.40 ~ 4.97)和 13.05 倍 (95% CI = 6.89 ~ 24.7),而1年死亡风险则分 别为 2.26 倍(95% CI = 1.56 ~ 3.26)和 3.89 倍
+(95% CI = 2.49 ~ 6.08>14]。此外，进一步的分析 显示早期轻度肾损伤与早期、长期存活率及远期肾 衰风险均无显著相关性；早期严重肾损伤与早期病 死率相关，1年后的肾功能状况与远期人、肾存活 率相关[30]。
+5 结 语
+心脏移植术后急性肾损伤是一常见而严重的并 发症，在发生率和病死率两方面均亟待改善，积极 规避相关风险因素预防AKI的发生仍是关键。早期 轻度肾损伤对预后影响不大，严重的肾损伤对近、 远期预后均有显著影响，1年后的肾功能与终末期 肾病显著相关。以CRRT为主的肾脏替代治疗是重 症AKI治疗的重要手段，一定程度的强化超滤可能 是心脏移植术后急性肾衰治疗不同于其他AKI治疗 的地方。
+参考文献
+[	1] HOSTE EAJ,KELLUM JA,SELBY NM, et al. Global epidemiology and outcomes of acute kidney injury[J] . Nat Rev Nephrol,2018,14(10)：607-625.
+[	2] PONCE D,BALBI A. Acute kidney injury： Risk factors and management challenges in developing countries[J] . Int J Nephrol Renov Dis,2016,9：193-200.
+[3	] MEHTA RL, BURDMANN EA, CERDA J, et al. Recognition and management of acute kidney injury in the International Society of Nephrology 0by25 Global Snapshot： A multinational crosssectional study[J] . Lancet,2016,387(10032)：2017-2025.
+[	4] YANG F,ZHANG L,WU H,et al. Clinical analysis of cause, treatment and prognosis in acute kidney injury patients[J] . PLoS one,2014,9(2)：e85214.
+[	5] SAWHNEY S,MARKS A,FLUCK N,et al. Post-discharge kidney function is associated with subsequent ten-year renal progression risk among survivors of acute kidney injury[J] . Kidney Int, 2017,92(2)： 440-452.
+[	6] YANCY CW,JESSUP M,BOZKURT B,et al. 2017 ACC/AHA/ HFSA focused update of the 2013 ACCF/AHA guideline for the management of heart failure: A report of the American College of Cardiology/American Heart Association task force on clinical practice guidelines and the heart failure society of America[J] . J Card Fail,2017,23(8)：628-651.
+[	7] DE SANTO L S, ROMANO G, AMARELLI C, et al. Implications of acute kidney injury after heart transplantation： what a surgeon should know[J] . Eur J Cardiothorac Surg,2011,40(6)： 1355-1361.
+[8	] TURKERM, ZEYNELOGLU P, SEZGIN A, et al. RIFLE criteria for acute kidney dysfunction following heart transplantation： incidence and risk factors[J] . Transplant Proc,2013,45(10)： 3534-3537.
+[	9] FORTRIE G, MANINTVELD O C, CALISKAN K, et al. Acute
+《实用器官移植电子杂志》2020 年 7 月第 8 卷第 4 期 Prac J Organ Transplant (Electronic Version), July 2020, Vol.8, No.4
+•251 ・
+kidney injury as a complication of cardiac transplantation： incidence, risk factors, and impact on 1-year mortality and renal function[J] . Transplantation,2016,100(8)：1740-1749.
+[10]	TJAHJONO R, CONNELLAN M, GRANGER E. Predictors of acute kidney injury in cardiac transplantation[J] . Transplant Proc,2016,48(1)：167-172.
+[11]	BOYLE J M,MOUALLA S, ARRIGAIN S, et al. Risks and outcomes of acute kidney injury requiring dialysis after cardiac transplantation[J] . Am J Kidney Dis,2006,48(5)：787-796.
+[12]	SCHIFERER A, ZUCKERMANN A, DUNKLER D, et al. Acute kidney injury and outcome after heart transplantation： large differences in performance of scoring systems[J] . Transplantation,2016,100(11)：2439-2446.
+[13]	刘俊铎,王允彦,姜亦瑶,等. 心脏移植术后肾脏替代治疗的疗 效分析[J/CD ].实用器官移植电子杂志,2019,7(6) ： 472-475.
+[14]	THONGPRAYOON C,LERTJITBANJONG P,HANSRIVIJIT P, et al. Acute kidney injury in patients undergoing cardiac transplantation： A meta-analysis[J] . Medicines,2019, 6(4)：108.
+[15]	YAN X, JIA S, MENG X, et al： Acute kidney injury in adult postcardiotomy patients with extracorporeal membrane oxygenation： Evaluation of the RIFLE classification and the Acute Kidney Injury Network criteria[J] . Eur J Cardiothorac Surg, 2010,37(2)： 334-338.
+[16]	PALEVSKY P M, BALDWIN I, DAVENPORT A, et al. Renal replacement therapy and the kidney： minimizing the impact of renal replacement therapy on recovery of acute renal failure[J] . Curr Opin Crit Care,2005,11(6)： 548-554.
+[17]	MORAN S M, MYERS B D. Course of acute renal failure studied by a model of creatinine kinetics[J] . Kidney Int,1985,27(6)： 928-937.
+[18]	KOYNER J L, GARG A X, COCA S G, et al, TRIBE-AKI Consortium ： Biomarkers predict progression of acute kidney injury after cardiac surgery[J] . J Am Soc Nephrol,2012,23(5)： 905-914.
+[19]	COCA S G, GARG A X, THIESSEN-PHILBROOK H, et al. Urinary biomarkers of AKI and mortality 3 years after cardiac surgery[J] . J Am Soc Nephrol,2014,25(5)：1063-1071.
+[20]	GETTINGS L G, REYNOLDS H N, SCALEA T. Outcome in post-traumatic acute renal failure when continuous renal replacement therapy is applied early vs. late[J] . Intensive Care Med,1999,
+25(8)： 805-813.
+[21]	Bhatt GC,Das RR. Early versus late initiation of renal replacement therapy in patients with acute kidney injury-a systematic review &amp； meta-analysis of randomized controlled trials[J] . BMC Nephrol,2017,18(1)：78.
+[22]	BAGSHAW S M, UCHINO S, BELLOMO R, et al. Timing of renal replacement therapy and clinical outcomes in critically ill patients with severe acute kidney injury[J] . J Crit Care,2009, 24(1)： 129-140.
+[23]	DEMIRKILIC U, KURALAY E, YENICESU M, et al. Timing of replacement therapy for acute renal failure after cardiac surgery[J] . J Card Surg,2004,19(1)： 17-20.
+[24]	ELAHI M M, LIM M Y, JOSEPH R N, et al. Early hemofiltration improves survival in post-cardiotomy patients with acute renal failure[J] . Eur J Cardiothorac Surg,2004,26(5)： 1027-1031.
+[25]	MEHTA R L, MCDONALD B, PAHL M, et al. Continuous vs. intermittent dialysis for acute renal failure in the ICU： Results from a randomized multicenter trial (abstract)[J] . J Am Soc Nephrol,1996,7： 1456.
+[26]	BOUCHARD J, SOROKO S B, CHERTOW G M, et al. Fluid accumulation, survival and recovery of kidney function in critically ill patients with acute kidney injury[J]. Kidney Int,2009,76(4)： 422-427.
+[27]	PAYEN D, DE PONT A C, SAKR Y, et al. A positive fluid balance is associated with a worse outcome in patients with acute renal failure[J] . Crit Care,2008,12(3)： R74.
+[28]	Rao VS,Ahmad T,Brisco-Bacik MA,et al. Renal effects of intensive volume removal in heart failure patients with preexisting worsening renal function[J] .Circ Heart Fail,2019,12(6)： e005552.
+[29]	PENG Y H, YU X M, YAN C, et al. Recovery of renal function in a heart transplantation recipient with over 300 days of iatrogenic anuria： A case report[J] . Medicine( Baltimore),2018,97(17)： e0451.
+[30]	FORTRIE G, MANINTVELD O C, CONSTANTINESCU A A, et al. Renal function at 1 year after cardiac transplantation rather than acute kidney injury is highly associated with long-term patient survival and loss of renal function - a retrospective cohort study[J] . Transpl Int,2017,30(8)：788-798.
+(收稿日期：2020-03-30)
+刘俊铎.心脏移植术后急性肾损伤及其肾脏替代治疗[J/CD].实用器官移植电子杂志,2020,8（4）:248-251.
+本期执行主编
+刘懿禾
+职称：主任医师
+职务：天津市第一中心医院器官移植中心
+移植监护室主任
+主任医师。1985年毕业于天津医科大学，毕业后就业于 天津市第一中心医院急救医学研究所，三十余年来一直从事 急危重症临床医疗工作，历任ICU病区住院医师、主治医师、
+副主任医师、主任医师。现任天津市第一中心医院移植ICU主任。在急危重症患者 的诊治方面积累了丰富的临床经验，同时在血液净化、机械通气、血流动力学监测治 疗、肝移植围术期监护治疗、重症感染诊治，特别是感染性多器官功能不全的监测及 诊疗等危重病相关领域中不断努力探索，发表相关论文40余篇，完成科研课题6项。
+刘俊铎
+职称：副主任医师
+职务：天津市第一中心医院肾内科血透中心主任
+副主任医师，医学硕士，毕业于第二军医大学（现海军 医科大学），现任天津市第一中心医院肾内科血透中心主任。 长期从事肾移植内科及血液净化工作，专注于器官移植围术
+期的血液净化治疗、人工肝及儿童血液净化治疗等，承担天津医科大学硕士研究生“器 官移植围手术期血液净化治疗”的教学工作。主要学术任职：天津市医师协会肾脏病 专业委员会委员，天津市抗衰老协会心肾交互性疾病分会副主任委员，天津市血液净 化质控中心血管通路学组委员，中国医促会血管外科分会血管通路学组委员，天津市 中西医结合学会传染病专业委员会青年委员。参与多项器官移植及血液净化科研工作， 并在国内外杂志发表论著10余篇，参与完成译著3部。

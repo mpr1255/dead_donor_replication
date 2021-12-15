@@ -1,0 +1,134 @@
+﻿第11卷 第5期
+2020年9月
+Vol. 11 No. 5
+Sep. 2020
+器官移植
+Organ Transplantation
+•论著•
+超声造影定量参数在评估脑死亡器官捐献供肝中的 应用价值
+任秀昀 高农 潘宜鹏 吕发勤 李威
+【摘要 目的 探讨超声造影(CEUS )定量参数在评估脑死亡器官捐献(DBD )供肝中的应用价值。方 法 回顾性分析25例DBD供肝和10例健康成人肝脏的临床资料。收集DBD供肝组和对照组的CEUS检查情况， 参数包括曲线下面积(AUC)、峰值强度(Im)、达峰时间(TTP)、平均渡越时间(mTT)等。结果DBD 供肝组的25例中，23例为正常增强模式，另2例为异常增强模式。与对照组比较，DBD供肝组的AUC、％相、 mTT值均明显降低(均为P<0.05)。结论CEUS定量参数是评估DBD供肝微灌注的有效指标。
+【关键词】	脑死亡器官捐献；超声造影；微灌注；曲线下面积；峰值强度；达峰时间；平均渡越时间
+【中图分类号】R617, R445.1【文献标志码】A【文章编号】1674-7445( 2020)05-0014-05
+Application value of quantitative parameters of contrast-enhanced ultrasound in evaluating donor liver from donation after brain death Ren Xiuyun*, Gao Nong, Pan Yipeng, Lyu Faqin, Li Wei. *Department of Ultrasonography, the Third Medical Center of Chinese PLA General Hospital, Beijing 100039, China
+Corresponding authors: Lyu Faqin, Email: lvjin8912@163.com
+Li Wei, Email: 13911850999@139.com
+【Abstract】 Objective To evaluate the application value of quantitative parameters of contrast-enhanced ultrasound (CEUS) in evaluating the donor liver from donation after brain death (DBD). Methods Clinical data of 25 DBD donor livers and 10 healthy adult livers were retrospectively analyzed. CEUS examinations of DBD donor livers and healthy livers were collected. Quantitative parameters included the area under curve (AUC), maximum intensity (Imax), time to peak (TTP) and mean transit time (mTT), etc. Results Among 25 cases of DBD donor livers, 23 cases showed normal enhancement pattern, and the other 2 cases presented with abnormal enhancement pattern. Compared with the control group, the AUC, Imax and mTT values of DBD donor livers were significantly decreased (all P <0.05). Conclusions CEUS quantitative parameters can be effective means to evaluate the micro-perfusion of DBD donor livers.
+【Key words] Donation after brain death; Contrast-enhanced ultrasound; Micro-perfusion; Area under curve; Maximum intensity; Time-to-peak; Mean transit time
+随着我国人体器官捐献条例的制定,脑死亡器官 供肝的重要来源。脑死亡后,机体器官会发生一系列 捐献(donation after brain death，DBD)供者已成为	的病理生理改变，低血压、低血氧状态会导致肝组织
+DOI: 10.3969/j.issn.1674-7445.2020.05.014
+基金项目：科技部“十三五”国家重点研发计划项目（2016丫尸。0105006）；国家自然科学基金培育计划项目（讨22014002）
+作者单位：100039 北京,中国人民解放军总医院第三医学中心超声科（任秀昀、高农、吕发勤）,移植科（潘宜鹏、李威）
+作者简介：任秀昀，女，医学博士，副主任医师，研究方向为器官移植及介入超声，Email： rforestcloud@sina.com
+通信作者：吕发勤，男，医学博士，硕士研究生导师，研究方向为器官移植及介入超声，Email： lvjin8912@163.com；李威，男，医学 博士，副主任医师，研究方向为肝移植，Email： 13911850999@139.com
+第5期
+任秀昀等．超声造影定量参数在评估脑死亡器官捐献供肝中的应用价值
+■ 611・
+灌注不足，而神经系统的崩溃和大量细胞因子的释放 也会引起肝组织受损［1-2］，从而加重移植术后肝脏的 缺血-再灌注损伤，因此在器官获取前应尽量减轻供 肝微循环障碍、缺氧和内皮细胞损伤［3-4］。
+对于潜在DBD供肝评估的首选方法为便捷 的床旁超声检查，而超声造影（contrast-enhanced ultrasound, CEUS）技术是评估这种微灌注改变的最 佳手段［5］，本文通过对比研究DBD供肝与健康成人 肝脏微灌注的不同，拟探讨CEUS定量参数在评估 DBD供肝微灌注中的应用价值。
+1	资料与方法
+1.1 一般资料
+回顾性分析2015年1月至12月中国人民解放军 总医院第三医学中心获取的25例DBD供肝和10例 健康成人肝脏的临床资料。DBD供肝组中，男19例， 女6例，年龄18~65岁，原发疾病包括颅脑损伤12例、 脑出血8例、脑梗死2例、脑胶质细胞瘤1例、脑瘫 伴蚕豆病1例、缺血缺氧后脑病1例。对照组中，男 6例，女4例，年龄20~60岁，无肝炎、肝硬化及其 他肝病病史，肝功能正常。
+供肝纳入标准：（1）DBD潜在供肝经评估后确 认肝脏质量合格可以获取，并在我中心实施移植手术； （2）移植术后无急性排斥反应、无肝脏原发无功能 和严重血管并发症发生；（3）接受供肝后受者存活 2周以上。所有检查对象或其家属均签署由医院伦理 委员会批准的知情同意书，符合医学伦理学规定。
+1.2 检查方法
+应用ACUSONS 2000超声诊断仪（德国西门子 公司），6C1探头，探头频率1~6 MHz，配备CEUS 及定量分析软件。探头置于右前肋间隙，先进行二维 及彩色多普勒超声检查，然后以门静脉右支长轴切面 为标准切面，切换至CEUS模式，注射造影剂同时启 动计时器。并于启动计时器同时实时存储超声造影动 态资料，时间为2 min，对所有动态存储资料进行参 数分析。DBD供肝组参数采集时间为供者实施获取 前24 h内，同时给予患者呼吸机支持。对照组为常 规空腹检查。
+1.3 研究内容
+收集DBD供肝组和对照组的CEUS检查情况， 包括CEUS增强模式和定量参数。定量参数包括曲线 下面积（area under curve，AUC）、峰值强度（maximum
+intensity，Imax）、达峰时间（time to peak，TTP）、 平均渡越时间（mean transit time，mTT）等。AUC 表示单位时间内通过的造影剂，数值越低表示灌注越 差，数值越高表示灌注越好；Imax代表灌注强度，数 值越大表示灌注强度越高，反之灌注强度越低；TTP 是造影剂达峰时间；mTT表示平均渡越时间，为下 降面积与上升面积相等的时间。
+1.4 统计学方法
+采用SPSS 18.0软件进行统计学分析。对于符合 正态分布的计量资料以均数±标准差表示，组间比 较采用非参数检验方法、重复测量资料的方差分析。 P<0.05为差异有统计学意义。
+2	结 果
+2.1	CEUS增强模式
+DBD供肝组25例中，23例为正常增强模式，即 肝动脉、门静脉依次增强，同时肝实质逐渐增强，其 中20例肝实质增强程度明显低于门静脉（图1A）； 另2例为异常增强模式，即首先肝动脉增强，然后肝 实质开始增强，最后门静脉增强，肝实质增强程度明 显低于门静脉（图1B）。
+2.2	CEUS 定量参数分析
+DBD供肝组与对照组的AUC、Imax、TTP、mTT 值分别为（2 454±1 225）%和（4 831±448）%、
+（46.6 士 14.8）% 和（63.8 ± 1.8）%、（ 30 ± 10）s 和 （44± 13）s、（ 32.9 ±2.1） s 和（57.6 ± 5.6 ） s （图 2）。 与对照组比较，DBD供肝组的AUC、Imax、mTT值 均明显降低（均为P<0.05 ）。
+3	讨 论
+自我国2010年3月制定“中国心脏死亡器官捐 献分类标准”以来［6］，DBD供肝成为器官移植的重 要捐献来源［7-8］。脑死亡后供者体内炎症因子和儿茶 酚胺大量释放，可出现“交感风暴”，肝脏血液灌注 不足、微循环障碍，进而导致肝细胞胞浆内线粒体及 内质网水肿、变性、肝细胞坏死［9-11］，这些病理学的 改变很难通过普通超声检查发现［12-13］，只能依靠肝穿 刺活组织检查（活检）［14-16］，而潜在的DBD供者状 态瞬息万变，在抢救维持过程中，准确、便捷、无创 的检查方法极其重要。
+目前临床上对DBD供肝的评价方法十分有限， 常以临床病史、肝脏活检、生物化学检查和影像学
+- 612,
+器官移植
+第11卷
+注：A图为CEUS正常增强模式，肝实质增强程度明显低于门静脉增强程度，箭头所示PV为门静脉；B图为CEUS异常增强模式， 肝实质已经增强，门静脉内尚未见造影剂灌注，箭头所示HA为肝动脉，PV为门静脉。
+图1 DBD供者的CEUS检查图像
+Figure 1 CEUS inspection images of DBD donors
+6 000 -
+5 000 - T
+Q4 000 = a
+2 3 000 =
+2 000 ・■
+■ DBD供肝组
+■对照组
+6 000
+5 000
+4 000
+3 000
+2 000
+J
+60M il 40 20^^MI_H 20
+AUC 1max TTP mTT 参数
+H
+hd
+m T T
+注：与对照组相比，aP<0.05。
+图2 DBD供肝组与对照组CEUS定量参数的比较
+Figure 2 Comparison of CEUS quantitative parameters between DBD donor liver group and control group
+评估为主。鉴于肝脏活检的有创性，移植科医师多依 靠生物化学指标以及实时监测供者生命体征等方法 进行评估，然而这些手段并不能切实有效地反映供 肝的损伤情况［17-20］。肝脏的微灌注状况是从微循环维 度对肝脏质量较为客观的反映，CEUS技术是近年来 出现的新型影像学检查方法，在肝脏占位性病变的 诊断、引导穿刺活检和肝移植术后血管并发症的诊 断方面已成为成熟的技术［21-22］，并可通过微灌注定量 参数鉴别诊断肝脏肿瘤［23］。目前关于CEUS技术在 DBD供肝中的研究较少，本研究通过应用德国西门 子公司ACUSON 2000超声诊断仪以及CEUS灌注定 量分析软件，可以评估DBD供肝微循环状态。微灌 注定量分析参数中，最有价值的参数为AUC和Imax， AUC数值越高表示灌注越好，数值越低表示灌注越
+差；Imax值越大表示灌注强度越高，反之灌注强度 越低。
+本研究中，DBD供肝组的AUC、Imax均明显低于 对照组，这表明DBD供肝的微灌注量下降。本组病 例中23例CEUS正常灌注模式的病例中20例表现为 肝实质增强程度明显低于门静脉增强程度；另有2例 病例为异常增强模式，造影剂注射后增强顺序分别为 动脉、肝实质、门静脉，这种异常模式可能与肝细胞 水肿、肝窦压力增大有关，其是否影响受者预后及并 发症发生风险尚不可知。
+缺血-再灌注损伤是肝移植术后早期最常见的并 发症［24］。肝移植过程中，肝脏会经历热缺血、冷保 存及再灌注损伤的病理生理过程，实际上都会发生不 同程度的缺血-再灌注损伤，在病理学上表现为肝窦 内皮损伤、中性粒细胞激活以及炎症介质释放、肝实 质损伤［25］。DBD供肝获取前机体处于低循环、低灌 注状态，而移植后由于肝脏再灌注损伤，导致灌注量 偏低，随着缺血-再灌注损伤的修复，肝功能逐渐恢复。 因此在DBD供肝评估及等待获取的时间段内尤其应 注意微循环的改善，更应注意肝脏微灌注的变化，在 临床工作中我们也曾弃用过AUC和Imax数值较低的 供肝。CEUS为无创、便捷的超声技术，造影剂用量少、 且经肺代谢无肾毒性，可重复进行检查［26］，在获取 前对于经历过低灌注及复苏抢救的DBD供者应再次 进行CEUS微灌注检查，以防发生供肝植入后肝脏不 可逆的缺血-再灌注损伤。
+第5期
+任秀昀等．超声造影定量参数在评估脑死亡器官捐献供肝中的应用价值
+- 613・
+综上所述，CEUS定量参数为无创、便捷的评估 DBD潜在供肝微灌注的有效指标。但尚需进一步研 究微灌注量AUC和Imax数值的异常范围，以明确灌 注量降低到何种程度，可提示临床医师放弃使用。
+参考文献：
+[1]	BUGGE JF. Brain death and its implications for management of the potential organ donor[J]. Acta Anaesthesiol Scand, 2009,	53(10):1239-1250.
+DOI:10.1111/j.1399-6576.2009.02064.x.
+[2]	DZIODZIO T, BIEBL M, PRATSCHKE J. Impact of brain death on ischemia/reperfusion injury in liver transplantation[J]. Curr Opin Organ Transplant, 2014, 19(2):108-114. DOI:10.1097/MOT.0000000000000061.
+[3]	KAHN J, SCHEMMER P. Control of ischemiareperfusion injury in liver transplantation: potentials for increasing the donor pool[J]. Visc Med, 2018, 34(6):444-448. DOI:10.1159/000493889.
+[4]	CHEN S, FANG H, LI J, et al. Donor brain death leads to a worse ischemia-reperfusion injury and biliary injury after liver transplantation in rats[J]. Transplant Proc, 2020, 52(1):373-382. DOI:10.1016/j.transproceed.2019.10.012.
+[5]	LI H, LI J. Application of real-time contrast-enhanced ultrasound in differential diagnosis of liver malignancies[J]. Can J Physiol Pharmacol, 2019, 97(5):341-344. DOI:10.1139/cjpp-2018-0404.
+[6]	郭源, 臧运金. 公民逝世后器官捐献供肝肝移植:我 国儿童肝移植的新出路[J].器官移植，2016, 7(2): 8588. DOI: 10.3969/j.issn.1674-7445.2016.02.001.
+GUO Y, ZANG YJ. Liver transplantation from donation after citizen’s death: the new way of pediatric liver transplantation in China[J]. Organ Transplant, 2016, 7(2): 85-88. DOI: 10.3969/j.issn.1674-7445.2016.02.001.
+[7]	谭晓宇,陈晓兰,林金铭,等.机械灌注技术引领器 官捐献与移植模式的变革一一器官ICU时代即将到 来?[J].器官移植,2019,10(4):453<58.DOI:10.3969/j.issn. 1674-7445.2019.04.018.
+TAN XY, CHEN XL, LIN JM, et al. Mechine perfusion technology leads the transformation of organ donation and transplantation model: the age of organ ICU?[J]. Organ Transplant, 2019,10(4):453-458. DOI:10.3969/ j.issn.1674-7445.2019.04.018.
+[8]	潘宜鹏,刘煜,李明,等. 改良颅内加压法兔脑死亡模 型建立及其状态的维持[J].中国比较医学杂志,2016, 26(1):25-28. DOI:10.3969.j.issn.1671.7856.2016.001.005. PAN YP, LIU Y, LI M, et al. Establishment of brain death model for rabbits in a modified way by increasing intracranial pressure and maintaining the state of
+brain death[J]. Chin J Comp Med,2016,26(1):25-28. DOI:10.3969.j.issn.1671.7856.2016.001.005.
+[9]	DESAI KK, DIKDAN GS, SHAREEF A, et al. Ischemic preconditioning of the liver: a few perspectives from the bench to bedside translation[J]. Liver Transpl, 2008, 14(11):1569-1577. DOI:10.1002/lt.21630.
+[10]钟自彪，叶改发,范晓礼，等.家兔脑死亡后肝损伤机 制仃/CD].中华肝脏外科手术学电子杂志,20132(5):322-326. DOI:10.3877/cma.j.issn.2095-3232.2013.05.012.
+ZHONG ZB, YE QF, FAN XL, et al. Mechanism of liver injury of rabbits after brain death[J/CD]. Chin J Hepa Surg (Electr Edit),2013,2(5):322-326. DOI:10.3877/cma. j.issn.2095-3232.2013.05.012.
+[11]	范林,李弦,张秋艳,等.脑死亡供体肝脏质量影 响因素[J].中华肝胆外科杂志,2015,21(9):637-641. DOI:10.3760/cma.j.issn.1007-8118.2015.09.017.
+FAN L, LI X, ZHANG QY, et al. Risk factors for liver quality in donation after brain death[J]. Chin J Hepatobil Surg,2015,21(9):637-641. DOI:10.3760/cma. j.issn.1007-8118.2015.09.017.
+[12]	王力,黄品同,何慧疗,等. 声辐射力脉冲成像技术定 量评价兔肝缺血后弹性改变的实验研究[J].中华超 声影像学杂志,2010,19(11):989-992. DOI:10.3760/cma. j.issn.1004-4477.2010.11.024.
+WANG L, HUANG PT, HE HL, et al. Quantitative assessment of ischemic liver's elastic changes in rabbits using acoustic radiation force impulse (ARFI) [J]. Chin J Ultrason,2010,19(11):989-992. DOI:10.3760/cma.j.issn. 1004-4477.2010.11.024.
+[13]	TONGBAI T, MCDERMOTT S, KIRANANTAWAT N, et al. Non-diagnostic CT-guided percutaneous needle biopsy of the lung: predictive factors and final diagnoses[J]. Korean J Radiol, 2019, 20(11):1515-1526. DOI:10.3348/kjr.2019.0014.
+[14]	SILVA JUNIOR RG, SCHMILLEVITCH J, NASCIMENTO MDE F, et al. Acoustic radiation force impulse elastography and serum fibrosis markers in chronic hepatitis C[J]. Scand J Gastroenterol, 2014, 49(8):986-992. DOI:10.3109/00365521.2014.909528.
+[15]	AHN JH, JANG JG. Initial experience in CT-guided percutaneous transthoracic needle biopsy of lung lesions performed by a pulmonologist[J]. J Clin Med, 2019, 8(6):821. DOI:10.3390/jcm8060821.
+[16]	LAURSEN CB, GRAUMANN O, M0LLER TV, et al. Contrast-enhanced ultrasound-guided transthoracic lung biopsy[J]. Am J Respir Crit Care Med, 2016, 194(5):e5-e6. DOI:10.1164/rccm.201603-0500IM.
+(下转第628页 to page 628)
+- 628.
+器官移植
+第11卷
+[58]	THOMSON AW, ZAHORCHAK AF, EZZELARAB MB, et al. Prospective clinical testing of regulatory dendritic cells in organ transplantation[J]. Front Immunol, 2016, 7: 15. DOI: 10.3389/fimmu.2016.00015.
+[59]	THOMSON AW, METES DM, EZZELARAB MB, et al. Regulatory dendritic cells for human organ transplantation[J]. Transplant Rev (Orlando), 2019, 33(3):130-136. DOI: 10.1016/j.trre.2019.05.001.
+[60]	THOMSON AW, EZZELARAB MB. Generation and functional assessment of nonhuman primate regulatory dendritic cells and their therapeutic efficacy in renal transplantation[J]. Cell Immunol, 2020, 351:104087. DOI:10.1016/j.cellimm.2020.104087.
+[61]	MOREAU A, VAREY E, BOUCHET-DELBOS L, et al. Cell therapy using tolerogenic dendritic cells in transplantation[J]. Transplant Res, 2012, 1(1): 13. DOI: 10.1186/2047-1440-1-13.
+[62]	MOREAU A, VAREY E, BERIOU G, et al. Tolerogenic
+dendritic cells and negative vaccination in transplantation: from rodents to clinical trials[J]. Front Immunol, 2012, 3: 218. DOI:10.3389/fimmu.2012.00218.
+[63]	KAWAI T, LEVENTHAL J, WOOD K, et al. Summary of the Third International Workshop on clinical tolerance[J]. Am J Transplant, 2019, 19(2): 324-330. DOI: 10.1111/ ajt.15086.
+[64]	LI H, SHI B. Tolerogenic dendritic cells and their applications in transplantation[J]. Cell Mol Immunol, 2015, 12(1): 24-30. DOI: 10.1038/cmi.2014.52.
+[65]	ZHOU Y, SHAN J, GUO Y, et al. Effects of adoptive transfer of tolerogenic dendritic cells on allograft survival in organ transplantation models: an overview of systematic reviews[J]. J Immunol Res, 2016: 5730674. DOI: 10.1155/2016/5730674.
+(收稿日期：2020-06-10) (本文编辑：方引超 邬加佳)
+(上接613页 from page 613)
+[17]	KUMAR L. Brain death and care of the organ donor[J]. J Anaesthesiol Clin Pharmacol, 2016,32(2):146-152. DOI:10.4103/0970-9185.168266.
+[18]	FERRAIOLI G, WONG VW, CASTERA L, et al. Liver ultrasound elastography: an update to the world federation for ultrasound in medicine and biology guidelines and recommendations[J]. Ultrasound Med Biol, 2018, 44(12):2419-2440. DOI:10.1016/ j.ultrasmedbio.2018.07.008.
+[19]	YAMAMOTO N, WATANABE T, YAMADA K, et al. Efficacy and safety of ultrasound (US) guided percutaneous needle biopsy for peripheral lung or pleural lesion: comparison with computed tomography (CT) guided needle biopsy[J]. J Thorac Dis, 2019, 11(3):936-943. DOI:10.21037/jtd.2019.01.88.
+[20]	BRUZZONE P, BALLA A, QUARESIMA S, et al. Comparison of two questionnaires on informed consent in "marginal" donor liver[J]. Transplant Proc, 2016, 48(2):359-361. DOI:10.1016/j.transproceed.2015.12.053.
+[21]	REN X, LUO Y, GAO N, et al. Common ultrasound and contrast-enhanced ultrasonography in the diagnosis of hepatic artery pseudoaneurysm after liver transplantation[J]. Exp Ther Med, 2016,12(2):1029-1033. DOI:10.3892/etm.2016.3343.
+[22]	SPARCHEZ Z, MOCAN T, HAGIU C, et al. Realtime contrast-enhanced-guided biopsy compared with
+conventional ultrasound-guided biopsy in the diagnosis of hepatic tumors on a background of advanced chronic liver disease: a prospective, randomized, clinical trial[J]. Ultrasound Med Biol, 2019, 45(11):2915-2924. DOI:10.1016/j.ultrasmedbio.2019.07.678.
+[23]	LU Q, ZHANG XL, HAN H, et al. Value of perfusion parameters for differentiating hepatocellular carcinoma and liver metastasis with hypervascularity and a normal hepatic background on contrast-enhanced ultrasound imaging[J]. J Ultrasound Med, 2019,38(10):2601-2608. DOI:10.1002/jum.14957.
+[24]	LI Y, LI T, QI H, et al. Minocycline protects against hepatic ischemia/reperfusion injury in a rat model[J]. Biomed Rep, 2015, 3(1):19-24. DOI:10.3892/br.2014.381.
+[25]	ZUGHAIER SM, TZENG YL, ZIMMER SM, et al. Neisseria meningitidis lipooligosaccharide structuredependent activation of the macrophage CD14/Toll-like receptor 4 pathway[J]. Infect Immun, 2004, 72(1):371-380. DOI:10.1128/iai.72.1.371-380.2004.
+[26]	YANG HK, BURNS PN, JANG HJ, et al. Contrast-enhanced ultrasound approach to the diagnosis of focal liver lesions: the importance of washout[J]. Ultrasonography, 2019, 38(4):289-301. DOI:10.14366/ usg.19006.
+(收稿日期：2020-06-22) (本文编辑：石梦辰 吴秋玲)

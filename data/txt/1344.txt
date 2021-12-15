@@ -1,0 +1,124 @@
+﻿医学影像学杂志3131年第30卷第/期 J )kL ,AEMinM‘@S>30 N@>1 3131
+剪切波弹性成像在脑死亡供肝质量评估的应用价值研究
+李绚璇/，3，祝丽娜3，王建红/，赵 扬/，刘文怡/，王 新/，郭 源/，臧运金/
+/>青岛大学附属医院肝脏病中心 山东 青岛 38818/;3>山东省青岛市海慈医疗集团功能检查科 山东 青岛 388139
+&摘 要’ 目的 探讨剪切波弹性成像在脑死亡供肝质量评估中的应用价值（方法 脑死亡供肝30例术前分别行超 声检查、SRE测量及相关实验室检查，根据受体术后早期肝功能恢复情况，将对应供肝分为早期肝功能恢复延迟组 （E&+）和早期肝功能恢复正常组（非E&+），并对结果进行统计分析。结果 肝移植术后E&+组ORE弹性值、超声分 级、受体MEL+评分、受体TBIL均较非E&+组高，差异有统计学意义（I <1.。5 ），供体肝脏ORE值大于4. 56kPa是肝 移植术后发生E&+的独立危险因素（I =1.113）;两组间供体AST、ALT、TBIL、INR、门静脉血流量差异均无统计学意义（ I >1.。5） # $"-曲线分析可得，供体ORE的最佳阈值为4.56kPa（ I <1.111,ROC曲线下面积为1.939）、供体超声分级 的最佳阈值为3.5级（I =1.113, ROC曲线下面积为1.816）、受体MEL+评分的最佳阈值为11.15 （ I =1.111, ROC曲 线下面积为1.539）、受体TBIL的最佳阈值35.5mg/dL（I =1.121, ROC曲线下面积为1.717） #结论 剪切波弹性成像 技术可以评价脑死亡供肝硬度值，并与肝移植受体术后EA+发生有一定关联，对脑死亡供肝质量的评估有应用价值。
+&关键词’ 脑死亡器官捐献;早期肝功能恢复延迟;剪切波弹性成像
+中图分类号: R657. 3; R445. 1 文献标识码: A 文章编号: 1116 6 9111（ 3131） 11 6 1113 615
+7++&./)$."# 8)&,3 "A :%3)* J)83 3&):$">*)+%’ .# )::3::23#$ "A &.83* >*)A$: A*"2 -*).# =3)$% ="#"*
+45 9/1(?/1(1,3,!"6 4+(13,.#$% *+1(&0(-1,!"#< =1(-1,456 .’(D+1,.#$% 9+(1,%6< =/1(1,!#$% =/(L+(1
+1 U )’>1R2H’(2 0, 4+T’R )+;’1;’,M&’ #,,+3+12’O "0;>+213 0, A+(-O10 6(+T’R;+2D,A+(-O10 366161,IU SU :&+(1
+3U )’>1R2H’(2 0, 7/(Q2+0( @?1H+(12+0(,A+(-O10 "+;’R P’O+Q13 :’(2’R,A+(-O10 366134,IU SU :&+(1
+【Abstract’ Objective To invesGigate the value oX shear wave eSastography (ORE) Cn evaSuating the liver grafts from brain death donor (+B+) . Method: ThirtyYiine ?ases of +B+ were detected by ultrasonography， ORE and laboratory before operation. The donors were ?Sassified into two groups by earSy aSSograft fun?tion of transpSant re?ipients: earSy aSSograft dysfun?tion ( EA+) group and early allograft function normal ( non-EA+) group. +ata analysis was used to search for the relationship. 9eT :,&t: The ORE value,#ltrasonic grading,)EL+ score and TB,L of EA+ group were significantly higher than those of non-EA+ group ( I < 1. 15) . The ORE value above 4. 56 cPa was a independent risc factor for EA+ ( I = 1. 113) ; but there was no significant difference in the laboratory data and portal venous flow ( I > 1. 15 ) . The receiver operating characteristic ( ROC) curve revealed that the optimal cut-off value of ORE was 4. 56 cPa + I < 1. 111,aera under ROC curve ( A#C) = 1. 939%,the optimal cut-off value of ultrasonic grading was level 3. 5 ( I = 1. 113,A#C = 1. 816 ),the optimal cut-off value of )EL+ score was 11g 15 ( I = 1. 111,A#C = 1. 739),and the optimal cut-off value of TB,L of transplant recipient was 35. 5 mg/dL ( I = 1. 131, A#C = 1. 717) . @"#c&,:i"# ORE is able to assess the liver stiffness of +B+ with a high diagnostic accuracy. There is significant relationship between EA+ after liver transplantation and the ORE value of liver grafts. ORE is licely to improve the assessment of liver grafts from +B+.
+&Ue’ J"*=:’ +onation after brain death; Early liver function recovery delay; Ohear wave elastography
+肝脏移植是目前治疗终末期肝病的唯一有效 手段,而高质量的供肝是肝移植手术成功的重要条 件［1］（本文对潜在脑死亡器官捐献（ donation after
+基金项目:山东省青岛市民生科技计划项目（编号: 17-3-3-13-nsh）
+作者简介:李绚璇（ 1987-）,女,山东青岛人,毕业于皖南医学院, 学士学位,在读医学硕士研究生,住院医师,主要从事腹部超声诊断 工作
+通信作者:王建红 副主任医师 E-mail: ningtai= sina. com
+brain death，DBD）患者行超声检查，采用剪切波弹 性成像（shear wave eSastography，ORE）技术,记录超 声各观察指标及肝脏硬度值,根据肝移植术后早期 肝功能恢复情况,回顾性分析剪切波弹性成像对脑 死亡供肝质量的评估价值,为脑死亡供肝质量评估 提供影像学依据（
+1 资料与方法
+13
+医学影像学杂志2121年第31卷第/期 J Med ,maging V@l. 31 %@./ 2121
+/> / 临床资料
+/././供体资料 选取2117年3月~2118年4月 青岛大学附属医院器官移植中心获取供肝，并于本 院行肝移植术的潜在脑死亡器官捐献者30例，男性 38例，女性3例，年龄10 d 89岁，平均年龄（98> 40 l//> //）岁（脑死亡原因分别为脑出血/4例，脑外 伤14例，外伤9例，缺血缺氧性脑病3例，脑梗塞1 例，脑出血脑肿瘤1例（器官捐献者亲属均签署器 官捐献同意书，并经我院医学伦理委员会审批通过（ 1> 1>2 受体资料 肝移植受者共30例，其中男性 34例，女性9例，年龄24 ~68岁，平均年龄（43>31 ±11.85）岁。原发病有肝癌合并肝硬化17例，肝硬 化11例，肝癌4例，酒精性肝硬化2例，慢性肝损害 2例，二次肝移植2例，自身免疫性肝硬化1例（手 术术式有经典原位31例，背驼式8例，改良背驼式 2例，劈离式肝移植1例（截止到2118年8月，肝 移植受体随访时间约3 ~16个月，中位随访时间11 个月，肝移植术后死亡3例（术后门静脉无血流1 例，消化道出血1例，肺部感染#心衰1例） #根据肝 移植术后早期肝功能评估结果分为早期肝功能恢复 延迟组（ *&+组）和早期肝功能恢复正常组（非 *&+组） #
+1>1>3 早期肝功能恢复延迟（ *&+）诊断标准 *&+定义为满足以下1个或多个条件[2]: 1）术后第 7天TB!11mM/dL;2）术后第7天国际标准化比值 （ CDGKNDaGC@DaS D@NAaSC<Kd NaGC@，,%$） !1> 8;3）术后7 天内ALT或者AST >2 111#/’，以上有一种或者以 上情况出现即视为*&+（
+1>2 检查方法
+1	. 2. 1 超声检查 采用飞利浦iU Elite彩色超声 诊断仪，凸阵变频-44探头（探头频率1. 1 d 4g 1MUz,机械指数1. 16），配有剪切波弹性成像功 能（潜在脑死亡器官捐献者取仰卧位，二维超声观 察肝包膜#肝脏边缘#肝实质#肝内血管#肝内韧带# 胆囊壁#脾脏大小等，彩色多普勒超声测量门静脉管 径#流速及血流量，肝动脉管径#流速及阻力指数，并 根据上述指标进行超声检查分级（该分级参考美国 放射学会BIMADO® ） : 1级为评估不完全，需要结 合其他检查，如外伤患者;1级肝包膜光滑#肝实质 回声均匀#肝脏下缘角锐利#血管走向清晰#不伴脾 肿大;2级肝包膜光滑#肝实质回声均匀或稍增粗# 肝脏下缘角锐利#血管走向清晰#不伴脾肿大;3级 肝包膜尚光滑#肝实质回声增粗#肝脏脏面边缘毛糙 不平#血管走向尚清晰#不伴脾肿大;9级肝包膜粗
+糙不光滑#肝实质回声增粗增强且不均匀#肝脏脏面 边缘凹凸不平#血管末梢模糊#伴或不伴脾肿大; 4 级肝包膜呈波浪状#肝实质回声明显增粗增强且不 均匀#伴或不伴结节#肝脏脏面边缘波浪状#血管狭 窄粗细不等、伴或不伴脾肿大。其中1~3级超声检 查评估供肝基本可以考虑应用于肝移植，9级建议 结合活检、术中所见，4级超声检查评估不能应用于 肝移植。呼吸机吸气后屏气3 d 4s,于右肋间选取 肝脏右前叶下段（04）合适切面，切换到ORE模式， 尽量固定探头并远离血管、胆道及胆囊，将弹性取样 框置于深度显示为9 ~4cm范围的肝实质处，进行 11次连续有效测量,取均值得到ORE值并记录国（ 1.2.2实验室检查 供者行超声检查及ORE测量 当天抽取静脉血送检，受者肝移植术前及术后7天 内清晨空腹抽取静脉血送检（血清学检查项目包括 肝功能及血常规，并根据受者临床指标计算术前 MELD评分。
+1>3 统计学分析
+采用OTOO 17.1统计学软件进行统计学分析。 正态分布计量资料使用独立样本2检验;非正态分 布计量资料使用秩和检验;非正态分布计数资料使 用卡方检验。单因素分析中I <1.14的因素纳入 logistic回归分析。采用受试者工作曲线（receiver operatinM characteristic, ROC ）比较分析不同指标的 预测效果，以I <1.14为差异有统计学意义。
+2	结果
+2.1 EAD组与非EAD组比较
+供体肝脏ORE值检测（图1） # EAD组供体肝 脏ORE值高于非EAD组,两组差异有统计学意义 （I <1.111 ）,EAD组供体肝脏超声检查分级高于 非EAD组，两组差异有统计学意义（I o 1.113）, EAD组受体术前MELD评分较非EAD组高，两组 差异有统计学意义（I =1.114 ）,EAD组受体术前 TBIL较非EAD组高，两组差异有统计学意义（I o 1.121） #供体AOT、ALT、TBIL、INR、门静脉流量在 两组间比较差异均无统计学意义（ I >1.14），受体 术前INR在两组间比较差异无统计学意义（I > 1g 14 ），见表1 （
+将单因素分析有统计学意义的供体肝脏ORE 值、供体超声分级、受体MELD评分及受体TBIL纳 入多因素logistic回归分析得出：供体肝脏ORE值 大于4.46kPa是肝移植术后发生EAD的独立危险 因素（I =1.113）,见表2（
+13
+医学影像学杂志2121年第31卷第/期 J Med ,maging V@l.31 %@. / 2121
+表/ 两组供体和受体临床数据及超声检查数据比较
+项目	E&D 组(n=21)	非 E&D 组(n = 19)	I值
+供体 OWE 值(kPa, ? l ;)	6.65 l2.69	3.51 l1.27	i 1. 111p
+超声分级（ X） 3级	2(13.3%)	12(71.6%)	1. 113p
+9级	11(73.3%)	5(29.9%)	
+5级	2(13.3%)	1( 1. 1% )	
+门静脉流量( AS / Ain,?"l ; )	575. 99 l 195. 22	537. 79 l 219. 55	1. 763
+&OQ( #/L,?"l ; )	113. 55 l 157. 57	95. 79 l67.16	1. 662
+&LQ( #/L,?"l ; )	131. 5 l 157. 99	77. 63 l71.17	1. 311
+I%$( ?"l ; )	1. 11 l1.29	1.31 l1.57	1. 172
+QBIL( $AoS /L,?"l ; )	21. 77 l19.11	19. 97 l9.71	1. 793
+受体术前 MELD 评分（? 1 ;）	19. 61 l7.17	7.11 l9.76	1. 115p
+I%$( ?"l ; )	1.99 l1.95	1.27 l1.27	1. 117
+QBIL( $AoS/L,M)	71. 25	27. 11	1. 121p
+注: p I i 1> 14
+表2 Logistic回归分析结果
+变量	I	E;H( B)	95% CI	
+			LoJer	#HHer
+供体OWE值	1. 113p	5. 979	1. 999	29. 795
+供体超声分级	1. 167	7. 691	. 911	177. 967
+受体MELD评分	1. 517	1. 171	. 759	1. 367
+受体胆红素	1. 921	1. 119	. 999	1. 119
+注：-I为可信区间，I <1.15为统计学意义显著
+2> 2 $"-曲线分析结果
+将有统计学意义的供体肝脏OWE值、超声检查 分级、受体MEL+评分及受体QPIL进行$"-曲线 分析，供肝OWE值$"C曲线下面积为1.939 （I i 1.111,最佳阈值9. 56kPa,敏感度91. 1%，特异度 57>9a） "超声检查分级$"-曲线下面积为1> 718 （ I o 1. 113,最佳阈值3. 5级,敏感度76. 5%,特异 度51.6%）、受体MEL+评分$"C曲线下面积为 1g 539（ I o1. 1//,最佳阈值//. 15,敏感度65. 1%, 特异度79. 2%） 、受体 QPIL$"C 曲线下面积为 1.717（ I =1. 121，最佳阈值 35. 5mg/dL,敏感度 75g 1%,特异度63.2%） （图2） #
+3	讨论
+脑死亡（DBD）已成为重要的供体来源，有研究 指出DCD、LD（living donor）和DBD移植物具有相似 的长期移植物存活率［5］,但由于脑死亡有较复杂的 病理过程,导致肝组织受损,影响供肝质量,如何客 观、有效地评估脑死亡供肝质量对肝移植效果意义 重大（肝穿刺病理学检查可以评估肝脏纤维化程度 19
+和脂肪变性的准确体积百分比,但为有创检查;而 MRCT及M$I对脂肪变性的定量分析优于超声检 查,但我国目前国情很难做到床旁检查;超声检查凭 借其及时性、无创、可床旁、可重复、价格低廉等优 势,已成为肝移植术前供体评估的重要手段（本组 通过测量脑死亡供肝OWE值,根据肝移植术后早期 肝功能恢复情况,回顾性分析剪切波弹性成像在脑 死亡供肝质量评估中的价值,为脑死亡供肝提供简 捷、快速、有效的影像学评估手段（
+OWE技术是目前最先进的弹性成像技术之一, 利用物质本身固有的弹性属性,使用超声弹性成像 技术对组织施加激励而产生响应,再利用超声成像 方法,反映出组织内部的弹性差异［6］,间接反映组织 内部结构的不同。已有国内研究提出，二维OWE能 够无创评估肝脏硬度,且肝硬度值随肝纤维化程度 增加而增大回（UerrAann E等研究提出，OWE技术 对于丙型肝炎、乙型肝炎和非酒精性脂肪肝患者肝 纤维化及肝硬化均有诊断意义,且临床诊断意义大 于TE技术°7（最新研究表明OWE技术在检测过程 中不需要人为施加压力,避免了检查医师由于经验 不足造成的测量误差,并且检查重复性好、操作时间 短,大大提高了临床工作效率°9］（超声弹性成像技 术在脑死亡供肝质量评估中已有初步应用研究,国 内学者研究结果表明,超声弹性成像技术作为一种 无创的检查方法,可初步评价脑死亡肝脏损伤,且与 肝组织超微形态学有良好的相关性°11］（ Man?ia°11］ 对23名脑死亡供体行FibroOcan检查并与肝穿刺病
+医学影像学杂志2121年第31卷第/期 J Med ,maging V@l. 31 %@./ 2121
+图/供体肝脏OR*值测量图 图2供体OR*值、供体超声分级、受体MELD评分及受 体QPIL的$"-曲线
+血流灌注情况，不能单独用于评估脑 死亡后肝脏损伤情况［//］（
+肝脏硬度值与肝纤维化程度及 肝脏炎症、坏死均有相关性,Takeuchi 通过对NAFLD患者研究分析，提出 OWE硬度值随肝脏脂肪变性程度、肝 纤维化分期、炎症评分、气球样变评 分呈递增趋势［/4］，而肝脏炎症状态、 不同的检查状态及条件、患者呼吸运 动等,均有可能导致SWE值测量出 现偏差［/8］（
+综上所述，剪切波弹性成像测量 SWE值反映脑死亡供肝硬度以评价 供肝质量，并且是肝移植术后E&D
+理结果作对照，结果显示FibroOcan测得的肝硬度值 和受控衰减参数分别可以预测脑死亡供体术前供肝 的组织学状态和脂肪变性程度（本组选取30例脑 死亡供肝，肝移植术后发生E&D21例（E&D组），未 发生E&D10例（非E&D组），回顾性分析其供者超 声监测指标及临床实验室检查，结果显示E&D组供 体肝脏OWE值高于非E&D组（I <1.111） ;ROC曲 线显示供体OWE值对术后E&D发生的预测效果 好，曲线下面积为1> 030（ I i 1> 111，最佳阈值 4g 56kPa,敏感度91.1%，特异度78. 9% ），预测效果 优于其它评估指标（供体超声分级、受体MELD评分 及受体TPIL曲线下面积分别为1. 816、1. 739、 1.717）；多因素回归分析显示，供体术前肝脏OWE 值大于4. 46kPa是肝移植术后E&D发生的独立影 响因素（
+已有研究证实，二维超声检查等级评估与乙型 肝炎病人纤维化程度有高度相关性12 ； MELD评分 是目前临床术前判断肝移植受体预后的重要评估方 法之一，分值越高者病情越重、生存率越低，这已得 到国内外研究证实04 , TPIL则是MELD评分中的 重要因素之一（在本组中，传统的检测手段，如二维 超声检查、受体MELD评分及受体TBIL,与肝移植术 后E&D的发生亦有显著相关性（I <1.15），这与已 有研究结果一致（
+本组应用多普勒超声测定门静脉血流量，结果 显示其与术后发生E&D无明显相关性（I >1.15） # 脑死亡后引起低血压、肝脏血流灌注不足，门静脉流 速降低，但由于）肝动脉缓冲效应*理论，肝动脉流速 应激性增高，因此门静脉流量不能较好的反映肝脏
+发生的独立影响因素(因此，对潜在捐献供者术前 行超声检查及测量OWE值为供肝质量术前评估提 供影像学依据，降低E&D的发生。
+参考文献:
+[1]	Tr@\aD J，]aDM@B O，OchDiG<bauer &&. DiaMD@BGicB aDd GreaGAeDG
+@X heHaG@ceSSuSar carciD@Aa iD 2116 : BGaDdardB aDd deZeS@HAeDGB [J]. ‘iBc Med，2116，32( 2) : 116Y121.
+[2]	OSGh@XX kM，kuSik L，OaABGeiD B，eG aS. ‘aSidaGi@D @X a curreDG
+deXiDiGi@D @X earS: aSS@MraXG d:BXuDcGi@D iD SiZer GraDBHSaDG reciHieDGB aDd aDaS:BiB @X riBk XacG@rB [J]. LiZer TraDBHS，2111，16 ( 8 ) : 943Y949.
+2 美国放射学院. 乳腺影像报告与数据系统乳腺影像图谱M . 李洁，译.北京:北京大学医学出版社，2111. 291Y291.
+[4]	FaDM C，JaXXer OO，huBuX .T，eG aS. ReduciDM Ghe DuAber @X
+AeaBureAeDGB iD SiZer H@iDG BhearYJaZe eSaBG@MraHh:: XacG@rB GhaG iDXSueDce Ghe DuAber aDd eSiabiSiG: @X AeaBureAeDGB iD aBBeBBAeDG @X SiZer Xibr@BiB iD cSiDicaS HracGice [J]. Radi@S@M:，2118，287 ( 3 ) : 844Y852.
+[5]	k@SSAaDD D，OaHiB@chiD .，.@SdaraceDa N，eG aS. E;HaDdiDM Ghe
+d@D@r H@@S: d@DaGi@D aXGer circuSaG@r: deaGh aDd SiZiDM SiZer d@DaY Gi@D d@ D@G c@AHr@AiBe Ghe reBuSGB @X SiZer GraDBHSaDGaGi@D [J]. LiZer TraDBHS，2118，24( 6) : 779Y789.
+8 罗建文，白净.超声弹性成像的研究进展J .中国医疗器械信 息，2115，11( 5) : 28Y36.
+[7]	张芹，吴意赟，殷立平，等.剪切波弹性成像评估正常成人及慢 性肝病患者肝脏硬度稳定性的研究LJ .医学影像学杂志， 2118，28( 4) : 618Y611.
+[8]	UerrAaDD E，de LqdiDMheD ‘，CaBBiD@GG@ C，eG aS. &BBeBBAeDG @X
+bi@HB:YHr@ZeD SiZer Xibr@BiB b: GJ@YdiAeDBi@DaS Bhear JaZe eSaBG@MY raHh:: aD iDdiZiduaS HaGieDG daGaYbaBed AeGaYaDaS:BiB [J]. UeHaY G@S@M:，2118，67 ( 1 ) : 261Y272.
+[9]	M@Ma T‘，OGeHaD &M，PieDar C，eG aS. IDGraY aDd iDGerY@bBerZer
+reHr@ducibiSiG: @X a 2 YD Bhear JaZe eSaBG@MraHh: GechDibue aDd Ghe iAHacG @X uSGraB@uDd e;HerieDce iD achieZiDM reSiabSe daGa [J].
+15
+医学影像学杂志2121年第31卷第/期 J )ed ,magiDM‘M.31 No. / 2121
+#SGNEB@[DL )KL PC@S，31/7，99( 7) : /835Y/825>
+/1] 唐缨，赵静雯，牛宁宁，等.超声多模态评价猪脑死亡状态下肝 脏损伤的实验研究LJ .中华超声影像学杂志,1/7,28 (4): 934Y99/.
+//] )aD?Ca -，’@[BGa[LY$aGGC ‘，-aNNCeN T，eG aS. -@DGN@SSeL aGGeD[Y aGC@D HaNameGeN aDL SCZeN BGCXXDeBB meaB[NemeDGB X@N BGeaG@BCB aBY sessment in 比e liver GransplanG @X brain LeaL L@d@nb [J . Trans-HSaDGaGC@D，21/4，00( 7) : /8/0Y/829.
+/2] 穆晓洁，孟繁坤.实时剪切波弹性成像在乙型肝病诊断中的应 用研究J .医学影像学杂志,1/7,7(11) :213/2/34.
+/3] kamaGF T. & m@Lel G@ preLi?G s[rvival in paGienGs JiGF enLYsGaMe liver Lisease [J]. UepaG@l@M:,211/,33 ( 2) : 484Y471.
+/4] RanM V),TenM -U,han J_,eG al. $elaGi@nsFip beGJeen )elL s?@re anL GFe peri@peraGive ?@mpli?aGi@ns anL m@rGaliG: aXGer @rGFY G@pi? liver GransplanGaGi@n [J]. -Fin J "rMan QransplanG,2117, 27( 2) : /14Y/17.
+/4] Qace[?Fi U,O[Mim@G@ k,"sFir@ U,eG al. ’iver Xibr@sis: n@ninY vasive assessmenG [sinM s[pers@ni? sFear imaMinM anL (,P4 inLe; in paGienGs JiGF n@nYal?@F@li? XaGG: liver Lisease [J]. J )eL #lGraY s@n,21/7,44( 2) : 243Y240.
+/8] 郑荣琴,郑剑.剪切波弹性成像评价肝纤维化的现状与进展
+J .中华医学超声杂志(电子版)，2114,1/(12):044-047.
+(收稿日期: 21/0Y12Y/3 )
+（上接//页）
+讨论：PEComa是在组织学和免疫表型上具有血管周上 皮样细胞特征的间叶性肿瘤（多见于女性子宫#其次为肾 脏#肝脏罕见［/］（其家族中包括肾与肾外血管平滑肌脂肪 瘤#淋巴管肌瘤病#肺透明细胞糖瘤#肝镰状韧带的透明细胞 肌黑色素瘤及其它少见部位肿瘤［2-3］（
+肝脏PEComa好发于中年女性（40 ~ 50岁）。临床表现 不明显,多数患者于体检时发现,肿瘤较大压迫周围组织时 可出现腹痛#腹胀等体征（该病生物学行为多为良性,恶性 多以（olpe等4提出的标准分类。本例肿瘤＞5?m无其它组 织学异常，分为恶性潜能未定。文献报道固肝脏PEComa多 为圆形或类圆形肿块,边界清晰,多含脂肪成分,少有钙化（ CQ平扫多呈稍低密度影、大部分病灶密度均匀，部分病灶因 囊变坏死及含脂肪#出血密度不均（多期增强扫描因病灶血 供丰富动脉期明显强化,门静脉期病灶持续强化或强化程度 下降,延时期与正常肝实质呈等密度;病灶内或周边粗大迂 曲血管为其特征（当病灶内伴出血、坏死时表现为不均匀强 化或轮辐分隔状强化（本例平扫呈低密度、见少许脂肪成 分,增强后明显延迟强化,病灶内及周边见迂曲粗大血管与 文献相符。肝脏PEComa需与以下肿瘤相鉴别：肝细胞癌:增 强后呈快进快出，且供血血管细小，多合并肝硬化，AFP阳 性,易侵犯门静脉导致静脉癌栓形成及肝门、腹膜后淋巴结 的转移［0］（肝血管瘤:增强多期扫描呈边缘结节状强化向内 充填,呈早出晚归征（肝腺瘤:多见于年轻女性,有口服避孕 药史，肿块大而易出血。肝FNH：瘤体中心星状瘢痕呈延迟 强化可资鉴别
+总之，肝脏PEComa临床少见；增强后呈显著持续强化， 病灶内或周边见粗大迂曲血管为其特征（肿瘤联合表达黑
+色素标记物HMB45及肌源性抗体SMA,其中HMB45阳性对 诊断有重要意义(
+参考文献:
+[/]	’an h],H[a VE. HepaGi? m[lGiple perivas?[lar epiGFelioiL ?ell
+neoplam: a ?ase reporG anL liGeraG[re revieJ [J]. )ol Clin "n-?ol,21/8,4( 4) : 8/0-82/.
+[2]	,m O,hoo C,J[nM JH,eG al. Primar: perivas?[lar epiGFelioiL
+?ell G[mor in GFe re?G[m: a ?ase reporG anL revieJ oX GFe liGeraG[re [J]. PaGFol $es Pra?G,21/3,210( 4) : 244-247.
+[3]	h[ +,QanM O. HepaGi? perivas?[lar epiGFelioiL ?ell G[mor: a ?ase reporG anL revieJ oX GFe liGeraG[re [J]. ,nGern )eL,21/3,52 ( /2) : /333-/338.
+[4]	Folpe A’,)enG<el Q,’eFr HA,eG al. Perivas?[lar epiGFelioiL
+?ell neoplasms oX soXG Giss[e anL M:ne?oloMi? oriMin: a ?lini?opaGF-oloMi? sG[L: oX 28 ?ases anL revieJ oX GFe liGeraG[re [J]. Am J O[rM PaGFol,2115,20( /2) : /557-/575 .
+5	祝因苏，李丹燕，李红霞，等.肝脏血管周上皮样细胞瘤的CQ
+多期扫描诊断价值J .放射学实践,112,7(3):3/7^21.
+[8] 辛文龙,郭顺林,杨海婷.肝脏血管周上皮样细胞肿瘤/例 J . 中国 CQ 和)$1 杂志,115,3(2)：117」19.
+7	赵秀丽，胡儒华，王平怀，等.肝脏血管周上皮样细胞瘤的CQ
+和)$1表现[J] .中国医学影像学杂志，2118,24 (9) :889-873.
+7]	马骥，丁必彪，李慧，等.肝脏血管周上皮样细胞瘤1例[J .
+实用放射学杂志,2117,34( 8) : 979-991.
+[9] 贺亚琼,姚景江,刘建滨,等.肝脏乏脂肪型血管周上皮样细胞 肿瘤的)OCQ表现[J .实用放射学杂志,117,4 (8) :911-914.
+(收稿日期:2119-13-11)
+18

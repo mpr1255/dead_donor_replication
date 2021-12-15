@@ -1,0 +1,90 @@
+﻿448
+第一军医大学学报 J First Mil Med Univ 2000 20 5
+应用彩色多谱勒超声心动图监测心脏移植术后排斥反应
+邹小明 张 振 王武军（第一军医大学南方医院胸外科 广东 广州 510515）
+摘要：目的评价超声心动图在监测心脏移植术后急性排斥反应中的作用。方法 采用Accuson型彩色多谱勒超声心动图诊断仪，应用M型超声观 察室壁厚度及活动度、有无心包积液；应用B型超声观察各房室腔大小；用脉冲多谱勒频谱测E峰峰值流速、A峰峰值流速及E/A值，连续观察120 d 后行心内膜心肌活检 EMB 结果 超声心动图连续监测4个半月未发现排斥反应征象 心脏结构 功能正常 结论 动态应用超声心动图监测 心脏移植后早期急性排斥反应的发生具有安全、迅速、无创、无并发症的优点，同EMB相比有明显优越性。
+关键词 心脏移植 多谱勒超声心动图 急性排斥反应
+中图分类号 R445.1 文献标识码 A 文章编号 1000-2588 2000 05-0448-03
+Monitoring of acute rejection by Doppler echocardiography after heart transplantation
+ZOU Xiao-ming, ZHANG Zhen, WANG Wu-jun
+（Department of Thoracic Surgery, Nanfang Hospital, Fist Military Medical University, Guangzhou 510515, China）
+Abstract: Objective This study aimed to assess the value of echocardiography (ECG) in monitoring acute rejection episode after heart transplantation. Method M-ECG was used to measure the thickness of the ventricular wall and to detect pericardial effusion. The arterial and ventricular volume was mesured by B-ECG. Doppler-ECG was used to measure ventricular peak flow velocity in early diastolie (E: PFVE) and peak flow velocity in late diastolie (A: PFVA) of the mitral valve and tricuspid valve, and E/A ratio. Conclusion Consecutive ECG examination is rapid, safe, noninvasive and free of complication in detecting graft rejection, and has obvious advantages over endomyocardial biopsy (EMB).
+Key words: heart transplantation; Doppler echocardiography; acute allograft rejection
+急性排斥反应 AR 是心脏移植术后早期死亡的重要 原因之一，因此，及时发现、早期治疗AR对提高心脏移 植术后的生存率具有重要的意义 心内膜心肌活检 EMB 是目前临床上诊断心脏排斥反应的金标准 但由于是有创 检查 可能产生感染 室壁穿孔 心律失常等并发症 在 一定程度上限制了其应用 随着超声诊断技术的发展 大 量的研究表明 通过观察心脏的结构和功能变化 超声心 动图可用于观察与监测心脏移植排斥反应 但目前也通常 只是作为EMB的辅助手段。我科在国内较早采用超声心 动图作为主要手段监测我院首例同种异体心脏移植术后排 斥反应取得了较好效果
+1	临床资料
+患者 女 43岁 因反复活动后心悸 气促5年余入 院 查体 心尖搏动明显 心界向双侧扩大 胸片示心胸 比例增大 左上肺陈旧性肺结核 心脏超声示心腔扩大[射 血分数 EF 31.3% 左室短轴缩短率 FS 14.9%] 心 电图示多源性室性心律失常 术前诊断为扩张性心肌病 心功能 级 经持续两个多月的强心 利尿 扩血管药物
+收稿日期 2000-09-25
+作者简介 邹小明 1966-	男 1995年毕业于第一军医大学 硕士
+讲师 主治医师 电话 85141888-87240
+治疗和吸氧治疗 效果不佳 于2000年4月5日行同种异 体原位心脏移植术 供体为一脑死亡男性患者 心脏供体 血型与受体相同 淋巴毒性试验 PRA 反应率＜1% 移 植手术进行顺利 供心热缺血时间 0 min 冷缺血时间 70 min 主动脉阻断73 min 心脏吻合60 min 体外循环转 机123 min 术后呼吸机辅助16 h 受体移植术后病理检查 为扩张性心肌病
+术后应用骁悉 MMF FK506 强的松 Pred 三 联免疫抑制治疗：3个月内维持FK506全血药谷浓度为20 ng/ml 4个月后15 ng/ml 骁悉用量为2 g/d 强的松术后 用量为50 mg/d 1个月内逐渐减至30 mg/d 两个月减至 20 mg/d, 3个月后减至10 mg/d并维持治疗至今。术后随 访4个月 心功能 级 患者无乏力 周身不适 食欲不 振 活动后心悸及气促等症状 未服用任何强心药物
+术后用二维 脉冲及彩色多谱勒超声进行常规检查 术后1~8 d每天复查1次超声心动图，以后至1月内每两 天复查超声心动图，1月后每周复查1次。应用M型超声 观察室壁厚度及活动度、有无心包积液：应用B型超声观 察各房室腔大小 用脉冲多谱勒测量二尖瓣血流频谱 E 峰峰值流速（PFVE）、A峰峰值流速（PFVA）及E/A值， 仪器内软件系统自动计算下列心功能指标 左室舒张末容 积 左室收缩末容积 FS EF 左室重量 LVMW 等 术后于7月24日行EMB,所取标本分别经10%甲醛固定
+第一军医大学学报 J First Mil Med Univ 2000 20 5
+449
+标本后在光镜下观察有无心肌细胞坏死及血管周围淋巴细 胞浸润 2.5%戊二醛固定后在电镜下观察细胞内肌丝的分 布及形态及细胞器的形态改变情况
+2	结果
+2.1	术后6~41 d心脏不同部位心包积液量
+结果见表1 结果表明13次超声心动图检查左室后壁 心尖部 右室前壁收缩期和舒张期心包积液量均无显著变 化 提示无明显排斥反应
+2.2	术后1~17周各房 室内径情况
+结果见表2。患者术后1~17周行B超监测，左房、左 室 右房 右室内径无显著改变 提示无明显排斥反应 2.3术后1~17周患者PFVE、PFVA及E/A值
+患者术后 1~17 周以二尖瓣 三尖瓣血流频谱监测 PFVE、PFVA及E/A值，结果见表3。
+表3示三尖瓣的PFVE、PFVA均有下降超势，E/A比 值上升；二尖瓣PFVE下隆、PFVA上升，E/A比值下降， 提示左室顺应性下降
+表1术后6~41 d心脏不同部位心包积液量(ml)
+Tab.1 The volume of pericardial effusion in different parts of heart after heart transplantation (ml)
+Postoperationn (d)
+PE	6	7	8	10	12	14	16	20	23	25	30	36	41
+LVPW(S)	7.0	28.0	10.8	10.8	13.8	13.2	13.6	8.0	15.7	15.1	10.8	4.0	3.0
+LVPW(D)	4.3	7.0	6.5	5.2	5.7	5.7	7.9	4.3	11.3	11.5	5.7	2.0	1.0
+APEX(S)	0	0	4.0	3.7	7.3	10.8	11.0	9.0	12.1	11.8	9.1	0	0
+APEX(D)	0	0	2.0	1.0	4.4	5.6	6.0	4.0	9.4	8.0	7.2	0	0
+RVAW(S)	0	0	0	3.2	4.3	3.8	9.3	3.0	2.0	0	0	0	0
+RVAW(D)	0	0	0	0	0	0	2.2	0	0	0	0	0	0
+S:Systole; D: Diastole; LVPW: Left ventricular post wall; RVAW: Right ventricular anterior wall; APEX: Apex cardiogram
+表2 B型超声监测各房室内径(mm)
+Tab. 2 Monitoring of the dimension of atrial and ventricular by B-UCG (mm)															
+	Postoperation								(week)						
+	1	2	3	4	5	6	7	8	9	10	11	12	13	16	17
+LV	33	36	37	43	38	40	36	36	35	41	37	44	45	38	40
+LA	29	30	40	40	39	39	33	33	34	36	35	41	38	36	35
+RV	30	24	27	23	29	23	25	27	26	25	26	31	29	27	27
+RA	29	28	28	27	28	31	30	32	31	27	30	30	26	30	30
+Lv: Left ventricular; LA: Left atrial; RV: Right ventricular; RA: Right atrial
+表3 超声多谱勒监测二 三尖瓣频谱情况 (mm/s)
+Tab. 3 Monitoring of the mitral and tricuspid flow velocity spectra by Doppler Color-UCG (mm/s)
+Postoperation (week)
+	1	2	3	4	5	6	7	8	9	10	11	12	13	16	17
+MVe	92	75	74	84	65	74	86	88	78	65	89	81	78	39	39
+MVA	79	46	39	48	39	49	32	62	60	47	72	49	76	86	86
+MVE/A	1.7	1.6	1.9	1.8	1.7	1.5	2.7	1.4	1.3	1.4	1.2	1.7	1.0	0.5	0.5
+TVE	57	74	49	43	50	58	54	52	59	49	46	57	53	47	47
+TVA	40	44	35	51	56	70	63	62	33	41	47	52	37	24	24
+TVE/A	1.4	1.7	1.4	0.8	0.9	0.8	0.9	0.8	1.8	1.2	1.0	1.1	1.4	2.0	2.0
+TV backflow	325	257	257	245	203	192	211	190	190	204	245	136	216	233	233
+MV backflow	0	0	0	0	0	0	0	0	0	0	224	311	376	432	432
+MV: Mitral valve; TV: Tricuspid valve; E:E peak flow of velocity; A:A peak flow of velocity
+3	讨论
+心脏移植术后可能会发生多种并发症，其中以AR最 为严重 多在术后6个月内发生 可导致心肌细胞变性坏 死 间质水肿 血管闭塞 心脏功能下降 病情严重时可 使心脏功能严重受损以致手术失败。EMB是目前诊断急性 排斥反应的金标准 但其可能引发的感染 室壁穿孔 心 律失常等严重并发症 一定程度上限制了其应用
+Ciliberto等[1]对150例心脏移植患者进行1年术后随 访发现 1月内未发生心包积液或消退的患者 107例 占 71% 持续存在或增加者43例，占29%,同期行EMB显 示后者同排斥反应的发生显著相关 而前者则无相关性
+田家玮等[2]对 5例患者进行术后随访发现均有不同程度的 心包积液。本例患者术后6~41 d有不同程度的心包积液， 但心包积液量均无显著变化 提示无明显排斥反应 与文 献报道一致 但在术后第6天开始出现心包积液 第25天 达到高峰，41 d后消失。同期监测心功能未发现异常。由 此推测此阶段发生心包积液主要为分离主 肺动脉间隔导 致淋巴液渗出和手术造成的创伤反应 标准心脏移植术后 由于重建的心房形态异常导致房室瓣反流的发生率 三尖 瓣为22.6%~52.6% 二尖瓣13.3%~21.1%[3 4] 1年后分别 为13.3%和6.6%[4] 均有明显的下降趋势 本例患者术后 即出现三尖瓣反流且反流速度有逐渐降低趋势 同报道相
+450
+似 二尖瓣在术后第11周出现反流并逐渐加重 但同期心 功能检查均无明显变化，EMB检查未发现排斥反应证据， 其发生机制有待进一步研究 有人[5] 应用二尖瓣频谱评价 5例心脏移植术后左室舒张功能4例正常 1例异常 同时 EMB示3B级排斥反应，随排斥反应的缓解，超声表现恢 复正常。本例患者行EMB并未发现排斥反应，但因病例 数目少 仍需积累样本增加随访时间以进一步观察超声心 动图监没心脏移植排斥反应效果
+行EMB可能并发心律失常、室壁穿孔、感染等，有报 道[6]右心室行EMB后发生室间隔血肿。因此，在进行EMB 时要求心电监护和床旁超声监护 总之 早期发现和治疗 急性排斥反应对提高心脏移植术后早期存活率具有重要意 义 应用超声心动图监测心脏移植术后排斥反应具有方便 迅速 无创 副作用小等优点 作为监测排斥反应的重要 辅助手段 值行大力推广
+参考文献
+第一军医大学学报(J First Mil Med Univ) 2000； 20 (5)
+[1] Ciliberto GR, Anjos MC. Significance of pericardial effusion after heart transplantation[J]. Am J Cardiol, 1995, 76(4): 297-300.
+[2]田家玮，杨 惠.心脏移植术后应用彩色多谱勒超声检查的意义[J]. 中国超声医学杂志, 1998, 14(10):17-9.
+[3]	Roberts M, Casula RA. Prospective randomized trial of complete atrioventricular transplantation versus ventricular transplantation with atrioplasty[J]. J Heart Lung Transplant, 1999, 18(5): 407-13.
+[4]	Tatou E, Charvre P. Long-term follow-up of anatomic heart transplantation. Apropos of 60 patients with a mean follow-up 36 months[J]. Arch Mal Coeur Vaiss, 1998, 91(7): 837-41.
+[5]	Saxena A, Talwar KK. Serial echocardiography in transplanted heart: an initial study of five cases[J]. Indian Heart J, 1997, 49(3): 297-82.
+[6]	Roussoulieres AL, Schnetzler B, Sabouret P, et al. Hematoma of the interventricular septum following right ventricular endomyocardial biopsy for the detection of allograft rejection after heart transplantation[J]. J Heart Lung Transplant, 1999, 18(11): 1147-50.
+（上接447页）
+术后3个月FK506的全血血药浓度以15~25 mg/L较适宜， 尤其在术后1个月内将FKS06血药浓度维持在20~25 mg/L 的水平 可明显减少或减轻药物不良反应 防治排斥反应 3.3以超声心动图代替EMB监测排斥反应
+尽管超声心动图在心脏病的诊断应用中越来越广泛 心脏移植术后用超声心动图检查代替EMB目前国内尚无 报告。国内外心脏移植术后通常在第一周内每周行EMB 1 次,2~3月内每两周一次,3个月以后每月一次。但由于EMB 是有创检查 可能产生感染 室壁穿孔 心律失常等严重 并发症 而且费用极高 对患者身心造成损害 我们在术 后8 d 每天用超声心动图检查1次 以后每周3次 1个 月后每周1次 主要观察指标为室壁 室间隔有无增厚 室间隔及左室后壁博动幅度 左心室射血分数值 主动脉 肺动脉内径及各瓣膜结构 功能等 术后第110天行首次 EMB 病理结果无排斥反应 这说明超声心动图监测排斥 反应有效果好 无创伤 重复性好 无副作用等特点 值 得推广应用
+参考文献
+[1]	Jordan F, McWhinnie AJ, Turner S, et al. Comparision of HLA-DRB,
+typing by DNA-RFLP. PCR-SSO and PCR-SSP methods and their application in providing matched unrelated donors for bone marrow transplanlation[J]. Tissue Antigens, 1995, 45:103-6.
+[2]	Bunce M, Taylor CJ, Welsh KI. Rapid HLA-DQB typing by eight polymerase chain reaction amplification with sequence-speciftc primers(PCR-SSP)[J]. Human Immunol 1993, 37:20-25.
+[3]	Hauptman PJ, Aranki S, Mudge GH, et al. Early cardiac allograft failure after orthotopic heart transplantation[J]. Am Heart J, 1994, 127:179186.
+[4]	Heroux AL, costanzo-Nordin MR, Radvang R, et al. Acute cardiac allograft dysfunction without cellular rejection: clinical features and role of humoral immunity[J]. Circulation, 1992,86(4 suppl):628-9.
+[5]	王祥慧 唐孝达 徐 达. 普乐可复预防同种肾移植排斥反应的研 究[J].中华器官移植杂志,2000, 21:117-8.
+[编者 本文“同种异体心脏移植长期存活 (附1例报告 ” 及“异体手移植术及其免疫抑制治疗 (附2例报告)” 一文均 报告了本校附属南方医院具有先进代表意义的术式 其中 前者为南方医院首例同种异体心脏移植术后长期存活 1 例 后者为世界首4例中的亚洲第1 2例异体手移植术 ]

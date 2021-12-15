@@ -1,0 +1,111 @@
+﻿第10卷第5期
+2019年9月
+Vol. 10 No. 5
+Sep. 2019
+器官移植
+Organ Transplantation
+■综述.
+异种心脏移植的研究进展
+江行配 田海孙露郭睿霖刘开宇 蒋树林
+【摘要】 心脏移植是治疗终末期心脏病的一种有效方法，但由于供体的缺乏使其开展受到限制。近年来异 种心脏移植(CXTx)的研究取得了显著的进展，为心脏移植供体短缺提供了一个可行的方案。但由于存在跨物 种免疫排斥反应、移植术后无法长期维持心脏生理功能及移植物状态监测欠佳等问题，CXTx仍面临着许多挑战。 本文就CXTx在免疫排斥反应、移植方法、异种移植物状态监测等方面的研究进展做一综述并讨论CXTx的临床 应用前景及面临的挑战。
+【关键词】	异种心脏移植；免疫排斥反应；基因修饰；免疫调节；移植方法；生物标志物；a-1,3-半乳糖
+基转移酶基因敲除猪
+【中图分类号】R617, R541【文献标志码】A【文章编号】1674-7445 ( 2019 ) 05-0022-04
+在世界范围内，迫切需要心脏移植的终末期心脏病患 者的数量在不断增加,而捐献的供体远远不能满足临床需 求,因此每年有大量的患者在等待中死亡。为解决这一问题, 替代疗法成为当前的研究热点,包括机械辅助装置、再生 医学及异种心脏移植(cardiac xenotransplantation, CXTx) 等［1］。机械辅助装置(心室辅助装置、人工心脏)虽然在 一定程度上可以作为心脏移植的替代选择,但其相关的出 血、血栓、感染、生活质量等问题仍然是限制其临床大范 围应用的主要因素［2］。再生医学(干细胞移植、组织工程、 3D心脏打印)仍处于研究阶段［3］。活体器官有其不可替代 的优势,供体从鼠、兔、羊、狒狒和黑猩猩,再到小型猪, 研究呈现波浪式的发展进程,猪心脏解剖及生理功能与人 类心脏相似,来源不受限制,且通过基因修饰可以有效降 低猪供心脏的免疫原性［4］,所以猪CXTx是目前研究热点, 其中异位腹腔移植已经能够存活达925 d,原位移植亦能存 活195 d［5-6］。本文就CXTx的免疫排斥反应、移植方法、 移植物状态监测等方面的研究进展做一综述并讨论CXTx 的临床应用前景及面临的挑战。
+1	异种心脏移植的免疫排斥反应研究进展
+1.1 基因修饰
+为克服跨物种的排斥反应,从初期的单基因敲除到近
+年的多基因修饰,研究者们尝试了多种转基因策略。目前 CXTx最常用的基因修饰模型为a-1,3-半乳糖基转移酶 (a-1,3-galactosyltransferase, GGTA1 )基因敲除(GTKO ) 猪,其大大降低了移植术后的免疫排斥反应。
+CXTx术后，受体的天然抗体与供体心血管内皮细胞上 的抗原结合,激活补体和凝血级联系统,最终导致超急性 排斥反应(hyperacute rejection, HAR)的发生和 CXTx 的 失败。而GGTA1基因编码的a-1,3-半乳糖(a-1,3-galactose, a Gal)是引起HAR的主要抗原，因此敲除GGTA1基因能 预防HAR的发生［7］。
+CD46在CXTx转基因策略中扮演了重要角色，通过促 进I因子介导的C3b、C4b的降解，从而抑制补体C3激活 的补体旁路途径，同时CD46还可以抑制中性粒细胞和组 胺的释放［8］。
+血栓调节蛋白(thrombomodulin, TM)既是蛋白C通 路的组成部分，又是CXTx重要的抗凝和抗炎分子。其可 通过将原蛋白C转化为活化蛋白C与凝血酶结合，降低凝 血酶的活性，从而防止血栓形成。TM还可以通过减少血小 板聚集来进一步防止血栓性微血管病变［6］。CXTx后猪TM 在灵长类动物体内没有表现出类似的功效，缺乏功能性TM 被认为是CXTx微血栓形成和早期移植失败的原因之一 ［9］。 Mohiuddm等［5］证实构建启动子可以增强TM的表达，且
+DOI: 10.3969/j.issn.1674-7445.2019.05.022
+基金项目：国家自然科学基金( 81770347);黑龙江省自然科学基金留学归国基金(LC2016036);哈尔滨医科大学附属第二医院科 研基金(KYBS2015-01、KYBS2015-10)
+作者单位：150086 哈尔滨医科大学附属第二医院心血管外科(江行配、孙露、刘开宇、田海、蒋树林)；哈尔滨医科大学第二临床 医学院(郭睿霖)
+作者简介：江行配，男，1993年生，硕士，住院医师，研究方向为心脏移植与瓣膜病，Email： 82084532@qq.com
+通信作者：蒋树林，男，1958年生，硕士，主任医师，研究方向为心脏移植与瓣膜病，Email： sljiang36@163.com
+- 600・
+器官移植
+第10卷
+TM在异种移植物上的高表达可延长移植物的存活时间。
+克服排斥反应的其他转基因策略包括［10-11］：（1）表达 其他补体调节蛋白如CD55、CD59抑制补体激活；（2 ）表 达凝血调节因子如组织因子途径抑制剂、内皮细胞蛋白C 受体、去唾液酸糖蛋白受体、CD39、CD73、人血友病因子 来调节凝血反应；（3）表达细胞毒T淋巴细胞相关抗原4 免疫球蛋白来阻碍共刺激信号通路；（4）抑制细胞免疫反 应如敲除人主要组织相容性复合体（major histocompatibility complex, MHC ） U类分子反式激活因子（MHC class II transactivator, C U TA-DN ）、MHC I 或者 MHC U； （5）抑制炎症反应如转入表达人类白细胞抗原 （human leukocyte antigen，HLA）-E、HLA-G、 HLA-Cw3、人N-乙酰氨基葡萄糖转移酶出（human N-acetylglucosaminyltransferase 出，GnT-出）或者肿瘤坏死 因子（tumor necrosis factor, TNF ）凋亡诱导配体，血红素 加氧酶-1、人蛋白A20、CD47的基因。
+与心脏保护相关的靶基因很多,随着基因编辑技术（如 CRISPR/Cas9）的迅猛发展，尝试将更多基因整合在一起， 构建出免疫原性更小的器官是目前的热点。Chan等［12］应 用多基因表达的供体猪（6个基因：GTKO.hCD46.hEPCR. hDAF+hTFP.IhCD47 /hTBM.hCD39 ）行 CXTx,与 3 基因 （GTKO.hCD46.TBM）相比，其出血相关并发症减少，炎 症反应也更轻。在转基因猪中加入更多的人类基因,有可 能延长供心存活时间，最终实现CXTx临床应用。
+1.2 囊胚互补产生异种嵌合体
+用CRISPR/Cas9技术敲除器官发育的特异性基因，再 将诱导的异种多能干细胞注射到囊胚期的胚胎中,最终重 构出几乎完整的异种器官，称为囊胚互补技术。Yamaguchi 等［13］最近利用啮齿动物模型和CRISPR/Cas9技术成功地 建立了肾脏、心脏和眼球等特异性基因缺陷的小鼠嵌合体 模型。目前种间的人猪嵌合体中人源性细胞量相对较低, 在猪心脏中人细胞比例仅有10%［14］,但此项研究在培育人 源化心脏的研究中跨出了第一步。囊胚互补技术既可重构 出结构与功能完善的器官,又可减少跨物种移植的排斥反应, 虽然目前离临床实践尚远,但在猪体内重构人源化心脏极 具研究前景。
+1.3 免疫调节
+多基因修饰大大降低了 HAR和早期移植的失败，但 不能防止特异性免疫反应引起的微血管血栓和消耗性凝 血［5-6,12］。在异种移植免疫反应的多种共刺激信号通路中 CD40/CD154通路占有核心地位，然而抗CD154单抗因临 床前和临床试验中出现血栓栓塞而受到限制［15］。目前许多 研究致力于用抗CD40单抗（2C10R4）取代抗CD154单 抗［5-6,15］。2C10R4是小鼠IgGFab和恒河猴IgG4Fc片段的 嵌合体，与CD154单抗相比，2C10R4在阻断CD40/CD154 通路的同时可降低CD20淋巴细胞数量且抑制B淋巴细胞 的发育［15］。已证实2C10R4在GTKO.hCD46.hTBM供体 猪的异种移植后长期存活受体的免疫抑制方案中十分重要,
+当使用治疗剂量的2C10R4时未见微血管血栓和消耗性凝血， 当2C10R4的剂量减少或停用后，移植物出现排斥反应［5］。
+新型免疫抑制剂在调节排斥反应中的应用也是异种移 植研究的重要进展。抑制补体级联通路是调节异种移植排 斥反应的手段之一。C3抑制剂（Cp40）可以有效地阻止补 体系统C3的激活，从而减轻内皮抗原与抗体结合及体外循 环引起的补体介导的损伤，进而减少心脏细胞的损伤，保 护心脏功能［16］。替代剂也被用于抑制T淋巴细胞和B淋巴 细胞的活化。在大鼠CXTx模型中证实三氧化二砷（AsQj） 可以诱导T淋巴细胞凋亡，联合核因子（nuclear factor， NF） -kB抑制剂来氟米特、IgG、IgM具有协同抑制辅助性 T细胞（help T cell，Th） 1/Th2分化的作用，该方案能有 效抑制白细胞介素（interleukin，IL ）-2、干扰素（interferon， IFN） -c和IL-4细胞因子的产生，抑制受体脾脏中Th1/ Th2细胞的产生，该方案也可能在CXTx中抑制免疫排斥 反应［17］。
+一种 小干扰 RNA （ small interference RNA，siRNA ） 能有效的抑制CD40信使核糖核酸（messenger RNA， mRNA）的转录和蛋白质的翻译，其用于局部CD40沉默 是预防抗体介导的排斥反应的有效策略，有可能成为一 种新的免疫抑制方式［18］。西罗莫司（sirolimus，SRL ） 通过抑制哺乳动物雷帕霉素靶蛋白（mammalian target of rapamycin，mTOR）途径，来调节mRNA的翻译和抑制细 胞生长，有临床证据表明SRL可减轻心肌肥厚和心肌缺血， 改善心脏舒张功能［19］。随着对异种移植全身炎症反应的认 识日益加深，新型抗炎生物制剂如托利珠单抗（抗IL-6受 体抗体）、依那西普（TNF抑制剂）和抗补体蛋白C5等 也开始用于抑制CXTx的炎症反应［6,20］。
+2	异种心脏移植移植方法的研究进展
+最早CXTx主要使用异位腹部模型进行研究，供体升 主动脉与受体腹主动脉之间行端侧吻合，供肺动脉与受体 下腔静脉之间行端侧吻合。该模型异种移植物有血液灌流 和搏动，但没有心脏生理功能，优点是较其他异种移植模 型存活时间长，是长期监测异种移植物免疫抑制情况的 最佳选择。Mohiuddin等［5］的一项研究中GTKO.hCD46. hTBM转基因猪联合2C10R4的异种移植，其中移植物在移 植术后200~500 d表现出良好的收缩能力，异种移植物中 位生存期为298 d，最长存活时间945 d。
+异位腹部CXTx供心无生理功能，而原位CXTx围手 术期病死率高，为了解决这个矛盾，异位胸腔CXTx进入 人们的视野。通过将供、受体心脏并连（两心脏左、右心 房直接吻合，供心主、肺动脉与受体主、肺动脉端侧吻合） 使两个心脏同时工作，该模型提供了具有生理功能的心脏 同时保留受体心脏作为移植失败的备份［21］。Abicht等［21］ 在异位胸腔CXTx后，一组采用抗CD20单抗联合免疫抑 制治疗，另一组增加胸腹腔照射，移植物存活中位时间分 别为19 （ 12~50 ） d和16 （ 7~35 ） d。但异位胸腔移植手
+第5期
+江行配等．异种心脏移植的研究进展
+- 601・
+术操作复杂、创伤大，术后两个心脏不兼容、移植后心脏 体积增大所导致的血流动力学不稳定及肺功能不全限制了 移植物的长期存活。
+原位CXTx长期存活是最理想的临床前模型，但经过 了近25年的研究，猪原位CXTx最长存活时间只有57 d。 原位CXTx受体围手术期死亡的主要原因不是排斥反应， 而是心功能不全，这一现象被称为围手术期移植心脏功能 障碍（perioperative cardiac xenograft dysfunction，PCXD）。 PCXD主要由预合成的非Gal抗体的炎症反应、猪与正常 人血浆的不相容及体外循环和缺血-再灌注损伤等引起。 通过改良器官保存方法，减少早期异种炎症的发生，增加 心脏对缺血-再灌注损伤的抵抗能力可以减少PCXD的发 生。最近原位CXTx取得里程碑式的进展，Langin等［6］原 位CXTx的研究中，供心存活长达195 d。该研究成功的关 键包括：（1）离体心脏采用含血停搏液进行静态低温保存 和持续灌注，从而改善非缺血猪心脏保存方法；（2）通过 联合治疗降低狒狒的血压，使其与猪血压相匹配、糖皮质 激素逐渐减量以及使用SRL前药替代SRL减轻心肌肥厚、 防止异种移植物过度生长。
+CXTx术后经常发生血流动力学和呼吸障碍，CXTx 围手术期的管理对实验结果有显著影响。一项研究对比了 原位和异位CXTx围手术期的血流动力学和实验室检查结 果的研究发现异位CXTx需要的儿茶酚胺较少，血流动力 学更稳定，围手术期的管理也比原位移植要求低，即使肺 功能受损，脱离呼吸机仍比原位移植成功率高［22］。虽然 异位移植围手术期存活效果很好，但移植物并不能真正承 担正常心脏的功能，成功的原位移植才是临床应用的最终 目标。
+3	异种移植物状态监测
+准确评估移植物状态是移植成功的一个重要因素。传 统方法通常依赖于侵入性技术如心内膜活组织检查（活检）， 但易受取材抽样误差及频率的限制，而围手术期超声、术 中置入遥测发射机、心外膜上放置心电图导联，这些方法 在心脏损伤较大时才能捕捉到异常改变。非侵入性方法， 如肌钙蛋白和心肌酶在异种器官移植的早期诊断和预后预 测方面也存在着缺陷。由于异种移植的特殊性，有必要开 发出用于密切监测异种移植状态的生物标志物。
+微小核糖核酸（microRNA，miRNA）已被证明可作 为器官存活和免疫排斥反应的生物标志物 ［23］，心脏富含的 miRNA 包 括 miR-1、miR-133、miR-208、miR-499、miR-199 b，由于其在血清、血浆、尿液、唾液和其他体液中 稳定表达，因此成为了理想的无创生物标志物。异种生物 miRNA的核苷酸组成上有微小的差异，移植术后循环中猪 miRNA具有很大的潜力成为特异性生物标志物。除了作为 可能的生物标志物外，特异性miRNA还可能作为一种新 的免疫抑制策略应用于异种移植，siRNA可用于局部沉默 CD40抑制CD40/CD154共刺激通路［18］。
+细胞外组蛋白在细胞死亡后出现，可以反映移植物损 伤情况。在移植术后的稳定时期，血清组蛋白水平接近基 线，然而发生消耗性凝血病后，血清组蛋白显著升高，且 与C-反应蛋白水平相关［24］。细胞外组蛋白可能是检测异 种移植物损伤的敏感指标，且其本身亦可能是一个潜在的 治疗靶点。
+循环无细胞 DNA（ circulating cell-free DNA，cfDNA） 是一种潜在的组织损伤生物标志物。新一代基因测序技术 的出现，使区分移植物cfDNA和受体cfDNA的差异成为 可能，可通过测定移植物cfDNA占总cfDNA的比例来确 定cfDNA的变化是来自供体还是受体。研究表明，cfDNA 百分比在移植术后早期高，并且以指数方式衰减至低稳定 水平，半衰期为3 d。cfDNA百分比的升高与肌钙蛋白增加 和临床排斥反应变化趋势一致，但cfDNA百分比的升高早 于临床排斥反应和肌钙蛋白增加。因此cfDNA可以准确地 预测急性排斥反应［25］。
+4	异种心脏移植临床前景及存在问题
+4.1	临床前景
+由于供体心脏严重短缺，所以同种供体优先选择预后 会更好的患者；同时由于部分群体的特殊性，CXTx的临 床应用可能最先在特殊群体中开展。对于那些被认为高龄 而不考虑同种异体移植的患者来说，CXTx可能是一种选 择。婴幼儿难以匹配到合适的同种心脏供体，同时机械循 环辅助装置在小儿应用中血栓、出血、感染的发生率更高， 所以小儿供心需求更加迫切。研究表明幼年狒狒不会极强 烈地排斥猪的心脏移植物，这与幼年狒狒没有预先形成“天 然”抗体有关。所以基于基因工程猪作为器官来源、新的 抑制共刺激通路的免疫抑制剂的研发、受体胸腺切除、供 体猪胸腺移植等方法，可能使小儿CXTx成功的可能性比 其他任何年龄组都大［26］。其次，需再次移植的患者、有感 染相关问题或无法抗凝等有机械循环设备使用禁忌证的个 体、对HLA高度敏感、心肌病、供体与受体心脏大小不匹 配等患者都是CXTx的潜在对象。
+国际心肺移植学会早在2000年指出，在维持生命的一 系列的连续异种移植临床前试验中至少10只动物超过60% 的移植物存活3个月以上，可以考虑临床试验。Langin等［6］ 的研究中经过对前期试验的改良，除动物例数不足，存活 时间及存活率已达到国际心肺移植学会2000年提出的标准。 如果重复试验成功，CXTx将极具临床潜力。
+4.2	面临的挑战
+虽然近年CXTx在多个方面取得重大突破，但仍面临 一些挑战：（1）该领域的一个主要风险是猪心脏携带的 病原体，利用特定的育种技术，可以避免巨细胞病毒、 Y -淋巴细胞性疱疹病毒和戊型肝炎病毒等供体猪的外源性 病毒污染［26］。但猪内源性反转录病毒（porcine endogenous retroviruses, PERVs）能够在人基因组中整合，因此不能 用传统的抗病毒方法消除。但好消息是目前尚未观察到接
+- 602・
+器官移植
+第10卷
+触猪组织感染PERVs的病例，在体外细胞培养中猪对人 的细胞感染只发生在PERVs抵抗缺陷的细胞系中，并且 CRISPR/Cas9技术允许在全基因组范围内灭活猪细胞系中 PERVs的拷贝数。类似于异种肝移植术后的凝血病，CXTx 后产生的异种蛋白是否会引起其他疾病尚不确定。(2)虽 然各种异种产品(如人工心脏瓣膜)已经安全地在临床上 用了几十年，但实体器官异种移植应有独特的伦理考虑[27]。
+(3)如何进一步基因修饰以减少移植物对免疫抑制剂的依 赖及大量使用免疫抑制剂引起的感染风险是我们当下要解 决的问题，同时患者的精神心理因素、法律、宗教信仰等 也都是异种移植需要考虑的问题[27]。
+尽管目前CXTx尚处于实验性阶段，但CXTx在免疫 排斥反应、手术方式及围手术期管理水平等方面的进展使 原位CXTx模型存活时间获得巨大突破，大大推进了其临 床应用的进程。如果CXTx能成功应用于临床，那将会开 启终末期心脏病治疗的新时代。
+参考文献：
+[1]	MOU L, CHEN F, DAI Y, et al. Potential alternative approaches to xenotransplantation[J]. Int J Surg, 2015,23(Pt B):322-326. DOI: 10.1016/ j.ijsu.2015.06.085.
+[2]	SANCHEZ JE, TAKAYAMA H, ANDO M, et al. Outcomes of bridge
+to cardiac retransplantation in the contemporary mechanical circulatory support era[J]. J Thorac Cardiovasc Surg, 2019,158(1):171-181. DOI: 10.1016/j.jtcvs.2019.01.135.
+[3]	TAYLOR DA, FRAZIER OH, ELGALAD A, et al. Building a total
+bioartificial heart: harnessing nature to overcome the current hurdles[J]. Artif Organs, 2018,42(10):970-982. DOI:10.1111/aor.13336.
+[4]	CHAN JL, MOHIUDDIN MM. Heart xenotransplantation[J].
+Curr Opin Organ Transplant, 2017,22(6):549-554. DOI: 10.1097/ MOT.0000000000000461.
+[5]	MOHIUDDIN MM, SINGH AK, CORCORAN PC, et al. Chimeric
+2C10R4 anti-CD40 antibody therapy is critical for long-term survival of GTKO.hCD46.hTBM pig-to-primate cardiac xenograft[J]. Nat Commun,2016,7:11138. DOI: 10.1038/ncomms11138.
+[6]	LANGIN M, MAYR T, REICHART B, et al. Consistent success
+in life-supporting porcine cardiac xenotransplantation[J]. Nature, 2018,564(7736):430-433. DOI:10.1038/s41586-018-0765-z.
+[7]	COWAN PJ, TECTOR AJ. The resurgence of xenotransplantation[J]. Am
+J Transplant, 2017,17(10):2531-2536. DOI: 10.1111/ajt.14311.
+[8]	BURDORF L, STODDARD T, ZHANG T, et al. Expression of human CD46 modulates inflammation associated with GalTKO lung xenograft injury[J]. Am J Transplant, 2014,14(5):1084-1095. DOI: 10.1111/ajt.12673.
+[9]	SINGH AK, CHAN JL, DICHIACCHIO L, et al. Cardiac xenografts show
+reduced survival in the absence of transgenic human thrombomodulin expression in donor pigs[J]. Xenotransplantation, 2019,26(2):e12465. DOI: 10.1111/xen.12465.
+[10]	COOPER DK, EKSER B, RAMSOONDAR J, et al. The role of genetically engineered pigs in xenotransplantation research[J]. J Pathol, 2016,238(2):288-299. DOI: 10.1002/path.4635.
+[11]	MEIER RPH, MULLER YD, BALAPHAS A, et al. Xenotransplantation: back to the future?[J]. Transpl Int, 2018,31(5):465-477. DOI: 10.1111/ tri.13104.
+[12]	CHAN JL, SINGH AK, CORCORAN PC, et al. Encouraging experience using multi-transgenic xenografts in a pig-to-baboon cardiac xenotransplantation model[J]. Xenotransplantation, 2017,24(6). DOI: 10.1111/xen.12330.
+[13]	YAMAGUCHI T, SATO H, KATO-ITOH M, et al. Interspecies organogenesis generates autologous functional islets[J]. Nature, 2017,542(7640):191-196. DOI:10.1038/nature21070.
+[14]	WU J, PLATERO-LUENGO A, SAKURAI M, et al. Interspecies chimerism
+with mammalian pluripotent stem cells[J]. Cell, 2017,168(3):473-486. DOI: 10.1016/j.cell.2016.12.036.
+[15]	OCK SA, OH KB, HWANG S, et al. Immune molecular profiling of whole blood drawn from a non-human primate cardiac xenograft model treated with anti-CD154 monoclonal antibodies[J]. Xenotransplantation, 2018,25(5):e12392. DOI:10.1111/xen.12392.
+[16]	ABICHT JM, KOURTZELIS I, REICHART B, et al. Complement C3 inhibitor Cp40 attenuates xenoreactions in pig hearts perfused with human blood[J]. Xenotransplantation, 2017,24(1). DOI: 10.1111/xen.12262.
+[17]	JIAO ZX, LENG Y, XIA JJ, et al. As2O3 combined with leflunomide prolongs heart xenograft survival via suppressing the response of Th1, Th2, and B cells in a rat model[J]. Xenotransplantation, 2016,23(3):237-248. DOI: 10.1111/xen.12238.
+[18]	DE RAMON L, RIPOLL E, MERINO A, et al. CD154-CD40 T-cell costimulation pathway is a key mechanism in kidney ischemia-reperfusion injury[J]. Kidney Int, 2015,88(3):538-549. DOI:10.1038/ki.2015.146.
+[19]	IMAMURA T, KINUGAWA K, NITTA D, et al. Everolimus attenuates myocardial hypertrophy and improves diastolic function in heart transplant recipients[J]. Int Heart J, 2016,57(2):204-210. DOI: 10.1536/ihj.15-320.
+[20]	SCHUURMAN HJ. Pig-to-nonhuman primate solid organ xenografting:
+recent achievements on the road to first-in-man explorations[J]. Xenotransplantation, 2016,23(3):175-178. DOI:10.1111/xen.12244.
+[21]	ABICHT JM, MAYR T, REICHART B, et al. Pre-clinical heterotopic
+intrathoracic heart xenotransplantation: a possibly useful clinical technique[J]. Xenotransplantation, 2015,22(6):427-442. DOI: 10.1111/ xen.12213.
+[22]	MAYR T, BAUER A, REICHART B, et al. Hemodynamic and
+perioperative management in two different preclinical pig-to-baboon cardiac xenotransplantation models[J]. Xenotransplantation, 2017,24(3). DOI: 10.1111/xen.12295.
+[23]	SONG Z, COOPER DKC, CAI Z, et al. Expression and regulation profile
+of mature microRNA in the pig: relevance to xenotransplantation[J]. Biomed Res Int, 2018:2983908. DOI:10.1155/2018/2983908.
+[24]	LI T, LEE W, HARA H, et al. An investigation of extracellular histones
+in pig-to-baboon organ xenotransplantation[J]. Transplantation, 2017,101(10):2330-2339. DOI:10.1097/TP.0000000000001676.
+[25]	AGBOR-ENOH S, CHAN JL, SINGH A, et al. Circulating cell-
+free DNA as a biomarker of tissue injury: assessment in a cardiac xenotransplantation model[J]. J Heart Lung Transplant, 2018,37(8):967-975. DOI: 10.1016/j.healun.2018.04.009.
+[26]	CHAN JL, MILLER JG, SINGH AK, et al. Consideration of appropriate
+clinical applications for cardiac xenotransplantation[J]. Clin Transplant, 2018,32(8):e13330. DOI:10.1111/ctr.13330.
+[27]	PARIS W, SEIDLER RJH, FITZGERALD K, et al. Jewish, Christian
+and Muslim theological perspectives about xenotransplantation[J]. Xenotransplantation, 2018,25(3):e12400. DOI:10.1111/xen.12400.
+(收稿日期：2019-06-06)
+(本文编辑：王维苹 吴秋玲)

@@ -1,0 +1,103 @@
+﻿. 288 ・	中华移植杂志(电子版)2019 年 $$ 月第 $3 卷第4 期 Chin ,—.a+opla+t (Electm+ic Edition), Novembe. !#$9, Vol. $3, No>4
+!论著!
+原位心脏移植术后并发急性肾损伤临床分析
+王玲燕 沈骁 宋晓春 李静 章淬
+"摘要#目的 分析原位心脏移植受者术后急性肾损伤(acite kidney injury, LMA)发生情况 并总结相关防治经验$方法 回顾性分析南京市第一医院2#$4年$月至2#$8年$2月行原位 心脏移植术的38例受者临床资料,根据2012年改善全球肾脏疾病预后组织发布的AKA诊断标 准分为AKA组(21例)及对照组(17例)，并对发生AKA的受者进行肾功能损伤分期。比较两组 受者术后一般资料及预后转归$采用两独立样本!检验比较两组受者年龄,体表面积,体质指 数,术前血清肌酐%肾小球滤过率%血红蛋白%血糖%肺动脉收缩压%左室射血分数%心输出量,术中 心肺转流时间、主动脉阻断时间、尿量、输注晶体量/胶体量、手术时间，术后中心静脉压(CVN) ! 右心室直径、左室射血分数、24 )尿量以及机械通气时间、ACU停留时间和总住院时间。采用 Fisher确切概率法比较两组受者性别、术前合并症以及术后28、90和180 d死亡比例。"Q 0. 0G 为差异有统计学意义。结果38例受者中有21例(55.3% )术后7 d内发生AKA,其中AKA 1期 1G例,AKA2期4例,AKA3期2例。AKA组受者术前肺动脉收缩压为(E0 士 18)mmHg (1 mmHg = 0.133 kPa),高于对照组[45 S 15) mmHg ],差异有统计学意义(! = 2. 790, " Q 0. 05)。截至 2019年E月，所有受者随访时间为E ~56个月。AKA组和对照组受者术后CVP、术后右心室直径 和 ACU 停留时间分别为(12. 1 ±4. 1)和(9. 3 ±2. 8) mmHg、(26. 1 s2. 7)和(23. 7 s2.4) mm、 (10x 0±9.4)和(5.2 ±1.6)d,差异均有统计学意义(! =2. 365、2. 829 和 2. 038,"均 <0. 05)。经 过治疗，15例AKA1期受者中12例肾功能恢复正常,2例遗留慢性肾功能不全，1例因纵隔严重 感染致多器官功能衰竭死亡。4例AKA 2期受者中3例肾功能恢复正常，1例遗留慢性肾功能不 全。2例AKA 3期受者均对利尿剂反应不佳，最终1例心功能恢复，但遗留慢性肾功能不全，另 1例因多器官功能衰竭死亡。结论 AKA是心脏移植术后较为常见的并发症之一，但只要积极 预防、及时诊断、有效处理,大部分受者肾功能可恢复$
+"关键词# 原位心脏移植; 急性肾损伤; 预防; 治疗; 预后
+!"#$#%&" &$&"’(#( )* &%+,- .#/$-’ #$0+1’ &*,-1 )1,2),)3#% 2-&1, ,1&$(3"&$,&,#)$ #$%& ’(%&)$%, *+,% -($.,*.%& -($./+0%,’( 1(%&,2+$%& 30(4 5,6$7!8,%! .9 :3;,<$%=(%& >(7?! @.?6(!$A,<$%=(%& B,C(/$A ;%(D,7?(!),<$%=(%& EFGGGH,3+(%$ 3.77,?6.%C(%& $0!+.7: 2+$%& 30(,I8$(A: FJKLFHMGEJN O FHN4 /.8
+"45(,1&%,# 650-%,#7- —o analysis the incidence oY acIte kidney injI.y ( AKA ) in o.thoto1ic hea.t t.ans1lantation .eci1ients,and to sImma.iZe the e[1e.ience oY 1.e:ention and t.eatment. 8-,2)/( —he clinical data oY 38 .eci1ients Inde.going o.thoto1ic hea.t t.ans1lantation Y.om ,anIa.y 2014 to ?ecembe. 2018 admitted to Nanjing Fi.st Hos1ital \e.e .et.os1ecti:ely analyZed. ]eci1ients \e.e di:ided into AKA g.oI1 ( 21 cases) and cont.ol g.oI1 ( 17 cases) acco.ding to the Kidney ?isease Amproving Global Outcome criteria, and renal Yunction damage staging \as determined in those .eci1ients \ith AKA. —he gene.al data and 1.ognosis oY the 2 g.oI1s \e.e com1a.ed. —\o inde1endent sample !Ftest \as used Yor continuous variables and Fisher_ s e[act probability method \as used Yor categorical variables. " < 0 . 05 \as considered statistically signiYicant. 9-(+",( AKA occurred in 21 oY the 38 recipients ( 55 . 3 % ) \ithin 7 days aYter surgery,including 1 5 cases in AKA stage 1, 4 cases in AKA stage 2,and 2 cases in AKA stage 3 . —he preoperative pulmonary systolic pressure \as ( 60 ± 18 ) mmHg ( 1 mmHg = 0. 133 kPa ),signiYicantly higher than those in the control group [( 45 ± 15) mmHg]( ! = 2. 790," < 0. 05) . Up to ,une 2019,all the recipients \ere Yollo\edFup 6 to
+?@A: 10. 3877 /cma. j. issn. 1674F3903. 2019. 04. 008
+作者单位：210006南京医科大学附属南京医院（南京市第一医院）重症医学科
+■通信作者：章淬，Email ： $895$67#28&@I6&>c。m
+中华移植杂志(电子版)2019 年 $$ 月第 $3 卷第 4 期 Chin , —.a+opl/nt (Electm+ic Edition), Novembe. !#$9, Vol. $3, No.4 . 28% !
+GE ;7+3)0> -)5 1703715./3*:5 65+3./2 :5+7I0 1.500I.5，1703715./3*:5 .*U)3 :5+3.*6I2/. 8*/;535. /+8 A(O 0t/K i+ t)e LMA U.oI1 \e.e ( $2> $ S 4> $ ) ;;TU,( 2E> $ S 2> B ) ;; /+8 ( $#> # S 9> 4 ) 8/K0, .e01ecti:elK,U.e/te. t)/+ t)o0e i+ co+t.ol U.oI1 [( 9> 3 S 2> 8 ) ;;TU,( 23> B S 2> 4 ) ;; /+8 ( G > 2 S $ > E) 8/K0,.e01ecti:elK],t)e 8iYYe.e+ce0 \e.e /ll 0t/ti0tic/llK 0iU+iYic/+t ( ! V 2> 3EG,2> 829 /+8 2> #38," /ll Q #X #G ) > LYte. t.e/t;e+t,$2 .eci1ie+t0 i+ LMA 0t/Ue $ .etI.+e8 to +o.;/l .e+/l YI+ctio+,t\o .eci1ie+t0 8e:elo1e8 to c).o+ic .e+/l i+0IYYicie+cK,/+8 o+e .eci1ie+t 8ie8 oY ;Ilti1le o.U/+ Y/ilI.e 8Ie to 0e:e.e ;e8i/0ti+/l i+Yectio+> —).ee .eci1ie+t0 i+ LMA 0t/Ue 2 .etI.+e8 to +o.;/l .e+/l YI+ctio+,o+e .eci1ie+t 8e:elo1e8 to c).o+ic .e+/l i+0IYYicie+cK> —\o .eci1ie+t0 i+ LMA 0t/Ue 3 /ll .e01o+8e8 1oo.lK to 8iI.etic0> A+ t)e e+8,o+e .eci1ie+t .eco:e.e8 )e/.t YI+ctio+,bIt .e;/i+e8 \it) c).o+ic .e+/l i+0IYYicie+cK,/+8 /+ot)e. o+e 8ie8 oY ;Ilti1le o.U/+ Y/ilI.e> !)$%"+(#)$( LMA i0 o+e oY t)e ;o0t co;;o+ co;1lic/tio+0 /;o+U )e/.t t./+01l/+t .eci1ie+t0,bIt \it) /cti:e 1.e:e+tio+,ti;elK 8i/U+o0i0,/+8 eYYecti:e t.e/t;e+t,t)e .e+/l YI+ctio+ oY t)e ;/Do.itK .eci1ie+t0 \it) .e+/l i;1/i.;e+t c/+ .etI.+ to +o.;/l>
+":-’ ;)1/( # @.t)oto1ic )e/.t t./+01l/+t/tio+; LcIte Ji8+eK i+DI.K; N.e:e+tio+; —.e/t;e+t;
+N.oU+o0i0
+目前心脏移植是挽救终末期心脏病患者生命和 改善其生存质量的最有效手段,但受者移植术后早 期易并发急性肾损伤( /cIte Ji8+eK i+DI.K,LMA ),且 AKA严重程度与受者死亡率密切相关，及时诊治 LMA对提高心脏移植成功率和改善受者预后具有重 要意义讨$本研究回顾性分析南京市第一医院行 原位心脏移植术后发生AMA的受者临床资料，分析 其肾功能损伤情况,总结防治经验,现报道如下$
+< 资料与方法
+$> $ 研究对象及分组
+选取2#$4年$月至2#$8年$2月于本院行原 位心脏移植的受者作为研究对象$排除标准: ( $)术前临床证实伴有慢性肾功能不全; (2)术前血 清肌酐’ 1G0 !；oica或行连续性肾脏替代治疗 ( co+ti+IoI0 .e+/l .e1l/ce;e+t t)e./1K,(]]—) ; ( 3 )术 后B2 h内死亡。最终38例受者纳入研究，其中男性 34例,女性4例，平均年龄(53 ±11)岁(22 ~69岁)。 移植前美国纽约心脏病协会心功能分级" W #级, 平均左室射血分数( 26 ±5)R(16R W3BR) "原发 病:扩张型心肌病28例,冠状动脉粥样硬化性心脏 病8例,心脏瓣膜病和限制型心肌病各1例$
+供者均为脑死亡器官捐献，年龄18 w56岁，热 缺血时间6~10 ;i+, 冷缺血时间55 W280 ;i+$ 供% 受者血型均符合输血原则，供、受者体质量相差均< 20R $所有供者移植术前均行心脏超声评估供心功 能$手术方案经医院伦理委员会审核通过,受者知 情同意$
+将心脏移植术后7 d内发生AMA的受者纳入
+improving global outcome, KDAGO)发布的 AMA 诊断标 准，并对发生AKI的受者进行肾功能损伤分期间。 1>2 心脏移植术
+38例受者均采用标准原位心脏移植术$术前 右颈内静脉穿刺置入bwa+FGanz漂浮导管，监测肺 动脉压、中心静脉压( cent.al venou0 p.e00u.e, (=N) 及心输出量,左桡动脉穿刺置管监测有创动脉压$ 术后均进入ICO接受监护治疗，予呼吸机辅助，采 用血管活性药物维持血流动力学稳定。ICO停留 期间每日行心脏超声监测心功能,每日监测血清 肌酐,每小时监测尿量变化$术后予头孢呋辛钠 (1.5 uC次，每12小时1次)预防感染，维持免疫 抑制方案为他克莫司c吗替麦考酚酯c糖皮质 激素$术后静脉输注甲泼尼龙,每8小时1次, 第1个24小时每次剂量125 mg,之后逐次减量 (5 w10 mgC次)；第7天改为口服泼尼松，剂量 20 mgC次,第10天改为15 mgC次,第30天改为 10 mgC次，直至术后第90天根据具体情况调整 剂量或停用$术后第2 天起予吗替麦考酚酯 (0.5 gC次,每12小时1次)"术后第5天起予他克 莫司(2.5 mgC次，每12小时1次)，服用72 h后监 测血药浓度，每3 ~5天复查1次。
+1.3 观察指标
+受者年龄、性别、术前合并症(高血压和糖尿 病) !体表面积、体质指数、术前血清肌酐、肾小球滤 过率、血红蛋白、血糖、肺动脉收缩压、左室射血分数、 心输出量,术中心肺转流( ca.diopulmona.K bKpa00, (Nd)时间、主动脉阻断时间、手术时间、术中尿量以 及输注晶体量/胶体量，术后CVP、右心室直径、左
+AKI组.未发生者纳入对照组。AKI诊断标，隹参照 2012年改善全球肾脏疾病预后组织(kidney disease
+侬室射血分数和24 h尿量、呼吸机使用时间、ICO停 留时间、总住院时间以及术后28.90和180 d死亡
+! !%# !	中华移植杂志(电子版)！#$% 年 $$ 月第 $3 卷第4 期 Chin , T.a+opla+t (Electa+ic Edition), Novembe. !#$%, Vol. $3, No>4
+比例等$
+1.	4心脏移植术后并发AKA受者治疗原则
+（$）应用小剂量多巴胺或多巴酚丁胺 （ $ W G !U ! JUe$ ! min e$ ） !米力农（ #> 3# W # > B G !U ! JU e $ ! min e $ ）强心%扩血管，维持血 流动力学稳定以保证足够血流量及提高肾脏血流 灌注。若出现严重右心功能不全，行静脉-动脉 体外膜肺氧合（ venoa.te.ial e[t.aco.1o.eal mem<.ane oxyUenation, VA-ECMO）支持治疗"（2）密切监测他 克莫司血药浓度并及时调整剂量，术后$个月内血 药浓度维持在1G w2# +u/mL,2 ~3个月内$# ~ 1G +u/mL,3个月后"wl# +u/mL$选用肾毒性小的 抗生素预防感染,根据血清肌酐清除率调整抗生素 剂量"（ 3）多数心脏移植受者术前心功能较差,需 应用大剂量利尿剂,部分存在利尿剂抵抗$为保证 尿量,术后应继续使用甚至加大利尿剂剂量或联合 应用多种利尿剂,若效果不佳,尽早行 C]]-$ （4）及时监测并纠正水、电解质紊乱"（G）长期血液 透析但肾功能仍不能恢复者,则具备肾移植指征$ $>G 统计学方法
+使用SPSS 22. #统计软件进行数据处理。正态 分布计量资料以均数±标准差（p S ?）表示，采用两 独立样本!检验比较AMA组和对照组受者年龄、体
+表面积、体质指数、术前血清肌酐、肾小球滤过率、血 红蛋白、血糖、肺动脉收缩压、左室射血分数、心输出 量，术中（Nd时间、主动脉阻断时间、手术时间、尿 量、输注晶体量/胶体量，术后CVP、右心室直径、左 室射血分数、术后24 h尿量、机械通气时间、ACO停 留时间和总住院时间$计数资料以百分数表示,采 用Fisher确切概率法比较两组受者性别、术前合并 症以及术后2"、90和1"# d死亡比例。"<#.#5为 差异有统计学意义$
+= 结果
+2.	1 一般资料
+3"例受者中有21例（55.3%）术后7 d内发生 AKA,其中AMA 1期15例，AMA 2期4例，AMA 3期 2例。AMA组受者术前肺动脉收缩压为（E# ± 1"） mmTu（1 mmTu =#. 133 JPa,下同），高于对照组 C45 ±15） mmTu],差异有统计学意义（! =2.79#, " <#.#5） "两组受者年龄、性别、术前合并症、体表 面积、体质指数、术前血清肌酐、肾小球滤过率、血红 蛋白、血糖、左室射血分数、心输出量、术中（Nd时 间、主动脉阻断时间、手术时间、术中尿量及输注晶 体量/胶体量差异均无统计学意义（ "均‘#. #5） " 详见表1 $
+表 < 原位心脏移植术后AKI组和对照组受者术前及术中一般资料比较
+组别	例数	年龄	性别	术前合并症（例）		体表面积	术前体质指数
+		（ P!± ?，岁）	（男/女，例）		高血压	糖尿病	( P!± ?，m2 )	( P!± ?，kU/m2)
+AKI组	21	5E ± "	1"/3	E	3	1.7%±#.15	22. # ±3. #
+对照组	17	4% ± 13	1E/1	2	4	1.7%±#.13	22. % ±3. 2
+! Q !2值	-	1. "4E	#. E13	#. 257	#. E7"	-#.#E%	-#.42"
+"值	-	'#.#5	'#.#5	'#.#5	'#.#5	'#.#5	'#.#5
+组别	例数	术前血清肌酐	术前肾小球滤过率			术前血红蛋白	术前血糖
+		( P!± ?，mmol /L)	(P!	± ?，mL / min)		( P!± ?，U/L)	( P!± ?，mmol /L)
+AKI组	21	"7 ±1%		1#5 ±25		134 ±21	5.E ±1.E
+对照组	17	"% ±17		1#" ±2%		145 ±14	5.%±2.3
+! Q !2值	-	-#.32%		-#.323		-1."E7	-#.4"%
+"值	-	'#.#5		'#.#5		'#.#5	'#.#5
+组别	例数	术前肺动脉收缩压	术前左室射血分数			术前心输出量	术中（PB时间
+		( P!± ?，mmTU)		(P!±?，%)		( P!± ?，L /min)	( P!± ?，min)
+AKI组	21	E# ± 1"		25 ± 5		3."±1.4	1E2 ±24
+对照组	17	45 ± 15		2E ± 5		3.E±1.#	15% ±23
+! Q !2值	-	2. 7%#		-#.7#7		#. E27	#. 4"7
+"值	-	<#.#5		'#.#5		'#.#5	'#.#5
+组别	例数	主动脉阻断时间	手术时间		术中尿量	术中输注晶体量	术中输注胶体量
+		( P!± ?，min)	( P!± ?，min)		( P!± ?，mL)	( P!± ?，mL)	( P!± ?，mL)
+AKI组	21	"1 ±11	312 ±4"		%11 ± 5""	E52 ± 227	"1# ±334
+对照组	17	"1 ±13	321 ±EE		1 114 ±"1%	E7E ± 24E	""2 ±2"1
+! Q !2值	-	#. #2%	-#.44#		-#.""7	-#.313	-#.71E
+（"_ 值______二________′#>_#5________'一#--#5_______′#-#5________′_#'_#5______′#_#5__
+注：-.无数据；AKI.急性肾损伤；（PB.心肺转流；1 mmHg = #.133 kPa；对照组.未发生急性肾损伤
+中华移植杂志(电子版) !#$%年$$月第$&卷第’期 ()*+ , -./+012/+3 ( 42563.7+*6 48*3*7+)，97:5;<5. !#$%，=72> $&，97> ’ !!%$!
+2.2 AKA组和对照组受者预后
+截至2019年E月，所有受者随访时间E w 56个月。 AMA组和对照组受者术后CVP、右心室 直径和ACU停留时间分别为($2.1 ±4.$)和(9.& s 2> ") ;;TU!( 2E> $ S 2> B) 和( 2&> B S 2> ’) ;;、 ($#># ±9>4)和(5>2 ±$>E) 8，差异均有统计学意义 (! =2.365、2.829 和 2.038,"均 <#.#5)；两组受者 术后左室射血分数、术后24 )尿量、机械通气时间、 总住院时间以及术后28、9#和$8# 8死亡比例差异 均无统计学意义( "均‘#.#5) "详见表2$
+经过治疗,5例AMA $期受者中$2例肾功能 恢复正常,2例遗留慢性肾功能不全,$例因纵隔严 重感染致多器官功能衰竭死亡。4例AKA 2期受者 中3例肾功能恢复正常,$例遗留慢性肾功能不全$ 2例AMA 3期受者均对利尿剂反应不佳，且出现严 重右心功能不全，行VA-ECMO辅助及(]]-治疗 (连续静脉e静脉血液透析滤过模式)；最终1例心 功能恢复,但遗留慢性肾功能不全,另$例因多器官 功能衰竭死亡$
+> 讨论
+AMA是心脏移植术后除急性排斥反应、心功能 衰竭和感染外最常见的一种严重并发症。导致AMA 发生的原因包括: ( $)术前心肾功能状态、抢救药物 的影响及供心质量; ( 2)术中体外循环肾脏灌注不 足、肾脏缺血、溶血、低血压及心律失常; ( 3)术后心 功能不全致肾脏灌注不足、应用肾毒性药物、并发严 重感染及他克莫司血药浓度过高"FE $ Tgrker等也 报道心脏移植术后61R的受者并发AMA,病死率达 23R ,因此积极防治AMA具有重要临床意义。
+文献报道术前合并肺动脉高压是心脏移植术后 发生AMA的独立危险因素"。本研究也发现AMA
+组受者术前肺动脉压明显高于对照组$与对照组相 比,AKA组术后CVP更高、右心室直径更大，提示 AMA的发生可能与术后右心功能不全有关。Gui+ot 等[9]研究显示,心脏移植术后早期右心功能不全与 随后发生的肾功能损伤有关,相关机制可能是静脉 充血(腔静脉扩张/CVP升高)使肾脏淤血，而不仅 仅是心输出量下降导致肾脏灌注不足$心脏移植受 者术前大多伴有严重肺动脉高压,肺循环阻力高、容 量负荷过大可能会导致供心短时间内无法适应受者 循环系统和负荷状态,最终发生右心衰竭$因此,术 前应评估受者肺血管阻力,术后针对高危受者控制 补液量或加强利尿以减少前负荷,经肺动脉导管输 注硝酸甘油、前列腺素4$扩张肺动脉,减轻右心后 负荷,同时予正性肌力药物,可有效减轻或避免发生 右心衰竭，从而降低AMA发生风险M。心脏移植术 后需密切监测肾功能变化，一旦发生AKA,需早期去 除可能病因,慎用肾毒性药物,积极维持循环功能稳 定以保证足够血容量及提高肾脏血流灌注,加大利 尿剂剂量,减轻心脏前负荷,维持内环境稳定,可有 效、迅速逆转早期轻度肾损伤$
+本研究心脏移植术后AMA发生比例为55. 3R ( 2$/38),与既往研究结果相似( 58. 6R)[$$ $ AMA 组受者ACU停留时间显著延长，但两组受者机械通 气时间、总住院时间及术后28、9#和$8# 8死亡比 例差异均无统计学意义;多数受者经积极治疗后肾 功能恢复$
+总之,AKA是心脏移植术后较为常见的并发症 之一,影响因素较多$但若术后密切监测肾功能变 化,针对病因积极预防、及时诊断并积极治疗,大部 分受者早期肾功能损伤可恢复$但本研究纳入的样 本量较少,对右室功能评价不足,未观察受者远期生 存率,仍需进一步研究$
+表2原位心脏移植术后AKI组和对照组受者预后比较
+组别	例数	术后(=P ( P!± ?,mmHg)	术后右心室直径 ( P! ± ?,mm)	术后左室射血分数 ( P! ± ?,R )		术后24 )尿量 ( P! ± ?,ma)
+AKI组	21	12.1 ±4.1	26.1 ±2.B	63.4 ±3.6		3 30B ± 661
+对照组	1B	9.3 ±2.8	23.B ±2.4	62.5 ±2.1		3 202 ± 580
+! Q !2值	e	2. 365	2. 829	0. 863		0. 518
+"值	e	<0.05	<0.05	‘0.05		‘0.05
+		机械通气时间	ICU停留时间	总住院时间	术后死亡比例例(%)]	
+组力U		( P!± ?,))	( P! ± ?,8)	( P!± ?,8)	28 8	90 8	180 8
+AKI组	21	25 ± 14	10.0 ±9.4	32±14	0	2(9.5)	2(9.5)
+对照组	1B	18±14	5.2±1.6	25 ± 15	0	00
+! Q !2值	e	1. 63B	2. 038	1. 5B6	e	0. 492	0. 492
+"值---------二---------'#i#.G---------<#_#5--------B#5---------e-----'#=#5----0--05--
+注：-> 无数据；AKI.急性肾损伤；CVP.中心静脉压；1 mmHg = 0.133 kPa；对照组.未发生急性肾损伤
+. 292 .	中华移植杂志(电子版)2019 年 11 月第 13 卷第 4 期 Chin J—ransplant (Electronic Edition) , November 2019, VoL 13, No.4
+参考文献
+1	Romeo FJ, Varela CF, Vulcano N, et al. Acute kidney injury after cardiac transplantation: foe or common innocent bystander?	[j].
+—ransplant Proc, 2018, 50 (5), 1489-1495.
+2	Yancy CW, Jessup M, Bozkurt B, et al. 2013 ACCF/AHA guideline for the management of heart failure: a report of the American College of Cardiology Foundation / American Heart Association —ask Force on practice guidelines [J] . J Am Coll Cardiol, 2013, 62 (16) : 147-239.
+3	Kidney Disease Improving Global Outcome (KDIGO) acute kidney injury workgroup. KDIGO clinical practice guideline for acute kidney injury J . Kidney Int Suppl, 2012, 2 (1) ： 1-138.
+4倪旭鸣，许林海，严志焜，等.原位心脏移植术后早期肾功能损 伤的防治[J/CD].中华移植杂志：电子版，2013, 7(3) ： 133136.
+5	MacDonald C,Norris C,Alton GY,et al. Acute kidney injury after heart transplant in young children: risk factors and outcomes [J]. Pediatr Nephrol, 2016, 31(4) : 671-678.
+6	Gultekin B, Beyazpinar DS, Ersoy O, et al. Incidence and outcomes of acute kidney injury after orthotopic cardiac transplant ： a
+population-based cohort [J] . Exp Clin —ransplant, 2015, 13 (3)： 26-29.
+7	—urker M, Zeyneloglu P, Sezgin A, et al. RIFLE criteria for acute kidney dysfunction following heart transplantation: incidence and risk factors J . —ransplant Proc, 2013, 45 (10) : 35343537.
+8周飞，王月兰.心脏移植术后急性肾损伤的危险因素[J].中华 麻醉学杂志，2015, 35 (7) : 784-786.
+9	Guinot PG, Abou-Arab O, Longrois D, et al. Right ventricular systolic dysfunction and vena cava dilatation precede alteration of renal function in adult patients undergoing cardiac surgery: an observational study [J] . Eur J Anaesthesiol, 2015, 32 (8) : 535542.
+10穆心苇，陶和，章淬，等.心脏移植术后早期右心功能不全的防 治 J .中国医刊，2005, 40(12) : 34-35.
+11 —jahjono R,Connellan M,Granger E. Predictors of acute kidney injury in cardiac transplantation J . -ransplant Proc, 2016, 48 (1): 167-172.
+(收稿日期:2019-06-05)
+(本文编辑:徐小明)
+王玲燕，沈骁，宋晓春，等.原位心脏移植术后并发急性肾损伤临床分析J/CD].中华移植杂志：电子版，2019,13(4)： 288-292.

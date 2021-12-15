@@ -1,0 +1,74 @@
+﻿• 88・
+第一军医大学学报2001年第21卷第12期增刊
+肺移植-供肺保存的研究进展
+马剑龙综述，陈钢审校(第一军医大学南方医院胸心血管外科，广东广州510515)
+摘要：肺移植因供肺保存技术所能提供的肺安全缺血时限的限制而受到制约，本文综述了供肺保存的最新进展，重点阐 述了供肺保存的方法、常用保存液的特点比较以及肺保存的最适条件。
+关键词：肺移植;供体肺;肺保护
+中图分类号:R64	文献标识码：A	文章编号：1000-2588(2001)12s-0088-03
+自Cooper等报道右侧单肺移植真正获得临床应 用成功后,肺移植已成为治疗临床终末期肺疾病的一 种有效方法。由于应用供肺保存技术所能提供的肺安 全缺血时限的限制，使得供肺仍然十分短缺。因此改 进供肺保存技术，以期扩大供肺来源，已成为肺移植 领域里的重大课题。
+1保存方法
+为了保持离体缺血肺的活力，原则上可以采用二 类方法。一是尽可能地降低细胞代谢;二是设法供给 必需的营养物质。前者靠低温，后者是灌注。而实践证 明有效的方法是上述二类方法的综合。
+1.1 单纯低温浸泡(simple hypothermic immersion, SHI)
+SHI 亦称表面冷却法(surface cooling or topical cooling)可抑制组织代谢，减少能量消耗，增强对缺 血的耐受性。多伦多肺移植组第一例成功的人类肺移 植，就是采用SHI技术可。但由于此法冷却效率低，肺 表面和中心有一温差，目前已被弃用。
+1.2 自体心肺灌注(autoperfiision working heart-lung preparation, AWHLP)
+六十年代,Robiesek在移植研究中应用常温下自 体灌注冠状动脉和肺动脉以保存离体的心肺组织。匹 次堡移植组将此技术用于临床,证明能够远距离获取 转送供肺，但最长缺血耐受时间仍为4~6h⑵。因为自 体灌注时间长，肺动脉高压和移植肺衰竭发生率高， 尽管有人在实验中加用异丙肾上腺素，添加代谢底 物，去除白细胞和加入消炎痛，避免了肺高压。但冷缺 血保护时间并无明显延长，故此法也很少有人采用。 1.3 系统冷却(systemic cooling)
+是用体外循环方法，使供肺降温,Hardesy等将 其首先用于临床心肺联合移植的供体保存⑶。经大量 临床应用,Kirt等⑷认为该技术的特点是：(1)条件可 控；(2)温度可控；(3)用血液作冷却剂，含有组织代谢 底物和生理性氧自由基清除剂；(4)具有抗血栓及过 滤保护作用。但与肺动脉灌注相比，则有需建立体外 收稿日期；2001-12-10
+作者简介：马剑龙(1961-),男，湖南湘潭人，1983年毕业于第一军医大 学，本科，主治医师，现为总后中青年人才培养基金班学员，电话： 020-85187240 或 0745-2851431
+循环;技术要求高；需大量冰块；冷却效率低；转流可 引起肺功能损害等缺点。
+1.4 单次肺动脉灌注(singleHushperfiision,SFP)
+此方法是目前最常用的肺保护方法。Sasaki等⑸ 认为早期肺灌注对于供体肺保护极为重要，不仅能将 瘀积于肺微循环的红细胞、白细胞及血小板冲洗干 净，从而避免再灌注损伤程度，而且使肺迅速降温，增 加了肺对缺血的耐受性。基于一系列成功的动物试 验，斯坦福大学移植组(1987)⑹将Euro-Colling液 (ECS)单次灌注法成功地应用于心肺移植供体肺的 远距离获取，获得成功。此方法技术简单，能提供迅速 有效的肺冷却。稍加改良可适用于各种灌洗液。是目 前最广泛使用的移植器官保护方法。但其缺点是：(1) 易发生肺毛细血管栓塞；(2)冷却程度受灌注液量和 肺内分布均匀性所限制(3)灌注条件要求高，如温度、 压力，灌注不当可直接损伤肺血管内皮细胞⑷。
+1.5 二次肺动脉灌注(second flush before reperfusion)
+最近,Serrickm在大鼠肺保存24 h后，再灌注肺动 脉,用 Carolina's 灌注液(Carolina rinse solution, CRS) 做第二次灌注肺动脉，较单次肺动脉灌注明显减轻了 肺内皮细胞和肺泡细胞的损伤程度。认为二次灌注可 冲洗出氧自由基、激活的炎性细胞和补体成份等细胞 毒性产物，保护肺实质细胞。国内也有一些学者⑻证 明供肺缺血预处理对稳定移植肺血流动力学有一定 作用。认为其可能的机理是调整肺组织内的PGI?与 TXA?的相对平衡。目前该方法尚处于实验中，临床 尚未见报道。
+2保护液
+目前用于临床和尚处于实验阶段的保护液可分 为：细胞内液型及细胞外液型二种。
+2.1	细胞内液型保护液(IFS)
+临床上最常用的Euro-colling液(ECS)和University of Wisconsin液(UWS)即是该类型保护液的主要 代表。应用ECS和改良ECS单次肺动脉灌注进行肺 保护已被大多数中心所接受。人们最早是将该类溶液 用于保存肾脏和胰腺，并取得良好效果。因为肺的特 殊结构和功能，临床用其安全保存供肺尚不能超过
+第一军医大学学报2001年第21卷第12期增刊
+• 89 •
+4-6 h。ECS和UWS均为仿细胞内液成份，高K+ (115mmol/L)溶液。高K+溶液对肺的损害已为很多 实验所证实。首先高K+溶液具有缩血管效应，且此 收缩作用在肺动脉温度高于10七不易被前列腺素E1 所纠正。20 t以上时肺动脉收缩更强烈，其致收缩能 力随K+浓度的增高而增强，结果可能因肺灌注不良 而损害供肺。而且高K+本身对肺血管内皮细胞亦有 直接损害作用i%ECS中的葡萄糖所产生的渗透压对 细胞水肿也有一定影响“叫Sasaki等⑸比较几种保护 液不同K?浓度时的肺保护效果后，提出保护液的K+ 浓度不应超过20 mmol/L,否则将降低肺保护效果。
+2.2	细胞外液型保护液(EFS)
+虽然临床多数移植中心已广泛使用IFS作为移 植供肺的保护液，但新的保护液也在不断的研究中， 而EFS则在其中逐渐显出其优势。目前这类保护液有： 低 K+右旋糖肝(LPDS)、Celsio,s 液、KH 液、ET-K 液、 EP4液、Kerb's液和Wallwork's液等等。其中研究最 多的是LPDS。Date等的动物实验显示：低K+的 LPDS的保护效果明显优于ECS等高K?保护液。原 因是:LPDS能减轻血管痉季，保持血管内水分，减少 间质水肿形成。但也有实验结果皿显示两种保护液在 4七时的保存效果相似,无明显差异。认为灌注液中 钾浓度并非影响灌注效果的主要因素。细胞内液型的 保存液电解质成份与细胞内接近，可以减少细胞内外 电解质的交换，从而使细胞处于静止状态。提出根据 肺的生理代谢特点改进肺灌注液成份，防止灌注液温 度过低，在灌注前肺动脉内应用前列腺E1等措施。
+2.3	常用保护液的比较
+纵观临床上如此多的保护液，目前临床应用最广 泛的保护液是ECS.UWS和LPDS三种。ECS由 Collingl969年首创。为一种高钾、低钠的高渗晶体溶 液。其主要特点是：(1)它的阳离子浓度与细胞内相 似,可以避免细胞两侧钠、钾离子交换，从而避免细胞 内钾外逸,而细胞内钾是细胞存活所必需的；(2)细胞 膜两侧不进行离子交换，节省能量；(3)它的高渗性可 防止细胞和细胞内超微结构水肿。
+UWS与ECS虽同为细胞内液型保护液,但目前 主要用于其它器官保存，几乎成为标准液。特点是： (1)不含葡萄糖,而以大分子物质如乳糖盐和棉糖为 主要非渗透因素；(2)羟乙基淀粉可防止细胞间隙的 扩大;(3)以磷酸盐防止酸中毒;(4)以谷胱音肽、别嚓 吟醇来防止缺血和对抗氧自由基。
+LPDS的特点为：(1)低钾、高钠、低渗；(2)含低 分子右旋糖肝，能增加保存液的胶体渗透压,保持血 管内液不外漏，清除氧自由基,减轻再灌注损伤⑼。
+至目前为止，临床尚没有一种很满意的肺保护 液，肺安全保存时间仍然只有4、6h。但多数学者认
+为UWS优于ECS,犬肺移植实验中阿,UWS组的氧 分压显著高于ECS组，而肺血管阻力指数(PVUI)显 著低于ECS组。Hardesty等1⑸也通过实验认为:UWS 比ECS效果好是与UWS的高粘度有关,UWS的高 粘度使灌注更均匀，而ECS的不均匀灌注是导致早 期移植肺功能损害的原因之一。最近的实验研究已证 实:LPDS较ECS和其它高钾保护液优势明显。ECS 在作肺动脉灌注时肺动脉压力急骤升高，而LPDS灌 注时，肺动脉压不升高加。临床上MU Iler等网通过 80例肺移植病人对比研究认为:ECS的严重再潼注 损伤率显著高于LPDS组，一年生存率ECS为62%, 而LPDS为79%O Chien等⑺应用犬活体灌注模型在 UWS、ECS、LPDS而 KHS四种保存液的比较研究中 证实:在4t条件下，四种保存液冷灌后保存4h肺功 能均令人满意。6h组的结果显示有一些肺功能受损 害，并随保存时间的延长,损害逐渐加重。而LPDS的 各项指标是最好的。包括肺动脉血流、静态肺顺应性、 肺血管阻力(PVR)和气道压力(AWP)等。UWS的肺 水肿最轻，但灌注后的肺功能并不是最好。高K+可能 是原因之一。他们认为:LPDS对肺保护的良好效果 其机理并不清楚，但右旋糖好的作用是肯定的。它可 覆盖在血小板和内皮细胞表面，减少脂质过氧化物， 防止红细胞聚集，增加其变形能力，改善微循环，因而 具有抗血栓能力。此外，还能降低细胞膜的通透性，对 抗低温缺氧所产生的细胞水肿。
+3肺保存的条件因素
+3.1	供肺保存的温度和膨胀状态
+低温固然可以防止缺血细胞的损伤，但同时也抑 制了细胞ATP依赖的Na*-K+泵活性，降低了细胞膜 电位，并使细胞内水钠潴留，造成细胞水肿。肺保存最 合适的温度目前尚不十分清楚。为找到最佳的肺保存 温度,Kon等网将肺分别置于20、12、8、4七、及冰屑 中保存,8 h后移植。,实验结果认为:最佳保存温度为 4cle〜8 cC,降温的速率也直接影响肺的保护质量。最 近Date等附用10兀的保护液作肺动脉灌注和保存。 供肺组织的能量贮备，不仅没有减少，反而明显增加， 再灌注后肺的结构及功能亦较4 ｛组更好。然而10 为保护液作肺动脉冲洗，较大的温差仍会造成冷损 伤。有人将肺动脉冲洗液温度提高到23工，冷存温度 仍为10兀,其结果获得了较单纯10 tt保护液作肺动 脉冲洗和冷存更好的保存效果网。目前人们对10cle 肺保存效果较优这一观点，基本取得了一致意见。但 随着实验的进一步深入，单一温度行肺动脉冲洗和冷 存的观点已受到挑战。
+在低温缺血条件下,较多学者认为膨胀通气可使 肺功能被保护时间更长。实验表明获取肺之前维持供
+• 90 •
+第一军医大学学报2001年第21卷第12期增刊
+肺的通气有利于保护移植后的肺功能。膨肺使肺处于 扩张状态本身可以增强肺对缺血的耐受性，它不仅降 低肺组织的能量释放，增加贮备。而且还可以刺激肺 泡上皮释放表面活性物质，增强抗水肿能力⑵1。但过 度的肺膨胀将导致肺血管内皮发生“应激性衰竭” (Stress failure),诱发通透性肺水肿㈤。Puskas等⑶的 研究结果认为30 cmH2O的高气道压膨肺较低压膨 肺组的血流动力学稳定，肺气体交换功能正常。究竟 何种膨肺程度合适,还有待进一步研究。
+肺不同于其它的实质性器官，其细胞呼吸可直接 通过质膜进行，不完全依赖灌注，耐受缺血时间应该 更长。Date等⑶通过观察游离兔肺气道内的二氧化 碳和氧气的变化,并测定肺组织内的葡萄糖、6-磷酸 果糖、乳酸盐、ATP及磷酸肌酸的水平，发现缺血肺 在充氧、膨胀保存后肺泡中氧浓度下降，二氧化碳浓 度升高，肺实质内ATP含量较高、乳酸低。认为在保 护状态下,肺泡细胞能够维持氧的代谢。但纯氧膨肺 不仅不能增强肺保存效果，反而可加重肺缺血后再灌 注损伤。Watanabe等⑶的研究指出肺在热缺血期间 通气膨胀能改善功能和其血流动力学,但这个作用与 氧无关，而与通气本身有关。研究表明，最适膨肺气体 氧浓度应在50%左右，此时血管通透性受损最小，氧 自由基含量最低，肺泡的氧供也足够㈤。
+3.2	关于前列腺素的应用
+为了更完善保护液的效果，目前已将具有相对选 择性扩张血管，抑制白细胞、血小板的聚集从而抑制 炎性介质的产生释放，减轻肺血管反应性收缩的前列 腺素E/PGEJ,普遍用于肺灌注中。
+总之，在临床肺移植中，尽管供肺保护还存在许 多问题。但目前广泛应用的肺保存方法仍然是单次肺 动脉灌注，更有效的保存液、保存温度及相应的保存 条件仍在不断努力探索之中。
+参考文献：
+[1]	Cooper 叫 Pearson FG, Patterson GA, et al. Technique of successful lung transplantation in Human [J]. J Thorac Cardiovasc Sufg 1987, 93(2): 173-82.
+[2]	Hardesty RL, Grffith BP. Autoperfusion of the heart and lungs for preservation during distant procurement [J]. J Thorac Cardiovasc Surg, 1987,93(1): 11-8.
+[3]	Hardesty RL Griffith BP. Procurement for combined heart-lung transplantation [J]. J Thorac Cardiovasc Surg, 1985,89(5): 795-9.
+[4]	Kirk AJB, Colquhoun IW, Dark JH, et al. Lung preservation: A review of current practice and future direction [J]. Ann Thorac Surg, 1993,56(4): 990-1003.
+[5]	Sasaki S, Mocully J, Alessandrini F, et cd. Impact of initial flush potassium concentration on the adegquacy of lung preservation [J ]. J Thorac Cardiovasc Surg, 1995, 109:1090-6.
+[6]	Baldwin JC, Frist WH, Starkey TO, et al. Distant graft procurement for combined heart and lung transplantation using a pulmonary
+artery flush and simple topical hypothermia for graft preservation [J]. Ann Thorac Surg, 1987,43(6): 670-3.
+[7]	Serrick CJ, Jamjoum A, Reis A, et al. Amelioration of pulmonary allograft injiny by administering a second rinse solution[" J Thorac Cardiovasc Surg, 1996, 112(4): 1010-6.
+[8]郭曲练,徐道妙，申建初，等.缺血处理对犬单肺移植后血液动力 学的影响[J].中华麻醉学杂志，1999,19(2): 414-5.
+[9]	Chan BBK, Kron IL, Flanagan TL, et al. Impainnent of vascular endothelial function by high-potassium storage solutions [J]. Ann Thorac Surg, 1993,55(4): 940-5.
+[10]	Muller C, Furst H, Hermann R, el al. Lung procurement by low-potassium dextran and The effect on preservation injury[J]. Transplantation, 1999, 68(8): U3M3.
+[11]	Date H, Izumi S, Andou A, et al. Successful canine bilateral single-lung transplantation after 21-hour lung preservation [J]. Ann Thorac Surg, 1995, 59(2): 336-42.
+[12]	丁嘉安,周伯年,姜格宁,等.二种不同成分情况液肺保存效果对比 [J].中华器官移植杂志,1999,20⑴:535
+[13]	Kashayjiee SH, Yamazaki F, Cardoso PF, et al. A method for safe twelve-hour pulmonary preservation [J]. J Thorac Cardiovasc Surg, 1989, 98(4):529-34.
+[14]	Hirt SW, Wahlers T, Jurmann MJ, et al. University of Wisconsin versus modified Euro-Collins solution for lung preservation [J]. Ann Thorac Surg, 1992,53(1): 74-9.
+[15]	Hardesty RL, Aeba R, John M, er aZ. A clinical trial of University of Wisconsin solution for pulmonary preservation U ] * J Thorac Cardiovasc Surg, 1993,105(4): 660-6.
+[16]	King RC, Binns OAR, Kanithanon RC, et al. Acellular low-potassi-um dextran preserves pulmonary function after 48 hours of ischemia [J]. Ann Thorac Surg, 1997,64(3): 795-804.
+[17]	Chien S, Zhang F, Niu W, et al. Comparison of University of Wisconsin, Euro-Collins, Low-potassium dextran, and Krebs-Henseleit solution for hypothermic lung preservation [J]. J Thorac Cardiovasc Surg, 2000,119(5):921-30.
+[18]	Kon ND, Hines MH, Harr CD, et al. Improved lung preservation with cold air storage [J ]. Ann Thorac Surg, 1991,51(4): 557-62.
+[19]	Date H, Lima O, Matsumura A, et aZ. In a canine model, lung preservation at 10 is superior to that at 4 为：a comparison of two preservation temperatures on lung function and on adenosine triphosphate level measured by phosphorus 31-nuclear magnetic resonance [J ]. J Thorac Cardiovasc Surg, 1992,103(4): 773-80.
+[20]	Wang LS, Port JL, Hochwald SN, et al. Revised technique of isolated lungperfiision in the Ann Thorac Surg, 1993,55(3): 711-25.
+[21 ] Watanabe A, Kawaharada N, Kusajima Kt et al. Influence of oxygen in inflation gas during lung ischemia on ischemia-reperfusion injury [J]. J Thorac Cardiovasc Surg, 1997,114(3): 332-8.
+[22]	Haniuda M, Hasegana S, Shiraishi T, et al. Effects of inflation volume during lung preservation on pulmonary c^>illary permeability [J]. J Thorac Cardiovasc Surg, 1996,112(1): 85-93.
+[23]	Puskas JD, Hirai T, Christie N, et al. Reliable thirty-hour lung preservation by donor lung hyperinflation [J]. J Thorac Cardiovasc Surg, 1992,104(4): 1075-83.
+[24]	Date H, Matsumura A, Manchester JK, et al. Changes in alveolar oxygen and carbon dioxide concentration and oxygen consumption during lung preservation [J]. J Thorac Cardiovasc Surg, 1993, 105: 492-9.
+(责任编辑:吴锦雅)

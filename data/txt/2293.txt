@@ -1,0 +1,57 @@
+﻿中华器官移植杂志 2007 年 12 月第 28 卷第 12 期 Chin J Organ Transplant.December 20()7. Vol 28,No. 12
+• 705 •
+・临床研究•
+总结69例心脏移植中供心的 心肌保护技术
+杨克明 胡盛寿 郑哲 丰雷 冯广迅
+【摘要】目的总结心脏移植中供心的心肌保护技术，分析供心的灌注、保存以及缺血时间对心 脏移植效果的影响。方法 回顾性分析2004年6月至2006年9月间的69例晚期心脏病患者行心 脏移植术的临床资料。供心的心肌保护采用低温St. Thomas液和HTK液顺序灌注方法.术中供心 保持持续低温状态。根据供心缺血时间长短将受者分为两组,A组36例，供心缺血时间小于24() min；B组33例，供心缺血时间大于24() mm。术后对受者进行定期随访。结果 在心脏移植术中，B 组受者较A组的体外循环时间延长。术后两组受者的死亡率、移植心功能、排斥反应以及并发症等 资料的比较，差异无统计学意义(P<D.05)o所有受者在心脏移植后,无近期死亡，但随访期间死亡6 例。结论 采用St. Thomas液和HTK液顺序冷灌注的改良方法，能够有效的保护供心心肌组织;供 心缺血时间的缩短会使心肌泵血功能恢复较快。这些对移植心功能的恢复和受者的预后具有良好的 近期和中期效果。
+【关键词】心脏移植;心肌;细胞保护;器官保存液
+Donor heart preservation in 69 cases successful heart transplantations YANG Ke-ming, HU Sheng-shou , ZHENG Zhe, etal, Fu Wai Hospital, CAMS PUMC <, Beijing 100037, China
+(Abstract] Objective To study preservative method of donor heart in heart transplantation and to analyze the effect of ischemic time and perfusion and preservative method of donor hearts. Methods Sixty-nine patients were subjected to heart transplantation in Fuwai Hospital from June 2004 to September 2006. The preservative method of donor hearts was sequential perfusion using cold St. Thomas and HTK solution. The patients were divided into two groups according to ischemic time of donor hearts： group A (36 cases) with ischemic time shorter than 240 min, and group B with ischemic time longer than 240 min. The patients were regularly followed up after operation. Results Ischemic time of donor hearts was from 120 min to 477 min. There was longer CPB time in group B than in group A. After operation, there were no significant differences in mortality, heart function, heart rejection, and complications between two groups. There was no death in recent period after operation, but totally 6 patients died during the period of follow-up. Conclusions Perfusion of St. Thomas and HTK solution can provide excellent preservative effect of donor hearts as well as satisfactory results of heart transplantation.
+(Key words】 Heart transplantation； Cardiac muscle； Cytoprotection； Organ preservation solution
+目前，心脏移植是治疗各种晚期心脏疾病的重 要手段。但由于缺乏供者，导致很大一部分等待心 脏移植的患者得不到及时治疗。因此，对来源有限 的供心提供有效的心肌保护是保证和扩展心脏移植 的基本条件。心脏移植不同于腹腔脏器移植，一方 面供心在移植后要立刻发挥其泵血功能来维持循环 系统;另一方面心脏对缺血的耐受程度比较差,这就
+作者单位：1（皿）37北京，中国医学科学院中国协和医科大学阜外心血 管病医院心外科
+给心脏移植中供心的心肌保护提出了更大的要求。 供心缺血时间的长短与心脏移植术后受者的早期和 中期死亡率呈相关关系山。目前，还没有公认的一 种心肌保护技术能够提供最好的心肌保护效果。本 文对我院连续69例心脏移植中供心的心肌保护技 术进行总结，并分析供心的灌注、保存以及缺血时间 对心脏移植效果的影响。
+临床资料
+一、一般资料
+, 706 ,
+中华器官移植杂志 2()07 年 12 月第 28 卷第 12 期 Chin J Organ Transplant,December 20()7, Vol 28, No. 12
+我院自2004年6月至2006年9月间共对69 例晚期心脏疾病患者施行了心脏移植，其中男性58 例，女性11例。受者的年龄为13〜66岁，平均 (45. 6 ± 13. 6)岁；体重 4()〜9() kg,平均(67. 3 ± 12. 1) kg。69例受者中原发病为心肌疾病39例, 冠心病22例，其它8例。1例受者在心脏移植术前 因心功能衰竭导致肾功能不全,后行心、肾联合移植 术。2例受者术前安装了体外膜肺氧合器(EC-M ()),待循环系统功能稳定后施行了心脏移植术。 1例受者在心脏移植术前行左心辅助。心脏移植术 前检查所有供、受者ABO血型相同;群体反应性抗 体(PRA)阴性(V10 %)64例，对5例PRA阳性 (>1()%)的受者进行了特异性交叉配合试验。体 重不作为必须匹配指标，但需控制供、受者体重差异 在±2() %以内。
+二、供心的获取和心肌保护技术
+将供者开胸后阻断其升主动脉,金属粗针头连 接灌注管,插入主动脉根部行正向心肌灌注。早期 的3例供心灌注使用的是UW液,之后的2例供心 单纯使用HTK液。但由于灌注时不能使供心立即 停搏，于是，我们以后使用St. Thomas液和HTK 液的改良方法顺序灌注供心。具体方法如下:使用 St. Thomas液50() ml灌注供心，使其快速停搏于舒 张期,然后立即改用4 °C HTK液15()() ml灌注，最 后使用HTK液50()ml在心脏包装袋中灌注，作为 供心在运输过程中的保存液，灌注压控制在10()〜 150 mm Hg。心肌灌注开始时即在心脏表面放上 冰屑，使心肌迅速降温，同时剪开下腔静脉、左或右 肺静脉用来减压，提高心肌灌注和心肌保护效果。 取出心脏后按标准包装方法放入冰箱中，运送至受 者手术室。准备移植前取出供心，放在冰水混合物 浸泡的纱垫上进行修剪。若缺血时间较长,移植前 再灌注1次含血心脏停搏液。移植吻合过程中注意 使供心保持持续低温状态。
+三、供心缺血时间和分组方法
+69例供心的缺血时间为12()〜477 min,平均 (227. 9 ± 93. 5)min,缺血时间大于360 min的有4例。 体外循环时间110-290 min,平均(167.7 ± 33.2) mm,并行循环时间35-125 mm,平均(70. 3 ± 17. 9) mm。根据供心缺血时间长短将受者分为两组:A组 36例，供心缺血时间小于240 min；B组33例,供心缺 血时间大于24() min。在心脏移植术中,A组平均缺 血时间(155. 5 土 24. 9)min.B组平均缺血时间(328. 2
+±48.7)min,两组间比较，差异有统计学意义(P< 0. ()()1 )0 体外循环时间 A 组为(16(). 1 ±26. 6) min,B 组为(176. 1 ±37. 9) min；并行循环时间A组为(66. 8 ± 17. 9)min,B 组为(74. 3 ± 17. 5) min；开放升主动脉 前,A组使用温血灌注26例,B组25例;A组自动复 跳有15例,B组有8例;两组间上述4项观察指标比 较，差异无统计学意义(P>().()5)。两组受者的年龄、 性别、体重、原发病以及心、肺、肾功能等数据的比较, 差异均无统计学意义(P>().()5)。心脏移植过程中. 升主动脉开放前有58例采用温血低钾灌注供心1 次。开放升主动脉后有23例移植心自动复跳，自动 复跳率为33. 8 %。
+四、受者的病情监测与治疗
+心脏移植术后密切监测受者的移植心功能和肺 动脉血压。当出现右心功能不全时，及时吸入NO 气体和静脉泵人前列地尔来改善右心功能不全。术 前使用巴利昔单抗(商品名:舒莱)进行免疫诱导，术 后使用环抱素A +霉酚酸酯+泼尼松的三联免疫抑 制方案来预防排斥反应的发生。定期对受者进行随 访，术后3周、3个月、6个月及1年时，行心肌组织 活检监测排斥反应。心脏移植术后,两组受者的死 亡率、使用呼吸机时间、住院时间、心功能、重度排斥 反应和并发症等方面比较，差异无统计学意义(P〉 ().()5)。两组受者术后的资料见表1。
+表1两组受者心脏移植术后的资料比较			
+观察项目	A组(36例)	B组(33例)	P值
+总死亡率(％)	11. 1(4 例)	6. 3(2 例)	0. ()76
+辅助通气时间(h)	21.9± 17.8	22. 9 ± 17.3	().797
+术后住院时间(d)	2S. 4± 16.2	25. 8 ±9. 9	0. 437
+供心左室内径(mm)	44. 6 ±3. 2	46. 2 ±5. 7	0. 181
+供心EF值(%)	64. 8 ±4. 3	66. 2 ±9. 3	0. 423
+三尖瓣少、中量返流(例)	16(44. 4%)	12(37.5%)	().626
+右心功能不全(例)	4(11. 1%)	2(6.3%)	0. 676
+da级以上排斥反应(例)	3(8.3%)	4(12.5%)	0. 6%
+心包积液(例)	6(16.7%)	3(9.4%)	0. 723
+肾功能不全(例)	3(8.3%)	2(6.3%)	1.00()
+感染(例)	3(8.3%)	3(9.4%)	1.000
+五、统计学分析
+所有数据采用SPSS 1().()软件进行处理。各数 据以均值土标准差表示，多个样本均数的比较用方 差分析，两组间定量资料进行t检验,两组间定性资 料进行/检验,PV0.()5表示差异有统计学意义。
+讨 论
+心脏移植中加强对供心的心肌保护是提高供心
+中华器官移植杂志 2007 年 12 月第 28 卷第 12 期 Chin J Organ Transplant,December 2007, Vol 28,No. 12
+利用率和术后远期疗效的重要因素之一。目前，临 床上对供心的保存多采用低温灌注保存方法。低温 灌注保存对器官的保护作用已被广泛认可•它一方 面降低了细胞内各种酶的活性，延缓细胞死亡;另一 方面它也降低了细胞对能量的消耗，促进了细胞肿 胀、细胞内酸化的发生。为了减少低温对心肌的损 伤作用和提高心肌对缺血和缺氧的耐受性，在获取 供心的同时灌注心肌保护液可以大大提高供心的心 肌保护效果并使供心耐受更长的缺血时间。
+1985年德国心脏外科界率先应用HTK液作 为供心的心肌保存液，成功地进行了心脏移植手 术⑶。因HTK液具有良好的心肌保护效果而在世 界上得到广泛的应用。HTK液按离子成分和浓度 不同属于钠、钙接近正常的“细胞外液型”。HTK 液最显著的特点是“低钠微钙停搏”、强大的抗酸能 力以及a-酮戊二酸的加入,这也是HTK液与常规 晶体心脏停搏液及含血心脏停搏液相比较,能够减 轻心肌缺血再灌注损伤的原因3。HTK液中具有 较低的钾浓度(9 mmol/L),虽然可以减少高钾对心 肌及冠状动脉内皮细胞的损伤，减少心肌对高能磷 酸盐的消耗，但仅仅依靠“低钠微钙”的平衡作用来 诱导心脏停搏，至少需要3〜5 min,这也可能加重 心肌损伤和减少心肌的能量储备。我们起初使用单 纯HTK液，发现心脏停搏较慢，我们随后改良了灌 注方法。首先，灌注冷晶体St. Thomas心脏停搏 液，使心脏迅速停搏于舒张期，然后，马上给予 HTK液15()() ml灌注，灌注温度保持在4 °C左右， 灌注压保持在10()〜15() mm Hg, 一般灌注7~ 1() min.充分平衡细胞内外环境,使心肌耗氧降到最低 水平。
+为了进一步研究缺血时间对心脏移植效果的影 响,我们对比了两组不同缺血时间供心的心肌保护 效果。临床资料表明，两组心脏移植术前均具有很 好的均衡性。心脏移植术中的统计资料显示，供心 缺血时间延长，其术中体外循环时间也延长,这可能 与心肌恢复泵血功能较慢，延长并行循环时间有关。 但术后两组的死亡率、使用呼吸机时间及住院时间 方面,差异无统计学意义。两组受者术后在移植心 功能、重度排斥反应、并发症方面，差异亦无统计学
+♦ 707 •
+意义。一组多中心的研究表明，供心缺血时间延长 是心脏移植术后早期死亡率的独立风险因素"⑸， 它可以增加患者的早期死亡率，使移植心左、右心室 功能丧失，增加血管活性药物的使用，延长住院时 间。但在本组研究中并没有出现相似结果,这可能 与本组未达到足够的例数或者我们使用了更有效的 心肌保护方法有关。长时间的供心缺血对心脏移植 术后长期存活率的影响多为单中心的研究结果。 Morgan"等对819例心脏移植受者经过10年的随 访结果显示，供心缺血时间延长对存活率没有明显 影响。但还需要进一步开展多中心和前瞻性的研 究。
+心脏移植中供心的心肌保护要贯穿于供心获取 和心脏移植整个过程中，始终保持供心低温状态、有 效的心肌灌注和保存液都是供心保护的关键所在。 我们采用St. Thomas液和HTK液顺序冷灌注的 方法，能够更有效的保护供心，对受者的预后和移植 心功能的恢复具有良好的近期和中期效果。
+参考文献
+[I]	Bourge RC, Naftel DC, Costanzo-Nordin MR, et al. Pretransplantation risk factors for death after heart transplant： a multi-institutional study. J Heart Lung Transplant, 1993, 12(6)： 549-562.
+[2]	Houischer M, Groenewoud AF. Current status of the HTK solution of bretschneider in organ preservation. Transplant Proc, 1991, 23(5)； 2334-2337.
+[3]	Careaga G, Salazar D, Tellez S, et al. Clinical impact of HTK cardioplegic solution on the perioprative period in open heart surgery patients. Archives Medical Res, 2001, 32(4)： 296299.
+[4]	Del Rizzo DF, Menkis AH, Pfungfelder PW,et al. The role of donor age and ischemic time on survival following orthotopic heart transplantation. J Heart Lung Transplant, 1999, 18 (4)： 310-319.
+[5]	Fernandez J. Aranda J« Mabbot S. et al. Overseas procurement of donor hearts： ischemic time effect on posioperative outcomes. Transplant Proc, 2001, 33(8)： 3803-3804.
+[6]	Morgan JA, John R, Weinberg AD. et al. Prolonged donor ischemic time does not adversely affect long-tenn survival in adult patients undergoing cardiac transplantation. J Thorac Cardiovasc Surg, 2003, 126(5)： 1624-1633.
+(收稿日期:纣)7-U1F5)

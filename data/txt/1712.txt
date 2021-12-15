@@ -1,0 +1,217 @@
+﻿第10卷 第4期 2019年7月
+器官移植
+Organ Transplantation
+Vol. 10 No. 4
+Jul. 2019
+•诊疗规范・
+器官移植病理学临床技术操作规范(2019版)
+——肺移植
+中华医学会器官移植学分会
+【摘要】为了进一步规范器官移植病理学临床技术操作，中华医学会器官移植学分会组织器官移植专家和 移植病理学专家，从移植肺活组织检查病理学临床操作规范、移植肺并发症的病理学诊断临床技术操作规范、诊 断性介入肺脏病学快速现场评价技术在移植肺病理诊断中的初步应用等方面，制定器官移植病理学临床技术操作 规范(2019版)之肺移植病理学临床技术操作规范。
+【关键词】	移植病理学；器官移植；肺移植；经支气管肺活组织检查；排斥反应；感染；缺血-再灌注损伤;
+气道炎症；误吸
+【中图分类号】R617, R36【文献标志码】A【文章编号】1674-7445( 2019)04-0007-10
+本文为移植肺病理学临床技术操作规范。
+1	移植肺活组织检查病理学临床操作 规范
+1.1	移植肺病理学检查的目的
+临床肺移植后针对并发症进行活组织检查(活检) 病理学诊断,指导临床予以针对性治疗。
+1.2	移植肺病理活组织检查的技术特点
+经 支气管 肺活检(transbronchial lung biopsy， TBLB)是诊断性介入肺脏病学中最基本、最常用且 成熟、有效的诊断技术,也是评价术后移植肺并发症 的主要方法[1-3],对移植肺并发症的诊断或鉴别诊断 具有重要作用。TBLB的安全性较高，其主要并发症 为气胸,操作相关出血等并发症的发生率较低,而脑 部空气栓塞等其他并发症极其罕见。
+需要注意的是，TBLB活检组织小，通常仅含有
+少量肺泡组织,活检过程中有时会受到捏压、牵拉而 扭曲变形,造成人为假象导致诊断困难。不同并发症 相应病变在镜下存在交叉重叠或者同时并存,故诊断 时要全面细致,在详细地观察病理学改变的基础上与 临床、影像等密切结合作出判断。
+支气管肺泡灌洗(bronchoalveolar lavage，BAL) 是另一种有效的细胞学和感染病因学活检诊断手段， 可在上述TBLB同时进行。其可以根据临床诊断的需 要多次重复进行,非常有利于协助移植肺感染的诊断, 但对急性排斥反应的诊断缺乏明确的临床意义。此外, 楔形活检、再次移植时切除的移植肺或尸检移植肺组 织则能进行全面的病理学诊断。
+1.3	经支气管镜肺活检标本的要求
+移植肺TBLB至少需要钳取5粒扩张良好的肺组 织,取得的肺组织立即置10%中性甲醛固定液中固 定并轻微震荡,以使活检肺组织充分接触固定液使肺
+DOI: 10.3969/j.issn.1674-7445.2019.04.007
+基金项目：江苏省第四期“333工程”(BRA2013026)；无锡市科技发展指令性计划(CSEY1N1102、WX18IVJN015)；无锡市 医院管理中心科研重大项目(YGZXZ1405)；江苏省科教强卫项目(JCRCB2016003)；国家卫生和计划生育委员会行业科研专项基金 (201302009)；中国医学科学院中央级公益性科研院所基本科研业务费专项基金(2018PT32018)；华中科技大学自主创新基金项目(01-08-540149)
+执笔作者单位：214023 无锡市人民医院(陈静瑜、杨树东、吴波、张稷、卫栋、刘东、杨航、范立)；华中科技大学同济医学院附 属同济医院 器官移植教育部重点实验室 卫健委器官移植重点实验室 中国医学科学院器官移植重点实验室(郭晖)；天津医科大学总医院(冯 靖)；广州医科大学附属第一医院(巨春蓉)
+通信作者：郭晖，Email: zcguo@tjh.1jmu.edu.cn；吴波，Email: 15852759830@126.com；陈静瑜，Email: chenjingyu333@sina.com
+■ 384・
+器官移植
+第10卷
+泡自然膨胀。在夹持活检标本时务必轻柔，以避免夹 捏标本导致的组织皱缩等人为假象（图1）。
+图示活检肺组织内因夹捏所致的组织夹痕（f）
+图1 移植肺活检组织中的人为假象 (苏木素-伊红， X200)
+Figure 1 Artificial false appearance in lung allograft biopsy tissue
+1.4	移植肺活检标本处理及染色技术
+移植肺TBLB活检标本组织学处理中应包括至 少3个连续切面的石蜡切片，切片厚度为2〜3 Mm。 染色包括苏木素-伊红（hematoxylin-eosin, HE ）染 色、Masson三色染色、弹力纤维染色或银染色以便 更好地观察肺泡、小气道或血管等组织结构及其病变； C4d和巨细胞病毒（cytomegalovirus, CMV ）免疫酶 组织化学染色可以协助诊断移植肺抗体介导的排斥反 应（antibody-mediated rejection, AMR）和 CMV 感 染因素；同时在必要时结合微生物学、血清学甚至分 子病理学技术来进行诊断及鉴别诊断［3-4］。
+2	移植肺并发症的病理学诊断临床技术 操作规范
+2.1	移植肺排斥反应诊断及分级标准
+国际心脏和肺移植学会（International Society of Heart and Lung Transplant, ISHLT ）对移植肺 TBLB 排斥反应的病理诊断及分级标准自1991年提出后 不断予以补充和更新，目前主要参考2007年ISHLT 制定的移植肺排斥反应诊断及分级标准（扫描二维 码 1）［4-10］。
+2.2	移植肺急性排斥反应
+2.2.1	移植肺排斥反应A0级（无急性排斥反应）为 正常肺实质组织,未见单个核细胞浸润、出血或坏死。
+扫描二维码1可见2007年ISHLT制定的移植肺 排斥反应诊断及分级标准
+2.2.2	移植肺排斥反应A1级（轻微急性排斥反应） 肺实质内见散在的、少许的血管周围单个核细胞浸润
+（图2A）。血管，特别是小静脉，被小而圆的浆细 胞样和转化的淋巴细胞围绕,在血管外膜周围形成由 两层或三层细胞组成的环状带。但炎性浸润细胞中没 有嗜酸性粒细胞和内皮炎表现。
+2.2.3	移植肺排斥反应A2级（轻度急性排斥反应） 多见小静脉和小动脉血管周围松散或密集的单个核细 胞浸润（图2B ）。浸润的炎性细胞通常由小淋巴细胞、 活化的淋巴细胞、浆细胞样淋巴细胞、巨噬细胞和嗜 酸性粒细胞组成。单个核细胞可以在血管周围间质聚 集浸润,但未见明显浸润进入邻近的肺泡间隔或肺泡 腔。血管内皮炎、嗜酸性粒细胞的存在和同时存在的 小气道炎症有利于诊断A2级，而不是轻微的A1级 急性排斥反应。
+2.2.4	移植肺排斥反应A3级（中度急性排斥反应） A3级急性排斥反应的特征为在小静脉和小动脉血管 周围密集的单个核细胞浸润,且通常伴有血管内皮炎
+（图2C）；炎性浸润中也时常伴有嗜酸性粒细胞甚 至偶尔有中性粒细胞出现；炎症浸润可明显扩展浸润 到血管周围和细支气管周围的肺泡间隔和肺泡腔；肺 泡间隔增宽及单个核细胞聚集,肺泡腔内可以出现 少许纤维蛋白沉积及小的息肉状机化,但尚无透明膜 形成。
+2.2.5	移植肺排斥反应A4级（重度急性排斥反应） A4级重度急性排斥反应的特征为单个核细胞弥漫性 浸润血管周围、间质和肺泡腔,肺泡细胞损伤和明显 的血管内皮炎（图2D ）。肺泡内上皮细胞坏死，肺 泡腔较多纤维蛋白沉积及透明膜形成,并可发生纤维 组织增生即机化。同时可以伴有中性粒细胞浸润,纤 维渗出,中性粒细胞浸润对肺泡间隔的损伤是严重的 急性细胞排斥反应的突出特征,同时可伴有气道的明 显损伤和炎症。中性粒细胞大量浸润时,需要进一步 结合临床、实验室及影像学检查排除感染因素。
+第4期
+中华医学会器官移植学分会．器官移植病理学临床技术操作规范（2019版） ——肺移植
+- 385・
+A图示轻微急性排斥反应（A1级），在移植肺活检组织中的特征性表现为血管周围少数单个核细胞浸润，通常涉及小 静脉，浸润的炎性细胞少而松散，未见血管周围密集的单个核细胞浸润（HE,x200）； B图示轻度急性排斥反应（A2级）， 移植肺活检组织中的特征性表现为小血管周围间质有明显的单核炎症细胞浸润，可见嗜酸细胞及内皮炎（HE,x200）； C图示中度急性排斥反应（A3级），移植肺活检组织内的血管周围单个核炎性细胞浸润，且炎性浸润从小血管的周围间质 扩展浸润进入肺泡间隔，并伴有肺泡间隔增宽和肺泡间隔内浸润的细胞数量增多（HE,x200） ； D图示重度急性排斥反应 （A4级，重度的小动脉分支血管内皮炎），小动脉内皮淋巴细胞浸润及局部内膜轻微水肿（HE,x 400）
+图2 移植肺急性排斥反应的病理学特征
+Figure 2 Pathological characteristics of acute rejection of lung allograft
+2.2.6移植肺急性排斥反应的小气道炎症B级为气道 炎症一一淋巴细胞性细支气管炎。B级命名仅适用于 小气道，即细支气管，不包括含软骨的大气道炎症。 在没有血管周围浸润的情况下，如果存在气道炎症， 在将其特征归结为急性排斥反应之前，应注意结合 临床排除感染因素。（1）小气道炎症B0级（无气 道炎症）：B0级中，移植肺活检组织内的细支气管 没有炎症表现。（2 ）小气道炎症B1R级（低级别的 小气道炎症）：移植肺活检组织内的细支气管黏膜下 层有少见的、分散的或形成环状带的单个核细胞浸润
+（图3A）,偶尔可见嗜酸性粒细胞，没有上皮损伤 或上皮内淋巴细胞浸润。（3）小气道炎症B2R级（高 级别的小气道炎症）：移植肺活检组织内的小支气管 的黏膜下层浸润的单个核细胞数量增多，且其中部分 为更活化的淋巴细胞以及有更多的嗜酸性粒细胞和浆 细胞样细胞（图3B）。此外，有黏膜上皮层内单个 核细胞的浸润和黏膜上皮损伤伴黏膜上皮坏死及化生。 最严重时可见黏膜上皮溃疡及溃疡表面混合有纤维蛋 白脓性渗出物、坏死细胞碎片和多数中性粒细胞。如 果黏膜上皮和黏膜下层浸润的炎性细胞中的中性粒细 胞数量明显增多时，需要考虑排除感染因素以及与急 性排斥反应相鉴别，移植肺BAL则有利于明确化脓 和（或）病原体感染的证据。
+2.3 移植肺慢性排斥反应的小气道病变
+C级为慢性排斥反应的小气道病变一闭塞性细 支气管炎（obliterative bronchiolitis, OB ）。OB 指细 支气管黏膜下有致密嗜酸性透明变纤维疤痕组织，导 致部分或完全腔内阻塞（图4A）。这种组织可以是
+同心的或偏心的，可能与平滑肌和气道壁的弹力破坏 有关，可延伸至细支气管周围间质。远端肺泡腔中 的胆固醇肉芽肿和（或）泡沫状组织细胞通常与OB 有关。C0级为无慢性排斥反应的小气道OB。C1级 慢性排斥反应在小气道的特征为小气道OB病变 （图4B ）。但由于TBLB活检的局限性，其在诊断 OB中的灵敏度仍不足，因此，在临床早期发现和诊 断方面，移植肺功能分级是诊断和监测慢性气道排斥 反应的首选方法［9］，由此诊断为闭塞性细支气管炎综 合征（bronchiolitis obliterans syndrome, BOS ）。
+A图示移植肺急性排斥反应的低级别淋巴细胞性细支 气管炎（B1R级），细支气管黏膜外周轻度的、局灶片状 的单个核细胞浸润，其远离呼吸上皮，无支气管黏膜上皮 损伤；B图示高级别淋巴细胞性细支气管炎（B2R级）， 在高级别淋巴细胞性细支气管炎中，与低级别相比，单个 核细胞在黏膜下明显增多，并与上皮基底膜相连，且通过 基底膜渗透进入被覆的呼吸上皮，可见上皮细胞坏死、脱 落和凋亡
+图3 移植肺急性排斥反应的小气道炎症的 病理学特征(HE,X200)
+Figure 3 Pathological characteristics of small airway inflammation in acute rejection of lung allograft
+- 386・
+器官移植
+第10卷
+2.4 移植肺慢性血管性排斥反应
+移植肺慢性血管性排斥反应即加速性移植肺血 管硬化，其特征性病变为动脉和静脉内膜纤维性增厚 （图5），致管腔狭窄甚至闭塞，部分病例的纤维化 增厚内膜内仍可见单个核细胞浸润，中膜平滑肌往往 萎缩，可与BOS同时存在。在静脉中，组织学表现 通常是少细胞透明硬化症，使用老年供者供肺与这种 静脉硬化的发生率增高有关。TBLB由于活检取材的 局限性，不适于移植肺慢性血管性排斥反应的诊断。 2.5 移植肺抗体介导的排斥反应
+研究已证实，AMR是导致移植肾脏、心脏等移 植器官失功的主要致病因素之一，但与其他实体器 官移植相比，移植肺AMR的诊断尚未明确［11］，但
+A图示移植肺活检组织内的终末细支气管黏膜被覆 上皮部分破坏缺失，管壁平滑肌层破坏，局部黏膜下偏 心性的纤维组织增生及增生的纤维组织压迫细支气管管 腔致气道管腔扭曲和狭窄（HE,x200）； B图示呼吸性 细支气管内增生的纤维组织填塞致管腔明显闭锁（T ） （HE,x400）
+图4 移植肺慢性排斥反应的闭塞性细支气管炎的 病理学特征
+Figure 4 Pathological characteristics of bronchiolitis obliterans with chronic rejection of lung allograft
+血清抗人类白细胞抗原（human leukocyte antigen, HLA）抗体的存在和移植后肺泡间隔毛细血管内皮 上C4d沉积提示移植肺中体液免疫应答的作用，提 示AMR是导致移植肺功能障碍和失功能的重要因 素［12］。这主要归因于移植肺AMR的研究起步较晚， 目前仅限于少数肺移植中心的研究和少数的个案报道, 其临床意义、临床和病理诊断及其病理学特征仍未 明确［13-14］。其临床诊断基本包括3方面,即血清学 检测发现供体特异性抗体（donor specific antibody, DSA）;出现相应病理改变，包括急性肺损伤、肺 泡间隔毛细血管炎、动脉内皮炎；免疫组织化学（免 疫组化）染色呈毛细血管壁C4d沉积。当三者均出 现时，可以确诊为AMR［15-16］。结合上述的、既往 ISHLT肺移植工作组的前期研究和2005年美国国立 卫生研究院（National Institutes of Health, NIH）对 AMR诊断的总体经验，2007年ISHLT移植肺排斥反 应诊断标准中推荐用于诊断移植肺AMR的主要病变 为急性毛细血管损伤（acute capillary injury ），即移 植肺的微血管炎症损伤（micro-vascular inflammation, MVI），其特征性表现为中性粒细胞性毛细血管炎
+（neutrophilic capillaritis），即移植肺活检组织内的 局部或弥漫性的肺泡间隔毛细血管腔内炎性细胞尤其 是中性粒细胞浸润（图6）、伴或不伴有肺泡间隔毛 细血管内微血栓和肺泡腔内出血及中性粒细胞漏出。 有时可见细小动脉和（或）静脉分支的血管内皮炎。 C4d在移植肺AMR诊断中的意义尚未完全明确并有 待进一步深入研究［17-18］，但仍建议每例移植肺活检 组织进行C4d免疫荧光或免疫组化染色，同时结合血 清DSA检测以明确AMR。C4d阳性表现为移植肺肺
+图示移植肺内小静脉管壁局部增生增厚及管腔部分狭窄
+图5 移植肺慢性血管性排斥反应的病理学特征 （HE,X200）
+Figure 5 Pathological characteristics of chronic vascular rejection of lung allograft
+A图示移植肺活检组织内肺泡间隔毛细血管管腔内淋 巴细胞和中性粒细胞淤积浸润（T）; B图示微动脉管腔 内中性粒细胞淤积（T）
+图6 移植肺微血管炎或中性粒细胞性毛细血管炎的 病理学特征（HE,X1 000）
+Figure 6 Pathological characteristics of microvasculitis or neutrophilic capillaritis in lung allograft
+第4期	中华医学会器官移植学分会.器官移植病理学临床技术操作规范（2019版）一一肺移植	・387.
+泡间隔毛细血管内皮线样沉积，而小动脉、小静脉血 管内皮、血管弹力膜、支气管黏膜上皮和肺泡间隔纤 维组织部位均不能判定为阳性。
+2.6 新的慢性排斥反应类型
+2.6.1 限制性移植肺综合征 限制性移植肺综合征 （restrictive allograft syndrome, RAS ） 由 Sato 等［19］ 于2011年第1次提出并命名，是指慢性移植肺失功 （chronic lung allograft dysfunction, CLAD ）的肺移植
+受者的肺总容量＜ 90%并伴有BOS［20］，影像学上显 示以上叶为主的间质性肺疾病，肺间质毛玻璃结节、 蜂窝状改变和小叶间隔增宽［21］。病理学不显示阻塞 性，而为限制性的病变，表现为肺间质和肺泡腔内充 满透明变的纤维和散在的单个核细胞，肺外周病变 更明显，纤维化范围往往比典型的机化性肺炎更大 （图7）。有时可表现为急性肺损伤和间质增宽的早 期纤维化，此时可诊断为急性机化性肺损伤，逐渐演 变为间质和肺泡纤维化，相对于BOS,其预后更差。
+2.6.2 中性粒细胞性可逆性移植肺功能障碍 出现 CLAD的肺移植受者的BAL液中，中性粒细胞N 15% 且无感染证据时，称为中性粒细胞性可逆性移植肺功 能障碍或阿奇霉素可逆性肺功能障碍（neutrophilic-reversible/azithromycin responsive allograft dysfunction， NRAD/ARAD ）。一些研究结果显示，受者对阿奇 霉素治疗有反应，经阿奇霉素治疗3〜6个月后， 第1秒用力呼气量至少提高10%且具有相对良好的 预后［22-23］。
+图示部分移植肺的肺泡腔内可见肺泡上皮细胞显著增 生，同时可见局部肺泡间隔纤维组织明显增生及部分肺泡 被增生的纤维组织填塞
+图7 移植肺的限制性移植肺综合征的病理学特征
+（HE,X200）
+Figure 7 Pathological characteristics of restrictive allograft syndrome in lung allograft
+2.7	移植肺感染
+肺移植受者由于应用免疫抑制剂导致机体免疫功 能下降，以及供肺携带性因素使肺移植后的感染风险 明显增加，是肺移植后并发症发生率及病死率增高的 原因之一。移植肺的细菌性肺炎是最常见的感染并发 症，CMV感染位居第2,其后是真菌及分枝杆菌感 染［24］。移植术后早期主要为细菌感染，最常见的3 种细菌感染分别是假单胞菌、金黄色葡萄球菌和不动 杆菌属。术后稳定期主要为真菌和病毒感染,其中真 菌中主要包括曲霉（图8）、毛霉（图9）和假丝酵 母菌属感染；病毒主要为CMV感染（图10 ）。
+感染早期注意与急性排斥反应相鉴别,因二者的 病理改变往往相似甚至重叠。移植肺活检组织中大量 的中性粒细胞浸润、组织坏死和肉芽肿多提示感染； 显著的小气道上皮内及上皮下中性粒细胞浸润同样也 支持感染,而小气道及血管周围单个核细胞浸润则支 持急性排斥反应。CMV肺炎常表现肺泡间隔不成比 例的、混合性炎性细胞浸润,感染细胞有核内和胞质 内病毒包涵体。肉芽肿性炎症并不是急性排斥反应的 一个特征,可能是分枝杆菌或真菌感染,包括肺孢子 菌感染,组织坏死也增加了分枝杆菌、真菌或疱疹病 毒感染的可能性,而非急性排斥反应。
+2.8	其他病变
+2.8.1 移植肺缺血-再灌注损伤 肺移植过程中的缺 血-再灌注损伤往往导致不同程度的急性肺损伤, 目前其发病机制仍不明［23］。大多数情况下病变轻 微,基本在移植术后1个月内恢复,严重的急性肺 损伤可能进展为原发性移植肺无功能（primary graft
+图示移植肺活检组织内曲霉菌丝
+图8移植肺曲霉感染的病理学特征(HE,X200)
+Figure 8 Pathological characteristics of aspergillus infection in lung allograft
+- 388・
+器官移植
+第10卷
+dysfunction, PGD ）,导致术后早期病死率增加［24］。 病理改变无特异性，仅为急性肺损伤，程度从轻微至 伴有透明膜形成的弥漫性肺泡损伤（图11），且无 感染证据。在大多数移植术后早期的活检中，缺血-再 灌注损伤如果同时伴有排斥反应或感染［25］，可引起 诊断困难，此时要遵循严格的诊断标准。
+2.8.2 误 吸 由于肺移植为去神经的移植，移植肺缺 乏咳嗽反射的保护，患者极易出现反复误吸，已成为 慢性移植肺功能障碍的重要原因之一，明确后可通过 治疗予以改善［26］。其诊断的病理学特征包括在气道 和肺实质中可识别具有相关异物巨细胞反应的外源性 物质（图12），大脂滴和（或）吞噬有较大空泡的 巨噬细胞是误吸的有效标志。误吸可以发生在移植后 的早期或晚期，因此在整个术后活检的鉴别诊断中均 需要注意。
+2.8.3 大气道炎症 区分大气道和小气道炎症始终是诊
+断中不可回避的主题之一［25］。虽然区分不同气道的 炎症有助于诊断急性排斥反应,但是目前尚无明确的 证据能明确区分小气道和大气道炎症。大气道炎症最 常见的是感染（图13）和误吸。除小气道的OB以外， 如果发现大气道的纤维疤痕,即便多数为非特异性, 也必须密切注意OB的可能性，并进一步检查予以明 确或排除。
+2.8.4 支气管相关淋巴组织 支气管相关淋巴组织 （bronchus associated lymphoid tissue, BALD ） 由沿 远端支气管和小支气管分布的上皮下黏膜淋巴滤泡组 成。它分散在成人肺中，在气道的分叉处最为多见。
+淋巴滤泡主要包含B淋巴细胞，通常缺乏真正的生发 中心。这些滤泡与特殊的支气管和细支气管上皮有关， 这些上皮由立方状、非纤毛、非黏液细胞组成,允许 跨上皮细胞传递抗原物质和细胞成分［26］。BALD通 常界限比较清晰,其中可能含有巨噬细胞及微血管网。
+A图示移植肺活检组织内毛霉菌丝（T）（HE, x100）； B 图（HE,x 1 000）
+A图示移植肺肺泡上皮细胞核内病毒包涵体（HE, x400）； B图示感染细胞免疫组化CMV染色见阳性表达， 肺泡上皮细胞核呈阳性深褐色（免疫组化，x 400 ）
+图10 移植肺巨细胞病毒感染的病理学特征
+图9 移植肺毛霉感染的病理学特征 Figure 9 Pathological characteristics of mucor infection in lung allograft
+Figure 10 Pathological characteristics of cytomegalovirus infection in lung allograft
+图示移植肺活检组织内可见外源性物质,为吸入的食
+物残渣
+A图示移植肺活检组织内的肺泡内可见较多脱落的肺 泡上皮细胞（T） （HE,X100）； B图示移植肺活检组织 内严重的缺血-再灌注损伤,肺泡表面明显的透明膜形成 （t）（HE,x200）
+图11 移植肺缺血-再灌注损伤的病理学特征 Figure 11 Pathological characteristics of ischemiareperfusion injury in lung allograft
+图12移植肺误吸的病理学特征(HE,X200)
+Figure 12 Pathological characteristics of aspiration of lung allograft
+第4期	中华医学会器官移植学分会.器官移植病理学临床技术操作规范（2019版）一一肺移植	・389・
+图示含软骨的大气道，气道管壁大量中性粒细胞和淋 巴细胞浸润，提示感染，同时可见局部黏膜坏死脱落呈糜烂， 部分呼吸道黏膜鳞状上皮化生
+图13移植肺大气道炎症的病理学特征（HE,X200） Figure 13 Pathological characteristics of airborne tract inflammation in lung allograft
+上皮损伤时，中性粒细胞或嗜酸性粒细胞不会在此聚 集，据此可与排斥反应相关的气道炎症、血管外周或 间质的炎性浸润相鉴别。
+2.8.5 移植后复发、新发疾病 移植肺原发病复发是非 常少见的，在TBLB中很难检测到。结节病、肿瘤、 淋巴管肌瘤病、肺朗格罕细胞组织细胞增生症、肺静 脉闭塞性疾病或肺毛细血管瘤病都曾有复发报道［27］。 与普通人群相比，实体器官移植受者更易发生恶性肿 瘤，无论是新发还是复发，预后更差，是引起肺移植 后死亡的第二大原因［28］，主要原因是由于免疫抑制 及感染的发生，常见的有卡波西肉瘤、肺癌及移植后 淋巴组织增生性疾病［29］。
+3 诊断性介入肺脏病学快速现场评价技 术在移植肺病理诊断中的初步应用
+近年来，我国肺移植技术飞速发展，肺移植术 后急性肺损伤、排斥反应和感染等肺部并发症是移植 术后严重影响肺移植受者围手术期生存率和长期生存 率的主要因素。诊断性介入肺脏病学的快速现场评价 （rapid on site evaluation, ROSE）技术是一项实时伴 随于肺活检取材过程的快速细胞学判读技术。肺活检 取材后，在基本无人为损伤组织标本的前提下，将部 分标本印涂于载玻片上，制成细胞学片基并迅速染色 及镜检观察，同时综合临床信息予以诊断［30］。
+ROSE的观察内容包括：细胞形态、分类、计数、 构成比、排列、相互关系、背景及外来物分析。其临 床意义包括：评价取材标本的满意度；实时指导介入
+操作手段与方式；形成初步诊断或缩窄鉴别诊断范围； 优化靶部位活检标本的进一步处理方案；结合全部临 床信息与细胞学背景进行病情分析与转归预判，其比 较适于移植肺感染的早期诊断。同时ROSE技术可与 高通量测序（high-throughput sequencing）又名下一 代测序（next generation sequencing，NGS）相结合， 以其快速加精准即“见到即能取到，取到即能测到” 的优势组合，更好地协助移植肺并发症的明确诊断。
+3.1	诊断性介入肺脏病学快速现场评价技术细胞学诊 断的定义
+利用纤维支气管镜，在病变部位，利用毛刷或活 检钳取材，将部分取材印涂于玻片，制成细胞学片基， 迅速染色并以专用显微镜综合临床信息立即判读。
+3.2	诊断性介入肺脏病学快速现场评价技术的受者准备
+受者准备包括：（1）生命体征平稳，无需应用 血管活性药物；（2）无明显的呼吸困难，鼻导管吸 氧流量小于5 L/min，血氧饱和度维持在90%以上；（3） 近1个月无大咯血病史，凝血功能正常。
+3.3	诊断性介入肺脏病学快速现场评价技术细胞学诊 断的基本条件和设备准备
+3.3.1 所需设备 专用细胞学显微镜，其目镜镜头通常 是X10 （即10倍），同时须有x 10 （ 10倍）和X40 （40倍）广视野物镜镜头；推荐加装x 100（ 100倍“免 油”物镜镜头，此类镜头不仅为观察特征性微生物所 必需，且方便获取高质量的图文资料。
+3.3.2 图文成像、照相系统 高分辨率图文成像、照相 系统，用于出具报告、资料总结、病例回顾、学术交 流和临床教学等。推荐将具备自动对焦功能的高分辨 率照相机集成在显微镜上作为其图文系统。
+3.3.3 生物安全要求 感染病学相关操作规范要求须在 二级生物安全柜中完成制片与染色过程，且判读后， 玻片与染液应做特殊处理；操作人员须经生物安全相 关培训并具备相应资质。
+3.4	场所要求
+须位于介入诊疗操作现场，实时提供细胞学判读 初步印象并实时交流分析。有条件的介入诊疗中心可 装备专业细胞室，该室须与介入诊疗操作现场相通或 能经无线通讯实时交流，并将显微镜下图文信息实时 向介入诊疗操作术者显示。
+3.5	操作前准备
+需备好无菌细胞学专用玻片（须具有较强的细 胞附着性）、吸水纸、无粉乳胶手套、一次性2.5〜
+- 390・
+器官移植
+第10卷
+5.0 mL注射器针头，并将全套迪夫（Dif Quik）染液 分别置于有密封盖的玻璃染缸中以便于操作。
+3.6	玻片的处理
+用于感染性疾病诊断的载玻片与染液于使用后应 按照二级生物安全的规定做相应处理。如需长期留存 染色后的细胞学玻片，推荐直接置于阴凉干燥处，不 推荐使用中性树胶封片以免损失部分细胞学信息。
+3.7	诊断性介入肺脏病学快速现场评价技术具体工作 流程
+诊断性介入肺脏病学快速现场评价技术是将制 片、染色和判读3个步骤连续进行。
+3.7.1 制 片 印片（滚片）是最常用的制片方式，适 用于TBLB、组织切割针（如MW-319型王氏针）常 规经支气管针吸活检（transbronchial needle aspiration， TBNA）、黏膜直视下活检、内科胸腔镜直视下活检、 经皮组织切割针肺活检等。取材时，用一次性2.5~ 5.0 mL注射器针头将组织粒从活检钳钳杯或经皮组织 切割针中挑起，或从组织切割针（如MW-319型王氏 针）尖端推出，在基本不损失组织标本的前提下，在 无菌细胞学专用玻片（须具较强细胞附着性）染色端 1/3处自内向外涂抹出直径约1 cm的圆形、厚薄适度 的细胞印片。然后将印片（滚片）后的组织粒仍按常 规方式进入病理或检验等相应后续过程，并根据判读 结果优化靶部位标本流向，调整标本的进一步处理 方式。
+刷片（涂片）适用于普通细胞刷、防污染细胞刷 或超细细胞刷的刷检标本，以及痰液、黏稠体液等半 液状标本。靶部位取材时，将刷头推出，在无菌细胞 学专用玻片（须具有较强的细胞附着性）染色端1/3 处往复涂抹出约1 cmx2 cm大小、薄厚适度的长方形。 其他环节所需制片（如送交病理科与检验科相关检查 的常规制片）仍按常规方式完成。
+喷片适用于细针穿刺活检（fine needle aspiration biopsy, FNAB）与细胞穿刺针（如 SW-121、122、 521、522型王氏针）常规TBNA等。靶部位取材时， 将穿刺针针头抵于无菌细胞学专用玻片（须具有较强 的细胞附着性）染色端1/3处，穿刺针尾端空气加压 的同时，自内向外涂抹出直径约1 cm、薄厚适度的圆形。 其他环节所需制片（如送交病理科与检验科相关检查 的常规制片）仍按常规方式完成。
+留片适用于支气管内超声（endobronchial ultrasonography,EBUS ）引导的 TBNA（ EBUS-TBNA ）。
+靶部位取材后，将穿刺针针头抵于无菌细胞学专用玻 片（须具有较强的细胞附着性）中央，用穿刺针内芯 将糊状组织标本推出，以尖镊子夹取吸水纸铲走大部 分标本，则将细胞学片基留在玻片上。然后根据判读 结果，将糊状标本仍按常规方式，进入病理或检验等 相应后续过程；或于顶出通丝留取组织学标本后，仍 采用前述“喷片”法获取细胞学制片。
+3.7.2 细胞学片基的快速染色（染色） 世界卫生组织 （World Health Organization, WHO）推荐采用迪夫 染液对细胞学片基进行快速染色。迪夫染色与瑞氏染 色（Wright stain）类似，经 Romanowsky stain 技术改 良而成,结果也和瑞氏染色类似。迪夫染液含酸性染 料（曙红）和碱性染料（亚甲蓝）,利用各待染物质 对染料亲和力的不同呈现出不同着色,从而达到辨别 其形态特征的目的。迪夫染色快速，仅约30〜70 s, 即靶部位取材后1〜2 min内即可染好细胞学片基并 可供显微镜下判读。因为制片、染色耗时极短,使判 读过程几乎与介入操作过程形成“实时”反馈。
+染色时推荐采用“浸染”而非“滴染”以提高染 色质量与效率。分别把迪夫A溶液、迪夫B溶液、 磷酸盐缓冲液（phosphate buffer saline, PBS）和清水 适量倒于带盖玻璃染缸中。把片基浸泡于迪夫A溶 液（10〜30 s）；再于PBS染缸中洗掉迪夫A溶液， 甩干缓冲液；而后再把片基浸泡于迪夫B溶液（20〜 40 s）;最后清水染缸中水洗，以吸水纸吸干、擦干 玻片残留液体，完成染色。迪夫A溶液、迪夫B溶液、 PBS均可挥发，用后应密封保存。
+3.7.3 细胞学片基的快速综合分析（判读） 细胞学片 基判读时的注意事项：迪夫染色后的细胞学制片应 “迅速实时”进行显微镜下判读。细胞学判读所获印 象是综合分析时不可或缺的信息。临床工作中,判读 须基于已有知识基础与临床信息,应包括：（1）多 学科知识基础,如呼吸病学、介入肺脏病学、病理学、 临床微生物学、感染病学及肿瘤学等；（2）详细病 史与体格检查；（3）全部诊疗过程与病情发展转归； （4）影像学表现,尤其是治疗前后影像学资料的 对比；（5）实验室检查,注意治疗前后实验室检查 数据的变化；（6）介入诊疗操作中内镜（腔镜）下 表现与所获标本的物理性状；（7）确认精准靶部位 取材后“实时”细胞学判读所获印象。
+肺移植受者常见移植肺或纵隔的炎症病变的肺活 检组织印片细胞学聚类分析：对非肿瘤性的炎症病变
+第4期	中华医学会器官移植学分会.器官移植病理学临床技术操作规范（2019版）一一肺移植	.391・
+肺活检组织印片细胞学表现往往是组织病理学的“细 胞学翻版”，即对应组织内容的细胞脱落所形成的表现， 故判读者应对相应疾病的组织病理学病变有深刻理解。 需要注意的是，肺活检组织印片细胞学聚类分析是我 们在判读时最常采用的基本方法。常见的肺或纵膈非 肿瘤性疾病状态在肺活检组织印片细胞学判读中可归 为以下几类（即聚类分析的具体分类，扫描二维码2 ）, 其中有些类别可以根据情况分为轻度、中度和重度。
+扫描二维码2可见聚类分析的具体分类
+执笔作者：杨树东 吴 波 郭		晖	冯	靖
+	巨春蓉 张 稷 卫	栋	刘	东
+	杨 航 范 立			
+主审专家：石炳毅				
+审稿专家：				
+陈静瑜	无锡市人民医院			
+杨树东	无锡市人民医院			
+郭 晖	华中科技大学同济医学院附属同济医院			
+吴 波	无锡市人民医院			
+冯 靖	天津医科大学总医院			
+巨春蓉	广州医科大学附属第一医院			
+石炳毅	中国人民解放军总医院第八医学中心			
+张 稷	无锡市人民医院			
+卫 栋	无锡市人民医院			
+刘 东	无锡市人民医院			
+杨 航	无锡市人民医院			
+范 立	无锡市人民医院			
+参考文献：				
+[1]陈实,郭晖.移植病理学[M].北京：人民卫生出版社, 2009: 200-218.
+[2]陈实.移植免疫学[M].武汉：湖北科学技术出版社, 1998: 227-229.
+[3]	杨树东,蔡颖,夏钰弘,等.移植肺病理学及其进展 [J/CD].实用器官移植电子杂志,2017,5（6）:454-458.
+DOI:10.3969/j.issn.2095-5332.2017.06.013.
+YANG SD, CAI Y, XIA YH, et al. Pathology of lung allograft and its progress[J/CD]. Pract J Organ Transplant (Electr Vers),2017,5(6):454-458. DOI:10.3969/j.issn.2095-5332.2017.06.013.
+[4]	HUNT J, STEWART S, CARY N, et al. Evaluation of the International Society for Heart Transplantation (ISHT) grading of pulmonary rejection in 100 consecutive biopsies[J]. Transpl Int, 1992, 5 (Suppl 1):S249-S251.
+[5]	RODEN AC, AISNER DL, ALLEN TC, et al. Diagnosis of acute cellular rejection and antibody-mediated rejection on lung transplant biopsies: a perspective from members of the Pulmonary Pathology Society[J]. Arch Pathol Lab Med, 2017, 141(3):437-444. DOI: 10.5858/arpa.2016-0459-SA.
+[6]	STEWART S, FISHBEIN MC, SNELL GI, et al. Revision of the 1996 working formulation for the standardization of nomenclature in the diagnosis of lung rejection[J]. J Heart Lung Transplant, 2007, 26(12):1229-1242.
+[7]	BERRY GJ, BRUNT EM, CHAMBERLAIN D, et al. A working formulation for the standardization of nomenclature in the diagnosis of heart and lung rejection: Lung Rejection Study Group. The International Society for Heart Transplantation[J]. J Heart Transplant, 1990, 9(6):593-601.
+[8]	YOUSEM SA, BERRY GJ, CAGLE PT, et al. Revision of the 1990 working formulation for the classification of pulmonary allograft rejection: Lung Rejection Study Group[J]. J Heart Lung Transplant, 1996, 15(1 Pt 1): 1-15.
+[9]	YOUSEM SA. Lymphocytic bronchitis/bronchiolitis in lung allograft recipients[J]. Am J Surg Pathol, 1993, 17(5):491-496.
+[10]	COOPER JD, BILLINGHAM M, EGAN T, et al. A working formulation for the standardization of nomenclature and for clinical staging of chronic dysfunction in lung allografts. International Society for Heart and Lung Transplantation[J]. J Heart Lung Transplant, 1993, 12(5):713-716.
+[11]	TAKEMOTO SK, ZEEVI A, FENG S, et al. National conference to assess antibody-mediated rejection in solid organ transplantation[J]. Am J Transplant, 2004, 4(7):1033-1041.
+[12]	IONESCU DN, GIRNITA AL, ZEEVI A, et al. C4d deposition in lung allografts is associated with circulating anti-HLA alloantibody[J]. Transpl Immunol, 2005, 15(1):63-68.
+[13]	SAINT MARTIN GA, REDDY VB, GARRITY ER,
+♦392.
+器官移植
+第10卷
+et al. Humoral (antibody-mediated) rejection in lung transplantation[J]. J Heart Lung Transplant, 1996, 15(12):1217-1222.
+[14]	MAGRO CM, DENG A, POPE-HARMAN A, et al. Humorally mediated posttransplantation septal capillary injury syndrome as a common form of pulmonary allograft rejection: a hypothesis[J]. Transplantation, 2002, 74(9):1273-1280.
+[15]	MAGRO CM, KLINGER DM, ADAMS PW, et al. Evidence that humoral allograft rejection in lung transplant patients is not histocompatibility antigen-related[J]. Am J Transplant, 2003, 3(10):1264-1272.
+[16]	LEVINE DJ, GLANVILLE AR, ABOYOUN C, et al. Antibody-mediated rejection of the lung: a consensus report of the International Society for Heart and Lung Transplantation[J]. J Heart Lung Transplant, 2016, 35(4):397-406. DOI: 10.1016/j.healun.2016.01.1223.
+[17]	DENICOLA MM, WEIGT SS, BELPERIO JA, et al. Pathologic findings in lung allografts with anti-HLA antibodies[J]. J Heart Lung Transplant, 2013, 32(3):326-332. DOI: 10.1016/j.healun.2012.11.018.
+[18]	WALLACE WD, LI N, ANDERSEN CB, et al. Banff study of pathologic changes in lung allograft biopsy specimens with donor-specific antibodies[J]. J Heart Lung Transplant, 2016, 35(1):40-48. DOI: 10.1016/ j.healun.2015.08.021.
+[19]	SATO M, WADDELL TK, WAGNETZ U, et al. Restrictive allograft syndrome (RAS): a novel form of chronic lung allograft dysfunction[J]. J Heart Lung Transplant, 2011, 30(7):735-742. DOI: 10.1016/ j.healun.2011.01.712.
+[20]	OFEK E, SATO M, SAITO T, et al. Restrictive allograft syndrome post lung transplantation is characterized by pleuroparenchymal fibroelastosis[J]. Mod Pathol, 2013, 26(3):350-356. DOI: 10.1038/modpathol.2012.171.
+[21]	SATO M, HWANG DM, WADDELL TK, et al. Progression pattern of restrictive allograft syndrome after lung transplantation[J]. J Heart Lung Transplant, 2013, 32(1):23-30. DOI: 10.1016/j.healun.2012.09.026.
+[22]	VERLEDEN SE, VANDERMEULEN E, RUTTENS D, et al. Neutrophilic reversible allograft dysfunction (NRAD) and restrictive allograft syndrome (RAS) [J]. Semin Respir Crit Care Med, 2013, 34(3):352-360. DOI:
+10.1055/s-0033-1348463.
+[23]	VOS R, VANAUDENAERDE BM, VERLEDEN SE, et al. Anti-inflammatory and immunomodulatory properties of azithromycin involved in treatment and prevention of chronic lung allograft rejection[J]. Transplantation, 2012, 94(2):101-109. DOI: 10.1097/TP.0b013e31824db9da.
+[24]	BURGUETE SR, MASELLI DJ, FERNANDEZ JF, et al. Lung transplant infection[J]. Respirology, 2013, 18(1):22-38. DOI: 10.1111/j.1440-1843.2012.02196.x.
+[25]	MIYAGAWA-HAYASHINO A, WAIN JC, MARK EJ. Lung transplantation biopsy specimens with bronchiolitis obliterans or bronchiolitis obliterans organizing pneumonia due to aspiration[J]. Arch Pathol Lab Med, 2005, 129(2):223-226.
+[26]	RICHMOND I, PRITCHARD GE, ASHCROFT T, et al. Bronchus associated lymphoid tissue (BALT) in human lung: its distribution in smokers and non-smokers[J]. Thorax, 1993, 48(11):1130-1134.
+[27]	ZAKI KS, ARYAN Z, MEHTA AC, et al. Recurrence of lymphangioleiomyomatosis: nine years after a bilateral lung transplantation[J]. World J Transplant, 2016, 6(1):249-254. DOI: 10.5500/wjt.v6.i1.249.
+[28]	MEYER KC, RAGHU G, VERLEDEN GM, et al. An international ISHLT/ATS/ERS clinical practice guideline: diagnosis and management of bronchiolitis obliterans syndrome[J]. Eur Respir J, 2014, 44(6):1479-1503. DOI: 10.1183/09031936.00107514.
+[29]	BENNETT D, FOSSI A, REFINI RM, et al. Posttransplant solid organ malignancies in lung transplant recipients: a single-center experience and review of the literature[J]. Tumori, 2016,102(6):574-581. DOI: 10.5301/tj.5000557.
+[30]	李雯,冯靖.诊断性介入肺脏病学快速现场评价 临床实施指南J].天津医药,2017,45(4):441-448. DOI:10.11958/20170320.
+LI W, FENG J. Clinical implementation guidelines of rapid field evaluation in diagnostic interventional pulmonary disease [J]. Tianjin Med J,2017,45(4):441-448. DOI: 10.11958/20170320.
+(收稿日期：2019-03-28)
+(本文编辑：邬加佳 吴秋玲)

@@ -1,0 +1,103 @@
+﻿• 968 •
+Chinese Journal of Clinical Thoracic and Cardiovascular Surgery, Oct. 2019, Vol. 26, No.10
+•论著•获得性心脏病•
+同种异体原位心脏移植 36 例临床分析
+景启明1, 2，王睿1，陈鑫1, 2
+1. 南京医科大学附属南京医院 南京市第一医院 心胸外科（南京 210006）
+2. 东南大学医学院（南京 210009）
+【摘要】 目的 分析同种异体原位心脏移植患者的临床疗效。方法 回顾性分析 2014 年 1 月 1 日至 2019 年 1 月 1 日于南京市第一医院心脏中心实施的 36 例同种异体原位心脏移植患者的临床资料，其中男 31 例、女 5 例，年龄23 ~ 65（46.2±8.8）岁。受体患者原发病包括扩张型心肌病33例，终末期冠心病2例及终末期瓣膜性心脏 病 1 例。心脏移植手术术式均采用双腔静脉吻合法。术中免疫诱导均采用巴利昔单抗与甲强龙联合治疗。术后 均采用新三联免疫抑制方案：FK506+骁悉+泼尼松。结果 围手术期1例患者因严重感染死亡。心力衰竭8例， 经调整及主动脉内球囊反搏（IABP）辅助治疗后心功能均好转。肾功能衰竭5例，经连续性肾脏替代治疗 （CRRT）后，肾功能均恢复正常。术后随访3~49（16±4）个月，1例患者术后1年因移植物功能衰竭死亡，1年生 存率为 97.1%（34/35）。其中 10 例为边缘供体，与常规供体比较差异无统计学意义。结论 对于终末期心脏病， 心脏移植是有效的治疗手段之一，近中期疗效满意。合理应用 IABP、CRRT 等辅助治疗手段和新三联抗排异方 案，可显著提高心脏移植手术成功率，减少急、慢性排斥反应的发生。边缘供体的应用，可以在一定程度上缓解 目前供体短缺的现状。
+【关键词】 同种异体原位心脏移植；终末期心脏病；免疫抑制治疗
+Clinical analysis of 36 patients with allograft orthotopic heart transplantation
+JING Qiming1, 2, WANG Rui1, CHEN Xin1, 2
+1. Department of Thoracic and Cardiovascular Surgery, Nanjing First Hospital, Nanjing Medical University, Nanjing, 210006, P.R.China 2. School of Medicine, Southeast University Medical College, Nanjing, 210009, P.R.China
+Corresponding author: CHEN Xin, Email: stevecx1@163.com
+【Abstract】 Objective To analyze the clinical effects of allograft orthotopic heart transplantation. Methods The clinical data of 36 patients with allograft orthotopic heart transplantation performed in the Heart Centre of Nanjing First Hospital from January 1, 2014 to January 1, 2019 were retrospectively analyzed. There were 31 males and 5 females, aged 23-65 (46.2±8.8) years. Protopathy diseases of recipients included dilated cardiomyopathy in 33 patients, end-stage coronary heart disease in 2 patients, and end-stage valvular heart disease in 1 patient. Heart transplantations were performed through double vena cava anastomosis. Immune induction during operations was treated with a combination therapy of both bariximab and methylprednisolone. Postoperatively, all patients were treated with a new triple immunosuppression protocol: FK506+cellcept+prednisone. Results During the perioperative period, 1 patient died of severe infection. For 8 patients with heart failure, after adjustment and intra-aortic balloon pump, the cardiac function of all the 8 patients improved. For 5 patients with renal failure, after continuous renal replacement therapy, the renal function of all the patients returned to normal. One patient died of graft failure after 1 year of follow-up. The follow-up time for each patient postoperatively differed from 3 to 49 months with an average time of 16±4 months while the 1-year survival rate was 97.1% (34/35). Among them, 10 patients were marginal donors, with no significant differences between conventional donors and them. Conclusion For end-stage heart diseases, heart transplantation is one of the effective treatment methods in China with fine early- and middle-term curative effects. Reasonable application of intra-aortic balloon pump, continuous renal replacement therapy and other adjuvant treatments and the new triple immunosuppression protocol can significantly improve the success rate of heart transplantation, reduce the occurrence
+DOI：10.7507/1007-4848.201903041
+通信作者：陈鑫，Email： stevecx1@163.com
+http://www.tcsurg.org
+中国胸心血管外科临床杂志 2019年10月第26卷第10期
+• 969 •
+of acute and chronic rejections. The application of marginal donors can alleviate the current situation of shortage of donors to some extent.
+【Key words】 Allograft orthotopic heart transplantation; end-stage heart disease; immunosuppressive therapy
+自 1978 年第 1 例心脏移植报道以来［1］，我国心 脏外科技术飞速发展，国内多家心脏中心陆续开展 心脏移植。随着手术术式、心肌保护、免疫抑制、 脏器支持以及重症监护治疗手段的日臻完善［2］，心 脏移植技术逐渐成熟。本文回顾性分析了我院心 脏中心 2014 年 1 月 1 日至 2019 年 1 月 1 日 36 例同 种异体原位心脏移植手术患者的临床资料。
+1	资料与方法
+1.1	临床资料
+所有临床资料均来自中国心脏移植注册系 统。36 例同种异体原位心脏移植患者，其中男 31 例、女5例，年龄23 ~ 65 (46.2±8.8)岁。术前诊 断：扩张型心肌病 33 例(91.7%)；终末期冠心病 2 例(6.6%)，其中 1 例多次行冠状动脉介入支架手 术；终末期瓣膜病 1 例(2.7%)，既往有瓣膜置换手 术史。终末期心脏病采用 2018 年《中国心力衰竭 诊断和治疗指南》中提出的诊断标准：器质性心 脏病不断进展，经控制体液潴留、神经内分泌抑制 剂应用、正性肌力药物及血管扩张药物的应用、心 脏机械辅助治疗后，严重的心力衰竭症状仍持续存 在甚至有所进展，伴有心源性恶病质，且需反复长 期住院，死亡率高，难治性心力衰竭的终末阶段诊 断为终末期心脏病［3］。术前心功能分级(NYHA) 皿级3例、N级33例。30例患者术前曾应用血管 活性药物及利尿剂维持，1 例术前行主动脉内球囊 反搏(intra-aortic balloon pump, IABP)辅助治疗。 术前左室射血分数13%~39%(26.3%±4.4%)。术前 肺血管阻力2 ~ 7(5.1±1.3)Wood .单位。所有患者 人群反应抗体均为阴性。
+1.2	围术期处理
+1.2.1 供心的获取 均为器官捐献供体，共 36 例， 男 32 例、女 4 例。供心的获取方法：(1)4-0 Prolene 线于升主动脉前壁缝合冷灌荷包固定线并 插入冷灌针头，阻断钳阻断升主动脉，经冷灌管加 压灌注2 500 mL 0r~4^ HTK停搏液［4］;(2)在左 心耳处剪直径 1 cm 破口，切断下腔静脉，排出停搏 液，避免心脏肿胀［5］;(3)再依次剪断左上、下肺静 脉和右上、下肺静脉，后切断升主动脉，再于肺动 脉分叉部剪断肺动脉;(4)钝性剥离左心房后壁及
+上、下腔静脉入口周围的组织，完全取出供心。放 入4r HTK溶液中继续保存，并置于保温容器内运 输［6］。移植前清洗并修剪供心，同时检查供心有无 明显结构异常。
+1.2.2 手术方法 手术均在全身麻醉、体外循环下 进行。术式采用双腔静脉吻合法：4-0 Prolene 线连 续外翻缝合左心房，后再予 4-0 Prolene 线连续缝合 加固左心房，5-0 Prolene 线连续缝合上、下腔静脉， 5-0 Prolene 线连续缝合主动脉和肺动脉，体外循环 停机前再次检查左心房，观察有无出血。体外循环 时间95 ~ 141 (119.9± 11.7) min,辅助循环时间 54 ~ 72(64.7±4.9)min。常规留置临时心外膜起搏 器导线。
+1.2.3抗感染术中开胸前及关胸前常规静脉应用 三代头孢预防感染。注意观测患者体温、咳痰颜色 及性状，并注意监测血常规、C-反应蛋白、咽拭子、 痰培养、真菌 G 实验等。常规术后 4 d 停用抗生 素，若感染明确，根据培养结果应用抗生素，必要 时多种抗生素联用，尤其是抗真菌治疗，并注意营 养支持治疗。
+1.2.4 免疫抑制治疗 术后统一采用新三联免疫抑 制方案：FK506 (安斯泰来制药)+骁悉(上海罗氏-吗替麦考酚酯片)+强的松。巴利昔单抗在体外循 环停机后及术后第4 d各给予20 mg［7］。甲强龙麻 醉后及体外循环停机前各给予500 mg,术后第1 d 每8 h给予125 mg,第2〜7 d每8 h给予：120-110-105、100-90-85、75-70-65、55-50-45、35-30-25、20-15-10 (单位：mg)。7 d后改用泼尼松口服，起始计量 为 20 mg/d,10 d 后减量为 15 mg/d,30 d 后再减量 为10 mg/d,术后90 d根据病情更改剂量。骁悉自 术后第2 d起，每12 h给予0.5 g。FK506自术后第 5 d 起,每 12 h 给予 5 mg,72 h 后查血药浓度,根据 血药浓度调整药物剂量，FK506血药浓度谷值维持 在 15~20 ng/mL［8］。
+1.3	随访
+术后每月随访 1 次,1 年后可逐渐延长至每 3~6个月随访1次。随访内容主要包括：(1)评估 受者心理、身体状态及生活质量;(2)询问当前药 物服用状况,予指导 FK506 的服用,根据本中心经 验，FK506浓度谷值控制：3个月内15 ~ 20 ng/mL,
+http://www.tcsurg.org 首声
+• 970 •
+Chinese Journal of Clinical Thoracic and Cardiovascular Surgery, Oct. 2019, Vol. 26, No.10
+3 ~ 6 个月 10 ~ 15 ng/mL, 6 个月后 5 ~ 10 ng/mL。 （3）解释心脏彩超、血常规、肝肾功能复查结果； （4）观察有无术后中期并发症，如排异反应、感染、 脏器功能不全等。
+1.4	边缘供体
+边缘供体纳入排除标准：（1）供受体体重比 ＜0.8；（2）供心年龄＞50 周岁；（3）冷缺血时间＞6 h； （4）用 ABO 血型不相容；（5）肝炎病毒血清学指 标阳性；（6）供心并非完全正常（合并如冠状动脉 病变、先心病、瓣膜疾病或左室肥厚）。36 例心脏 移植中有 10 例为边缘供体，1 例为血型不匹配患 者，4 例供受体体重比＜0.8，2 例供体患者年龄＞50 岁，2 例供体心脏冷却血时间＞6 h，1 例供体患者肝 炎病毒血清学指标阳性［9］。
+2	结果
+2.1	围术期
+受体患者围术期生存率为 97.2%（35/36）。1 例 受者于术后 20 d 死于重症感染、全身反应综合征； 发生心力衰竭 8 例，7 例经药物调整后好转，1 例患 者术后出现严重移植物抗宿主反应，心脏功能极度 低下，大剂量激素冲击治疗联合 IABP 辅助治疗后 心功能好转；发生肾功能衰竭 5 例，4 例经保肾治 疗后好转，1例经连续肾脏替代治疗（continuous renal replacement therapy, CRRT）后，肾功能逐渐 好转。存活患者术后超声心动图检查左心室射血 分数（left ventricular ejection fraction, LVEF）升高至 59% ~ 68%,平均64.7%±2.1%; 6例出现中度三尖瓣 反流,与术前肺动脉高压相关,27 例三尖瓣轻度反 流,2 例三尖瓣轻-中度反流。
+2.2	随访
+术后 1 年生存率为 97.1%（34/35）,术后 1 年 1 例受者死于移植物功能衰竭、恶性心律失常。6 例 患者出现多次下呼吸道感染,经抗感染治疗均治愈 出院;3 例患者出现反复心力衰竭,下肢水肿,活 动后气促等表现,超声心动图排除排异反应后,经 药物调整,心脏功能均好转。患者术后随访时间 3~49（16±4）个月，除1例死亡外，目前随访34例 患者均存活。
+2.3	边缘供体
+将 10 例边缘供体与常规供体之间进行分组比 较,结果发现,36 例患者中,正常供体与边缘供体 间患者围术期死亡率、体外循环时间、辅助循环时 间、术后机械通气时间、LVEF之间差异无统计学意
+表1常规供体与边缘供体各项数据比较（社s ）
+临床资料	常规供体 （26 例）	边缘供体 （10 例）	P值
+术前 LVEF（%）	26.8±4.4	29.2±3.3	0.129
+体外循环时间（min）	121.6±10.9	115.2±13.0	0.139
+辅助循环时间（min）	63.6±4.8	63.1±5.4	0.659
+术后机械通气时间（min）	26.6±4.0	26.4±4.7	0.909
+术后 LVEF（%）	64.4±3.1	65.6±2.7	0.276
+围手术期死亡率（%）	3.85	0.00	0.416
+1 年生存［例（%）］	25(96.1)	9(90.0)	0.305
+义;见表 1。
+3	讨论
+目前我国具有心脏移植资质的医院共计 46 家,各个心脏中心不断地探索、学习,已逐渐掌握 了心脏移植技术,并积累了大量经验。根据近年随 访数据显示,部分心脏中心心脏移植受者中期的存 活率优于国际心肺移植协会（ISHLT）公布的存活 率［10］。然而我国的尸体捐献供肝与供心比值为 16.01,数据显示尸体捐献超过 100 例的国家平均比 值为 2.96［11］,心脏供体资源的浪费十分严重,面对 庞大并逐年增加的等待心脏移植患者,中国心脏移 植任务仍旧十分艰巨。
+本研究心脏移植术式均采用双腔静脉法,此方 法优势在于：（1）保留供心完整右心房及其收缩功 能,数据显示术后严重右心衰竭仍是心脏移植患者 早期死亡的主要原因之一,特别是术前重度肺高压 患者更易发生［12］,保留供体心脏右心房可一定程度 上降低术后右心衰竭的发生率［13］;（2）减少对三尖 瓣瓣环及瓣叶的影响,减轻术后三尖瓣反流程度; （3）保护窦房结的功能,可降低术后心律失常的发 生率,避免血栓形成。另外,先吻合左心房和上、 下腔静脉,再吻合升主动脉,最后吻合肺动脉的顺 序,可提前开放升主动脉,有效缩短心肌缺血时 间。适当裁剪主、肺动脉,避免主、肺动脉吻合口 的张力和扭曲。研究表明,采用双腔静脉吻合法的 患者术后生存率及并发症的发生情况明显优于标 准法及全心原位移植法［14］。
+目前用于器官移植一线的抗排异用药逐渐趋 于成熟,大大减少了术后移植物急性或慢性排异反 应［15］。本研究中 36 例患者免疫诱导均采用巴利昔 单抗与甲强龙联合治疗［16］,仅 1 例患者出现急性排 异反应。多个研究结果证实 FK506 在重度急性细
+http://www.tcsurg.org
+中国胸心血管外科临床杂志 2019年10月第26卷第10期
+• 971 •
+胞排斥反应发生率、不良反应如高血脂、高血压的 发生率上明显低于环孢素［17］。而针对淋巴细胞增殖 抑制剂研究显示，吗替麦考酚酯组受者心力衰竭、 心律失常、白细胞减少症的发生率及死亡率显著低 于硫唑嘌呤组［18］。新三联抗排异方案显著减少术后 早期移植物功能不全，可降低合并肾功能不全受者 排斥反应的发生率［19］。
+对并发症的防治仍是心脏移植关键环节之 一。（1）长期心力衰竭、术前肾功能损伤、术后肾 代谢药物使用可导致并加重肾功能损害［20］，及时应 用CRRT,减轻肾脏负担，促进肾功能的恢复［21］; （2）严重急性移植物抗宿主反应，是早期手术失败 的原因之一［22］, IABP辅助联合抗排异药物方法的可 有效控制排异反应。对于器官移植患者能在术后 早期给予及时的器官支持治疗,有效的血流动力学 支持,进而维持机体各器官的有效灌注,维持器官 功能,从而改善患者预后,提高患者生存率［23］; （3）感染仍是最常见且最重要的并发症之一［24］,1 例患者因围手术期重症感染死亡,长期随访过程 中，6例患者多次因感染入院治疗，深部感染为主， 且多为多种致病菌,真菌等较为常见。感染速度 快、症状重、药物效果缓慢是移植术后患者感染的 主要特征。根据血培养、痰培养等结果,多种类型 抗生素联合抗感染治疗,还应重视抗真菌治疗。
+多方位精准评价捐献者器官功能和判断器官 可用性是决定移植效果的关键因素之一。本研究 中有 10 例为边缘供体,通过对供体患者体重、年 龄、心脏病史、基础疾病、血管活性药物及供心质 量等全方面评估及筛选,确定供心可用。我院 10 例边缘供体心脏移植患者术中体外循环时间、术中 辅助循环时间、术后机械通气时间、术后LVEF、近 中期生存率等方面与常规供体相比,差异无统计学 意义。但其结果仍需更长时间及更大样本量来进 一步证实。边缘供体有效利用,可改善目前供体极 度短缺的现状。
+总之,心脏移植是治疗终末期心脏病最重要的 手段之一,只有重视供体评估、供心保护、手术术 式、免疫移植、并发症控制等每一个细节,才能获 得良好疗效［25］。边缘供体的应用,得益于心脏移植 相关技术的发展,同时也促进心脏移植发展,并在 一定程度上缓解了供体的短缺［26］。目前人工心脏以 及心脏干细胞移植技术的应用仍存在争议,相信不 久的将来,人工心脏及干细胞移植可以广泛地服务 于临床［27］。
+利益冲突：无。
+参考文献
+1	张世泽, 周思伯, 方立德, 等. 原位心脏移植一例报告. 上海医学, 1978, (10): 1-3.
+2	Tsai FC, Marelli D, Bresson J, et al. Recent trends in early outcome of adult patients after heart transplantation: a single-institution review of 251 transplants using standard donor organs. Am J Transplant, 2002, 2(6): 539-545.
+3	中华医学会心血管病学分会心力衰竭学组, 中国医师协会心力 衰竭专业委员会, 中华心血管病杂志编辑委员会. 中国心力衰竭 诊断和治疗指南2018. 中华心血管病杂志, 2018, 46(10): 760-789.
+4	Pizano A, Montes FR, Carreno M, et al. Histidine-tryptophan-ketoglutarate solution versus blood cardioplegia in cardiac surgery: a propensity-score matched analysis. Heart Surg Forum, 2018, 21(3): E158-E164.
+5	潘禹辰, 轩永波, 罗爱国, 等. 供体心肺同时摘取的初步经验. 中 国胸心血管外科临床杂志, 2015, 22(8): 792-794.
+6	陈良万, 陈道中, 杨国锋, 等. 61例心脏移植术的供心获取. 中国 胸心血管外科临床杂志, 2009, 16(4): 296-299.
+7	简劲峰, 封加涛, 彭峰, 等. 原位心脏移植14例. 中国胸心血管外 科临床杂志, 2017, 24(07): 83-86.
+8文爱东，蔡振杰,李彤,等.心脏移植受者FK506治疗窗的临床初 探. 中华胸心血管外科杂志, 2002, 18(4): 223-225.
+9	Wittwer T, Wahlers T. Marginal donor grafts in heart transplantation: lessons learned from 25 years of experience. Transpl Int, 2008, 21(2): 113-125.
+10	胡盛寿. 中国心脏移植现状. 中华器官移植杂志, 2017, 38(8): 449-454.
+11	石炳毅. 继往开来, 中国器官移植的发展现状--在2018年中华医 学会器官移植学年会上的报告. 器官移植, 2019, 10(1): 32-35.
+12	Szczurek W, Szygula-Jurkiewicz B, Zakliczynski MW, et al. Prognostic value of selected risk scales in patients with end-stage heart failure. Kardiol Pol, 2018, 76(9): 1320-1326.
+13	Bech-Hanssen O, Pergola V, Al-Admawi M, et al. Atrial function in heart transplant recipients operated with the bicaval technique. Scand Cardiovasc J, 2016, 50(1): 42-51.
+14	Kitamura S, Nakatani T, Bando K, et al. Modification of bicaval anastomosis technique for orthotopic heart transplantation. Ann Thorac Surg, 2001, 72(4): 1405-1406.
+15	白杨娟, 王兰兰. 心脏移植术后的免疫抑制治疗和免疫监测. 中 国胸心血管外科临床杂志, 2007, 14(1): 51-56.
+16	Zetina-Tun H, Lezama-Urtecho C, Careaga-Reyna G. Routine hormonal therapy in the heart transplant donor. Cir Cir, 2016, 84(3): 230-234.
+17	Grimm M, Rinaldi M, Yonan NA, et al. Superior prevention of acute rejection by tacrolimus vs. cyclosporine in heart transplant recipients--a large European trial. Am J Transplant, 2006, 6(6): 1387-1397.
+18	Eisen HJ, Kobashigawa J, Keogh A, et al. Three-year results of a randomized, double-blind, controlled trial of mycophenolate mofetil versus azathioprine in cardiac transplant recipients. J Heart Lung Transplant, 2005, 24(5): 517-525.
+19	Furiasse N, Kobashigawa JA. Immunosuppression and adult heart transplantation: emerging therapies and opportunities. Expert Rev
+http://www.tcsurg.org j^Eg
+• 972 •
+Chinese Journal of Clinical Thoracic and Cardiovascular Surgery, Oct. 2019, Vol. 26, No.10
+Cardiovasc Ther, 2017, 15(1): 59-69.
+20	李乔能, 宁晓暄. 心脏术后发生急性肾损伤的预后危险因素及防 治. 心脏杂志, 2017, 29(4): 121-125.
+21	廖中凯, 胡盛寿, 王巍, 等. 床旁持续性肾脏替代治疗在心脏移植 术后急性肾功能不全患者中的应用. 中国胸心血管外科临床杂 志, 2009, 16(3): 174-178.
+22	Prieto D, Correia PM, Batista M, et al. Primary graft failure after cardiac transplantation: prevalence, prognosis and risk factors. Interact Cardiovasc Thorac Surg, 2018, 27(5): 765-772.
+23	Loforte A, Murana G, Cefarelli M, et al. Role of intra-aortic balloon pump and extracorporeal membrane oxygenation in early graft failure after cardiac transplantation. Artif Organs, 2016, 40(8): E136-E145.
+24	Gadre S, Kotloff RM. Noninfectious pulmonary complications of
+liver, heart, and kidney transplantation: an update. Clin Chest Med, 2017, 38(4): 741-749.
+25	Toyoda Y, Guy TS, Kashem A. Present status and future perspectives of heart transplantation. Circ J, 2013, 77(5): 10971110.
+26	Kamran S, Conti F, Pomey MP, et al. Patients' preferences in transplantation from marginal donors: results of a discrete choice experiment. Transpl Int, 2017, 30(6): 589-602.
+27	Strauer BE, Yousef M, Schannwell CM. The acute and long-term effects of intracoronary Stem cell transplantation in 191 patients with chronic heart failure: the STAR-heart study. Eur J Heart Fail, 2010, 12(7): 721-729.
+收稿日期：2019-03-19 修回日期：2019-04-21 本文编辑：董 敏
+j^E? http://www.tcsurg.org

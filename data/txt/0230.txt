@@ -1,0 +1,251 @@
+﻿第9卷 第5期
+2018年9月
+器官移植
+Organ Transplantation
+Vol. 9 No. 5
+Sep. 2018
+・指南与共识・
+中国肺移植供体标准及获取转运指南
+中华医学会器官移植学分会 国家肺移植质量管理与控制中心
+【摘要】2015年我国供肺利用率仅约5%。从器官获取组织(OPO)进行供肺协调、初步评估和维护，到 供肺获取直至最后经民航、高速公路、高铁转运完成肺移植，每一环节都相当艰难。许多初评合格的供肺，由于 缺乏有效的维护而无法用于移植。因此，我们组织专家制订我国肺移植供体标准及获取转运指南，从我国肺移植 供肺捐献的分类、供肺选择标准、供肺维护策略、供肺获取流程、供肺转运流程等方面，总结我国肺移植的临床 实践经验，希望能为肺移植相关临床科室提供工作指引。
+【关键词】肺移植；供肺维护；供肺获取；供肺转运；心脏死亡器官捐献(DCD)供体；脑死亡器官捐献(DBD) 供体；脑-心双死亡器官捐献(DBCD)供体
+【中图分类号】R617，R563【文献标志码】A 【文章编号】1674-7445( 2018)05-0001-09
+肺移植是目前治疗终末期肺病唯一有效的办 法。2015年以来公民心脑死亡器官捐献供体已成为 我国器官移植的唯一供肺来源，我国的器官捐献体 系已逐渐与国际移植接轨，我国的器官移植目前处于 快速发展时期。根据中国肺移植注册系统数据，2017年 我国共上报肺移植手术299例，相比2016年增加 95例(46.6%)。目前，国际上供肺短缺、原发性移 植物功能障碍(primary graft dysfunction，PGD)的 发生已有不同程度的缓解［1］，但由于我国器官捐献仍 处于初级阶段，许多潜在供肺缺乏有效维护，供肺质 量一般，无法达到理想供肺的标准，利用这类供肺去 拯救濒危的患者，术后管理难度明显增大［2］。2013年 美国供肺利用率约20%［3］，而2015年我国供肺利用 率仅约5%［4］。供体被判定脑死亡后，移植科医师才 能进行供肺评估决定肺脏能否使用，即使在家属签字 同意捐献器官后仍存在许多不确定因素。从器官获取 组织(Organ Procurement Organization，OPO)进行 供肺协调、初步评估和维护，到供肺获取直至最后民 航、高速公路、高铁转运完成肺移植，每一环节都相
+当艰难。许多初评合格的供肺，由于缺乏有效的维护 而无法用于移植。因此，我们组织专家制订我国肺移 植供体标准及获取转运指南。结合我国的临床实践经 验，希望能为肺移植相关临床科室提供工作指引。
+本指南中涉及的诊治策略大多有循证医学证据 支持。根据循证医学证据的质量等级标准分为：1级 为多个随机对照试验的系统综述；2级为单个随机对 照试验；3级为单个队列试验或病例对照试验；4级 为多个非试验性研究、专家意见、描述性研究。本 指南中的推荐意见的推荐等级分为：A级为高质量循 证医学证据支持；B级为中等质量循证医学证据支持; C级为低质量循证医学证据支持，或该治疗的不良反 应大于其疗效；D级为中等质量循证医学证据反对; E级为高质量循证医学证据反对［5］。
+1 我国肺移植供肺捐献的分类
+目前，全球的供肺来源分为3种：脑死亡器官 捐献(donation after brain death，DBD)供体、心脏 死亡器官捐献(donation after cardiac death，DCD)
+DOI: 10.3969/j.issn.1674-7445.2018.05.001
+基金项目：中国人体器官捐献管理中心人体器官捐献专项研究课题；江苏省科教强卫工程青年医学重点人才项目(QNRC2016193 )
+执笔作者单位：214023 江苏无锡，南京医科大学附属无锡市人民医院胸外科暨肺移植中心(陈静瑜、毛文君、刘东、赵晋、丁浩)； 中日医院(陈静瑜、马千里)
+通讯作者：陈静瑜，男，1963年生，主任医师，研究方向为胸外科，Email： chenjingyu333@sina.com
+- 326・
+器官移植
+第9卷
+供体及脑-心双死亡器官捐献(donation after brain death plus cardiac death, DBCD )供体。
+DCD供体根据马斯特里赫特(Maastricht)标准 分为5类：I类为供体到达医院时宣布死亡；D类为 心肺复苏后宣布供体死亡；出类为撤除生命支持措 施后等待心脏死亡；叶类为脑死亡后呼吸停止、心 脏停搏；V类为住院患者的心脏停搏。依据《中国 心脏死亡器官捐献分类标准》，我国器官捐献分为 3类：I类为DBD；n类国际标准化DCD,包括 Maastricht分类标准I〜汗类DCD ；出类为DBCD, 类似于Maastricht分类标准叶类，即脑死亡后停用生 命支持措施，呼吸停止、心脏停搏后的供体［6］。
+我国DBD依据国家卫生和计划生育委员会脑损 伤质控评价中心制定的《脑死亡判定标准与技术规 范(成人质控版)》 ［7］，由第三方判定为脑死亡，由 家属签署停止一切治疗(包括停止呼吸机)的知情 同意书以及标准化的《脑死亡自愿无偿器官捐献申 请书》，在获得有关部门批准后开展器官获取。
+我国DCD依据中华医学会器官移植学分会制定 的《中国心脏死亡器官捐献工作指南》 ［8］，确定潜 在供体。潜在的器官捐献者条件包括：(1)需要机 械通气或循环支持的严重神经损伤和(或)其他器官 衰竭，参考美国器官资源共享网络(United Network for Organ Sharing, UNOS )评估标准进行初步评估； (2)家属提出撤除支持治疗申请(家属指配偶、成 年子女、父母，或患者通过法律途径正式授权的委 托人)。
+我国DBCD采取脑-心双死亡判断标准，供体 发生DBD后，如果供体家属认可脑死亡，供体按 DBD流程处理，否则进行DBCD判断。
+器官捐献协调员成功开展劝捐工作后，在家属 充分理解器官捐献后同意捐献器官，相关专家根据 人体器官捐献试点工作方案的通知，由家属签署停 止一切治疗(包括停止呼吸机)的知情同意书，依 据“器官捐献人的近亲亲属书面同意，且死者生前 未有不同意捐献表示”的原则与家属签署《心脑死 亡自愿无偿器官捐献知情同意书》。然后才能启动 人体器官捐献。
+2 供肺选择标准
+DBCD供体的供肺并不一定适合移植。脑外伤 是常见的脑死亡原因，可合并肺实质或支气管损伤，
+颅内压的升高也可引起神经源性肺水肿；在昏迷状态 下，可能由于误吸胃内容物引起化学性肺损伤；在 重症监护室(intensive care unit, ICU)救治的过程中， 一些患者常发生院内获得性肺炎(hospital acquired pneumonia, CAP)及呼吸机相关肺炎(ventilation associated pneumonia, HAP),随着有创机械通气时 间延长，CAP及HAP的发生率也随之升高。这些均 可导致供肺捐献失败。对于供肺选择，除大小、血 型等相匹配外，早期国外许多中心依据理想供肺标 准进行评估，但随着肺移植学科的发展，近年来边 缘性供肺也被广泛应用于临床肺移植。
+根据我国供肺特点，需要制定理想供肺标准及可 接受供肺标准。
+理想供肺标准如下：
+(1)ABO血型相容；
+(2)年龄＜60岁；
+(3)吸烟史＜400支/年； (4)持续机械通气＜1周；
+(5 )动脉血氧分压(partial pressure of oxygen, PaO2) / 吸入氧浓度(fraction of inspiration O2, FiO2) ＞ 300 mmHg ［呼气 末正压(positive end-expiratory pressure，PEEP)=5 cmH2O，10 mmHg=1.33 kPa， 1 cmH2O=0.098 kPa］；
+(6)胸片显示肺野相对清晰；
+(7)支气管镜检查各气道腔内相对干净； (8)痰液病原学无特别致病菌。
+可接受供肺的标准如下［9］：
+(1)ABO血型相容；
+(2)年龄＜70岁；
+(3)吸烟史＜400支/年；
+(4)呼吸机时间不作为硬性要求；
+(5)PaO2/FiO2＞250 mmHg(PEEP=5 cm H2O)； (6)胸片肺野内有少量到中等量的渗出影； (7)供、受体大小匹配度可以根据具体情况进 行供肺减容或肺叶移植；
+(8)胸部外伤不作为排除标准；
+(9)如存在轻微的误吸或者脓毒症经治疗维护 后改善，供肺不作为排除标准；
+(10)如气道内存在脓性分泌物经治疗维护后有 改善，供肺不作为排除标准；
+(11)供肺痰标本细菌培养药敏排除泛耐药或者 全耐药的细菌；
+第5期
+中华医学会器官移植学分会等．中国肺移植供体标准及获取转运指南
+- 327・
+（12）供体不能有基础性肺疾病（如活动性肺结 核、肺癌），但支气管哮喘是可以接受的；
+（13）多次维护评估后不合格的供肺获取后经离 体肺灌注修复后达标；
+（14）冷缺血时间W 12 h （原则上）。
+推荐1：首选ABO血型相容的供、受体（1A）。
+推荐2：只有在没有血型相容供体，且受体病情 严重，需要紧急肺移植，不允许等待DBD或DCD 时才可考虑血型不相容肺移植，且应充分告知风险并 同时进行相应处理措施（1A）。
+推荐3：边缘性供肺的使用并不影响肺移植术后 的远期预后（1A）。
+推荐4：体外肺灌注修复系统可以改善非理想供 肺的质量，修复后对此类供肺进行再次评估，可以增 加供肺的数量（1B）。
+2.1	年 龄
+回顾性队列的数据分析显示，供体年龄18〜64岁， 术后1年内移植失败率无显著增加，因此目前倾向 于供体年龄18〜64岁［10］。对于不在此年龄段的供肺， 仍应进行其他项目的评估。建议可接受的年龄在 70岁以下。
+推荐5：使用年龄18〜64岁的供体进行肺移植， 与受体早期移植失败无关，而年龄>65岁的供体， 移植风险增加且术后并发症发生率较高（1A）。
+推荐6：老年供肺与高龄受体的匹配可能是提高 供肺利用率的合理方式（1B）。
+2.2	吸烟史
+与接受不吸烟供体的供肺相比，接受有吸烟史 供体的供肺，受体术后存活率略有降低。但是，如 果供体的吸烟指数<200支/年，受体的术后生存率 无显著影响［11］，如果供体既往吸烟指数<400支/年， 或死亡前已经戒烟10年及以上，既往吸烟史不是供 肺的排除标准。
+2.3	纤维支气管镜检查及呼吸道微生物学
+在确定为潜在供体后，常规行纤维支气管镜（纤 支镜）检查，及时有效地吸净供体气道分泌物，防 止肺部感染或肺不张，并对痰液进行微生物培养， 若细菌培养阳性，则进行药敏试验，选取敏感抗生 素控制感染。细菌培养发现泛耐药或者全耐药的细菌， 放弃使用。国外的供肺评估提示，恰当使用抗铜绿 假单胞菌和金黄色葡萄球菌的抗生素预防供肺感染， 供体传播感染的风险可忽略不计［12］。因此纤支镜下
+可吸净的适量痰液和微生物培养阳性，不是拒绝供 肺的标准。若纤支镜检查发现有严重的气管炎或支 气管炎，特别是脓液被吸出后仍从段支气管的开口 涌出，提示供肺有严重肺炎，无法使用。
+推荐7：纤支镜检查还需特别注意供肺的解剖学 异常（1A）。
+2.4	胸部影像学
+单独根据胸部影像学选择供体的研究较少，仍 需综合评估，一般要求X线胸片肺野相对清晰，排 除严重感染及误吸，排除严重胸部外伤及心、肺大 手术史。胸部CT未见明显占位或严重感染。
+推荐8： X线胸片是供肺的最基本检查，而胸部 CT可以提供更准确的评估信息（未分级）。
+2.5	动脉血气分析
+动脉血气分析能基本反映供肺氧合情况，导致 该指标下降的原因包括外伤、感染、肺水肿等。因 此，一般要求在FiO2 100%、PEEP 5 cm H2O的呼 吸机支持条件下约30 min, PaO2>300 mmHg,即 PaO2/FiO2>300 mmHg是基本要求。尤其注意，在获 取供肺前每2 h进行1次动脉血气分析，如果动脉血 气不达标,在宣布此肺不合格之前,应通气充足,气 管内插管位置正确,潮气量足够,同时经纤支镜吸净 气道分泌物以排除大气道内分泌物阻塞,只有在排除 上述影响因素、充分通气和维持最佳体液平衡等措施 后，如果PaO2/FiO2<250 mmHg,才能作出供肺不适 合移植的结论。
+推荐9：外周动脉血PaO2/FiO2<300 mmHg的 常见原因可能是肺不张、肺水肿或黏液堵塞等可逆 性疾病，因此需通过X线胸片及纤支镜排除上述可 能因素后重新行动脉血气分析（1A）。
+2.6	供肺大小与胸廓容量估计
+肺是人体内唯一随着所在空间而塑形的器官。 相对来说,肺纤维化受体的膈肌的位置上提、胸廓 内容积显著缩小,而肺气肿受体膈肌下降、肋间隙 增宽,胸廓内容积显著增加。因此,受体的选择需 要综合考虑原发病的因素。尽管术后早期2周内受 体膈肌、胸壁会在一定范围内逐渐与新的移植肺达 到一定程度的适应,但不建议超大容积的供肺予以 小胸腔受体。
+推荐10：对于肺总容积的估测，与体格检查及 X线胸片测量相比，胸部CT可以为肺部大小匹配提 供更准确的预测价值（1B）。
+- 328・
+器官移植
+第9卷
+推荐11：对于非肺气肿受体，超大供肺可以显 著增加双肺移植后原发性移植物失功的风险（2B）。 2.7 冷缺血时间
+随着肺移植技术的发展，冷缺血时间一般在8 h 内，可延长至12 h［13-20］。
+推荐12： 一定时间内（8 h以内）供肺冷缺血 时间的延长，不会导致肺移植受体PGD的发生率升 高，受体的生存率并没有显著下降，可以让供肺在 全国范围内进行跨区域分配（1A）。
+3	供肺维护策略
+供肺的评估-维护-再评估是多学科协作的整体 过程［21］，旨在发现适合移植的潜在供肺，提高捐献 器官的使用率；同时发现不适合作为潜在供肺的证据， 避免盲目扩大边缘性供肺影响移植的近期及远期效果， 减少医疗资源浪费。供肺进入评估流程时，均接受气 管插管机械通气。因此，ICU医护人员和供肺获取专 家，应尽可能提前供肺维护，使更多供肺最终进入可 用之列。
+3.1	积极抗感染治疗
+我国捐献供肺的主要来源是脑死亡，在脑死亡 供肺中，神经源性肺水肿（neurogenic pulmonary edema, NPE）发生率高，出现NPE后极易发生肺部 感染，同时肺水肿会引起肺泡弥散功能下降，导致 低氧血症［22-23］。另外，长期插管卧床，亦常引起坠 积性肺炎合并感染发生。故早期、积极的预防性抗 感染治疗是必要的。
+推荐13：供肺带有病原体是常态，病原体培养 阴性的供肺较少。选用敏感抗生素，加强术后处理， 仍能够获得较满意的移植效果（1B）。
+推荐14：留取合格下呼吸道标本后，可预防性 使用广谱抗生素及抗真菌药物，其后再根据痰涂片 及微生物培养结果进行调整（1A）。
+3.2	加强气道管理
+适量翻身、拍背，每日行纤支镜检查及吸痰，清理 气道，吸净支气管分泌物，确保肺扩张良好，尤其是防 止肺下叶不张，经常进行X线胸片检查和血气分析。
+推荐15：有效清除气道分泌物比积极抗感染治 疗更为重要，应每2 h进行1次吸痰，必要时可行纤 支镜吸痰（1A）。
+推荐16：如气道分泌物吸净后短期纤支镜下再 次看到脓性分泌物涌出，则应放弃该供肺（1B）。
+推荐17：如气道中发现水样分泌物则应积极与 ICU医师沟通，尽量减轻肺水肿等因素导致的肺功 能恶化（1A）。
+3.3	液体管理
+对于ICU医师来说，DBD供体的液体管理极具 挑战性。不同的OPO小组对于供体的管理要求差异 性大，例如肾脏组要求供体给予充足的液体，维持 肾脏的血流灌注，而肺脏组要求尽量限制液体入量［24］， 减少晶体量，提高胶体比例，循环稳定的情况下 尽量负平衡［25］，控制中心静脉压（central venous pressure，CVP）<10 cmH2O，必要时行持续性肾脏 替代治疗（CRRT），要控制供体血液动力学处于稳 定状态，避免或减轻容量负荷过重和肺水肿。
+推荐18：以前的研究表明，4〜6 cmHzO的CVP 是肺保存的最佳选择。CVP为8〜10 cmHzO则有助 于肺泡-动脉氧分压差增加。故建议当仅获取腹部器 官时，维持CVP为10〜12 cmH2O［26-27；仅获取肺脏时， 维持CVP<8 cmHzO；如果同时获取腹部器官和肺部， 则维持 CVP 为 8〜10 cmH2O （1B）。
+推荐19：虽暂无临床试验验证［24］，但从生理 学的角度来看，肺移植供体复苏时建议输注胶体液， 以最大限度地减少肺水肿（4A）。
+3.4	保护性通气
+供体维护要注重呼吸机的有效管理，采用保护 性肺通气策略。维持一定的潮气量、PEEP及间断 肺复张（每日至少1次）可以防止肺不张及肺泡萎 陷，这对于呼吸停止的患者尤为重要，另需定时监 测PaO2/FiO2及肺顺应性以评估供肺状态。
+推荐20： FiO2应控制在40%〜50%,潮气量 为6〜8 mL/kg,避免潮气量过大引起肺泡损伤［28-29］。 保持PEEP为6〜8 cm%O,可防止肺泡萎陷，对 于膨胀不全的供肺在每次吸痰后均应短时间内增加 潮气量及PEEP,使萎陷的肺泡重新开放，改善氧 合（1A）。
+3.5	获取前激素的应用
+脑死亡导致下丘脑-垂体轴功能障碍，抗利尿 激素分泌不足，肾上腺功能不全和甲状腺功能减退。 这些情况会加剧休克［30］。
+推荐21：脑死亡早期由于抗利尿激素分泌不 足易引发尿崩症,导致严重的低血容量和高钠血 症。相对于补充容量,建议使用血管加压素（100〜 200 mL/h）,可以更容易地保持适当的尿量（1A）［31］。
+第5期
+中华医学会器官移植学分会等.中国肺移植供体标准及获取转运指南	・329・
+推荐22：糖皮质激素对儿茶酚胺有很好的允许 作用，有利于维持循环血量，还可以通过减轻与脑 死亡相关的炎症反应、减轻肺水肿来优化供体肺功 能［32-33］。故建议在潜在肺移植供体中，常规早期使 用甲泼尼龙（15 mg/kg）（1A）［31］。
+推荐23暂不建议甲状腺激素的常规给药（1B）［34］。
+4	供肺获取流程
+在取得家属肺脏捐献的同意签字、确定供肺能 使用后，OPO进行网络分配供肺，移植医院供肺获 取小组在OPO协调员的帮助下，进行供肺的维护、 评估，供肺维护后，如果符合获取标准，经过供肺 所在的OPO协调，明确多脏器获取的时间各团队统 一进行多脏器获取。
+4.1	心肺原位灌注获取
+供体仰卧位，常规消毒铺巾，胸骨正中切口， 逐层切开皮肤、皮下组织，分离剑突下，锯开胸骨 进胸，剪开心包，肺动脉根部荷包缝合。充分打开 心包，若心肺均拟获取采用，则游离上、下腔静脉 上阻断带，游离升主动脉和肺动脉圆锥，牵开上腔 静脉和主动脉，升主动脉插入常规心脏停搏灌注管。 在主肺动脉根部插入肺灌注管，将500 Jig前列腺素 E1 （prostaglandin E1, PGE1）注入肺动脉。剪断下腔 静脉、左心耳，夹闭升主动脉，行心脏、双侧肺灌注， 同时胸腔放置冰生理盐水降温处理（图1）。
+心肺获取在剪开下腔静脉时，注意给腹部肝脏获
+图1 供肺灌注示意图
+Figure 1 Diagram of donor lung perfusion
+取留下下腔静脉的空间，灌注时呼吸机持续通气。
+4.2	顺行灌注
+准备4 K的灌注液，每升加入PGEi 125%，每 袋悬挂高于手术床30 cm以保持一定的灌注压力。采 用4 L灌注液交替进行双侧肺灌注（50〜60 mL/kg ）。 灌注时机械通气维持FiOz 50%，潮气量10 mL/kg, PEEP 5 cmHzO,同时用冰屑覆盖肺表面降温，灌至 双肺完全发白。在主动脉钳闭处下方切断主动脉， 在结扎处离断上腔静脉，关闭气管，整体取下心肺 后体外分离心脏。若心脏不适于获取采用，也可肺 动脉插管，阻断肺动脉近心端，剪开左心耳，然后 顺行灌注，参数如前述。
+推荐24：器官保存液建议使用低钾右旋糖酐 液（low potassium dextran solution, LPD 液）或 Ceilsor液，许多研究表明相对于细胞内液，LPD液 可降低围手术期PGD的发生率以及术后30 d病死 率（1A）［35-36］。
+推荐25：建议保存液的灌注压为10〜15 mmHg［37］。 过高或过低的灌注压不利于完全、均匀的灌注（1A）。 4.3 心肺分离技术
+体内心肺整体获取后，将心肺整体转运至操作 台上分离，在肺动脉圆锥水平肺动脉起始部切断肺 动脉，将心脏轻轻提起偏向右肺一侧，暴露左侧的 上下肺静脉，在左下肺静脉的下缘左心房侧剪一小口， 然后沿左心房向上剪，注意留下一侧完整的左心房袖， 心房修剪的最基本标准是左上下肺静脉要连在一起， 且带上部分左房袖（图2）。获取时避免将心脏牵拉 太紧，沿肺静脉剪，会导致切断左下肺静脉，肺静脉
+图2 心肺分离示意图（保留供肺心房袖）
+Figure 2 Diagram of cardiopulmonary separation (preservation of atrial sleeve of donor lung)
+- 330・
+器官移植
+第9卷
+回缩至肺实质内，导致供肺无法利用，无法完成吻 合。也有部分中心心肺在供体原位灌注结束后在供体 体内原位分离心肺，方法同上。
+推荐26：建议灌注时呼吸机通气水平为总肺活 量的 50% (1A)。
+推荐27：建议通气氧浓度为50% (1A)。
+4.4	逆行灌注
+心肺分离后进行逆行灌注即从左房袖或肺静脉 灌注液体，从肺动脉中流出。在动物和人体模型中， 逆行灌注后的供肺表现出更好的氧合作用与肺顺应 性，较低的气道压力和更有效的血栓清除效果［38-39］。 将1L的灌注液连接一根带球囊的导尿管，球囊充盈 4〜5 mL,以确保能插入上、下肺静脉内阻塞管口， 从一侧上下肺静脉内分别灌注，每条肺静脉大约使用 灌注液250 mL，共需用灌注液1 L，逆行灌注时可以 轻轻抚压肺组织,肺动脉仍可见到有少量微小血块灌 洗出。直至肺动脉流出的灌注液清亮为止。最后使用 4层塑料袋以保证安全和保持无菌，将肺浸在3 L的 4 °C灌注液中放入装有冰块的保温箱中运送。
+4.5	左、右肺分离修整
+左、右单侧供肺如果在不同的移植中心使用， 供肺可在获取现场立刻进行左、右肺的分离，把供 肺放入无菌袋中，浸泡在0 ~ 4C的灌注液中，无菌 袋外层用无菌冰冷却。分别转运至受体医院，否则左、 右肺整体转运至移植医院再进行分离修整。
+修整前处理：如果供肺在切除后灌注不充分，
+可再次用灌注液进行顺行灌注或者逆行灌注。
+分离左、右肺：供肺表面用浸泡了灌注液的纱 布覆盖表面，双肺按解剖位置放置，稍微向两侧分开。 先剪开左心房后的心包，然后在左心房后壁中间位 置剪开，把左心房分成左、右肺心房袖。然后向上 从肺动脉分叉处分开左、右肺动脉。解剖出左主支 气管，靠近隆突位置，用切割缝合器离断左主支气管， 将双肺分成左、右肺，分别进行修整。
+修整左、右肺：修整顺序按照肺动脉、肺静脉 及左房袖、支气管的顺序来进行。分离肺动脉的鞘 膜至肺动脉第一支，贴近肺静脉分离肺静脉与支气 管之前的结缔组织，尽量保留支气管周围的结缔组织， 保证支气管的血供。修剪支气管周围过多的结缔组织， 保留贴近支气管的结缔组织。然后用超声刀对肺门 及下肺韧带部位进行止血。修剪后供肺如图3所示。
+推荐28：大多数中心将肺脏保存温度定为4〜 8匕。虽有研究表明，最佳储存温度为10匕［40］。由 于担心较高的保存温度可能对肺产生不利影响，故 仍建议保存温度为4°C(1A)。
+推荐29：冷缺血时间一般＜8 h,质量较好供肺 可适当延长至10〜12 h(1A)。
+5	供肺转运流程
+肺移植手术大多为急诊手术，肺脏冷缺血时间 过长可能导致供肺质量下降甚至不能使用，供肺一 般必须在6〜8 h内到达受体医院，部分供肺需要跨
+双侧供肺
+心脏
+左下肺静脉 左心房
+左肺动脉干
+肺动脉总干左右 分叉处剪开
+左心房分离切开成 左、右单肺的心房袖
+左主支气管
+^气管下端右主支气管 右侧供肺心房袖 一右肺动脉
+1 D
+左侧供肺心房袖
+A图为双侧供肺；B图为心肺分离；C图为双肺分离成左、右单肺；D图为修剪后的左、右供肺
+图3 修剪后的供肺示意图
+Figure 3 Diagram of pruned donor lung
+第5期
+中华医学会器官移植学分会等.中国肺移植供体标准及获取转运指南	・33「
+省转运，因此转运过程需要大量的人力、物力和社 会资源支持。
+目前国家器官移植供体转运绿色通道已经开通， 在确定获取供体后，由OPO立即报备有关部门，如 民航、高铁等部门，绿色通道立即响应，尽量缩短 供体转运时间，确保供肺在合理时间内到达受体移 植医院(图4)。
+外地转运提前做好准备，注意车接、车送的地 点安排，高铁可直接上车。多家民航可随时致电客 服申请携带器官乘机，携带器官的医师需出示活体 器官运输证明材料，包括医院身份证明、介绍信、 捐献器官无传染性证明，转运人体捐献器官航班可 以优先起飞。航空公司开通了人体捐献器官转运绿 色通道，器官转运可拨打电话或在机场值机柜台办理， 并有安排专人联系沟通、协调机场安检快速通道、 协助旅客快速登离机、做好现场运行和地面服务保 障、灵活调整任务航班时刻、协助做好器官客舱存 放等全流程各环节工作，增加器官转运的迅捷性。
+6 小 结
+随着我国肺移植技术的成熟、供肺评估的流程 化、供肺获取的熟练化及转运的便捷化，通过接受 肺移植手术的受益人群将不断扩大。因此，需要我 们继续完善供肺保存技术、提高边缘性供肺的修复 技术，延长供肺保存时间，才能不断提高供肺质量， 提高手术成功率，改善受体生存率。
+执笔作者：
+陈静瑜 毛文君 马千里 刘东 赵晋 丁浩
+专家组成员：
+陈静瑜 南京医科大学附属无锡市人民医院，江苏省 肺移植中心，国家肺移植质量管理与控制中
+心挂靠单位；中日医院
+陈文慧 中日医院
+姜格宁 上海市肺科医院
+梁朝阳 中日医院
+李 辉 北京朝阳医院
+孔祥荣 天津市第一中心医院
+张临友 哈尔滨医科大学附属第二医院
+何文新 上海市肺科医院
+吴 波 南京医科大学附属无锡市人民医院
+许红阳 南京医科大学附属无锡市人民医院
+韩威力 浙江大学医学院附属第一医院
+柯 立 安徽省立医院
+陈 椿 福建医科大学附属协和医院
+魏 立 河南省人民医院
+程 才 华中科技大学附属同济医院
+林慧庆 武汉大学人民医院
+陈名久 中南大学湘雅二医院
+徐 鑫 广州医科大学附属第一医院
+巨春蓉 广州医科大学附属第一医院
+车国卫 四川大学华西医院
+胡春晓 南京医科大学附属无锡市人民医院
+曹 彬 中日医院
+毛文君 南京医科大学附属无锡市人民医院
+李小杉 南京医科大学附属无锡市人民医院
+参考文献：
+[1] NATHAN SD. The future of lung transplantation[J] . Chest, 2015, 147(2): 309-316. DOI: 10.1378/chest.14-1748.
+[2]陈静瑜.肺移植供体肺的维护及获取J].武汉 大学学报(医学版)，2016, 37(4): 540-542. DOI: 10.14188/j.1671-8852.2016.04.006.
+CHEN JY The maintenance and acquisition of donor lung in lung transplantation[J]. Med J Wuhan Univ, 2016,
+图4 供肺转运流程图
+Figure 4 Flow chart of donor lung transport
+- 332.
+器官移植
+第9卷
+37(4): 540-542. DOI: 10.14188/j.1671-8852.2016.04.006.
+[3]	VALAPOUR M, SKEANS MA, HEUBNER BM, et al. OPTN/SRTR 2013 annual data report: lung[J]. Am J Transplant, 2015, 15(Suppl 2): 1-28. DOI: 10.1111/ ajt.13200.
+[4]	毛文君，陈静瑜．中国肺移植面临的困难及对 策[J/CD].中华胸部外科电子杂志，2016, 3(1): 1-6. DOI: 10.3877/cma.j.issn.2095-8773.2016.01.001.
+MAO WJ, CHEN JY. Difficulties and countermeasures of lung transplantation in China [J/CD] . Chin J Thorac Surg, 2016, 3(1): 1-6. DOI: 10.3877/cma. j.issn.2095-8773.2016.01.001.
+[5]	中华医学会器官移植学分会，中国医师协会器官移 植医师分会．中国活体供肾移植临床指南(2016 版)[J].器官移植，2016,7(6):417-426. DOI: 10.3969/ j.issn.1674-7445.2016.06.002.
+Branch of Organ Transplantation of Chinese Medical Association, Branch of Organ Transplant Physician of Chinese Medical Doctor Association. Clinical guideline on living donor renal transplantation in China (2016 Edition)[J] . Organ Transplant,2016,7(6): 417426. DOI: 10.3969/j.issn.1674-7445.2016.06.002. [6] 卫生部医管司．卫生部办公厅关于启动心脏死亡捐献 器官移植试点工作的通知：中国心脏死亡器官捐献分 类标准[EB/OL]. [2011-05-03]. http://www.nhfpc.gov. cn/yzygj/s3586q/201105/03ddc86c0d974c058832807f74 14d596.shtml.
+[7]	国家卫生和计划生育委员会脑损伤质控评价中心． 脑死亡判定标准与技术规范(成人质控版)[J].中华 神经科杂志，2013, 46(9): 637-640. DOI: 10.3760/cma. j.issn.1006-7876.2013.09.015.
+Brain Injury Evaluation Quality Control Centre of National Health and Family Planning Commission. Judgment criteria and technical regulations of cerebral death (Adult quality control Edition) [J] . Chin J Neurol, 2013, 46(9): 637-640. DOI: 10.3760/cma. j.issn.1006-7876.2013.09.015.
+[8]	中华医学会器官移植学分会．中国心脏死亡器官捐献工 作指南(第2版)[J].中华器官移植杂志，2011, 32(12): 756-758. DOI: 10.3760/cma.j.issn.0254-1785.2011.12.014.
+Branch of Organ Transplantation of Chinese Medical Association. Work guideline of donation after cardiac death in China (2nd Edition)[J]. Chin J Organ Transplant, 2011, 32(12): 756-758. DOI: 10.3760/cma. j.issn.0254-1785.2011.12.014.
+[9]	SNELL GI, PARASKEVA M, WESTALL GP. Donor selection and management[J]. Semin Respir Crit Care Med, 2013, 34(3): 361-370. DOI: 10.1055/s-0033-1348464.
+[10]	BALDWIN MR, PETERSON ER, EASTHAUSEN I, et al. Donor age and early graft failure after lung transplantation: a cohort study[J]. Am J Transplant, 2013, 13(10): 2685-2695. DOI: 10.1111/ajt.12428.
+[11]	BONSER RS, TAYLOR R, COLLETT D, et al. Effect of donor smoking on survival after lung transplantation: a cohort study of a prospective registry[J]. Lancet, 2012, 380(9843): 747-755. DOI: 10.1016/S0140-6736(12)60160-3.
+[12]	CHANEY J, SUZUKI Y, CANTU E 3RD, et al. Lung donor selection criteria[J]. J Thorac Dis, 2014, 6(8): 1032-1038. DOI: 10.3978/j.issn.2072-1439.2014.03.24.
+[13]	王振兴，陈静瑜，郑明峰，等．肺移植供肺获取 100例：冷缺血时间>6 h及肺减容对预后的影响[J]. 中国组织工程研究，2012, 16(5): 835-838. DOI: 10.3969/ j.issn.1673-8225.2012.05.018.
+WANG ZX, CHEN JY, ZHENG MF, et al. 100 cases of lung harvesting for lung transplantation: effect of cold ischemia time >6 hours and lung volume reduction on prognosis[J]. Chin J Tissue Eng Res, 2012, 16(5): 835838. DOI: 10.3969/j.issn.1673-8225.2012.05.018.
+[14]	GAMMIE JS, STUKUS DR, PHAM SM, et al. Effect of ischemic time on survival in clinical lung transplantation[J]. Ann Thorac Surg, 1999, 68(6): 2015-2020.
+[15]	ORENS JB, BOEHLER A, DE PERROT M, et al. A review of lung transplant donor acceptability criteria[J]. J Heart Lung Transplant, 2003, 22(11): 1183-1200.
+[16]	STUDER SM, ORENS JB. Cadaveric donor selection and management[J]. Semin Respir Crit Care Med, 2006, 27(5):492-500.
+[17]	VAN RAEMDONCK D, NEYRINCK A, VERLEDEN GM, et al. Lung donor selection and management[J]. Proc Am Thorac Soc, 2009, 6(1): 28-38. DOI: 10.1513/ pats.200808-098GO.
+[18]	MULVIHILL MS, GULACK BC, GANAPATHI AM, et al. The association of donor age and survival is independent of ischemic time following deceased donor lung transplantation[J]. Clin Transplant, 2017, 31(7). DOI: 10.1111/ctr.12993.
+[19]	CHAMBERS DC, YUSEN RD, CHERIKH WS, et al. The registry of the International Society for Heart and Lung Transplantation: thirty-fourth adult lung and heartlung transplantation report-2017; focus theme: allograft ischemic time[J]. J Heart Lung Transplant, 2017, 36(10): 1047-1059. DOI: 10.1016/j.healun.2017.07.016.
+[20]	HAYES D JR, HARTWIG MG, TOBIAS JD, et al. Lung transplant center volume ameliorates adverse influence of prolonged ischemic time on mortality[J].
+第5期
+中华医学会器官移植学分会等．中国肺移植供体标准及获取转运指南
+- 333,
+Am J Transplant, 2017, 17(1): 218-226. DOI: 10.1111/ ajt.13916.
+[21]	SNELL GI, WESTALL GP. Selection and management of the lung donor[J]. Clin Chest Med, 2011, 32(2):223-232. DOI: 10.1016/j.ccm.2011.02.002.
+[22]	马春林，梁道业，郑福奎．高呼气末正压在神经源 性肺水肿机械通气中的作用J].中华危重病急救医 学，2014, 26(5): 339-342. DOI: 10.3760/cma.j.issn.2095-4352.2014.05.011.
+MA CL, LIANG DY, ZHENG FK. Effect of high positive end-expiratory pressure for mechanical ventilation in the treatment of neurological pulmonary edema[J]. Chin Crit Care Med,2014, 26(5): 339-342. DOI: 10.3760/cma. j.issn.2095-4352.2014.05.011.
+[23]	冯艳，于国东，王华，等．神经源性肺水肿的液体 治疗策略探讨[J].中华神经医学杂志，2015, 14(2): 176-180. DOI: 10.3760/cma.j.issn.1671-8925.2015.02.015. FENG Y, YU GD, WANG H, et al. Fluid management in patients with neurogenic pulmonary edema[J]. Chin J Neuromed, 2015, 14(2): 176-180. DOI: 10.3760/cma. j.issn.1671-8925.2015.02.015.
+[24]	MINAMBRES E, RODRIGO E, BALLESTEROS MA, et al. Impact of restrictive fluid balance focused to increase lung procurement on renal function after kidney transplantation[J]. Nephrol Dial Transplant, 2010, 25(7): 2352-2356. DOI: 10.1093/ndt/gfq054.
+[25]	MUNSHI L, KESHAVJEE S, CYPEL M. Donor management and lung preservation for lung transplantation[J]. Lancet Respir Med, 2013, 1(4): 318328. DOI: 10.1016/S2213-2600(12)70064-4.
+[26]	PENNEFATHER SH, BULLOCK RE, MANTLE D, et al. Use of low dose arginine vasopressin to support braindead organ donors[J]. Transplantation, 1995, 59(1): 58-62.
+[27]	TUTTLE-NEWHALL JE, COLLINS BH, KUO PC, et al. Organ donation and treatment of the multi-organ donor[J]. Curr Probl Surg, 2003, 40(5): 266-310.
+[28]	DETERMANN RM, ROYAKKERS A, WOLTHUIS EK, et al. Ventilation with lower tidal volumes as compared with conventional tidal volumes for patients without acute lung injury: a preventive randomized controlled trial[J]. Crit Care, 2010, 14(1):R1. DOI: 10.1186/cc8230.
+[29]	MASCIA L, PASERO D, SLUTSKY AS, et al. Effect of a lung protective strategy for organ donors on eligibility and availability of lungs for transplantation: a randomized controlled trial[J]. JAMA, 2010, 304(23): 2620-2627. DOI: 10.1001/jama.2010.1796.
+[30]	HOWLETT TA, KEOGH AM, PERRY L, et al. Anterior and posterior pituitary function in brain-stem
+dead donors. a possible role for hormonal replacement therapy[J]. Transplantation, 1989, 47(5): 828-834.
+[31]	SHEMIE SD, ROSS H, PAGLIARELLO J, et al. Organ donor management in Canada: recommendations of the forum on medical management to optimize donor organ potential[J]. CMAJ, 2006, 174(6):S13-S32.
+[32]	DIMOPOULOU I, TSAGARAKIS S, ANTHI A, et al. High prevalence of decreased cortisol reserve in braindead potential organ donors[J]. Crit Care Med, 2003, 31(4): 1113-1117.
+[33]	FOLLETTE DM, RUDICH SM, BABCOCK WD. Improved oxygenation and increased lung donor recovery with high-dose steroid administration after brain death[J]. J Heart Lung Transplant, 1998, 17(4): 423-429.
+[34]	MACDONALD PS, ANEMAN A, BHONAGIRI D, et al. A systematic review and meta-analysis of clinical trials of thyroid hormone administration to brain dead potential organ donors[J]. Crit Care Med, 2012, 40(5): 1635-1644. DOI: 10.1097/CCM.0b013e3182416ee7.
+[35]	ARNAOUTAKIS GJ, ALLEN JG, MERLO CA, et al. Low potassium dextran is superior to university of Wisconsin solution in high-risk lung transplant recipients[J]. J Heart Lung Transplant, 2010, 29(12): 1380-1387. DOI: 10.1016/j.healun.2010.05.031.
+[36]	THABUT G, VINATIER I, BRUGIERE O, et al. Influence of preservation solution on early graft failure in clinical lung transplantation [J]. Am J Respir Crit Care Med, 2001, 164(7): 1204-1208.
+[37]	SASAKI M, MURAOKA R, CHIBA Y, et al. Influence of pulmonary arterial pressure during flushing on lung preservation[J]. Transplantation, 1996, 61(1): 22-27.
+[38]	VENUTA F, RENDINA EA, BUFI M, et al. Preimplantation retrograde pneumoplegia in clinical lung transplantation[ J] . J Thorac Cardiovasc Surg, 1999, 118(1): 107-114.
+[39]	VAN DE WAUWER C, NEYRINCK AP, GEUDENS N, et al. Retrograde flush following warm ischemia in the non-heart-beating donor results in superior graft performance at reperfusion[J]. J Surg Res, 2009, 154(1): 118-125. DOI: 10.1016/j.jss.2008.06.007.
+[40]	KAYANO K, TODA K, NAKA Y, et al. Identification of optimal conditions for lung graft storage with EuroCollins solution by use of a rat orthotopic lung transplant model[J]. Circulation, 1999, 100(19 Suppl): II257- II261.
+(收稿日期:2018-08-03 ) (本文编辑：邬加佳 吴秋玲)

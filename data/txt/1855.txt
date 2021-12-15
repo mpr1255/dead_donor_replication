@@ -1,0 +1,62 @@
+﻿第40卷第4期
+2019年7 月
+Vol. 40 No. 4
+Jul. 2019
+武汉大学学报(医学版)
+Medical Journal of Wuhan University
+DOI: 10.14188/j. 1671-8852. 2018. 0240
+文章编号 1671-8852(2019)04-0606-03
+原位心脏移植术治疗成人终末期心脏病24例总结
+阮永乐 王志维 吴智勇 任 伟 任宗力
+武汉大学人民医院心血管外科/湖北省心血管病医学临床研究中心/ 心血管病湖北省重点实验室 湖北 武汉 430060
+摘要 目的：分析总结24例成人原位心脏移植治疗终末期心脏病的临床疗效和经验。方法：2015年6月至 2017年6月连续成功为24位终末期心脏病患者行原位心脏移植术，其中心肾联合移植1例。原发病包括冠心病11 例，心肌病8例，瓣膜病3例，心肌炎2例。全部采用双腔静脉吻合法。结果：24例患者心脏移植术后心功能均恢复 至I级（NYHA）。术后随访1〜24个月。随访过程中发生急性排斥反应2例，带状疱疹感染2例，肺炎2例。随访 过程中死亡4例，死亡原因分别为暴发肝炎1例、重症感染1例、肾功能衰竭1例、呼吸衰竭1例。结论：终末期心脏 病行原位心脏移植的临床疗效良好。术前供受体评估、器官功能维护、心肌保护、术后生命体征监测及抗排斥治疗 是心脏移植术的关键。远期需注意对免疫排斥反应、感染、多脏器功能的监测及治疗。
+关键词 心脏移植；终末期心脏疾病；治疗结果
+中图分类号 R617 文献标识码 A
+Experience of 24 orthotopic heart transplantations for end-stage heart diseases in adults
+RUAN Yongle, WANG Zhiwei, WU Zhiyong, REN Wei, REN Zongli
+Dept. of Cardio vascular Surgery，Renmin Hospital of Wuhan University；Hubei Cardiovascular Medicine Clinical R esearch Center；& Hubei Key Laboratory of Cardiology，Wuhan 430060，Hubei，China
+Abstract
+O bjective: To rep ort 24 cases of adult orthotopic heart transplantation, and to review the clinical efficacy and experience of orthotop ic heart transplantation for terminal heart diseases . M ethods: From June 2015 to June 2017, we successfully performed orthotopic heart transplantation by bicaval anasto -motic method for 24 patients with terminal heart diseases, whose primary pathogenesis included 11 cases of coronary heart disease, 8 cases of cardiomyopathy, 3 cases of cardiac valve disease, and 2 cases of myocarditis. Among them , one case of combined heart and kidney transplantation was performed. Results: All patients' cardiac function recovered to NYHA grade I after heart transp lanta-tion. During the follow -up of 1 m onth to 48 months after transplantation, there were 2 cases of acute rejection, 2 cases of herp es zoster infection, 2 cases of pneumonia, and 4 cases of death from severe hep atitis (1 case), severe infection (1 case), renal failure (1 case) and respiratory failure (1 case), respectively. Conclusion: O rthotop ic heart transplantation is a reliable choice for end-stage heart diseases with excellent outcomes. Assessment of transp lant recipients and donors, protection of myocardi-
+课题来源：国家自然科学基金青年项目(编号：81501376)；中国博士后科学基金(编号：2017M620339)；湖北省自然科学基金项目(编号： 2015CFB345)
+作者简介：阮永乐，男，1984—，医学博士，主治医师，主要从事心脏移植、器官缺血再灌注损伤相关研究，E-mail：ruanyongle@163.com 通讯作者：王志维，男，1962-，教授，主任医师，博士生导师，主要从事心血管疾病、心脏移植等研究，E-mail：wangzhiwei@whu.edu.cn
+第4期
+阮永乐，等.原位心脏移植术治疗成人终末期心脏病24例总结
+607
+al, monitoring of postoperative multi-organ function, and treatment of immune rejection and infection are key factors to heart transplantation.
+Key Words H eart Transplantation；End-Stage Heart Disease；Treatment O utcom e
+目前心脏移植是治疗终末期心脏病的最佳方 法，随着国内外心脏移植数量逐渐增多，心脏移植 外科技术、围术期治疗及免疫抑制治疗都有巨大的 进步和提高，心脏移植效果进一步提升[1]，但目前尚 无心脏移植的标准化治疗指南，心脏移植治疗过程 还需进一步完善和总结。我院自2015年6月至 2017年6月连续为24位终末期心脏病患者行原位 心脏移植术，现报告如下。
+1 资料与方法
+1. 1 患者资料 心脏移植受体24例，其中男性17 例，女性7例；年龄25~71(49. 38±12. 73)岁；体质 量39. 6〜82. 6 (60. 25±9. 81) kg；原发病包括冠心 病11例，心肌病8例，瓣膜病3例，心肌炎2例。术 前既往心脏开放手术5例(其中瓣膜置换术4例，室 壁瘤切除术1例)、心脏介入手术4例、心脏起搏器 植入2例、肾脏替代治疗2例、体外膜肺氧合(extracorporeal membrane oxygenation，ECMO)心脏辅助 1例、呼吸机辅助1例。所有患者经内科保守治疗效 果差，无法耐受常规外科手术。术前心功能N级 [New York Heart Association(NYHA)分级]，经内 科保守治疗效果差，应用大剂量正性肌力药物仍无 效。术前超声心动图检查结果：左室射血分数(left ventricular ejection fraction，LVEF)：13% 〜38% [(31. 71±9. 782)%]。
+1.2 供体心脏情况 脑死亡供心，供者年龄15〜 62(37. 42 ± 13. 93)岁，体质量51〜80(63. 92 ± 6. 92)kg,既往无心血管病史，供体选择均符合UN-OS选择标准,。供心热缺血时间0 min,冷缺血时 间 93〜456(182.6±87. 94)min；供心经 HTK器官 保存液灌注1 000〜2 000 mL后，三层无菌器官袋密 封,置入冰盒运至手术室。
+1.3供受体配型情况 移植供-受体ABO血型相 同15例，血型相容9例；供受体体重相差＜20% ;术 前24例患者的群体反应性抗体(panel reactive anti-body,PRA)为阴性(PRA＜10%)者21例，群体反应 性抗体(PRA)为阳性(PRA＞10%)者3例；供受体 淋巴毒检测＜10%。
+1. 4 移植手术 移植手术在全麻低温体外循环下 进行。24例手术均采用双腔静脉法术式。左心房、
+肺动脉采用4-0 Prolene线连续缝合，主动脉采用4-0 Prolene线水平褥式加连续外翻缝合法，腔静脉采 用5-0 Prolene线连续缝合。手术体外循环时间 129〜382 (192. 5 士 51. 97) min,主动脉阻断时间 62〜128(85. 75±13. 41)min。
+1.5免疫抑制治疗及术后监护患者术前2h常 规给予巴利昔单抗20 mg免疫诱导，术后第4天再 给药一次。麻醉诱导时给予甲强龙500 mg冲击治 疗。术中主动脉开放后再给予甲强龙500 mg冲击 治疗。术后继续甲强龙冲击治疗3d, 500 mg/do术 后口服他克莫司，维持谷值浓度8〜10ng/mL左右， 骁悉1 000 mg/d或米芙760 mg/d,强的松按0.5 mg/(kg・d)术后第4天开始口服，逐渐减量至10 mg/d维持。术后常规血常规、血生化、肝肾功能、电 解质、动脉血气、血糖、痰培养、胸片、心电图、心脏 彩超检查。
+1.6 统计学分析 计量资料以均值士标准差表 示。计数资料的组间比较采用卡方检验，以P ＜ 0. 05为差异有统计学意义。
+2 结果
+心脏移植术后恢复情况：24例患者心脏移植术 后心功能均恢复至I级(NYHA)出院，所有病例术 后心功能恢复良好,术后超声心动图检查结果： LVEF：54%〜60% [(58. 850 士 2. 408)% ],术后 ICU 监护时间:1. 89〜18. 26 (7. 264±4. 099)d,出 院他克莫司浓度：4.4〜16. 3(9. 171士3. 117)ng / mL。
+PRA阳性患者免疫诱导方案：PRA阳性受体术 前1d开始给予免疫诱导(兔抗人胸腺细胞免疫球 蛋白)1mg/(kg・d),连续使用5 do麻醉诱导时给予 甲强龙500 mg冲击治疗。术中主动脉开放后再给 予甲强龙500 mg冲击治疗。术后继续甲强龙冲击 治疗3d,500 mg/d。术后采用他克莫司、霉酚酸酯 和强的松三联免疫抑制治疗。经以上治疗方案,术 前PRA阳性受体在心脏移植围术期心功能恢复良 好,未出现超急性或急性排斥反应。
+边缘供者对心脏移植围手术期心功能恢复情 况的影响：统计边缘供体包括：供体年龄＞45岁,供 体缺血时间＞6h或供/受体质量比＜0.8,一共11 例，其中术后心功能恢复不佳，围术期使用ECMO
+608
+武汉大学学报(医学版)
+第40卷
+辅助3例。非边缘供体13例，心脏移植术后均无使 用ECMO辅助。两组之间的ECMO使用率有显著 统计学差异(P<0.05)。使用边缘供体显著影响心 脏移植围术期移植心脏的功能恢复，增加了术后移 植心脏ECMO使用率。
+心脏移植术后并发症情况：围术期发生重症感 染1例、急性排斥反应2例。术后随访1~48个月， 随访过程中发生急性排斥反应2例、带状疱疹感2 例、肺炎2例、脑梗塞1例，均经过及时住院治疗康 复。心脏移植术后死亡4例，死亡原因分别为术后 重症感染1例、肾功能衰竭1例、呼吸衰竭1例以及 肝功能衰竭1例。
+3 讨论
+目前国内外心脏移植手术日益成熟，心脏移植 手术在国内多家移植中心已经常规化开展。随着 心脏移植术的大量开展，移植术后并发症也逐渐凸 显。根据我院心脏移植病例的情况及围术期管理 总结经验如下。
+3. 1 手术方式选择 目前各心脏移植中心推荐双 腔静脉法的心脏移植术式，相比标准心脏移植法， 其能更好地保护窦房结功能，减少术后三尖瓣返 流，缩短手术时间。
+3. 2 免疫排斥反应监测 免疫排斥反应是心脏移 植术后最常见的严重并发症之一[3]。目前心内膜活 检(endomyocardial biopsy，EMB)是术后判定急性 排斥反应的金标准。临床诊疗过程中也常常根据 其他检测手段评估或预警免疫排斥反应的发生。 患者有漏服或减量免疫抑制剂情况，出现心衰症状 和体征，检查提示抗排斥药物浓度偏低、心肌酶及 脑钠肽升高，结合心电图和心脏超声改变等综合因 素判断免疫排斥反应可能。如出现以上医学证据， 需及时纠正免疫排斥反应，降低移植器官损害。
+3. 3 供体选择及供心保护 本组病例显示供体年 龄〉45岁、供心缺血时间>6h以及供/受体质量比 <0.8,显著增加了心脏移植术后ECMO使用率，严 重影响心脏移植术后存活。边缘供体的使用不仅 显著增加了术后ECMO使用率，而且使心脏移植术 后恢复时间延长并造成预后不良。供体选择及供 心保护是心脏移植成功重要因素[4,5],围术期严格执 行供体选择标准,尽量缩短供心缺血时间、做好供 受体匹配,无法避免使用到边缘供心时需权衡患者 利弊,并加强术后管理。
+3. 4 围术期移植心脏右心功能维护 由于受体长 期病理性血流动力学营养,常常伴有肺动脉阻力增
+高的情况。根据报道肺血管阻力需小于6 Woods, 方可实施心脏移植。移植术后右心衰竭是常见并 发症,术后应加强监测、合理使用扩血管药物、利尿 药以及一氧化氮,减轻右心系统负荷,降低右心衰 竭风险[6]。
+3.	5 心脏移植合并其他疾病处理 终末期心脏病 患者合并其他疾病,包括肝肾功能不全、高血压及 糖尿病等,也可能造成心脏移植术后预后不佳,增 加心脏移植手术风险。围术期需加强生命体征监 测及综合治疗。除此以外,术后注意免疫抑制剂的 毒副作用,结合患者情况实施药物个体化治疗。
+综上所述,心脏移植作为终末期心脏疾病有效 的治疗手段已日趋成熟,极大提高了终末期心脏病 患者的生活质量和预期寿命。目前心脏移植仍面 临许多困难,心脏移植术及术后维护费用较高,并 受器官来源缺乏的限制,每年心脏移植数量极有 限。除此以外,心脏移植诊疗过程复杂,术后并发 症的诊疗经验及移植术后长期存活均有待提高。 心脏移植治疗过程涉及多学科合作,术后的长期生 存离不开科学的维护,仍需加强术前评估及术后管 理进一步有效提高心脏移植预后。
+参考文献
+[1]	Kittleson MM, Kobashiqawa JA. Cardiac transplantation: Current outcomes and contemporary controveries [J]. JACC Heart Fail, 2017, 5(12):857-868.
+[2]	Fleischer KJ, Baumgartner WA. Heart transplantation. In: Henry Edmunds HL. Cardic surgery in the adult[M]. New York: McCraw - Hill, 1997, 1 409 -1 449.
+[3]	Soderlund C, Radegran G. Immunosuppressive therapies after heart transplantation- the balance between under - and over - immunosuppression[J]. Transplant Rve (Orlando), 2015, 29(3):181-189.
+[4]	Costanzo MR, Dipchand A, Starling R, et al. The international society of heart and lung transplantation guidelines for the care of heart transplant recipients[J]. J Heart Lung Transplant, 2010,29(8):914-956.
+[5]	Kinkhabwala MP, Mancini D . Patient selection for cardiac transplant in 2012[J]. Expert Rev Cardiovasc Ther, 2013, 11(2):179-191.
+[6]	Sabato LA , Salerno DM , Moretz JD, et al. Inhaled pulmonary vasodilator therapy for management of right ventricular dysfunction after left ventricular assist device placement and cardiac transplantation[J]. Pharmacotherapy, 2017, 37(8):944-955.
+(2018-03-20收稿)
+编辑 沈建国

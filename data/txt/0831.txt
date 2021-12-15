@@ -1,0 +1,66 @@
+﻿・ 460 ・	中国医学装备 2014年8月 第11卷	护理研究
+脑死亡无偿器官捐献供体的护理维护体会
+王翠莲张和妹任珊
+（海南省人民医院神经外科 海南 海口 570311）
+【摘 要】耳的：探讨脑死亡器官捐献供体的护理维护。方法：我院于2012年12月至2013年3月期间共完成3例脑死亡器官捐献（DBD）供体 的无偿器官捐献工作。供体均确诊为脑死亡，应用机械通气、血管活性药物及其他相关药物维持生命体征和捐献器官功能，监测中心静脉压、心 率、血气分析、尿量、电解质、体温以及血细胞比容等，维持供体器官灌注。结果：3例DBD供体维持生命体征平稳，捐献的器官功能稳定正常。 其中，供体1在入ICU后12 h确诊脑死亡，到实施器官捐献共维护52 h,供体2在入ICU后8 h确诊脑死亡，到实施器官捐献共维护46 h;供体3 在入ICU后10h确诊脑死亡，到实施器官捐献共维护40 h。捐献的肝脏、肾脏和角膜均成功移植于受体。结论：将可利用器官的功能调整到最佳 状态是确保供体器官成功捐献和捐献器官移植手术成功的关键，对有效提高捐献器官的利用率及缓解目前器官短缺状况起到重要的作用。
+【关键词】脑死亡；器官捐献；器官维护
+［中图分类号】R654	［文献标识码】B	［文章编号】1672-8270 （ 2014 ） 08-0460-02
+Three cases of the care and maintenance for three brain-dead organ donors
+［Abstract ］ Objective: To investigate the care and maintenance of brain-dead organ donors for the organ transplantation of the bodies. Process: The receiving work about the corresponding three brain-dead organ donors was accomplished during the period from December 2012 to March 2013 smoothly m our hospital. In addition , all the donors were confirmed bram-dead after carefully check and vanous supplementary meas such as mechanical ventilation, vasoactive drugs and other drugs were carried out to maintain the donors. Meanwhile, the monitoring of the corresponding central venous pressure, heart rate, unne output, electrolyte acid-base balance, body temperature, hematocrit, albumin level and blood gas analysis were also executed to keep the perfusion of donor organs. Results: Benefited from the stable vital signs of three DBD donors, all functions of the donated organs were stable and normal. In our experiment, the donor 1 was diagnosed as bram-dead after his entrance into the ICU in 12h and the maintenance time was a total of 52h until the implementation of organ donation was accomplished. However , the relevant donors 2 and 3 were confirmed brain-dead in 8h and lOh respectively, and their total maintenance time were 46h and 40h, respectively. Eventually , the donated livers, kidneys and corneas came from three donors were transplanted into the recipient successfully. Conclusions: In summary, adjusting the function of available organs to the best state is the key to ensure the success of organs donation and the donated organ transplantation operations, and it is of great importance to improve the utilization rate of
+organ donation and alleviate the current organ shortage situation effectively.
+器官移植技术的出现和发展是医学技术进步结果，享有21世纪 “医学之巅”的美誉，它改变了传统的药物治疗方式，成为了挽救器 官功能衰竭患者生命的最佳手段。目前，脑死亡器官捐献（donation after brain death, DBD）已成为欧美等西方国家最主要的供体来源。
+2009年5月卫生部脑死亡判定标准起草小组制定了《脑死亡判定标准 （成人）（修订稿）》及《脑死亡判定技术规范》⑴。脑死亡标准的实行， 使医生可以通过现代医疗技术，使脑死亡患者的心脏、肝、肾脏及其他 器官免于衰竭，这些脑死亡患者的器官便成为移植手术的理想供体⑵，为 我国脑死亡无偿器官捐献的工作奠定了初步理论基础。DBD供体是最佳的 器官移植供体口⑷，供体器官可在心脏不停跳的情况下获取，几乎没有热 缺血性损害。在目前移植器官来源紧缺的状况下，对DBD供体的维护就 显得极其重要。我院于2012年12月至2013年3月期间成功完成3例DBD供 体的无偿器官捐献工作，现将DBD供体的护理维护体会报告如下。
+1对象和方法
+1. 1研究对象
+3例脑死亡供体均为我院神经外科患者，年龄16〜24岁，发育正常， 营养良好，体型正常。进行性意识障碍数小时入院，头颅CT提示，脑 内出血并破入脑室。经机械通气辅助呼吸、血管活性药物支持、脱水 降颅压等各种抢救，患者深昏迷，双瞳孔散大，对光反射消失，深浅 反射消失，无自主呼吸，GCS评分均为3分，依据《脑死亡判定标准（成 人）（修订稿）》及《脑死亡判定技术规范》，经神经外科、神经内科、 重症医学科主任医师鉴定,诊断为脑死亡。
+1. 2脑死亡判定
+2009年5月卫生部脑死亡判定标准起草小组制定了《脑死亡判定标 准（成人）（修订稿）》及《脑死亡判定技术规范》，标准中给出的脑死 亡定义是包括脑干在内的全脑功能丧失的不可逆转的状态，诊断标准共 有4项：①判定的先决条件。昏迷原因明确，排除了各种原因的可逆性 昏迷；②临床判定。深昏迷；脑干反射消失；无自主呼吸（靠呼吸机维 持，自主呼吸激发试验证实无自主呼吸），以上3项必须全部具备；③确 认试验。正中神经短潜伏期体感诱发电位（SLSEP）显示N9和（或）N13 存在，P14、N18和N20消失，脑电图（EEG）显示电静息，经颅多普勒超 声（TCD）显示颅内前循环和后循环呈振荡波、尖小收缩波或血流信号 消失，以上3项中至少2项阳性；④判定时间。临床判定和确认试验结果
+均符合脑死亡判定标准者可首次判定为脑死亡。首次判定12小时后再次 复查，结果仍符合脑死亡判定标准者，方可最终确认为脑死亡。
+1.	3知情同意
+3例脑死亡患者家属均在海南省红十字会器官捐献办公室工作人 员的主持下，实施国际标准无偿器官捐献知情同意程序，脑死亡患者 家属均全程在场，并有律师在场公证完善相关法律程序，签署知情同 意书。器官捐献协调员将捐献者的相关信息报送省级人体器官捐献办 公室，由省级人体器官捐献办公室通知器官获取组织获取器官，器官 捐献协调员见证获取过程，只摘取捐献者同意捐献的器官或组织。
+1.	4供体器官的维护
+综合评估脑死亡患者，完善相关检查，包括血常规、血型、肝肾 功能、血脂、血糖、电解质、凝血功能、血型、输血四项、病毒学检 测、胸腹腔B超、胸片、肿瘤标志物、人类主要组织相容性抗原（HLA） 配型检测。
+脑死亡患者存在神经-体液调节失常等病理生理改变，常表现为患 者全身器官组织的灌注不足和血流动力学的不稳定，从而使全身器官 的结构和功能受到不同程度的影响区咒因此，做好供体器官的维护是 器官移植获得成功的重要前提保证。
+1.4.1	呼吸系统 使用机械通气辅助呼吸，维持动脉血氧分压 （Pa02） 80 nun Hg 以上，二氧化碳分压（PaCO?） 30〜35 mm Hg⑺。
+1.4.2	循环系统监测有创血流动力学，包括中心静脉置管及槎动 脉置管，严密监测血压、心率、尿量、中心静脉压等指标。使用微量 泵持续泵入小剂量多巴胺5〜10 H g/（kg - min）维持心血管系统的收缩 力，保持中心静脉压6〜10 mmHg⑺，使组织有良好的灌注。严密记录 出入量，根据每小时尿量进行液体补充，做到“量入为出”，监测电 解质变化，及时补充维持电解质平衡。
+1.4.3	营养支持首选肠内营养，维持供体的基本营养需要。如肠 内功能不佳，以补充场外营养为主，能量供给在20〜25kcal/kg/d⑻被 认为是大多数危重患者能够接受并可实现的能量供给目标，即所谓 “允许性”低热卡喂养，目的在于避免营养支持相关的并发症，如高 血糖、胆汁淤积与脂肪沉积等。
+1.4.4	体温的调节 体温保持在36. 5〜37. 5°C,低体温使用保温 毯，静脉输入加温的液体、呼吸机气体加温等措施；高体温使用物理
+护理研究
+中国医学装备2014年8月第11卷
+• 461 •
+治疗降温。
+1.4.5	肝、肾脏的保护肠内营养的选择可以刺激肝脏生产胆汁， 适当给予护肝药，避免使用肝肾损害药物。合理安排用药顺序，了解 药物的性质和不良反应，密切观察用药后的病情变化，由于去甲肾上 腺素对肾血管有强烈收缩作用，可使肾脏血流减少凶],因此应用小剂 量多巴胺维持血压，以保证肾脏的血流灌注。
+1.4.6	预防感染激素使用强的松龙，避免使用对肝肾功能有损害 的药物。
+1.4.7	安全护理预防压疮的发生，加强翻身，给予气垫床或泡沫 敷料等预防措施，并保持床单位整洁。
+1.4.8	其他 监测血糖，使用微量泵持续泵入胰岛素来调整血糖， 目标血糖8〜10 mmol/L,监测供体凝血功能，防止弥散性血管内凝血 (DIC)的发生，使用医用胶布粘合供体眼睑，并眼部覆盖凡士林纱布， 保护角膜，预防暴露性角膜炎的发生。
+2结果
+供体1转入ICU 12h后确诊脑死亡，到实施器官捐献共33 h (主要 维护参数见图1)，成功捐献出肝脏、双肾及角膜进行移植，受体术后 恢复良好。供体2转入ICU 8 h后确诊脑死亡，到实施器官捐献共46 h (主要维护参数见图2),成功捐献出肝脏、双肾及角膜进行移植，受 体术后恢复良好。供体3转入ICU 10 h后确诊脑死亡，到实施器官捐 献共40 h (主要维护参数见图3),成功捐献出肝脏、双肾及角膜进行 移植，受体术后恢复良好。
+图1供体1维护参数
+时间
+图2供体2维护参数
+图3供体3维护参数
+3讨论
+2010年7月，世界卫生组织(WHO)、国际移植学会(TTS)、国际捐 献和获取学会(ISODP)在日内瓦制定了一个"4D (Development of Donation from Deceased Donors)”战略计划，即开发公民逝世后器 官捐献战略计划，认为DBD优先于DCD驷。脑死亡患者存在着神经-体 液调节失常等病理生理改变四田，常表现为患者血流动力学的不稳定 和全身器官组织灌注不足，从而使全身器官的结构和功能受到不同程 度影响。因此，在目前移植器官来源非常紧缺的状况下，对DBD供体 的维护就显得极其重要。
+DBD供体判断为脑死亡并确定捐献后，应对供体进行充分的全面 评估，排除多囊肾、多囊肝、肿瘤及解剖异常等。脑死亡后机体受多 种综合因素的影响，可继发循环、呼吸、内分泌、代谢及内环境紊乱 等多种并发症，从而导致供体器官功能受损，所以一旦确诊脑死亡并 进入捐献程序，就应立即开始供体器官功能维护。
+首先，脑死亡状态时，肾脏功能的保护是最为重要的。应用的各 种药物、严重的有效循环不足及大量血管活性药物都会对肾脏造成损 伤。脑死亡状态下，中枢性抗利尿激素(ADH)分泌减少或ADH的通路受 到影响，可发生尿崩症，此时供体可出现严重的水、电解质及酸碱平
+衡的紊乱。护士应严格记录出入量，根据出量合理调整输液的速度和 输液量，做到“量出为入”，还要随时协助医生做好肾功能的实验室 检测，根据检测结果进一步调整治疗方案。其次，脑死亡供体的生命 体征变动很大，随时可因各大器官功能衰竭而出现较大变化，特别是 血压的变化更为明显，而血压是维持生命的基本体征，应尽快纠正低 血压，维持心脏、肾脏等重要器官的有效血流灌注，不仅是防止多脏 器功能衰竭的关键，也是保证肾移植器官存活的重要原则。
+一般我们多采用微量泵持续小剂量静脉泵入多巴胺，将血压维持 于相对稳定的状态。脑死亡后，正确的机械通气策略可以保证良好的 氧供，同时良好的气道管理可以避免和预防肺炎的发生。体温管理可 使用物理升温或物理降温方法维持体温在36〜37. 3 °C网。有些学者提 出脑死亡患者作为理想供体器官来源时应达到“4个100”的原则，即 动脉收缩压、血氧分压、血红蛋白和尿量分别达到100 mm Hg, 100 mm Hg、100%. 100 g/L和100 mL/h[14]o最近也有学者认为，必要时可考 虑使用体外循环技术维持移植器官功能㈤。此外，除了对供体器官维 护必不可少的药物外，其余药物全部撤除，避免对捐献器官的损害， 尤其是对肝、肾有损伤可能的药物1⑹。
+4结论
+器官移植技术是21世纪的“医学之巅”，而1个器官捐献者可能挽 救超过5个人的生命，同时可以影响到许多人的生活质量。在器官切取 前尽可能将可利用器官的功能调整到最佳状态，是确保器官成功捐献和 移植手术成功的关键，对缓解目前移植器官短缺状况和提高捐献器官的 利用率起到相当重要的作用。而我们器官捐献与国际成熟的器官捐献相 比，比率明显偏低，这其中受很多因素的限制，但不能否认也与我们对 脑死亡供体的维护意识及水平有很大关系，仍需我们的不断探索。
+参考文献：
+[1]卫生部脑死亡判定标准起草小组.脑死亡判定标准(成人)(修 订稿)4中国脑血管病杂志,2009,6(4):220-224.
+[2]林苗苗，田克敏.浅谈脑死亡及其立法问题以理论前 沿,2007,13(6):42—43.
+[3]Wijdicks EF Brain death worldwide ： accepted fact but no global consensus in diagnostic criteria.Neurolog. 2002,58(1):20.
+[4]胡斌毅.对脑死亡的伦理思考[J].护理研究,2005,12(30):2782-2873.
+[5]周志刚，李超.2例脑死亡无偿器官捐献供体的维护体会川.中国 普外基础与临床杂志,2012,19(5): 486-489.
+[6]Chamorro C,Falc 6 n JA, Michelena JC.Controversial points in organ donor managementQ]. Transplant Proc. 2009,41(8): 3473—3475.
+[7]张海波，孟旭.心脏移植脑死亡供体的选择标准与管理[J].心肺血 管 病杂志,2008,27 (4) 253-256.
+[8]刘保池，李垒，刘立.创伤危重患者的营养支持以中国全科医 学,2009,12(2A): 249-251.
+[9]Ogata J, MinamiK, Segawa K,et al. A forskolin derivative, colfbrsin daropate hydrochloride, inhibits the decrease in cortical renal blood flow induced by noradrenaline or angiotensin II in anesthetized ratsQ]. Nephron Physio.1,2004, 96⑵：59.
+[10]陈忠华.25年磨一见(剑)——环球性器官短缺与移植危机中的 中国新(心)路历程[J/CD].中华器移植杂志(电子版)，2010, 4(4): 265-272.
+[ll]Conci F,Procaccio F,Arosio M,et al .Viscero-somatic and Viscera-visceral reflexes in brain death J Neurol Neurosurg Psychiatry. 1986,49(6):695-698.
+[12]Chamorro C, Falc 6 n JA, Michelena JC. Controversial points in organ donor management. Transplant Proc. 2009;41 (8):3473— 475.
+[13]陈良万，陈道中,戴炳光，等.脑死亡无偿器官捐献心脏移植二例 Q].中国心血管病研究,2008,6⑵90-92.
+[14]Gelb AW, Robertson KM. Anaesthetic management of the brain dead for organ donation [J]. Can J Anaes th. 1990,37 ⑺:806—812.
+[15]吴禧，龙村.体外循环技术在移植器官保护中的应用[J].中国体 外循环杂志，2011,9(1):60-63.
+[16]王光策，王锁刚，张翥，等.脑死亡器官捐献移植过程中的问题川. 中国组织工程研究与临床康复,2011,15(18):3280-3283.

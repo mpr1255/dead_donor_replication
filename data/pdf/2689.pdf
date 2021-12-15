@@ -1,0 +1,3 @@
+<script language=javascript >
+alert('对不起，没有检索到符合条件的记录！');
+</script><script>self.close();</script>

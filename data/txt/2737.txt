@@ -1,0 +1,82 @@
+﻿心肺血管病杂志2000年第19卷第3期
+203
+心脏移植中HLA-n类抗原基因配型的实验研究
+北京市心肺血管疾病研究所 首都医科大学附属北京安贞医院( 100029) 董 然 陈宝田 邱长春 石 镜
+摘要 建立人类白细胞抗原(HLA An型抗原4个基因位点DRBi、DQAi、DQBi、DPBi的聚合酶链式反 应一单一链构象多态分析(PCR—SSCP)配型方法。实验分三部分：1.通过预实验确定使用PCR—SSCP检测 HLA-DRB1、DA1、DQB1、DPB1 4个位点的实验条件;2.使用以上方法对1例拟行心脏移植的患者在127例 健康人群中进行基因位点的检测配型; 3.对配型一致及不一致的供体和受体,进行体外混合淋巴细胞培养 (MLC),以检验这种基因配型方法的可靠性。通过PCR—SSCP的检测配型，在127例供体中2例DRB1位 点、例DQAi位点、例DQBi位点、例DPBi位点与受体相一致。体外MLC证实与受体不一致的供、受体 MLC中，受体淋巴细胞呈高度增殖反应;而与受体某一位点一致的供体，其MLC中受体淋巴细胞增殖反应明 显降低(P< 0 01) PCR—SSCP是一种快速、准确的HLA- n类抗原基因位点检测配型的方法。
+关键词器官移植HLA-n类抗原基因配型PCR— SSCP
+Experimental Research of Genotyping for HLA Class n Antigens in Cardiar Transplantation Dong Ran, Chen Baotian, Qiu Changchun , et al .
+Beij ing Heart, Lung and Blood Vessel Medical Center-Anzhen Hos pita l(1000 29)
+Abs tract To establish a geno typing method for H LA-D RB1, DQ A1, DQB1 and DQ P1 poly m orph ic lo ci-P oly-m erase Ch ain Reaction-Sing le Strand Co nf orm ati on Poly mo rph ism (PCR-SSCP).The experiment is di vided into three steps:T o set up the experimental con di tio ns of PCR-SSC P fo r detecting and typing H LA-DRB1, DQA1 , DQ B1 and DPB 1 loci through pre-experiment;Then by using the method of PCR-SSCP, w e geno ty ped fo r HLA class n be-tw een one heart tranplatation recip ien t and 127 cases of healt h people, In o rder to determinate the reliabi lit y of this g enot ypi ng method, we car ri ed out mixed ly mphocy te cultures (M LC) with cells from the recipient and d onors , in-clud in g the mismatched and m at ched do nors ascert ai ned by PCR-SSCP typing.By genotyping in 1 27 cases usi ng PCR-SSCP an al ysis, we have go tten d onors w ho are com pa tib le with the recip ien t for one locus of HLA class n g ene. Of w hich, tw o were identical to the recip ient for D RB 1 lo cus, two for DQ A1, three for DQ B1 locus and tw o fo r DPB1 locu s.M LCs p erfo rmed donors resp ectively show ed that the lym ph ocyt es of the recipient had high proliferation res pons e in M LCs with mismatched dono rs, and sig nificant low er response(P <0 .0 1)in M LC s with one-locus identical don ors. Conclusion :PCR-SSCP genotyping is a rap id and accurat e method for de tecti ng and typi ng HLA Class n genes.
+Key words:O rgan transplantation ;HLA C lass n g enot ypi ng ;PCR-SSCP
+人类白细胞抗原(Human Leucocyte Antigen HLA)是引起器官移植后排斥反应 的重要因素,特别是HLA-n类抗原在排斥 反应中递呈抗原,参与免疫识别及激活,具有 调节机体排斥反应的功能［ 1］。在心脏移植 中，供、受体HLA-n类抗原一致时，早期排
+斥反应频率低、反应轻,晚期移植心脏血管病 变(Cardiac Allograft Vasculopathy, CAV )发 生率低,移植术后近、远期疗效好［2］。但由 于目前HLA-n类抗原的配型方法耗时长、 费用高,而且不能于移植术前进行供体的配 型。本实验目的是建立一种快速、简单、准
+?* 中国医学科学院基础医学研究所「0皿21 Electronic Publishing House. All rights reserved. http://wwwj
+204
+心肺血管病杂志2000年第19卷第3期
+确、又经济的HLA-II类抗原基因配型方法。
+实验方法
+1	.实验对象1例先天性心脏病患者拟为心脏 移植受体, 127例随机健康人群为供体。
+2	DNA样本制备及PCR扩增 取5ml外周血， ED TA抗凝 按Stafford报道方法［ 3］.制备浓度为 0. 2Mg/ml的基因组DNA样本。编码HLAT1类抗 原多态位点HLA-DRBi、DQAi、DQBi、DPBi的是其 第二外显子基因片段,引物序列及扩增条件如表1、 2［45］。PCR产物鉴定:取5ml扩增产物加1内载样 缓冲液在2%琼脂糖凝胶电泳,100vX 20min紫外 灯下观察。
+表1	特异性引物序列
+扩增片段	引物序列
+DRB1 第 DRB15' -3' -TGTCATTTCTTTCAATGGGACG 二外显子 DRB13'-5'-TCGCCGCTGCACTGTGAAG DQA1 第 DQA15' -3' -GGTGTAAACTTGTACCAG 二外显子 DQA13'-5'-GGTAGCAGCGGTAGAGTTG DQB1 第 DQB15' -3' -TGCTACTTCACCAACGGGGAC 二外显子 DQB13'-5'-CCACCTCGTAGTTGTGTCTGC DPB1 第 DPB15' -3' -GAGAGTGGCGCCTCCGCTCAT 二外显子 DPB13' -5' -CTCACTCCCGAAACCCGGCCG
+表2	PCR扩增条件			
+	变性温度 时间	退火温度 时间	延伸温度 时间	扩增片段 长度
+DRB1	95 °C1min	55 °C'2min	72 °C'2min	240bp
+DQA1	95 °C1min	55 °C'2min	72 °C'2min	225bp
+DQB1	95 °C1min	55 °（「2min	72 °（「2min	214bp
+DPB1	95 °C1min	60 °C'1min	72 °C'2min	327bp
+3	SSCP配型（1）确定SSCP的实验条件 在预 实验中对胶浓度、交联度、电泳条件、温度及胶中甘 油含量5个因素,固定4个因素而改变一个条件,反 复试验寻找能够分辨DNA多态性的实验条件。（2） 为1例心脏移植受体（R）行SSCP配型 取5外PCR 产物，加10外反应终止液（98%甲酰胺、20mM ED-TA 、0 01 %溴酚蓝），96 °。变性5min取出迅速插入 冰水中对DRB1、DQA1、DQB1、DPB］各位点采用预 实验中确定的SSCP条件（表3）进行电泳分析，电泳 结束后均采用硝酸银染色显示单链DNA电泳条 带。
+4	. MLCs验证PCR-SSCP配型 实验分为对照 组和实验组;对照组又分为阴性和阳性对照组。按 Olerup报道方法进行MLC［可。取10ml外周血肝素 抗凝,用淋巴细胞分离液分离单个核细胞,悬于完全 培养液中调整浓度为2X 106/ ml用经丝裂霉素C 处理后的自身淋巴细胞为阴性对照组;取20例经 PCR-SSCP配型证实与受体HLA-H类基因不一致 的供体为阳性对照组；实验组：与受体HLA-I1类基 因某个位点相一致的供体淋巴细胞和受体淋巴细胞 混合培养。取供体及部分受体细胞,调整浓度为2 X106/ml,在96孔板中进行混合培养每对MLC设 4个复孔。加样完毕后用微量搅拌器搅拌5min置 37。5%CO2培养箱中培养5天每孔加入3H-TaR, 终浓度为0*ci/孔培养16h收集于49型玻璃纤 维纸上,加少量5%三氯醋酸固定，置70 - 80。烤箱 中烤干,用液闪仪记数cpm值,每孔以4个复孔cpm 平均值为准。
+表3	SSCP实验条件
+分析片段	胶浓度 （%）	交联度	甘油	电泳条件	时间 （h）	温度 （。）
+DRB1	12	50: 1	1%	恒流5m AMP	8	4
+DQA1	10	50: 1	无	恒流 7. 5m AMP	7	4
+DQB1	10	50: 1	1%	恒流 7. 5m AMP	7	4
+D PB1	8	50: 1	无	恒压5V/cm	5	室温20
+SSCP配型实验条件见表3。1例受体配型得 到9例供体的HLA-II类基因某一位点与受
+结果
+1. PCR扩增 供、受体128例PCR扩增 体相一致其中2例DRB1、2例DQA1、3例
+产物经电泳鉴定均见清晰亮带。	DQB1、2例DQP1位点与受体相应位点一致。
+2 SSCP配型 经预实验确定的PCR —	3 MLCs阴性对照组叩m值为145. 33
+心肺血管病杂志2000年第19卷第3期
+205
+图1
+图谱
+±7. 18, SI为1. 0（设定值）,受体淋巴细胞无 明显增殖反应;阳性对照组 cpm 值为 1701. 13 ±139. 32 ,受体淋巴细胞呈高度增殖 反应;实验组中受体淋巴细胞反应性均明显 降低，与阳性对照组相比P< 0. 01结果见表
+4。
+表4	MLCs液闪计数结果（cpm）
+组别	X ±SD	SI	RR
+阴性对照组	145. 33 ±7. 18	1	0
+DRB1配合	1224. 30 ±87. 32	8.42	0. 66
+DQA配合	1372. 34 ±69. 19	9.44	0. 74
+DQB1配合	1417. 31 ± 81. 22	9. 75	0. 80
+DPB1配合	1285. 87 ±98.72	8. 84	0. 71
+阳性对照组	1707. 13 ±139. 34	11.75	1.0
+注：本组cpm为81. 42 ±6 71； SI刺激指数SI =试验组 cpm/阴性对照组cpm; RR：相对反应值RR =（阳性对照组 cpm 一试验组cpm ）/ （阳性对照组cpm 一阴性对照组cpm）
+讨论
+一、心脏移植HLA-II类抗原基因配型 的发展及临床意义 心脏移植是治疗终末期 心脏病的有效措施。术后排斥反应及晚期发 生的移植心脏血管病变（CAV）是影响患者 临床疗效的主要原因［2］。研究表明:供、受 体之间HLA-II类抗原的配合程度与移植后
+CAV发生率同患者存活时间有密切关系［2］。 无疑,如果能够在术前选择HLA-II类抗原 一致或部分一致的供体进行移植,将会提高 心脏移植的近远期疗效。但是由于供体缺血 时间有限，目前HLA-II类抗原的配型需时 较长,因此在心脏移植中仅为回顾性研究。
+HLA-II类抗原传统配型有血清学和细 胞学两种,需大量标准血清及纯合子分型细 胞,耗时大、精确性差（DR抗原血清学配型 与基因配型相比错配率达25%［27］）。随着 聚合酶链式反应（PCR）技术广泛应用及 HLA复合体等位基因碱基序列的阐明，基因 配型迅速发展,目前已有近十种基因配型方 法,常用的有序列特异性寡核苷酸探针配型 （PCR-SSO ）,限制性片段长度多态分析 （RFLP）序列特异性引物PCR扩增（PCR-SSP）等位基因特异性寡核苷酸探针（ASO） 配型 异源双链分析配型 反向杂交配型 等8~ 10。这些配型技术原理各异，但技术条 件均要求较高 需合成大量探针或需昂贵的 限制性内切酶 方法建立困难 不可能在短时 间内完成多个供体的筛选配型 故临床应用 仍有相当距离。
+二、PCR-SSCP配型的特点 PCR 一 SSCP分析技术基本原理:在非变性条件下， 单链DNA分子自身折叠成一定空间结构， 这种空间结构由单链DNA分子的碱基序列 所决定。因此长度相同的单链DNA分子在 非变性胶中电泳时 碱基序列不同的单链 DNA泳动速度及距原点的距离均不相同,造 成了不同的电泳带型（SSCP带型）［11］。可以 看出PCR-SSCP配型不需确定供、受体 HLA-II类基因的基因编码只需比较两者的 SSCP带型是否一致，即可确定供、受体是否 配合［5］。
+我们在预实验中观察到胶浓度、交联度、 甘油含量、电泳时电压或电流强度及电泳湿 度是影响SSCP对单链DNA多态性分析的
+早期排斥反应程度发生的时间及频率，晚期	主要因素通过固定4个因素而改变一个条
+206
+心肺血管病杂志2000年第19卷第3期
+件,反复试验,得到较为稳定的实验条件如表 3。应用这种实验条件,对127例健康人群的 HLA-II类基因 4 个位点 DRBi、DQAi、DQBi 及DQPi进行检测与受体比较完成配型。 整个配型只需10h与其它基因配型相对比， PCR—SSCP具有快速、经济、简单的特点，尤 其适用于较多样本的检测和筛选,有利于器 官移植的临床应用。
+三、MLCs验证结果表明当受体淋巴 细胞与经PCR-SSCP证实与受体不配合的 供体淋巴细胞混合培养时,呈现出高度增殖 反应；当与受体的HLA-II类基因某一个位 点相配合的供体淋巴细胞混合培养时,受体 淋巴细胞增殖反应明显降低(P< 0.01)。这 说明PCR-SSCP配型与体外混合淋巴细胞 培养是一致的。Rood指出：HLA配型的实 验是建立一种能够快速、准确预测MLC反 应的技术［ 12］。本组实验结果说明: PCR-SSCP是一种快速、经济、与MLC相一致的 HLA-II类抗原基因配型的方法。不足之处 是这种配型方法不能获得受体及供体的等位 基因编码,可结合其他的基因检测技术加以 完善。
+参考文献
+1赵相茂.HLA分型原理及应用.上海科学技术出 版社, 1982, 103.
+2	Jarcho J Naftel DC Kirkin JK et al. Dose HLA m is tach affect the influence of reject in resp onse after cardiac tran spl ant at ion ? A m ul ti-cli ni cal inatitu-tion study .J H eart Lung T ransplant , 1992 , 121: 577.
+3	Stafford DW, Blin N. A general method for isolation of high m ollecular weight DN A from euk aryo tes. Nucleic Acid Res,1978,3:2303
+4	Carring M. Miller T. White M. et al. Typing of
+HLA-DQA1 and DQB1 Using DNA si ng le-st rand co nfirmation polymorphism .Hum Immunol, 1 992, 33 :208 .
+5	Hos hi no S, Kimura A Fukuda Y, et al PCR-SSCP analy sis of poly mo rphi sm in DPA1 and DPB 1 genes: A simple , econom ocal and rap id metho d for histo-com pa tib ili ty testing. Hum I mm unol , 1992 , 3 3:98 .
+6	Olerup O, Moller E, Persson U. HLA-DP incompati bi lit ies might induce si gnifican t p ro liferati on in primary mixed lymphocyte cultures in H LA-a, b , DR , DQ , com p atib le in divi duals :I mplications fo r allo-geni c bone m arrow transplanta tio n.T iss ue Antigens , 1990 , 36: 194.
+7	Opele G. For the collaborative transplant study： S urval of DN A H LA-DR typ ed and ma tched car-daver kidney t ransp lan ts .L an cet , 1991 , 33 8:46 1 .
+8	Olerup O, Zetterquist H. HLA-DR typing by PCR-am plifi cat ion with sequen ce-ssp ecific prim ers in 2 hours:an alternative to serological DR typing in clinical practice i ncludi ng donor-recipient matching in cadaveric transplantation .T iss ue Antigens, 1 992, 39.
+9	Saiki RK Bugaw an TL Horn GT et al Analysis of enz ym ati call y am pl ified betag lobin and H LA-DQ DNA with allele-specific olig nucleotide probes. Nature, 1986, 324: 163.
+10	Kaneshige T Murayama A. Hirasawa T. et al Rapid and practical H LA class I gen otyping by reverse dot blo tting .T ransplant Proc 1 993 25 : 1 94 .
+11	O rita M. Suzuki Y Sekiya T. et al. Rapid and sensit ive de tection of point mutations and DNA p oly-morphisms using the p olym erase chai n react ion . Genomics 1989 5: 874
+12	Schroeijers WEM. Van Rood JJ et al. HLA-DR and H LA-DP in duce com parable proliferati on in primary mi xed lym p hocyt e culture.Tissue An ti gen 1988 32: 145.
+（2000 -04 - 18收稿）

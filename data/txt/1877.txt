@@ -1,0 +1,181 @@
+﻿中国组织工程研究 第16卷 第5期2012-01 -29出版
+Chinese Journal of Tissue Engineering Research January 29, 2012 Vol.16, No.5
+肺移植供肺获取100例：冷缺血时间＞6 h及肺减容对预后的影响*★
+王振兴，陈静瑜，郑明峰，叶书高，刘 峰，陈 若，陆荣国，卫 栋
+100 cases of lung harvesting for lung transplantation: Effect of cold ischemia time > 6 hours and lung volume reduction on prognosis
+Wang Zhen-xing, Chen Jing-yu, Zheng Ming-feng, Ye Shu-gao, Liu Feng, Chen Ruo, Lu Rong-guo, Wei Dong
+Abstract
+BACKGROUND: During lung transplantation, the surgical techniques of donor lung harvesting, the upper limit of cold ischemia time, as well as the mismatching between donor lung and recipient’s thoracic cavity need further explored.
+OBJECTIVE: To summarize operative techniques of donor lung harvesting and to explore the effect of donor lung cold ischemia time and lung volume reduction on all kinds of complications and survival rate after transplantation.
+METHODS: The clinical data including 100 lung harvesting cases and 101 recipients undergoing transplantation were retrospectively analyzed. All recipients were divided into two groups according to lung cold ischemia time: the group of donor lung cold ischemia time < 6 hours and the group of donor lung cold ischemia time > 6 hours. Besides, according to whether to meet the
+Department of Thoracic Surgery, Wuxi People's Hospital of Nanjing Medical University, Wuxi 214023, Jiangsu Province, China
+mismatching between donor lung and recipient's thoracic cavity, they were divided into two groups: the group of lung volume	Wang Zhen-xing*,
+reduction and the control group. Mismatching cases underwent lung volume reduction in different ways. The effect of cold
+ischemia time >6 hours and lung volume reduction on prognosis was analyzed.
+RESULTS AND CONCLUSION: Totally 100 donor lung harvesting cases and 101 lung transplantation cases were all successful,
+Studying for master's degree, Department of Thoracic Surgery, Wuxi People's
+including one donor lung transplanted into two recipients, so totally 101 cases underwent lung transplantation. There was no Hospital of Nanjing
+significant difference between the group < 6 hours and the group > 6 hours (P > 0.05) except the incidence of primary graft dysfunction was higher in the group < 6 hours than in the group > 6 hours (P < 0.05). All clinical indexes had no significant difference between the group of lung volume reduction and the control group (P > 0.05). It is indicated that the strict selection of
+Medical University, Wuxi 214023, Jiangsu Province, China
+donors, perfect lung volume reduction of donor lung and shortened cold ischemia time can effectively prevent occurrence of	wangzhenxing200409
+various complications after operation, increase achievement ratio of lung transplantation and improve recipient prognosis.	@126.com
+Wang ZX, Chen JY, Zheng MF, Ye SG, Liu F, Chen R, Lu RG, Wei D. 100 cases of lung harvesting for lung transplantation: Effect of cold ischemia time > 6 hours and lung volume reduction on prognosis.Zhongguo Zuzhi Gongcheng Yanjiu. 2012;16(5):
+Correspondence to: Chen Jing-yu, Professor, Master's
+835-838. [http://www.crter.cn http://en.zglckf.com]
+supervisor, Department of
+Thoracic Surgery,
+摘要
+背景：肺移植过程中供肺获取的手术技巧、冷缺血时间的上限以及供肺与受者胸腔大小不匹配等问题的处理有待进一步研
+Wuxi People's Hospital of Nanjing Medical University,
+究。
+目的：总结肺移植中供肺获取的手术技巧，探讨冷缺血时间和肺减容对受者移植后各种并发症以及生存率的影响。
+方法：回顾分析100例供肺获取和101例受者的临床资料，根据供肺冷缺血时间所有受者分为冷缺血时间＜ 6 h组或＞ 6 h
+Wuxi 214023, Jiangsu Province, China chenjingyu333@
+组；另根据移植中是否出现供肺与受者胸腔大小不匹配分为肺减容组和对照组，不匹配的均行不同方式肺减容。分析冷缺	yahoo.com.cn
+血时间＞6 h和肺减容对肺移植患者预后的影响。
+结果与结论：100例供肺获取和101例肺移植均成功,其中1供者的左右肺分别移植给2例受者，共完成101例肺移植。除 供肺冷缺血时间＞6 h组原发性移植物失功发生率要高于＜ 6 h组(P ＜ 0.05)外，其他各指标差异均无显著性意义(P ＞ 0.05)； 肺减容组与对照组各临床指标差异亦无显著性意义(P ＞ 0.05)。提示严格的供者选择、恰当的供肺减容以及尽量缩短供肺冷
+Supported by: National Eleventh Five-Year Technology Support Program in 2008, No.
+缺血时间可以有效防止受者移植后各种并发症的发生，提高肺移植成功率，改善患者预后。	2008BAI60B05*
+关键词：肺移植；脑死亡；供者选择；器官保存液；围手术期 doi:10.3969/j.issn.1673-8225.2012.05.018
+Received: 2011-09-21
+Accepted: 2011-12-10
+王振兴，陈静瑜，郑明峰，叶书高，刘峰，陈若，陆荣国，卫栋.肺移植供肺获取100例：冷缺血时间＞6 h及肺减容对预
+后的影响[J].中国组织工程研究，2012, 16(5): 835-838. [http://www.crter.org http://cn.zglckf.com]
+0 引言
+自1983年世界首例临床肺移植成功以来, 肺移植治疗终末期肺部疾病的效果已被广泛公 认, 至2009年底，全世界共完成肺移植32652 例，且每年以2 700例的数量增长，随着手术技 术的提高、新型抗生素以及免疫抑制剂的应用， 受者的预后明显提高，移植后3个月、1，3，5， 10年的存活率分别为88%，79%，63%，52%、
+29%[1]。目前，供者的严重缺乏是开展肺移植最 主要的制约因素，这可能因为肺脏和其他器官 相比更容易受损。中国肺移植尚处于起步阶段， 数量不多，供者来源主要是心肺死亡供者，脑 死亡供者数量有限，尚未普及，供者缺乏更为 显著，许多移植评估患者往往在等待供者过程 中死亡。文章分析了无锡市人民医院肺移植中 心2002-09/2011-01供肺获取100例的临床资 料，探讨肺移植过程中供肺获取的临床经验以 及遇到特殊情况的处理方法。
+ISSN 1673-8225 CN 21-1581/R CODEN: ZLKHAH
+835
+w.CRTER.org
+王振兴，等 肺移植供肺获取100例：冷缺血时「间＞6 h及肺减容对预后的影响
+南京医科大学附 属无锡市人民医 院胸外科，江苏省 无锡市 214023
+王振兴★,男， 1983年生，山东 省聊城市人，汉 族，南京医科大学 心胸外科在读硕 士，主要从事肺移 植的基础和临床 研究。
+wangzhenxing20 0409@126.com
+通讯作者：陈静 瑜，教授，硕士生 导师，南京医科大 学附属无锡市人 民医院胸外科，江 苏省无锡市，江苏 省无锡市 214023
+chenjingyu333@ yahoo.com.cn
+中图分类号:R617 文献标识码:A
+文章编号:1673-8225
+(2012)05-00835-04
+收稿日期：2011-09-21
+修回日期：2011-12-10 (20110921014/D • G)
+1 对象和方法
+设计：病例分析。
+时间及地点：于2002-09/2011-01在无锡 市人民医院肺移植中心完成。
+对象：纳入供肺获取的100例供者和101例 受者，双肺移植29例，单肺移植72例，男性79 例，女性22例，年龄15~74岁，平均(57.26±10.8) 岁，原发疾病包括：特发性肺间质纤维化48例， 慢性阻塞性肺疾病33例，职业性尘肺5例，支气 管扩张5例, 先天性心脏病室间隔缺损合并艾森 曼格综合征4例，肺结核2例，特发性肺动脉高 压2例，肺淋巴管平滑肌瘤病1例、原发性肺泡 细胞癌1例。
+受者诊断标准：肺气肿和慢性阻塞性肺病、 特发性肺间质纤维化、囊性纤维化、原发性肺 动脉高压、支气管扩张症等是主要的肺移植适 应症。在选择肺移植受者时，要综合衡量患者 做与不做肺移植的预期寿命以及肺移植后患者 生活质量改善的程度，来决定患者是否进入移 植等待名单。
+供者纳入标准：①脑死亡供者纳入标准-中国 脑死亡判定标准(征求意见稿)参照文献［2］。②实 验过程符合医学伦理学标准。
+心肺死亡供者纳入标准：出现3项客观指标(无 自主呼吸、无自主心跳以及瞳孔散大、固定、 对光反射消失)、经心肺复苏30 min无效。
+供肺选择的标准：①肺移植供者年龄＜60岁， 心肺移植＜55岁。②无原发性心脏病史(心脏供 者)和肺脏(肺脏供者)病史。③吸烟史可忽略、 无心肺手术史。④无严重胸外伤、无广泛性肺 挫伤、无吸入性肺炎/化脓症；胸部X射线平片 清晰，正常。⑤当FiO2=1.0，PEEP 6.65 kPa 时，PaO2＞40 kPa(300 mm Hg)。⑥肺顺应性 正常(在15 mL/kg 潮气量时，峰压＜ 39.9 kPa)。 ⑦支气管镜检正常，气道内无误吸或炎症证据； 如果支气管镜检查没有发现气道黏膜炎症迹象, 可忽略镜下G(+)菌痰和脓性分泌物。⑧ABO血 型以及大小尺寸与受者匹配。⑨无恶性病变(原 发性颅内肿瘤除外)、HIV和肝炎病毒筛选阴性。 符合该标准的供者为“理想供者”。⑩由于供者 严重缺乏和等待移植患者逐渐增多的矛盾越来 越严峻，作者移植中心将供肺选择标准适当放 宽，世界其他各国也都在把供者选择标准放 宽［3-5］，即有一项或数项不符合该标准的供者仍 列为肺移植的供者，即“边缘供者”，如供者年
+龄、吸烟史、革兰染色(+)等都可适度放宽，但 放宽的尺度主要依赖于研究者的临床经验，这就 导致一些成功经验不能在其他中心得到重复。
+受者排除标准：①2年内发生过恶性肿瘤(皮 肤鳞状细胞癌和基底细胞癌例外)，但有少数中 心把支气管肺泡癌无远处转移者列为适应证， 这一做法仍有争议。②无法治愈的另一器官系 统功能障碍。③无法治愈的慢性肺外感染，严 重的胸廓或脊柱畸形。④对治疗或随访依从性 差，无法治愈的心理或精神疾患。⑤缺乏稳固 可靠的社会支持系统［6］。
+方法：
+术者资质：无锡市人民医院肺移植中心是获 得卫生部认证许的可以进行肺移植的医疗单 位。科室负责人陈静瑜教授近10年来完成单双 肺移植过百例。
+单纯供肺获取：具体操作详见文献［7］。所有 供肺均采用棉籽糖低钾右旋糖苷(raffinose-low-potassium dextran sdution，R-LPD)液作 为器官保存液，灌注和保存的具体参数，见表1。
+表1加拿大Toronto肺移植组2004年推荐的肺灌 洗与保存方案
+Table 1 Methods for donor lung’s perfusion and preservation of Canada Toronto lung transplant group in 2004
+Index	Range
+Volume of antegrade flush of 50-60 mL/kg
+R-LPD solution
+Volume of retrograde flush 250 mL/pulmonary vein
+Pulmonary arterial pressure 10-15 mm Hg
+during antegrade flush
+Temperature of flush solution 4-8 °C
+Mechanical ventilation VT: 10 mL/kg; PEEP:5 cm H2O
+Oxygen concentration/FiO?	W50%
+Airway pressure when	15-20 cm H2O
+tracheal cross clamping
+Temperature of preservation 4-8 C
+心、肺、肝、肾同时获取：多脏器供者获取需 心脏外科、胸外科和其他科间密切配合，术前 明确分工，一般心肺移植组完成供者主动脉、 肺动脉插管后，腹部手术组完成肝肾插管，二 组全部完成插管后，一起分别灌注。胸部组在 断下腔静脉时要兼顾供肝、供心的需要，一般 在膈上0.5 cm断下腔静脉。心、肺移植医生在 心肺整体获取后一起进行分离，尽可能保证供 肺左心房袖的完整。移植团队间需密切合作。
+心肺分离修剪：将取下的心肺整体放在另一 操作台，心、肺移植医生一起分离，在主动脉 环上3 cm、肺动脉环上1 cm处分别离断主动脉 及肺动脉。距上下肺静脉开口近侧0.5 cm心房 壁上切断左心房，完成心肺分离，将取出的双
+P.O. Box 1200, Shenyang 110004 cn.zglckf.com
+836
+王振兴，等 肺移植供肺获取100例：冷缺血时「间>6 h及肺减容对预后的影响
+www.CRTER.org
+肺放置在另一操作台，再次进行供肺逆行灌注。
+左右单侧供肺分离：在手术室内游离供肺肺动脉干远 心端，左右肺动脉起始部中央离断。于左右肺静脉中间 剪开左房后壁，直视下修剪，沿左上、下肺静脉连带部 分左心房后壁形成左侧左心房袖；沿右上、下肺静脉连 带部分左房后壁形成右侧左心房袖。近隆突沿左主支气 管用切割吻合器切断左主支气管将左右供肺分离。游离 左右肺动脉至各自的第一个分枝，结扎支气管动脉,尽可 能多的保留支气管周围结缔组织，于两侧上叶支气管开 口上方约两个软骨环处切断左、右主支气管。修剪完毕 用浸有R-LPD液的大棉垫覆盖保护供肺等待置入受者。
+主要观察指标：记录分析所有供者的来源、年龄、手 术技巧、冷缺血时间、肺减容的方式以及受者移植后各 种并发症的发生率、早期死亡率以及生存率。
+统计学分析：由第一作者采用SPSS17.0软件进行处 理，观察统计计数资料的比较应用x2检验，P< 0.05为 差异有显著性意义。
+2 结果
+2.1 供肺一般情况 患者终身随访。100例供者中脑死 亡3例，心肺死亡97例，年龄(27.36±5.12)岁(23~38岁)， 17例为心肺同期获取后心肺分离，然后分别进行心、肺 移植，83例单纯供肺获取；双肺移植第一侧供肺及单肺 移植供肺冷缺血时间为(147±18) min，双肺移植第2侧 供肺冷缺血时间为(312±37) min；共完成100例肺移植 和1例心肺联合移植，其中1例供者左、右肺分别移植给 2例受者；22例供肺进行了减容移植，1例左侧供肺植入 受者右侧胸腔。具体肺减容手术方式，见表2。
+表2具体减容方式
+Table 2 Specific volume reduction methods
+吻合口狭窄10例，吻合口瘘3例，出血3例，肺动脉栓塞 3例，肺动脉狭窄1例，下肢深静脉血栓1例，远期随访 中出现闭塞性细支气管炎15例，及单肺移植后自体肺并 发肺癌1例。移植后1，2，3，5年累积存活率分别为 73.3%，61.6%，53.5%，40.7%，最长1例已存活7年。 2.3 供肺冷缺血时间< 6 h组与供肺冷缺血时间〉6 h组 临床指标比较情况 两组在早期死亡率、急性排异发 生率、严重感染发生率、远期随访闭塞性细支气管炎发 生率、吻合口狭窄发生率以及1，2，5年生存率方面差 异无显著性意义(P > 0.05)；但原发性移植物失功的发 生率供肺冷缺血时间〉6 h组要高于供肺冷缺血时间< 6卜组(P < 0.05)，见表3。
+表3冷缺血时间大于6h和小于6h两组各临床指标的比较 Table 3 Comparison of clinical indexes between cold ischemia			
+time < 6 h and cold ischemia time > 6 h groups			(n /%)
+Clinical indexes	Cold ischemia	Donor lung cold	P
+	time < 6 h	ischemia time > 6 h	
+Pristine mortality	14/16.9	4/22.2	> 0.05
+Acute rejection	2/2.4	1/5.6	> 0.05
+Primary graft	5/6.0	5/27.8	< 0.05
+dysfunction			
+Serious infection	7/8.4	4/22.2	> 0.05
+Bronchiolitis	11/13.3	4/22.2	> 0.05
+obliterans			
+Anastomotic stoma	7/8.4	3/16.7	> 0.05
+stenosis			
+1 yr survival rate	62/74.7	12/66.7	> 0.05
+2 yr survival rate	53/63.9	9/50.0	> 0.05
+5 yr survival rate	34/41.0	7/38.9	> 0.05
+			
+2.4 肺减容组与对照组临床指标比较情况 肺减容 组与对照组在早期死亡率、急性排异发生率、原发性移 植物失功发生率、严重感染发生率、远期随访闭塞性细 支气管炎发生率、吻合口狭窄发生率以及1，2，5年生 存率等方面差异无显著性意义(P > 0.05)，见表4。
+Surgical classification	n	Volume reduction method
+Left single lung transplantation	3	Left lingular lobe resection
+Right single lung transplantation	8	Right middle lobe resection
+	2	Right upper middle lobe resection
+Bilateral sequential lung	3	Right middle lobe and left
+transplantation	1	lingular lobe resection Right middle lobe and left lower
+		lobe resection
+	1	Right upper lobe and left upper lobe resection
+	2	Simply left lingular lobe resection
+	1	Simply right middle lobe resection
+	1	Simply right lower lobe resection
+2.2 植入受者后一般情况 单肺移植72例，双肺移植 29例，61例在体外循环支持下完成，其中常规体外循环 5例，体外膜肺氧合56例。早期死亡18例，死亡原因包 括肺部感染10例，原发性移植物失功6例，急性排异反 应1例，肺梗死1例。移植后主要并发症包括肺部严重感 染11例，原发性移植物失功10例，急性排异反应3例，
+表4减容组与对照组各临床指标的比较
+Table 4 Comparison of clinical indexes between lung volume reduction and control groups	(n /%)
+Clinical indexes	Lung volume reduction group	Control group	P
+Pristine mortality	3/13.6	15/19.0	> 0.05
+Acute rejection	0	3/3.8	> 0.05
+Primary graft dysfunction	3/13.6	7/8.9	> 0.05
+Serious infection	3/13.6	8/10.1	> 0.05
+Bronchiolitis obliterans	4/18.2	11/13.9	> 0.05
+Anastomotic stoma	4/18.2	6/7.6	> 0.05
+stenosis			
+1 yr survival rate	15/68.2	59/74.7	> 0.05
+2 yr survival rate	12/54.5	50/63.3	> 0.05
+5 yr survival rate	10/45.5	31/39.2	> 0.05
+3 讨论
+在肺移植历史发展中，供肺冷保存时间一直被限制
+ISSN 1673-8225 CN 21-1581/R CODEN: ZLKHAH
+837
+w.CRTER.org
+王振兴，等 肺移植供肺获取100例：冷缺血时间＞6 h及肺减容对预后的影响
+在4~6 h,超过6 h将会增加肺移植受者的死亡率网，但 临床研究表明供肺单纯缺血时间大于6 h与受者死亡率 无直接关系［9］。本实验发现冷缺血时间〉6 h组的早期死 亡率，1, 2, 5年生存率与冷缺血时间＜ 6 h组没有差异； 并且术后急性排异发生率、严重感染发生率、远期随访 闭塞性细支气管炎发生率、吻合口狭窄发生率方面,两 组差异也无显著性意义；但冷缺血时间〉6 h组原发性移 植物失功发生率要高于冷缺血时间＜ 6 h组。本移植中心 原发性移植物失功的发生率为9.9%，这与Christie等［10］ 通过大样本统计的原发性移植物失功总体发生率10.2% 接近,供、受者的多种因素都对原发性移植物失功的发生、 发展造成影响,供肺冷缺血时间可影响原发性移植物失功 的发生已得到公认［11］。因此,在肺移植中要尽量缩短冷缺 血时间。近几年,由于保存液和供肺保护技术的不断进步, 动物实验已经证实供肺冷缺血保存时间可以超过24 h。临 床供肺冷缺血时间的上限现在仍未确定,本移植中心采用 R-LPD液作为器官保存液，供肺冷缺血时间最长一例已达 510 min，受者为双肺移植，移植后双肺功能恢复仍十分 理想,但远期效果有待进一步随访。因此,作者认为,供 肺冷缺血时间不能一概而论,要结合供肺的总体质量和受 者的具体情况,多伦多肺移植中心的经验可供借鉴,它们 认为：尽管优质供肺的冷缺血时间超过12 h后移植仍然能 够获得满意结果,但是对于边缘供肺,它们还是把缺血时 间限制在8 h以内叫
+本组有1例早期左侧单肺移植受者, 因供肺过大压 迫肺门血管,导致血管扭转,引起肺梗死而死亡；另1 例双肺移植患者因右侧供肺过大,导致右上肺叶膨胀不 全,静脉回流受阻,最终发生梗死,经及时二次开胸切 除右上肺叶予以纠正。在供肺大于受者胸腔时,一定要 通过肺减容方法进行处理,以达到供、受者肺大小匹配 完成移植；反之可导致手术失败。本中心发现,当供肺、 受者胸腔大小不匹配时采用不同方式的肺减容可以达到 与供肺、受者胸腔匹配组一样的临床效果。肺减容国外 的报道也体现了供肺减容的价值［12］,特别是在儿童肺移 植领域［13］。减小供肺容积的方法有肺叶切除及肺楔形切 除。但是移植肺不匹配到何种程度才需要减容仍不明确。 作者体会如果供肺大于受者胸腔10%~15%,可考虑肺减 容后移植。按常规进行全肺移植后膨胀全肺,观察植入 肺在胸腔里的实际情形、匹配程度,如供肺略大于胸腔, 则应用直线型肺切割缝合器减容。另外在右肺移植时, 如植入肺过大,切除肺中叶后不必再作余肺楔形切除时, 常规进行解剖性中叶切除,以减少因过多的肺楔形切除 减容带来的并发症。如果供肺与受者的胸腔相差较大时, 可考虑行肺叶移植。植入受者前,在手术室另一手术台 上将供肺预先进行处理,根据受者胸腔的形态、大小, 以决定是否行肺叶移植以及需要移植哪一个肺叶。如果 胸腔两侧不对称,在进行序贯双肺移植时甚至可考虑行
+一侧单肺移植,另一侧则行肺叶移植。如两侧胸腔均明 显缩小,可进行双侧肺叶移植,本中心常施行右上中肺 叶及左上肺叶移植, 此法可使供、受者支气管吻合口相 匹配。本组有1例慢性阻塞性肺疾病桶状胸受者,双肺移 植后由于胸腔容积过大,受者剧烈咳嗽后导致双侧气胸, 及时给予胸腔闭式引流移植后好转,未再复发。
+总之,严格选择供者、恰当减容供肺以及尽量缩短 供肺冷缺血时间可以有效防治受者移植后各种并发症 发生,提高肺移植成功率,改善患者预后。近些年,在 供肺获取及供肺修复方面,体外肺灌注［14-15］、基因治疗 和干细胞修复边缘供肺的技术迅速发展,这在一定程度 上缓解了供肺严重缺乏的问题,也是今后努力的方向。
+4 参考文献
+[1]	Jason DC,Leah BE,Anna YK,et al. The Registry of the International Society for heart and Lung transplantation: Twenty-seventh official adult lung and heart-lung transplant report-2010. J Heart Lung Transplant.2010;29(10):1104-1118.
+[2]	卫生部脑死亡判定标准起草小组.脑死亡判定标准(成人)(征求意见
+稿)J].中华麻醉学杂志,2003,23(1):76-78.
+[3]	Botha P. Extended donor criteria in lung transplantation. Curr Opin Organ Transplant. 2009;14(2):206-210.
+[4]	Del Rio F, Escudero D, De La Calle B, et al. Evaluation and maintenance of the lung donor.Med Intensiva.2009;33(1):40-49.
+[5]	Snell GI, Griffiths A, Levvey BJ,et al.Availability of lungs for transplantation:exploring the real potential of the donor pool. J Heart Lung Transplant. 2008;27(6):662-667.
+[6]	Ding JA,Jiang GN.Shanghai:Shanghai Science Technology Press.
+2008:228.
+丁嘉安,姜格宁.肺移植[M].上海:上海科学技术出版社,2008:228.
+[7]	Ye SG, Chen JY, Liu F,et al.Harvesting the lung of a brain-death by international standardizzed methods.Zhongguo Zuzhi Gongcheng Yanjiu yu Linchuang Kangfu.2008;12(40):7998-8000.
+[8]	Filosso PL,Turello D,Cavallo A,et al.Lung donors selection criteria:a review.Cardiovasc Surg (Torino).2006;47(3):361-366.
+[9]	Orens JB,Boehler A,di Perrot M,et al.A review of lung
+transplantation donor acceptability criteria.J Heart Lung Transplant. 2003;22(11):1183-1200.
+[10]	Christie JD,Kotloff RM,Ahya VN,et al.The effect of primary graft dysfunction on survival after lung transplantation .Am J Respir Crit Care Med.2005;171(11):1312-1316.
+[11]	dePerrot M,Bonser RS,Dark J,et al.ISHLT Working Group on Primary Lung Graft Dysfunction.Report of the ISHLT Working Group on Primary Lung Graft Dysfunction part III:donor-related risk factors and markers.J Heart Lung Transplant.2005;24(10): 1460-1467.
+[12]	Santos F, Lama R, Alvarez A, et al.Pulmonary tailoring and lobar transplantation to overcome size disparities in lung transplantation. Transplant Proc. 2005;37(3):1526-1529..
+[13]	Mueller C, Hansen G, Ballmann M, et al.Size reduction of donor organs in pediatric lung transplantation. Pediatr Transplant. 2010; 14(3):364-368.
+[14]	Cypel M, Yeung JC, Keshavjee S. Novel approaches to expanding the lung donor pool: donation after cardiac deathand ex vivo conditioning. Clin Chest Med. 2011;32(2):233-244.
+[15]	Cypel M, Yeung JC, Liu M,et al. Normothermic ex vivo lung perfusion in clinical lung transplantation. N Engl J Med. 2011; 364(15):1431-1440.
+来自本文课题的更多信息--
+基金声明：2008国家十一五科技支撑计划 (2008BAI60B05),课题名称：心肺移植关键技术研究。
+利益冲突 课题未涉及任何厂家及相关雇主或其他经济 组织直接或间接的经济或利益的赞助。
+伦理批准 参与实验的患病个体及其家属自愿参加，在 充分了解本治疗方案的前提下签署“知情同意书”；治疗方 案获医院伦理委员会批准。
+838
+P.O. Box 1200, Shenyang 110004 cn.zglckf.com

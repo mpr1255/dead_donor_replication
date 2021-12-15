@@ -1,0 +1,98 @@
+﻿228
+心肺血管病杂志2000年第19卷第3期
+。短文报道•
+心脏移植后外周血SRP68基因表达的研究
+北京市心肺血管疾病研究所( 100029)细胞免疫室
+许秀芳 孟 旭 刘艳霞 李 文 刘 舒 周 健 黄益民
+对扩张性心肌病患者来说,施行原位心脏移植 术是其最佳选择,移植术后排斥反应的检测是指导 临床用药的关键措施,目前有许多移植术后急性排 斥反应的诊断方法,但是特异性较差。本文目的是 从分子水平探讨免疫排斥反应的机理和寻找外周血 免疫排斥反应的早期监测指标。
+1.临床资料(1)患者移植前情况 男, 44岁,临 床诊断为扩张性心肌病,施行原位心脏移植术,供者 配型：HLAI： Al 28； B8, 35； [ BW6] HLA II： DR13； [DR52] DQ5(1)DQ2 受者配型：HLAI： All B52(5), 62( 15) [ BW4 BW4] HLA I1：DR15 (2), 1304 (6) DR52 DQ6( 1)DQ( 3)。术前超声心动图示:左心增 大,室间隔肥厚,室壁运动普遍减低,左心功能减低, 二尖瓣关闭不全。(2)患者移植后情况 术后1周 心功能II级;超声心动图示右心右房轻度增大,左室 顺应性降低,极少量心包积液;CsA (环孢霉素A)浓 度检测第一日354. 59ng/ ml第三日434 ng/ml第 五日 30 3.4n g/ ml, 第六 日 31 8ng/ ml, 第七日 611. 8ng/ml, 第 八 日 466. 88 ng/ ml, 第 九 日 502. 22ng/ml,第十日856ng/ml。第十天心肌活检 示部分心肌肥厚,轻度急性细胞排斥反应,间质水 肿,内皮细胞增生,不排除轻度体液排斥。
+2	外周血(1)外周血白细胞的分离术前取受 体和供体的外周血及受体术后1h、72h、187h、283h、 305h外周血用淋巴细胞分离液分离白细胞。(2)利 用 RNeasy kit 试剂盒(Qiagene)提取总 RNA。
+3	.仪器 PCR 仪是 Perkin Elmer R/Cetus 公司的 DNA Thermal Cycler 480,电泳仪为 genomyxLRTM DNA Sequencer electrophoresis System(GX 100)。
+4	DD—PCR CDNA 第一链合成以 T7(d12)AP (anchored primer)为引物,按 HIEROGLYRHTM mR-NA Profile System试剂盒说明书操作，3,端锚定引物
+AP(2MM)*l 加入 1Mg 总 RNA 70。。变性 5min 置 于冰上。再加 入 dNTP(250^M) *l 5Xbuffer44 DTT( 100mM ) *l Superscript H (200u/Ml)0. 3/4 加 水补充 到总反应体系204, 42 C 10min, 50 °。 60min 50。60min； 70。15min 3,端引物(7 #)5, A CGACTCACTCTATAGGGCTTTTT TTTTTTTT
+CG3,差异显示PCR和差异片段回收以反转录产 物为模板进行PCR反应体系为104其中3/l反转 录产物 2/l dNTP (250 /m ) 1.5/l 的水 1Ml10Xbuffer 0. 6/l Taq 酶(10U//l), 0. 7/ 的 TMR -A P(fluro DD an chored primer 5/m 7 #) 分别加 1. 75/l 的 ARP(9 #10 #11 #)反应条件：95。 2min 1个循环;94 。 30s;50 。 30s;72 。 2min 进 行4个循环;94 。 30s 60 。 30s 72 。 2min 共进行 25个循环，于72C延伸7min 3,荧光引物(7 #)5,
+＊ACGACTCACTCTATAGGGCTTTTTTTTTTTT CG 3’5’引物 9 # 5'ACAATTTCACAGGATAAGA CT AGC 3, 10 # 5,ACA AT T T CACAGG AGA TCT CA GAC 3, 11 # 5,ACAA T T TCACAGGAACGCT AG TG T3,
+5	.变性PAGE分离差示条带与荧光显影将 104的PCR产物加4”荧光上样缓冲液，95。浓缩， 加到5 6%变性聚丙烯酰胺胶(HR — 1000)上，以 3000V, 52。100W 恒功率电泳，4h 后 gemomyXSC 扫锚仪荧光显示差异条带 比较差异条带。差异条 带回收与二次PCR将凝胶上回收的差示表达条带， 溶于304 TE缓冲液中37。温育60min 取3/l作 模板 按下述反应体积：4/ dNTP(250—), 5,端引 物和3,端引物各2/ m 2/l 2/l10Xbuffer 0.06/lT aq 酶(10//)。反应条件:95 。 2min 1个循环;95。 30s;60 。 30s;72 。 2min 进行 29个循环;72 。 7min3' 引物(T7 promotor) 5' GTAATACGACTCAC
+头北京市卫生局重点学科基金资助项目 头头安贞医院心外外科
+飞 中科院微生物研究所 lcademic Journal Electronic Publishing House. All rights reserved. http://www.1
+心肺血管病杂志2000年第19卷第3期
+229
+TATAGGGC (T)12 GG 3, 5/引物(M13 reverse) 5, AG CGGATAACAATT TCACA CAGGA 3
+6克隆测序用PGEM — T easy克隆试剂盒 (Promega)对差异表达的cDNA片段进行连接和克 隆,具体操作参照试剂盒提供的方法进行。核酸序列 分析双链DNA测序采用Big Dye Terminator试剂盒 在ABI PRISM 377+96型自动测序仪进行测序。测 序后将差示cDNA的核苷酸序列与GenBank核酸数 据库中的已知序列进行同源性比较和读框分析。
+结果 1. mRNA差示条带 利用差异显示 PCR技术分析移植后外周血白细胞基因表达的差 异,共选用了 1个3,端锚定引物(dT12CG)与3个5, 端随机引物共同进行DDPCR反应，在聚丙烯酰胺 凝胶显示的cDNA条带中有10条cDNA条带的表 达量在移植前后发生变化(图1 ),其中第七条带是 特殊的,这一条带基因在术前表达,而术后不表达。
+2序列分析 见图2。将第七条带cDNA的核 苷酸序列与GenBank核酸数据库中的已知序列进
+行同源性比较和读框分析 结果显示与SRP68基因
+有95 %同源性。
+ABCDEFG
+前 1 72187 283 305
+图1 DDPCR凝胶电泳显影
+注A供体B受体术前，CDEFGH分别为1、72、187、 283、305h( 1〜10)分别为移植前后表达量改变的 cDNA条带
+421ccccgaaaac ggtttcactt gttatctcgc
+ctacgcaaag ccgtgaagca tgcagaggaa
+481ttggaacgct tgtgtaagag caatcgcgtg
+gatgccaaga ccaaattaga ggctcaggct
+541tacacagctt
+acctctcagg
+aatgctacgt
+tttgaacatc
+aagaatggaa
+agctgccatt
+601gaggctt tta
+acaaatgcaa
+aactatctat
+gagaagctag
+ccagtgct 11
+cacagaggag
+661caggctgtgc
+tgtataacca
+acgtgtggaa
+gagatttcac
+ccaacatccg
+ctattgtgca
+721tataatattg
+gggaccagtc
+agccatcaat
+gaactcatgc
+agatgagatt
+gaggtctggg
+781ggcactgagg
+841
+gtctcttggc
+tgaaaaattg
+gaggctttga
+tcactcagac
+tcgagccaaa
+901
+961
+caggcagcta
+ccatgagtga
+agtggagtgg agagggagaa
+cggttccagt
+gaagattgac
+aaagtgcgca
+ttttcttatt
+aggactggct gataacgaag
+cagctattgt
+ccaggctgaa
+agcgaagaaa
+ctaaggagcg
+cctgtttgaa tcaatgctca
+gcgagtgtcg
+ggacgccatc
+图2 SRP68部分核苷酸序列分析
+讨论 mRNA差异显示技术已广泛用于鉴定和 克隆真核生物不同细胞之间、不同器官之间以及不 同环境条件下差异表达的基因 与cDNA文库差示 筛选和减法杂交等技术相比DD— PCR具有简便、 快速、灵敏度高等优点。本文应用DD—PCR技术检 测心脏移植后外周血白细胞基因的表达。外周血检 查与活组织检查方法相比具有对移植器官无创伤、 患者痛苦少等优点,在探讨基因在移植中的作用以
+反应,间质水肿,内皮细胞增生,轻度体液排斥,而 DD—PCR结果显示外周血特殊基因有变化：SRP68 基因术前表达,术后不表达,在急性排斥反应发生时 仍不表达,活检结果与基因变化是否相关值得探讨。
+SRP68是Politz首次测得的 SRP是信号识别 体,它是一种核糖核酸蛋白质构成的颗粒,它的沉降 系数为11S含有7SRNA和6条分子量为72K 68K、54K、19K 14K以及9K的多肽。SRP能专一
+及对排斥反应的诊断有一定的应用价值。移植后第	地识别带有信号肽段的核糖体,它与这类核糖体的
+十天心肌活检示部分心肌肥厚轻度急性细胞排斥信号肽结合后多肽合成暂时中止随后SRP将带
+230
+心肺血管病杂志2000年第19卷第3期
+有信号肽的核糖体引向内质网表面,与分布其上的 停靠蛋白(又称信号识别体受体)相结合。停靠蛋白 通过与SRP作用使暂时抑制的翻译过程恢复进行 它可引起内质网上核糖体受体蛋白的聚集,这种受 体具有形成孔道的功能,可使翻译出来的肽链直接 进入内质网腔,进入内质网的蛋白质在信号肽切除 之后即进入折叠、糖基化及二硫键形成等加工过程。 总之SRP68基因是蛋白表达调控元件。
+移植后SRP68不表达，是否会影响多肽的合成 和加工或细胞因子的表达，SRP68表达的变化是否 是移植后环孢霉素药物作用(CsA能抑制calcineurin 的丝氨酸磷酸酯酶活性 抑制胞浆中对CsA敏感的 NF-AT的活化，从而阻断IL-2基因的活化)或 是排斥反应其它转录因子的作用所致有待进一步的 研究证实。
+(2000-03-06收稿 2000-04-29修回)
+冷凝集试验强阳性病人急诊体外循环处理(附1例报告)
+北京安贞医院(100029)体外循环科
+刘凤珍王仕刚车毅君尤斌戴萍龚庆成
+1998年12月,我院完成1例急诊冷凝集试验 强阳性病人体外循环。患者女性, 42岁,因心慌、憋 气、右下肢肿胀3个月,以“右房粘液瘤”急诊入院。 血库配血室温23。。抽血时发生凝集现象 放37 °。 水浴箱5 min后消失，交叉配血呈同样结果，冷凝集 素效价11024。常规麻醉，CPB应用西京90氧合 器 预充乳酸林格液1000ml血安定500ml 5% NaHCO350ml地塞米松20mg加温至37。体内 肝素3mg/ kg机内肝素1mg/ kg室内温度不低于 23。灌注前30min将晶体停跳液插排气针头放在 35。水浴中预热。主动脉、上下腔静脉插管，CPB中 血温保持37 - 38。阻断升主动脉，加压灌注安贞 I号温晶体停跳液1000ml心电图呈直线 心肌表 面未降温 术中发现右房血栓样物。转流中鼻咽温/ 肛温：37 2。/ 36. 9。动脉流量70ml/kg/ min血压 7. 6 - 11. 2kPa(57 - 84mmHg) ACT 730 秒 阻断冠 状动脉血流20min心肌电机械活动一直呈静止状 态。开放升主动脉心脏自动复跳CPB共35min 尿量400ml色清。停转流后鱼精蛋白3mg/ kg中和 肝素。术后7h清醒，11h拔管，12h安全返回病房。 病理诊断右房血栓 术后14天痊愈出院。6个月后 复查未见复发。
+讨论 冷凝集试验阳性病人比较少见，强阳性 且急诊体外循环更少见 我们结合本例浅谈对冷凝 集强阳性体外循环的管理。冷凝集试验阳性病人的 抗体主要为IgM (冷凝集)在30。以下反应活跃, 使红细胞凝集成块 在循环中相撞而溶血。冷凝素 亦可使补体激活直接破坏红细胞。本例由于室温 23 。配血时发现冷凝集试验强阳性 因条件所限血 标本在23 。以上环境未做此实验。因此我们在 CPB中(1)血温保持37。，室内温度不小于23。避 免产生冷抗体。(2)常温手术灌注流量采用中高度 灌注压大于70mmHg头低位，确保重要脏器的血 供。(3)温晶体停跳液灌注:避免冠状循环内凝血或 溶血的发生 避免冠脉栓塞 避免体温降底。(4)心 脏表面未降温:由于预计冠脉血流阻断时间比较短 避免开放升主动脉时心肌温度达不到23。以上。 (5)ACT每隔20min测1次。(6)观察泵压变化。 (7)监测鼻咽温及肛温 肢体末端需保暖。( 8)术后 尽量不输血或少输血 输入的血必须选择与同种抗 体相容的血液 交叉配血实验应严格在37 。进行 最适输血量依临床情况而定 适当将血加温 且需慢 输 输入的红细胞量达到维持氧交换和心肺功能即 可。(9)有条件者体外循环前应作冷凝集试验。
+(2000-02-25收稿)

@@ -1,0 +1,11 @@
+﻿Method,Term (zh),Term (en),Operator,Field
+Database search,热缺血,warm ischemic,,FULL TEXT
+,切取,extract/extraction,AND,FULL TEXT
+,心,heart,OR,FULL TEXT
+,肺,lung,AND,ABSTRACT
+,猪,pig,NOT,KEYWORD
+,鼠,mouse,NOT,KEYWORD
+,,,,
+Database search,缺血,ischemia,,FULL TEXT
+,插管,intubate,AND,FULL TEXT
+,脑死,brain death,AND,FULL TEXT

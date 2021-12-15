@@ -1,0 +1,69 @@
+﻿446
+第一军医大学学报 J First Mil Med Univ 2000 20 5
+同种异体心脏移植长期存活 附1例报告
+邹小明 王武军 张 振 第一军医大学南方医院心胸外科 广东 广州 510515
+摘要 目的 介绍我院首例同种异体原位心脏移植术的围手术期处理及排斥反应监测 治疗经验 方法 切取供体 24岁男性脑死亡者 心脏并原位 移植给受体 43岁女性终末期扩张性心肌病患者 并在术后进行严格的监护治疗和随防 供心手术历时50 min 移植心脏热缺血时间为0 min 冷缺血时间为70 min受体手术历时290 min体外循环总时间123 min,主动脉阻断73 min术后采用FK 506,骁悉及泼尼松行免疫抑制治疗， 同时用彩色多普勒超声心动图监测排斥反应 结果 患者现已健康生存160 d 心 肝 肾功能正常 结论 心脏移植是治疗终末期心脏病的最有效 方法 术后处理是确保心脏移植成功的关键 关键词 心脏移植术 同种异体 免疫抑制 排斥反应
+中图分类号 R654.2 文献标识码 A 文章编号 1000-2588 2000 05-0446-02
+Long-term survival after orthotopic heart transplantation ( report of one case)
+ZOU Xiao-ming, WANG Wu-jun, ZHANG Zhen
+(Department of Thoracic Surgery, Nanfang Hospital, First Military Medical University, Guangzhou 510515, china)
+Abstract: Objective To introduce the experience of the perioperative and immunosuppressive therapy of orthotopic heart allograft transplantation. Method The recipient was a 43-year-old female patient with end-stage expansionary myocardiopathy. The donor was a male aged 24 and declared brain death. The donor heart was taken and preserved in cold Stanford cardioplegia at 4 . Before orthotopic transplant, intensive care and immunosuppressive treatment were prescribed and follow-up visit was made after the operation. The donor operation lasted 50 min without hot ischemia, and the cold ischemic time was 70 min with total perfusion time of 123 min and aorta blockade for 70 min. Immunosuppressive therapy adopted FK506, Mycophenolate mofetil (MMF) and predsion. Doppler echocardiography was utilized for detecting allograft rejection by monitoring the transplanted heart structure and function. Result The patient has survived 160 d without any severe complications. Conclusion Orthotopic heart transplantation is the best choice for patients with end-stage heart disease. It is demonstrated that effective postoperative treatment is crucial for successful heart transplantation.
+Key words: heart transplantation; allograft; immunosuppression; rejection
+同种异体心脏移植是目前治疗终末期心脏病的唯一有 效方法 国外已广泛开展 国内尚属起步阶段 因术后并 发症多 死亡率高 目前国内仅有几家大医院开展此项工 作 2000年4月5日我院成功地进行了首例同种异体原位 心脏移植术 患者已无感染 无排斥存活160 d
+1资料与方法
+1.1	受体
+女 43岁 体质量42 kg 身高153 cm 劳力性气促 及心悸5年 经临床确诊为扩张型心肌病 心功能 级 查体 营养一般 巩膜无黄染 全身浅表淋巴结不肿大 全身皮肤无感染病灶 双肺呼吸音清晰 心界向左扩大 肝脾不肿大、双下肢无浮肿。血生化检查：血型B型，肝 功能 肾功能 乙型肝炎两对半 丙型肝炎病毒检查均正 常，巨细胞病毒、EB病毒、单纯疱疹病毒等病毒检查阴性, 咽试子 阴道分泌物培养阴性 超声心动图示左室增大
+收稿日期 2000-09-25
+作者简介 邹小明 1966-	男 1995年毕业于第一军医大学 硕士
+讲师 主治医师 电话 85141888-87240
+射血分数（EF） 31% 胸部X线摄片示左上肺陈旧性肺结 核 扩张型心肌病 多年保守治疗效果差 病人生活质量 差 经医院内外专家会诊后决定行心脏移植手术
+1.2	供体
+男 24岁 系外伤后脑死亡者 体质量55 kg 身高163 cm 胸片检查示心肺无异常 超声心动图检查心内结构正 常 彩色多普勒血流显像正常 左心功能正常 血生化检 查：血型B型、血常规、肝、肾功能、乙肝两对半正常。 1.3 供 受体配型
+血型均为 B 型 供 受体之间群体反应性抗体
+PRA <1%	应用聚合酶链反应-序列特异性引物
+PCR-SSP 方法进行供 受体人类白细胞抗原 HLA 基因配型 结果见表1
+1.4	供体手术
+气管插管通气 胸骨正中开胸 纵行切开心包并悬于 切口两侧 探查心脏外观正常后 于主动脉根部持续灌注 4 Stanford 心肌保护液 阻断升主动脉 继续灌注心肌 保护液 紧贴右膈切断下腔静脉 将心脏右翻切断左上下 肺静脉 将心脏左翻切断右上下肺静脉 于肺动脉分叉处
+第一军医大学学报(J First Mil Med Univ) 2000 20 (5)	447
+切断肺动脉 于无名动脉起始处切断主动脉 上腔静脉最 备用
+远方切断上腔静脉 将供心置于无菌冰液中保存 修整	手术历时50 min 心脏热缺血时间为零
+表1供-受体HLA配型结果
+Tab.1 Donor-recipient HLA matching
+HLA-A HLA-B	HLA-BW	HLA-DR HLA-DRW HLA-DQ
+Recipient 2, 24 (9)	13, 40	6, -	11(5), 15(2)	51, 52	6 (1), 7(3)
+Donor	24 (9), 30 (19)	54 (22), -	4, 6	15(2), 17(3)	51, 52	6 (1), 2
+1.5	受体手术
+全身麻醉后胸骨正中“广”型切口开胸，常规建立体 外循环 上 下腔静脉插管靠远端 置左房引流管 开始 体外循环 全身降温 阻断上 下腔静脉及升主动脉 沿 右心房近房室沟处切开并环行切至房间隔处 沿左心房近 房室沟处切开并环行切至房间隔 沿主动脉瓣上方切断升 主动脉 沿肺动脉瓣环上方切断肺动脉 最后切断房间隔 移去病变心脏 切除左右心耳 多余心房组织及过长的主 肺动脉 将修整好的供心置入受体心包腔内 将供心房间 隔上端与受心房间隔上端作一固定缝合 下端另作一固定 缝合 两房间隔缝合后 用下端固定线向上连续双重缝合 吻合左房下 后 上壁至房间隔上端固定线处打结 将左 右心房近房间隔处房壁与受体房间隔作双重缝合 将供 受体主动脉作双重连续缝合 供心升主动脉根部插排气针 后开放主动脉 供心恢复血循环 复温到32 时 电击 20 瓦/秒 二次 心脏复跳 最后双重连续缝合供 受体肺动 脉 体外循环时间总123 min 主动脉阻断73 min 心脏 冷缺血时间70 min 术中用大剂量甲基强的松龙 1 500 mg 冲击治疗 1.6术后治疗
+术后层流病房隔离1个月，24 h连续监测生命体征、 肝、肾功能、电解质；术后联合应用FK506,骁悉和强的 松免疫抑制治疗（FK506 0.22 mg-kg-1-d-1监测并维持FK506 全血血药浓度在15~25 ng/ml 骁悉2 g/d 强的松50 mg/d 1个月后逐渐减至30 mg/d 2个月后减至20 mg/d 3个月 后减至10 mg/d	术后主要用彩色多普勒超声心动图监测
+排斥反应 术后第110天行心内膜心肌活检 EMB 一次 与超声监测作对照
+2	结果
+受体术后恢复良好 间断出现腹泻 经对症治疗痊愈 术后160 d 无感染 无心 肝 肾功能不全等并发症 术 后心脏超声表明移植心脏结构 功能无明显变化 术后1~8 d 每天复查一次超声心动图 9~30 d 每两天复查超声心动 图 一月后每周复查一次 第14 15周因患者出院而未收 集资料 超声观察室壁厚度及活动度 有无心包积液 各 房室腔大小；二三尖瓣血流频谱：E峰峰值流速（PFVE）、 A峰峰值流速（PFVA）及E/A比值。结果提示无排斥反应，
+活检组织送光镜及电镜检查未发现排斥反应 至今患者已 健康生存160 d
+3	讨论
+同种异体原位心脏移植术是治疗各种原因引起的终末 期心脏病的有效方法 国外开展较多 而国内尚处于起步 阶段 开展数量少且存在并发症多 死亡率高等问题 因 此 延长移植心脏存活时间 减少并发症 提高患者生存 质量是心脏外科面临的重大课题 我科成功地进行了首例 同种异体原位心脏移植术 患者术后长期存活 对本例进 行临床分析 我们认为开展心脏移植手术应注意以下问题 3.1重视供、受体之间HLA基因配型
+HLA配型在器官移植中的重要性已被公认，20世纪90 年代 HLA- 类分型已由经典的微量淋巴细胞毒技术转向 基因分型技术，国外不少实验室已把HLA基因分型作为临 床器官移植配型的常规检查叫Optiez［2］报告，实体器官移 植时，如果HLA-DQB相合，移植后1年存活率提高10%, 且与HLA-DR是否相合无关。在器官移植前对供、受体HLA 尤其是 HLA-DQ 准确配型有十分重要的意义 目前 HLA-DQ 分型多采用血清学技术 但不少血清产品只能与 HLA-DQ1~4配型，而HLA-DQ5~9则因单特异性抗血清难 以获得而不能分析其基因型 我们在本例心脏移植前对供 受体采用 PCR-SSP 对 HLA 进行分型 结果供受体 HLA-DR HLA-DRW HLA-DQ 超过半数位点相合 这 是本例心脏移植术后无排斥反应重要原因
+3.2 联合应用新型免疫抑制剂
+心脏移植术后早期死亡的原因主要有出血 感染 急 性排异及早期移植体衰竭［3 4］ 合理的免疫抑制治疗是防 止术后并发症的关键 国内外目前常用环孢霉素 A 硫唑 嘌呤和强的松三联治疗 取得了显著效果 但也引起了如 感染 骨髓抑制 肾功能损害等并发症 本例联合应用最 新型的免疫抑制剂FK506、骁悉，患者术后160 d无排斥 反应 服药后偶有腹泻外无其他不良反应 无感染 且强 的松用量少、减量快，与王祥慧等［5］应用FK506+MMF +Pred 预防同种肾移植排斥反应结论一致 本结果显示 FK506的适宜剂量为0.15~0.22 mg.kg-1d-1,术后3个月内 平均剂量为0.2 mg.kg-1.d-1,以后逐渐减量。
+（下转450页）
+450
+似 二尖瓣在术后第11周出现反流并逐渐加重 但同期心 功能检查均无明显变化，EMB检查未发现排斥反应证据， 其发生机制有待进一步研究 有人[5] 应用二尖瓣频谱评价 5例心脏移植术后左室舒张功能4例正常 1例异常 同时 EMB示3B级排斥反应，随排斥反应的缓解，超声表现恢 复正常。本例患者行EMB并未发现排斥反应，但因病例 数目少 仍需积累样本增加随访时间以进一步观察超声心 动图监没心脏移植排斥反应效果
+行EMB可能并发心律失常、室壁穿孔、感染等，有报 道[6]右心室行EMB后发生室间隔血肿。因此，在进行EMB 时要求心电监护和床旁超声监护 总之 早期发现和治疗 急性排斥反应对提高心脏移植术后早期存活率具有重要意 义 应用超声心动图监测心脏移植术后排斥反应具有方便 迅速 无创 副作用小等优点 作为监测排斥反应的重要 辅助手段 值行大力推广
+参考文献
+第一军医大学学报(J First Mil Med Univ) 2000； 20 (5)
+[1]	Ciliberto GR, Anjos MC. Significance of pericardial effusion after heart transplantation[J]. Am J Cardiol, 1995, 76(4): 297-300.
+[2]田家玮，杨 惠.心脏移植术后应用彩色多谱勒超声检查的意义[J]. 中国超声医学杂志, 1998, 14(10):17-9.
+[3]	Roberts M, Casula RA. Prospective randomized trial of complete atrioventricular transplantation versus ventricular transplantation with atrioplasty[J]. J Heart Lung Transplant, 1999, 18(5): 407-13.
+[4]	Tatou E, Charvre P. Long-term follow-up of anatomic heart transplantation. Apropos of 60 patients with a mean follow-up 36 months[J]. Arch Mal Coeur Vaiss, 1998, 91(7): 837-41.
+[5]	Saxena A, Talwar KK. Serial echocardiography in transplanted heart: an initial study of five cases[J]. Indian Heart J, 1997, 49(3): 297-82.
+[6]	Roussoulieres AL, Schnetzler B, Sabouret P, et al. Hematoma of the interventricular septum following right ventricular endomyocardial biopsy for the detection of allograft rejection after heart transplantation[J]. J Heart Lung Transplant, 1999, 18(11): 1147-50.
+（上接447页）
+术后3个月FK506的全血血药浓度以15~25 mg/L较适宜， 尤其在术后1个月内将FKS06血药浓度维持在20~25 mg/L 的水平 可明显减少或减轻药物不良反应 防治排斥反应 3.3以超声心动图代替EMB监测排斥反应
+尽管超声心动图在心脏病的诊断应用中越来越广泛 心脏移植术后用超声心动图检查代替EMB目前国内尚无 报告。国内外心脏移植术后通常在第一周内每周行EMB 1 次,2~3月内每两周一次,3个月以后每月一次。但由于EMB 是有创检查 可能产生感染 室壁穿孔 心律失常等严重 并发症 而且费用极高 对患者身心造成损害 我们在术 后8 d 每天用超声心动图检查1次 以后每周3次 1个 月后每周1次 主要观察指标为室壁 室间隔有无增厚 室间隔及左室后壁博动幅度 左心室射血分数值 主动脉 肺动脉内径及各瓣膜结构 功能等 术后第110天行首次 EMB 病理结果无排斥反应 这说明超声心动图监测排斥 反应有效果好 无创伤 重复性好 无副作用等特点 值 得推广应用
+参考文献
+[1]	Jordan F, McWhinnie AJ, Turner S, et al. Comparision of HLA-DRB,
+typing by DNA-RFLP. PCR-SSO and PCR-SSP methods and their application in providing matched unrelated donors for bone marrow transplanlation[J]. Tissue Antigens, 1995, 45:103-6.
+[2]	Bunce M, Taylor CJ, Welsh KI. Rapid HLA-DQB typing by eight polymerase chain reaction amplification with sequence-speciftc primers(PCR-SSP)[J]. Human Immunol 1993, 37:20-25.
+[3]	Hauptman PJ, Aranki S, Mudge GH, et al. Early cardiac allograft failure after orthotopic heart transplantation[J]. Am Heart J, 1994, 127:179186.
+[4]	Heroux AL, costanzo-Nordin MR, Radvang R, et al. Acute cardiac allograft dysfunction without cellular rejection: clinical features and role of humoral immunity[J]. Circulation, 1992,86(4 suppl):628-9.
+[5]	王祥慧 唐孝达 徐 达. 普乐可复预防同种肾移植排斥反应的研 究[J].中华器官移植杂志,2000, 21:117-8.
+[编者 本文“同种异体心脏移植长期存活 (附1例报告 ” 及“异体手移植术及其免疫抑制治疗 (附2例报告)” 一文均 报告了本校附属南方医院具有先进代表意义的术式 其中 前者为南方医院首例同种异体心脏移植术后长期存活 1 例 后者为世界首4例中的亚洲第1 2例异体手移植术 ]

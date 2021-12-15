@@ -1,0 +1,76 @@
+﻿第31卷第1期	同济大学学报(医学版)	Vol.31 No.l
+2010 年 2 月	JOURNAL OF TONGJI UNIVERSITY (MEDICAL SCIENCE)	Feb., 2010
+doi: 10.3969/j.issnl008-0392.2010.01.026	.转 速.
+肺移植相关闭塞性细支气管炎的免疫进展
+唐光亮综述，范慧敏审校
+(同济大学附属东方医院心胸外科，上海200120)
+【关键词】肺移植；闭塞性细支气管炎；同种(异体)免疫；纤维化
+【中图分类号】R 392.4【文献标识码】A【文章编号】1008-0392(2010)01-0112-04
+闭塞性细支气管炎(obliterative bronchiolitis, OB)是肺移植或心肺移植后一种进行性细支气管闭 塞,小气道功能紊乱和呼吸受阻。临床上称为闭塞性 细支气管炎综合症(bronchiolitis obliterans syn-drome,BOS),其发病机制较为复杂，包括免疫学和 非免疫学因素及其他致病因素。病理学特点为近呼 吸细支气管及其周围炎症和纤维增生，导致小气道 管腔的闭塞。据国际心肺移植协会(The International Society for Heart & Lung Transplantation,ISHLT)统 计数据，肺移植后,29个月OB的发生率为27%,67 个月的发生率为51%切。故针对移植后OB发病机制 的研究，对于预防及其治疗有着重要的意义。
+1研究模型
+肺移植相关OB研究的一个重要障碍，就是缺 乏有效模拟OB病理生理学的动物模型。大鼠肺移 植技术的可行性为研究OB带来了可能。早期有报 道Fischer 344-Wistar Kyoto大鼠肺移植能够形成 0B,后来的研究通过计算机断层扫描技术证实，该 模型移植物内没有发生OB的病理改变⑵。至今普 遍认为大鼠和小鼠原位肺移植模型，由于在阻止急 性排斥反应时免疫抑制剂的应用，而不能形成广泛 的OB。
+气管移植的操作简便性和可复制性，使其很好 地代替肺移植进行OB的研究。早期的研究模型是
+将一段完整的同种异系气管移植到小鼠背部皮下组 织或者埋入腹部大网膜下，经过一段时间后能够观 察到OB的形成。然而该模型不符合生理学特点且易 受皮下或网膜的周围环境影响,其应用也受到一定的 限制。斯坦福大学的研究固，Brown Norway-Lewis 大鼠原位气管移植能够形成与人肺移植后OB相似 的病理特征，移植后60 d气道闭塞程度将近45%, 认为是研究OB发生机制较为理想的实验模型。理 想动物模型应该是没有技术限制并且和肺的生理 学，肺移植后急性慢性排斥反应的病理生理非常相 似，当今还没有能完全符合这些标准的模型。
+2免疫介导的发病因素
+2.1细胞免疫和体液免疫
+T细胞通过直接同种(异体)识别反应和间接同 种(异体)识别反应两条途径参与移植排斥反应。在 19例肺移植患者研究中，用受体外周血纯化的 CD4+T细胞分别检测其对供体脾细胞的直接识别 反应，和其对受者经抗原提呈细胞处理的供体脾细 胞碎片的间接识别反应发现，发生OB的患者比未 发生OB的患者间接识别反应更显著，直接识别反 应在发生0B和未发生OB的患者中都存在。认为 移植后排斥反应和OB的发生不仅是间接识别途径 反应，还可能有一种过度的持续的直接识别反应。肺 移植后CD4+T细胞和CD8+T细胞在急性排斥期
+收稿日期：2009-11-19
+基金项目：国家自然基金资助项目(30772150)；上海市优秀学科带头人科研基金资助项目(08XD14033)
+作者简介：唐光亮(1983-),男，硕士研究生.E-mail: tangguangliang2003@yahoo.com.cn
+通讯作者：范慧敏.E-mail: frankfan64@hotmail.com
+112 •
+第1期
+唐光亮等：肺移植相关闭塞性细支气管炎的免疫进展
+浸润到肺内，产生IF-7等主要细胞因子导致以Thl 细胞为主的免疫反应，增强了 OB发生的风险。 CD8+ T细胞对移植物MHC I的直接识别反应，导 致移植物的慢性破坏，继后发生气管移植物气道闭 塞。一部分浸润到肺内CD4+T细胞表达具有调节 性T细胞表型的转录因子Foxp3⑷,这种具有调节 性T细胞表型的CD4+T细胞，可能具有阻止Thl 细胞反应减轻移植物排斥反应发生的功能。
+B细胞产生的抗MHC I抗体增加了淋巴性细 支气管炎和OB的风险。抗MHC U抗体由于生成 数量少，其意义还不清楚。最近研究发现针对气道上 皮细胞的非MHC抗原抗体，如抗Kai微管蛋白抗 体，可以通过产生纤维增生性生长因子来刺激气道 上皮细胞和增进纤维性增生反应⑸。
+介导肺内固有免疫和同种(异体)免疫反应的主 要是树突状细胞(dendritic cell,DC)o抗原对DC特 异性刺激决定了 T细胞反应的特异性。DC捕获抗 原后移行到引流淋巴结，其表型发育成熟，上调表达 MHC II和共刺激分子(CD80,CD86和CD40)有效 激活T细胞⑹。内源性和外源性配体能够激活DC表 面TLRs而介导移植物的损伤。小鼠同种异系骨髓移 植模型中,TLR4受体激动剂LPS增强了固有免疫 反应，导致肺内纤维化促进了 OB的发生闭。人体肾 移植患者中清除DC能够明显消除急性排斥反应， 在另一小部分有移植物耐受患者中发现DC可能和 免疫耐受有关⑻。未成熟DC可能导致免疫耐受和 激活调节性T细胞(Treg)或诱导T细胞无能⑼。肺 移植后影响DC共刺激分子表达，迁移和在淋巴结 发育成熟及其产生耐受性的机制还不是很清楚。巨 噬细胞，中性粒细胞，肥大细胞和NK细胞也和移植 排斥有关。巨噬细胞分泌许多生长因子介导0B的 纤维增殖。NK细胞影响移植物慢性血管病变口叫肥 大细胞可能具有负性免疫调节作用⑪。
+2.2 初期移植物失功和自身免疫反应
+胶原蛋白V引起的自身免疫反应和初期移植 物失功有关通叫，都参与了 0B的发生。初期移植物 失功是肺移植后早期并发症，可能和早期肺内隐蔽 抗原的暴露有关，特征是急性肺损伤⑶。移植期间暴 露于免疫系统的胶原蛋白V可引起自身免疫反应， 导致移植后急性肺损伤和慢性持续肺纤维化促进 OB的发生。CD4+T细胞对胶原蛋白V免疫应答与
+人肺移植术后OB发生率有一定关系，如Thl7细胞 产生的IL-17除参与病原体的炎症反应外，还和 TNF-a, IL-ip 一起参与对胶原蛋白V的免疫应 答。发生0B的患者比未发生OB的患者对胶原蛋 白V有更强的免疫反应性，该免疫反应增加OB发 生的风险比急性排斥反应,HLA不匹配，或抗HLA 抗体介导的损伤更强烈屿⑹。
+3病理特征及其机制
+3.1气道的纤维变性
+炎症和免疫介导的组织损伤可促进成纤维细胞 过度激活，导致肺移植后小气道纤维变性。在一些纤 维增生性疾病中可观察到成肌纤维细胞激活，导致 细胞外基质集聚。人体肺移植中也有多种因素导致 成肌纤维细胞数量增加促进0B的发生。研究发现肺 移植物内有一部分成肌纤维细胞(15%~30%)是来源 于受体外周血单核细胞中的纤维细胞回。另外上皮 细胞也可转化成间质细胞，即上皮细胞转分化成具 有间质细胞表型的细胞(epithelialmesenchymal tran-sition,EMT),如成纤维细胞，成肌纤维细胞阿。浸润 在炎症组织中的巨噬细胞可产生纤维增生性生长因 子，如TGF-B和血小板相关性生长因子(PDGF)。 TGF-p是成肌纤维细胞的一个重要分化和存活因 子。Th2细胞产生的IL-13可直接刺激细胞外基质和 增加TGF-p的表达，发挥有效的纤维增殖作用网。
+正常气道上皮细胞可产生前列腺素E2,抑制上 皮下TGF-B依赖的成纤维细胞激活。临床肺移植 后，各种损伤和免疫抑制剂如环抱素A,他克莫司 等,会妨碍正常上皮细胞的再生。体液免疫和强烈的 细胞免疫损伤上皮细胞，抗HLAI抗体激活气道上 皮细胞产生纤维化生长因子和诱导上皮细胞凋亡。 如果细支气管上皮细胞严重损坏，可降低其对成纤 维细胞的固有抑制作用，导致肺内过度纤维性反应 和小气道破坏性纤维瘢痕的形成⑶
+3.2微血管内皮损伤
+免疫介导的血管内皮细胞损伤，引起血管内皮 炎和终末小动脉小静脉纤维性变窄，影响微血管系 统血液供应导致缺血性损伤，最终影响移植物小气 道的自身修复和维持通畅。移植后针对血管内皮细 胞的免疫反应，激活了一系列炎症介质，如TGF-p 的上调导致纤维结合蛋白和溶胶原的增加，胶原蛋
+• 113 •
+同济大学学报(医学版)
+白的下调导致细胞外基质沉积和促进纤维化变性。 成纤维细胞释放氧化亚氮促进VEGF的转录。 VEGF在移植后早期可能促进上皮细胞增殖维持上 皮细胞屏障，还可促进单核炎症细胞的趋化导致腔 内瘢痕的形成和闭塞性气道疾病的发生如。阻断 VEGF和血小板衍生的生长因子可以防止气管移植 物的腔内堵塞。Okazaki等㈤在小鼠原位肺移植模 型中观察到，气道上皮细胞抗凋亡蛋白Bcl-2的表 达增加可保护上皮细胞，单纯的血管排斥反应不足 以引起内皮细胞损伤，感染，胆汁返流和肺表面活性 物质减少都参与了上皮细胞的损伤。
+研究鼠类原位气管移植微血管损伤和气道上 皮细胞之间的关系发现，经历了缺血再灌注损伤的 移植物血管内皮细胞若未被损坏，免疫抑制剂的应 用可以治疗损伤的移植物⑶。动物模型和人体内发 现肺移植后血管重塑也是发生OB的因素。血管重 塑包括血管硬化和异常血管形成。对50多例肺移 植患者进行回顾性分析发现，发生OB的患者肺动 脉高压和血管重塑要较普遍网。肺移植期间施行支 气管动脉成形术可以延缓OB发生，但移植物内微 血管损伤仍可以引起血管成形术无效和纤维化的 发生。
+4诊断及免疫治疗
+肺移植相关闭塞性细支气管炎的早期诊断有利 于肺功能稳定，但在临床上诊断非常困难。目前，临 床上利用影像学技术和组织病理特点虽然有助于 OB/BOS的诊断，但经支气管镜肺组织活检仍是确 诊OB的唯一方法。ISHLT根据肺功能的变化对 BOS进行了定义并制定了详细的分期用于临床上 BOS的诊断由。移植后，不可逆的FEV,下降超过该 平均值的20%即可定义为BOS。BOS分期标准为: (1) BOSO基础FEM值90%以上及基础FEF25%-75%值 75 以上;⑵ BOSO-p 基础 FEV,值 81%~90% 和/或基础FEF25%~75%值75以下;⑶BOS1基础 FEV)值 66%~80%;(4) BOS2 基础 FEV,值 51% ~ 65%;(5) BOS3 基础 FEV,值 50%以下。
+关于移植相关OB的治疗，至今世界仍没有统 一的标准，主要治疗措施是扩大和调整免疫抑制，包 括糖皮质激素，各种抗淋巴细胞抗体，环保菌素A, 他克莫司，甲氨蝶吟，环磷酰胺，西罗莫司，全身淋巴 • 114 •
+第31卷
+结照射。这些治疗虽然可以延缓部分患者肺功能的 恶化，但并没有明确证据表明能够改变移植相关 OB的病程。移植后排斥反应的发生及严重程度与 OB的发生有重要的关系，早期、积极的应用免疫抑 制剂预防或减轻排斥反应也许能减少OB的发生。 同时仍需特别谨慎扩大免疫抑制治疗，因为免疫力 降低可使受体机会感染可能性增加，这可能会加剧 肺功能的衰竭，甚至导致死亡。
+5结 语
+肺是一个涉及到粘膜防御和气体交换的复杂器 官。同种(异体)免疫反应，自身免疫反应，急性缺血 再灌注损伤，感染和环境损伤等都促进了肺移植后 OB的发生。肺移植的未来是仔细研究这些损伤引 起的有害免疫反应及其调节机制。正如抵抗病原体 不能仅仅依靠抗生素那样，肺移植也不能仅仅靠免 疫抑制剂，需要不断创新研究方法，阐明肺内更多的 免疫应答和免疫耐受机制来改善肺移植后的效果。
+【参考文献】
+[1 ] Christie JD, Edwards LB, Aurora P,et al. Registry of the International Society for Heart and Lung Transplantation: twenty-fifth official adult lung and heart/lung transplantation report-2008[J]. J Heart Lung Transplant, 2008,27⑼：957-969.
+[2 ] Hirschburger M, Greschus S, Kuchenbuch T, et al. Lung transplantation in the Fischer 344—>Wistar Kyoto rat strain combination is not suitable to study bronchiolitis obliterans[JJ. J Heart Lung Transplant,2007,26 (4)：390-398.
+[3 ] Deuse T, Schrepfier S, Eichenspumer H, et al. Techniques for experimental heterotopic and orthotopic tracheal transplantations-When to use which model? [JJ. Transpl Immunol,2007,17(4):255-261.
+[4 ] Bharat A, Kuo E, Steward N, et al. Immunological link between primary graft dysfunction and chronic lung allograft rejection [J]. Ann Thorac Surg, 2008,86(1)： 189-195.
+[5 ] Goers TA, Ramachandran S, Aloush A, et al. De novo production of K-{alpha} 1 tubulin-specific antibodies: role in chronic lung allograft rejection]J]. J Immunol, 2008,180(7):4487-4494.
+第1期
+唐光亮等：肺移植相关闭塞性细支气管炎的免疫进展
+[6 ] Gelman AE, Okazaki M, Lai J, et al. CD4+ T lymphocytes are not necessary for the acute rejection of vascularized mouse lung transplants]J]. J Immunol,2008, 180(7):4754-4762.
+[7 ] Garantziotis S, Palmer SM, Snyder LD, et al. Alloim-mune lung injury induced by local innate immune activation through inhaled lipopolysaccharide [J ]. Transplantation,2007,84(8)： 1012-1019.
+[8 ] Solari MG, Thomson AW. Human dendritic cells and transplant outcome[J].Transplantation,2008,85(11)： 1513-1522.
+[9 ] Hammad H, Lambrech BN. Dendritic cells and epithelial cells: linking innate and adaptive immunity in asthma [J].Nat Rev Immunol ,2008,8(3)： 193-204.
+[10]	Fildes JE, Yonan N, Tunstall K, et al. Natural kiDer cells in peripheral blood and lung tissue are associated with chronic rejection after lung transplantation [J]. J Heart Lung Transplant,2008,27(2)：203-207.
+[11 ] Galli SJ, Grimbaldeston M, Tsai M. Immunomodulatory mast cells：negative, as well as positive, regulators of immunity [J]. Nat Rev Immunol, 2008,8(6) ： 478-486.
+[12]	Bobadilla JL, Love RB, Jankowska-Gan E, et aL Th-17, monokines, collagen type V, and primary graft dysfunction in lung transplantation [J]. Am J RespirCrit Care Med, 2008,177(6)：66046a
+[13]	Iwata T, Philipovskiy A, Fisher AJ, et al. Anti-type V collagen humoral immunity in lung transplant primary graft dysfunction [ J ]. J Immunol, 2008,181 (8) ： 5738 -5747.
+[14]	Huang HJ, Yu sen RD, Meyers BF, et al. Late primary graft dysfunction after lung transplantation and bronchiolitis obliterans syndrome]J]. Am J Transplant, 2008,8(11):2454-2462.
+[15]	Ouyang W, Kolls JK, Zheng Y. The biological functions of T helper 17 cell effector cytokines in inflammation [J ]. Immunity,2008,28(4) ： 454-467.
+[16]	Burlingham WJ, Love RB, Jankowska-Gan E, et al.
+IL -17 - dependent cellular immunity to collagen type V predisposes to obliterative bronchiolitis in human lung transpl ants [J]. J Clin Invest, 2007,117(11):349-506.
+[17]	Brocker V, Langer F, Fellous TG, et al. Fibroblasts of recipient origin contribute to bronchiolitis obliterans in human lung transplants1]. Am J Respir Crit Care Med, 2006,173(11):1276-1282.
+[18]	Ward C, Forrest IA, Murphy DM, et al. Phenotype of airway epithelial cells suggests epithelial to mesenchymal cell transition in clinically stable lung transplant recipients]J]. Thorax,2005,60(10):865-871.
+[19]	Keane MP, Gomperts BN, Weigt S, et al. IL-13 is pivotal in the fibro-obliterative process of bronchiolitis obliterans syndrome]J]. J Immunol,2007,178(1):511-519.
+[20]	Nicod L.P. Mechanisms of airway obliteration after lung transplantation]J]. Proc Am Thorac Soc,2006,3(5)： 444-449.
+[21	] Tikkanen JM, Hollmen M, Nykanen Al, et al. Role of platelet-derived growth factor and vascular endothelial growth factor in obliterative airway disease[J]. Am J Respir Crit Care Med,2006,174(10)： 1145-1152
+[22]	Okazaki M, Gelman AE, Tietjens JR, et al. Maintenance of airway epithelium in acutely rejected orthotopic vascularized mouse lung transplants]J]. Am J Respir Cell Mol Biol, 2007,37(6) ： 625-630.
+[23]	Babu AN, Murakawa T, Thurman JM, et al. Mi-crovascular destruction identifies murine allografts that cannot be rescued from airway fibrosis [JJ. J Clin Invest, 2007,117(12)： 3774-3785.
+[24]	Belperio JA, Keane MP, Burdick MD, et al. Role of CXCR2/CXCR2 ligands in vascular remodeling during bronchiolitis obliterans syndrome [ J ]. J Clin Invest, 2005,115(5):1150-1162.
+[25]	Estenne M, Maurer JR, Boehler A. Bronchi olitis obliterans syndrome 2001: an update of the diagnostic criteria [J]. J Heart Lung Transplant,2002,21 (3) ： 297-310.
+* 115 -

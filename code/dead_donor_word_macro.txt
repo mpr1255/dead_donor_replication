@@ -1,0 +1,41 @@
+Sub TypeAndStrike()
+'
+' This macro was used to change the track changes in the combined document to normal formatting.
+' Everything that follows was borrowed off the internet (I believe here http://www.wordbanter.com/showthread.php?t=68482)
+' and slightly edited to conform to editor requests. MPR 14122021.
+'
+'
+' Converts tracked revisions in the active document into "type and Strike " format."
+' It removes all tracked revisions.
+'
+' written by Chip Orange.
+'
+Dim chgAdd As Word.Revision
+
+' disable tracked revisions.
+If ActiveDocument.Revisions.Count = 0 Then
+MsgBox "There are no revisions in this document", vbOKOnly
+Else
+ActiveDocument.TrackRevisions = False
+
+For Each chgAdd In ActiveDocument.Revisions
+If chgAdd.Type = wdRevisionDelete Then
+' It's a deletion, so make it strike through and then reject the change (so the text isn't lost).
+' chgAdd.Range.Font.StrikeThrough = True
+chgAdd.Accept
+ElseIf chgAdd.Type = wdRevisionInsert Then
+' It's an addition, so underline it.
+chgAdd.Range.Font.Underline = wdUnderlineSingle
+chgAdd.Range.Font.ColorIndex = wdRed
+chgAdd.Accept
+Else
+MsgBox ("Unexpected Change Type Found"), vbOKOnly + vbCritical
+chgAdd.Range.Select ' move insertion point
+End If
+
+Next chgAdd
+End If
+
+
+End Sub
+

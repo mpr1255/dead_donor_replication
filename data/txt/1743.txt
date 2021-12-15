@@ -1,0 +1,65 @@
+﻿56
+心肺血管病杂志1993年第12卷第1期
+•综述・
+心脏移植的免疫学问题
+北京心肺血管医疗研究中心(100029)王来仪综述 李平审校
+经多年实验研究,Lower和Shummway在1960 年首次成功地进行了狗原位移植.1967年12月 Bannard在临床上报道了第一例人心脏原位移植. 此后各国亦逐渐开展了临床心脏移植，但因排斥及 感染，长期存活者甚少,使此项工作落入低潮.1973 年Caves等创立了心脏移植后经静脉心内膜心肌活 检技术，大大提高了急性排斥反应的早期诊断率. Stanford大学在临床上应用免抗胸腺细胞球蛋白 (RATG),减少了急性排斥反应的发生，降低了死亡 率，促使各心脏移植中心开始新的移植计划1983 年美国FDA批准环抱霉素在临床应用，随后多克隆 及单元隆抗体(RATG及OKT力的应用均使排斥反 应，感染及肾功能衰蜴等并发症减少，大大地提高了 生存率,由于免疫学的发展，大大推动了心脏移植的 工作，1991年心脏移植病例数达16,687<”.心脏移 植已成为终末期心脏病的确认治疗.
+一、心脏售粒的免疫配型
+1-组织相容性抗原(His tocompatibility antigen HL A)
+Van Rood发现多次接受输血者的血清中含有 白细胞凝集抗体，这种凝集反应与1958年Dausset 在多次输血的病人和经产妇血清中发现的抗体的补 体结合反应一致。他还发现白细胞抗原是受一个极 为复杂的遗传系统控制的存在于有核细胞膜上的同 族抗原.对组织移植的成功起决定作用.HLA位点 基因在人的第六对染色体短臂上,A、B位点为主要 组织相容性抗原系统(MHC),C位点为次要的组织 相容性抗原系统.统称为第一类抗原系统，可由血清 学反应，即淋巴细胞微量细胞毒试验定型.混合淋巴 细胞培养可反映HLA-D位点抗原的配合程度。 DR和DQ抗原系统也可由血清反应定型，但要用纯 化的B细胞。I类抗原的Dw特异性是通过用HLA —D 纯合子定型细胞(Hemozygous Typing Cells HTC)作为刺激细胞，混合淋巴细胞反应的方法定
+型.Dp抗原是用致敏淋巴细胞定型法(Primed Lymphocyte Typing PLT)定型。
+2.心脏移植前的组织配型
+MHC遗传学特征表明，由于单倍型遗传方式 (haplotype),器官移植应首先从兄弟，姐妹中找相同 的配型。由于MHC的多态性(polymorphism),找到 合适的配型是很困难的.由于供体的来源不易，心脏 移植前不可能进行系统的HLA配型.目前文献报 告的心脏移植术前的组织配型要求：1.ABO血型配 合；2.受者随机的平板抗原交叉反应，如果证明有 高度阳性的抗体(PRA)存在,应与数个供者的淋巴 细胞交叉反应，阴性反应者首选。■鼠
+匹兹堡移植中•心回顾性研究证明，移植后三个 月内，急性排斥反应持续时间与PRA正相关,5年 内的超急，急性反慢性排斥反应的总死亡率随PRA 强度而增强,PRA>10%是排斥反应的危险因素⑶.
+如果受者血清中存在与供者T淋巴细胞交叉 配型阳性的抗体,则导致超急排斥反应，目前的免疫 抑制药物无特效.因此应于术前定期进行血液透析.
+二、心脏移植排斥的免疫监测	今
+免疫排斥的诊断主要依据临床上排斥反应表现 及心内膜心肌活检。本液及细胞免疫学实验可以比 临床表现更早提示免疫调节过程，但对排斥反应的 诊断将舁性不强，尚不能代替有创性的心内膜心肌 活检。
+May.RM等的报告表明，在17例心脏移植及9 例心肺移植术后用环抱骞素A治疗的病人中,急性 排斥反应时伴有“激活的”淋巴细胞数目增加,这种 细胞免疫监测的敏感性在心肺移植患者为100%, 心脏移植患者为94%,但有25%为假阳性，可能与 病毒感染,特别是巨细胞病毒感染有关
+Hoshinagak报告51例心脏移植住院期间的患 者,在排斥反应前的早期，载铁蛋白受体阳性的淋巴	"
+.细胞百分数显著上升加Ts的比例显著增加,并
+心肺血管病杂志1993年第12卷第1期
+57
+于排斥反应前的晚期上升到高峰，于排斥后期下降. 在排斥反应治疗开始后，以上两项指标降到正常.相 比之下，有感染合并症的病人,载铁蛋白受体阳性的 淋巴细胞百分比亦显著上升，而Th/Ts细胞比例相 对较低，因此这两项细胞免疫监测指标可以预测和 诊断排斥，并有助于鉴别排斥和感染⑸.
+Mooney M. L.等对32个心脏移植患者前瞻性 的研究表明，淋巴细胞活性,CD4/CD8淋巴细胞比 例与病人临床状态有关，例如，感染（早或晚期），排
+斥（轻，中，重），或静止。载铁蛋白受体阳性的淋巴细 胞百分率（%7口+）的增加预示感染的存在,特别是
+急性感染。它可做为感染存在时的筛选试验，特别是 对移植后的早期感染的鉴别⑷.
+血液中白细胞介素2受体（SIL - 2R）的测定可 预测急性排斥反应.有报告认为当严重排斥时,SIL -2R明显升高。当达到lOOOfx/ml时,预测严重排斥 的敏感性和特异性为52%和63%.从基线上的一系
+腺球蛋白（ATG）和抗T细胞单克隆抗体（OKT。.
+环他霉素A是一种真菌中肽类的代谢产物（11 个氨基酸组成的多肽），它的主要作用是通过抑制T 细胞，使其失去产生T细胞生长因子而抑制T细 胞，包括杀伤T细胞的增殖和功能.对一般的细胞， 将别是骨髓细胞无毒性，因此常与硫嗖嗓吟和肾上 腺皮质激素联合应用于器官移植，效果强大.1980 年开始应用于心脏移植收到良好的效果⑴.它最大 的副作用是肾毒性和高血压，使用低剂量的CsA可
+使副作用减到最小.已有肾损害的病人需测定BUN 和肌酥.各移植中心的用药剂量不一，大约在3 -
+8mg/kg/day,可用放免的方法测定血浆中的药物浓 度（全血谷值：300—500ug/ml）。〉.同时应用高剂量 的甲基泼尼松，红霉素，酮康嗖，两性年素B时CsA 的血浆浓度上升，合并应用利福平,双苯内藤胺，苯 巴比妥以及Sulfa trimethopoinl可使血浆浓度下 降.此外,注意不应与留钾利尿药合用
+列的测定或定量的SIL-2R水平的变化对严重排
+抗胸腺球蛋白（ATG）是用人外周血，尸体睥来
+斥反应可能更有预见性另外有报告认为血浆
+SLIL-2R的升高可以预报晚期的死亡率和动脉硬
+
+化的发生率⑷.
+此外，注意排斥在心功能及超声心动图，心电图 等方面的改变，以及近两年来应用回声——多普勒 检查等容舒张期时间和压力半衰期对发现早期排斥 也有一定价值.
+Utah大学将第一个月的每周免疫莹光心内膜 心肌活检表现分为有IgG.IgM .C3.C19和纤维素的 血管排斥反应组及头4周没有这种血管反应的为细 胞反应组.研究结果表明血管反应组的2年存活率 明显低于细胞反应组.血管反应组似乎更容易发生 在高度阳性的PRA或阳性淋巴细胞交叉反应及 HLA-B和DR位点误配的病人中.由于血管的排 斥反应发生比细胞排斥反应早，且对常规治疗反应 差，因此免疫荧光染色检测血管排斥应做为分析心 内膜活检标本的标准程序,有证据表明活检时T8+ 及T4+的细胞数目随排斥反应的强度而增加，特别 是T8+的数目增加，可做为严重排斥反应的可靠指 标 <”.此外，体液免疫在心脏移植时的反应也需进一 步研究.
+三、心脏移植的免疫抑制药物
+常用的免疫抑制药物主要是瓶嘎噪吟（Aza-thioprine）,肾上腺皮质激素（methylprednison, Pred-
+源的或胸导管收获的淋巴细胞免疫马、兔或羊以产 生抗淋巴细胞血清,然后分离出球蛋白.ATG在高
+浓度时主要作用是与T淋巴细胞结合，在补体的共 同作用下使其溶渍，低浓度时召引吞噬细胞发生免 疫粘连，吞噬消毁淋巴细胞.更低浓度时可封闭淋巴 细胞识别移植物靶细胞抗原受体，因而抑制细胞免 疫.它对急性排斥反应最有效，对慢性排斥的效果尚 待肯定，对由抗体引起的超急排斥反应则无效.
+OKTj是美国Orther公司Kung于1979年生 产出的人类T细胞表面抗源的单克隆抗体系列，由 杂交瘤技术产生，与人类T细胞抗原CD,特异结 合.由于CD,抗原是与组织相容性复合物限制性抗 原识别点相连锁，因此高浓度OKT,通过阻断抗原 识别位点的作用抑制了对异体细胞的溶解过程.此 外，抗原调变作用是OKT,单抗的独特作用，当单抗 结合到T,细胞表面的抗原后，可使T细胞失去表 面的抗原识别装置使T细胞失去与“外来”抗原相 互作用的功能，产生迅速的T细胞功能的抑制（包 括杀伤T细胞）.此外，它还有许多作用与ATG的 重叠.1986年,OKT3是第一个被美国FDA证明可 应用于人类的单克隆抗体,在心脏移植中,OKT3可 高度有效地逆转排异反应.特别是在中、重度的以及 对常规免疫抑制药物无反应的排斥反应及有严重的 移植器官功能衰竭的病例中有效‘双
+58
+心肺血管病杂志1993年第12卷第1期
+,用，预防排斥反应.如Pittsburg大学以Aza+Meth +CsA为基本的协同药，加用OKT,或ATG预防， 一年存活率为95% ,88例中接受ATG治疗的病人 25%发生排斥，35%发生再排斥，而OKTs组43% 发生排斥,50%发生再排斥。尽管两组感染率无统计 学差异，但他们认为ATG的效果尤于OKT”且 OKT,组中大多数病人对首次剂量OK*常发生动 脉血压下降等合并症.“"Arizona在心脏移植10年 的经验总结中也表明用CsA +Aza + Steroids的基 础上于术后第二天开始，ATG 200mg im,Q12hX 3d，一年存活率94%,3年88%,且系统性毒副作用 几乎可忽视<口>.
+Utah心脏移植中心联合用药的方案基本与上 述相同，他们对预防给ATG(n=25),反OKTKn = 26)的两组患者作了随机研究的比较,结果证明术后 第二天给OKTj 5mg连续14天的预防方案优于 ATG lOtng/kg/day X 3(1<)>
+总之，成功的免疫监测和预防性联合用药方案 使排斥的死亡率已不成为心脏移植后早期死亡的第 一位原因，但如何解决心脏移植后晚期排斥和感染 的死亡仍是面向我们的挑战.
+*9文献
+1.	Pifarre R. Sullivan HJ> Montaya A» et al. Caidiac Transplantation. Cardiology Clinics 198917183 —194.
+2.	Kriett JM & Kaye MP. The registry of the international society for heart and lung transplantation t Eighth official report-1991. J Heart Tranaplant. 1991,101491一 498.
+3.	Javee J, Kormos RL. Duquesnoy RJ, et al. Influence of panel - reactive antibody and lymphocytotoxic crossmatch on survival after heart transplantation J. Heart transplant. 1991* 101921— 930.
+4.	May RM, Cooper DKC» Toil EDD> et al. Cytoim-munologic monitoring after heart and heart — lung transplantation. J Heart Transplant. 1990； 9i 133 — 135.
+5.	Hoahinaga K, Mohanakunur T» Pascoe EA. et al. Expression of transferrin reccptera on lymphocytes t Its correlation with T helper/T suppressor cytotoxic ration and rejection in heart transplantation recipients J
+Heart Transplant. 1988>7t198.
+6.	Mooney ML, Carlson P, Szentpetery S. A prospective study of the clinical utility of lymphocyte monitoring in the cardiac transplant receipent. Transplantat沁n, 1990t50,951-954.
+7.	Young JB. Windsor NT, Smart FW» et al. Inability of Isolated soluble interleukin - 2 receptor levels to predict biopsy rejection scores after heart transplantation. Transplanation. 1991; 511636—641.
+8.	Young JB* LLoyd Ks« Windsor NT, et al. Elevated soluble interleukin - 2 receptor levels early after heart tansplantation and long - term survival and development of coronary arteriopathy. J Heart Transplant. 1991,10,243-250.
+9.	Higuchi ML। Assis RVC. Sambiase NV. et al. Usefulness of T — cell phenotype characterization in endomyocardial biopsy fragments from human cardiac allografts. J Heart Transplant. 1991110,235—242.
+10.	Bristow MR, Gilbert EM, Renlund DG, et al. Use of OKT3 monoclonal antibody in heart transplantion { Review of the initial experience. J Heart Transplant. 1988|7,1-11.
+11.	Sweeney MS, Sinnott JT, Cullison JP, et al. The use of OKT3 for stubborn heart allograft rejection ： An advance tn clinical immunotherapy? J Heart Transplant 1987i6,324-328.
+12.	Kormos RL, Herlan DR» Armitage JM, et al. Monoclonal versus polidonal antibody therepy for prophylaxis against rejection after heart transplantation. J Heart Transplant. 1990,9110、
+13.	Copeland JG, Icenogle TB. Willians RJ. et aL Rabbit antithynMX>yte globulin 1 A 10-year experience in cardial transplantation. J Thorac Cardiovasc Surg 1990j 99452-860.
+14.	Renlund DG, (/Connell JB, Gilbert EM. et al. A prospective comparison of murine monoclonal CD3 (OKTj) antibody - based and equnine antithymocyte globuiinbased rejection in prophylaxis in cardiac trans-plantatioiu [Decreased rejection and less corticosteroid use with OKT3]. Transplantation. 1989» 47« 599 — 605.
+(1992年7月29日收稿)

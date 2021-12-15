@@ -1,0 +1,112 @@
+﻿!!%$’!
+Heo,ld of Medicine Wol.38 No.!& October 2019
+L! 7 03TMs法测定人血浆中霉酚酸浓度及其 在心脏移植患者药动学研究中的应用R 赵晓亚!，王艺茸2，3，周红2，蔡杰/，张菁/，向红平2，张敏2，3，韩勇2
+（ ! ?武汉海关技术中心，武汉 /3&&2!; 2?华中科技大学同济医学院附属协和医院药剂科，武汉 /3&&22; 3?重庆医 科大学药学院，重庆 /&&&!’; /?华中科技大学同济医学院附属协和医院心血管外科，武汉 /3&&22）
+摘要目的建立一种液相色谱质谱串联（LCWS/GS）法测定人血浆中霉酚酸（GPA）浓度,用于心脏移植患者药 动学研究及治疗药物浓度监测。方法 取血浆样品200 %L，加入GPAT%内标（2 %] ! b+91 ） 20 %+，乙腈沉淀，取上清液进 样。Agilent ZORBAX SB418（2.1 mmx50 bb，3.5 %m）色谱柱进行分离;（Bmol 乙酸铵（0.25% 甲酸）溶液（A）-乙腈（5）为 流动相，梯度洗脱，流速0.2 mL • min91 $用多反应监测进行定量,ESI负离子方式进行检测，用于定量分析的离子对为）/< 319.1%191.0 （GPA）与）/< 322.1%191.1 （内标MPAS%） # 6例心脏移植患者采用他克莫司+吗替麦考酚酯（GGF） +泼尼 松的三联免疫抑制方案,测定首次服用MMF后0~12 h的MPA浓度并计算药动学参数。30例患者服用MMF 0.5 g,q12C， 至少7d，检测达稳态后的谷浓度。结果 MPA在0.1~40 %]!mL91范围内线性良好（I2>0.99） # MPA日内及日间变异均 小于10%,提取回收率为96.3%~97.9%,基质效应为99.7%~106.5%$ 6例心脏移植患者单次给予MMF1 g后,MPA的主要 药动学参数：峰浓度（：m,P）为（7.58±5.09） %g!mL91,峰时间（（m,P）为（1.83±1.13） h, A_10.12 为（26.58±7.23） %g • m+91 • h， AUC。。为（37.41±14.42） %g • m+91 • h, t1/2 为（7.53±8.01） h$ 1L/F 为（29.36±7.78 几十1，; 为（258.80±177.96） L$ 30 例 患者血浆MPA稳态谷浓度为0.37~3.832 %g • m+91,个体间变异高达59.2%$结论 该研究所建立的方法简单、准确、灵 敏、专属性强,适用于心脏移植患者MPA药动学研究及治疗药物浓度监测。
+关键词霉酚酸；心脏移植；药动学；血药浓度监测;+CWS/MS法	回肾隔”
+中图分类号R979.5	文献标识码A 文章编号1004-0781 （2019） 109 1326905	翳谶窗
+DEI 10.3870/j.iuun.1004-0781.2019.10.019	开放科学（资源服务）标识码（ES/D）	爵豫鬻
+G%$%)2’#-$’"# "* 0=,"A1%#"5’, J,’. ’# >5-&2- !"#,%#$)-$’"# <= L!703 T 03 0%$1".
+-#. /$& >1-)2-,"V’#%$’, ’# ?%-)$ B)-#&A5-#$ >-$’%#$&
+ZHAO Xi,o:, 1，MANY \iOong 2，3，ZHOU Hong 2，CA3 cie4，ZHANY cing4，X3ANY HongEing 2，ZHANY Ming 2 3，HAN \ong 2( 1" B$9/*+1+23 :$*($’ +, E7/&* :7.(+). #0.(’09(，E7/&* 430021，:/0*&; 2" #$%&’()$*( +, !/&’)&93，>*0+* 5+.%0(&1，B+*2C0 8$409&1 :+11$2$，57&</+*2 >*0=$’.0(3 +, D90$*9$ &*4 B$9/*+1+23，E7/&* 430022，:/0*&; 3" :+11$2$ +, !/&’)&93，:/+*2Q0*2 8$409&1 >*0=$’.0(3，:/+*2Q0*2 400016，:/0*&; 4" #$%&’()$*( +, :&’40+=&.971&’ D7’2$’3，>*0+* 5+.%0(&1，B+*2C0 8$409&1 :+11$2$，57&</+*2 >*0=$’.0(3 +, D90$*9$ &*4 B$9/*+1+23，E7/&* 430022，:/0*&)
+J(3B;J!B E<D%,$’4% -o eUt,bliUh , +C-MS / MS metho; foO the ;eteOmin,tion of m:coEhenolic ,ci; ( MPA) ,n; fXOtheO ,EElie; in ineeUtig,ting Eh,Om,coHinetic UtX;: ,n; theO,EeXtic ;OXg monitoOing in he,Ot tO,nUEl,nt E,tientU. 0%$1".& -he inteOn,l Ut,n;,O; MPA-;3( 20 %+，2 %g ! m+91 ) F,U ,;;e; into 200 %+ of El,Um,，,n; EOeciEit,te; Fith ,cetonitOile. -he UXEeOn,t,nt F,U collecte; foO injection.High-EeOfoOm,nce liqXi; chOom,togO,Ehic UeE,O,tion F,U EeOfoOme; on ,n Agilent ZORBAX SB-C18 ( 2. 1 mmx 50 mm，3.5 %m) colXmn Fith 5 mmol ,mmoniXm ,cet,te in 0.25% foOmic ,ci; ,n; ,cetonitOile ,U the mobile Eh,UeU in , gO,;ient m,nneO.-he floF O,te F,U Uet ,t 0.2 m+!min91 .MXltiEle Oe,ctionU monitoOing mo;e ( MRM) F,U ,;oEte;，,n; electOoUEO,: ioni=,tion ( ES3) F,U , neg,tiee-ion.-he EOecXOUoO ion%EOo;Xct ion tO,nUitionU )R< F,U 319.1%191.0 foO MPA ,n; )R< 322.1%191.1 foO MPA-;3，OeUEectieel:.SiP he,Ot tO,nUEl,nt E,tientU tOe,te; Fith tOiEle immXnotheO,E: inclX;ing m:coEhenol,te mofetil ( MMF) FeOe enOolle; in thiU UtX;:.MPA concentO,tionU FeOe ;eteOmine; Fithin 0-12 h ,fteO the fiOUt ;oUe ,n; Eh,Om,coHinetic E,O,meteOU FeOe c,lcXl,te;. -hiOt: E,tientU FeOe ,t the ;oUe of 0.5 g tFice ;,il:，concentO,tionU of MPA ,t Ute,;: Ut,te FeOe ,lUo ;eteOmine;. ;%&65$& MPA F,U in , goo; line,Oit: Fithin 0.1940 %g!m+91 .3nteO- ,n; intO,-;,: imEOeciUion FeOe leUU th,n 10%，Fith OecoeeO: fOom 96.3% to 97.9%， ,n; m,tOiP effect fOom 99.7% to 106.5%.-he m,in Eh,Om,coHinetic E,O,meteOU of the 6 E,tientU ,fteO , ;oUe of 1 g of MMF FeOe ,U folloFU: :m,P F,U ( 7.58±5.09) %g!m+91，(m,P F,U ( 1.83±1.13) h，AUC0-12 F,U ( 26.58±7.23) %g !m+91 !h，AUC0-v F,U ( 37.41± 14.42) %g!m+91 !h，t1/2F,U ( 7.53±8.01) h，C+/F F,U ( 29.36±7.78) +!h91，［; F,U ( 258.80±177.96) +.-he tOoXgh concentO,tion of MPA ,t Ute,;: Ut,te O,nge; fOom 0.37 to 3.832 %g!m+91 in 30 E,tientU，Fith inteO-in;iei;X,l e,Oi,tion XE to 59.2%. !"#,56&’"# -he eUt,bliUhe; metho; iU UimEle，,ccXO,te，UenUitiee ,n; UEecific，,n; iU EOoee; to be UXit,ble foO ;eteOmin,tion of MPA in hXm,n El,Um, ,n; Eh,Om,coHinetic UtX;: in he,Ot tO,nUEl,nt E,tientU.
+Y+Z WE;D3 M:coEhenolic ,ci;; He,Ot tO,nUEl,nt,tion; Ph,Om,coHineticU; MonitoOing of the El,Um, concentO,tion; +C-MS / MS metho;
+医药导报$&!"年!&月第%#卷第!&期
+!!%$0!
+霉酚酸（ B:@AEC*IAQV@ ,@V;，GL8 ）是一种新型的 抗代谢免疫抑制药，其通过抑制次黄嘌呤核苷酸脱氢 酶（IMPDH）阻断678的从头合成，从而抑制-和5 淋巴细胞增殖发挥作用M $目前，临床常用的MP8 制剂包括吗替麦考酚酯（MMF,商品名：骁悉）和麦考 酚钠肠溶片（商品名:米芙），它们常与他克莫司和糖 皮质激素组成三联免疫抑制治疗方案，对预防器官移 植术后急慢性排斥反应具有重要意义$近年来，临床 研究表明，MPA药物浓度"时间曲线下面积（8_1）与 其临床疗效和不良反应发生密切相关[%.（]，但个体 MPA.8UC存在较大差异，可通过治疗药物浓度监测 （TDM）进行个体化剂量调整阈。国内外已有众多有 关MP8在肾移植和肝移植患者体内药动学研究及 TDM报道融&，但笔者尚未见在心脏移植患者中报道。 为此，本文旨在参照生物样本分析方法指导原 则口!.!$ ,建立液相色谱.质谱串联（LCWJ/MJ）法检测 MPA,并将该方法学用于心脏移植患者术后MP8的药 动学研究，为临床个体化用药提供理论依据$ [ 材料与方法
+[?[仪器LC20ADXR型高效液相色谱仪（日本岛 津公司），API 6（00型-三重四极杆质谱仪（美国85 J13TX公司）,AB135J电子分析天平（瑞士梅特勒.托 利多仪器公司，感量:0?01 b]）,5804R低温高速离心 机（德国Eppendoof公司），MiUi｛超纯水系统（美国 Millipore 公司）$
+[?C 试剂 霉酚酸对照品（中国食品药品检定研究院， 含量>99%）,霉酚酸乜内标（加拿大TRC公司，含量 98%）,色谱级甲醇（美国Sigma公司，含量"99.9%）,色 谱级乙晴（美国Sigma公司，含量"99.9%）,色谱级甲 酸（德国17M公司，含量"98.0%）,色谱级乙酸铵（德 国17M公司，含量"98.0%） $
+[.S 色谱条件 色谱柱：A]ilenD ZNKBAX JB-11#柱 （2.1 mmP（0 mm, 3?（ %m）；流动相：（mmol • L9! 乙酸 铵（含0.2（%甲酸）溶液（A）-乙晴（B）,采用梯度洗 脱： 0~1 miI， 0（%8; 1j8 miI， 0（%%（%8; >8j9 miI，
+收稿日期 20189 119 1（ 修回日期 2019902913
+基金项目 R 湖北省自然科学基金资助项目 （20181FB750）,华中科技大学自主创新基金重点专项 （ 201（Z）\X014）
+作者简介 赵晓亚（ 19789）,女,河北人,高级工程师,博 士,主要从事食品检测技术的研究$ NK13D： 0000-0002-3600-39（4$电话： 0279（8906069.E-mail： （（0170292> ‘‘.@om$
+通信作者 韩勇,男,副主任药师,主要从事个体化用药研 究$电话： 02798（726983,E-mail： PCCaI:oI]> CoDmail. @om$
+（%8; >9 j 9.（ miI, （%%7（%8 ; >9.（ j 1（ miI, 7（% A$流速0.2 mL ! min91 ；进样体积:2 %L；柱温:28 l。 [.4质谱条件 采用电喷雾离子化电离源（ESI）,负 离子方式检测；离子喷射电压：-4500 V；干燥温度： 3（0 l ；离子源气体1 （71）压强：344.75 kPa；离子源 气体 2 （ 72） 压强： 413. 70 HPa; 气帘气压强： 241.32 kPa$定量方式为多重反应监测（MRM）；MPA 的离子对、解簇电压（DP）、碰撞能量（1E）分别为：）/< 319.1%191.0%-100 V 和-26 V； MPA-d3 离子对、DP、 1E 分别为：）/< 322.1%191.1、-60 V 和-31 V。
+[.R 储备液及工作液的配制 精密称取MPA 20 mg% MPA-d3对照品1 m]分别置于10 mL棕色量瓶中,均以甲 醇溶解后定容至刻度,摇匀,即得2 m] • mL-1 MPA储备 液,0.1 m] • mL-1 MPA-d3储备液，置于4 l避光保存。
+[.\ 标准曲线血浆样品及质控血浆样品的制备 精密 量取储备液，加入一定量甲醇，配制一系列含有MPA （1, （, 10, （0, 100, 200, 400 %] • mL-1）的标准曲线工 作液及含有MPA（1.2（, 7（, 2（0 %] • mL-1）的质控工作 液。取空白血浆200 %L，分别加入MPA标准曲线系列 工作液和质控对照品工作液20 %L,混匀后得到标准曲 线血浆样品（0.1,1,5, 10,20,40 %] • mL-1）及质控血浆 样品（0.12（, 7.5, 2（ %] • mL-1） $
+[.]样品前处理 取血浆样品200 %L，置于1.5 mL 离心管，加入2 %] • mL-1内标溶液20 %L,加入乙晴 800 %L,涡旋混合均匀，于4 l，以12 000xg。取上清 液200 %L，加入乙晴800 %L后混匀，取200 %L加入 2 mL进样瓶。
+[._药动学研究将本文建立的MPA检测方法应用 于心脏移植患者MMF单次给药后药动学研究（分别 于服药前，服药后0.5, 1,1.5, 2, 4, 6, 8,10,12 C采血） 以及维持治疗达稳态后MPA谷浓度测定。本研究经 华中科技大学同济医学院附属协和医院伦理委员会批 准,采血前告知患者实验目的并签署知情同意书, EDTA抗凝管采集静脉血2 mL,分离血浆后，按本研 究的方法进行检测。
+采用Minnonlin软件以非房室法计算MPA药动学 参数，如清除率（1L/F）、表观分布容积（[；）,峰浓度 （：b,p）和达峰时间（（b,p）均为实测值;根据末端相3"点 血药浓度■时间数据估算消除速率常数（P$）,进而计算 消除半衰期（D1/2）；以梯形法估算AUC0-12和A_l0.v。 C 结果
+C.[方法专属性在本研究测定条件下,MPA'MPAd 的保留时间分别为5.94和5.93 min,空白血浆中的内源 性物质不干扰MPA和内标的测定。典型色谱图见图1$
+!!%$#!
+Heo,ld of Medicine Wol.38 No.!& October 2019
+8.空白血浆；5.空白血浆+ GPA对照品；1.空白血浆+GPAY3 ；6.心脏移植患者血浆样本；1.GPA；2.GPAY% $ 图[ 血浆中霉酚酸及内标典型色谱图
+8.bQ,IH EQ,UB,; 5. bQ,IH EQ,UB,k GP8 OefeOeIce; 1. bQ,IH EQ,UB,kGP8.;3 ; 6. EQ,UB, U,BEQeU fOoB Ce,Ot tO,IUEQ,It E,tieItU; 1. GP8;
+2.GP8.;3 .
+Fig.l Representative dromatograms for MPA -#. MPA^ '# plasma
+2.2标准曲线与线性范围 取GPA分别为0.1, 1, (,10, 20, 40 %] ! B+91的标准曲线混合血浆样品，按 &1.0′项下方法进行操作，记录色谱峰面积，以GPA 与内标的峰面积比(S)分别对血浆中二者的浓度进行 加权线性回归,权重系数为1 2!2[13],求得二者标准曲 线方程如下: Si 2.41’ 1’Kk0.013 9’ ( ’ i 0.999 ’),共 评价4条标准曲线,1$值均＞0.995$ 4条标准曲线相应 的校正标样回算浓度与标示值的百分比均符合指导原 则，表明GPA在0.1~40 %] ! b+91线性良好$
+2.S 准确度与精密度 取定量下限( 0.1 %] !B+91) &低 ( 0. 125 %] ! B+91 ) &中( 0. 5 %] ! B+91 ) &高 (25 %] ! b+91 )共4个浓度血浆样品,每一浓度每天平 行测定5份,以计算准确度和日内精密度,连续测定3 ;, 获得日间精密度,结果见表1$
+2.Q 提取回收率与基质效应 按照&1.0’项下方法处 理低%中%高浓度质控血样各’份,记录色谱峰面积为 81$另取18份空白血浆处理后获得上清液,再加入相 应的低%中%高浓度质控工作液,记录色谱峰面积为 82$取相同浓度的低%中%高浓度质控工作液直接进 样，记录色谱峰面积为A3$提取回收率= A2/A1。基
+质效应= A3/A2$ MPA低、中、高浓度质控的提取回收 率分别为 96.9%, 96.3%,97.9%, KJD 分别为 3.3%, 3.1%, 3.2% $ MPA低、中、高浓度的基质效应因子分别 为 100.4%,99.7%, 106.5%, KJD 分别为 2.9%, 2.6%, 3.9%$表明血浆介质对MPA测定无干扰。
+2. R 残留 本实验考察检测高浓度样品 (40 %] ! b+91 )后在空白血浆中的残留，结果显示， MPA残留为0.07%,符合生物样本分析的要求。
+2.\稳定性实验据文献报道MPA的全血标本在室 温放置2 h同，以及25 l放置1 d稳定M ,因此，本研 究不再重复考察MPA在全血标本中的稳定性。本研 究考察MPA低、中、高浓度血浆质控品各3份处理后， 室温放置1 d,4 l避光放置1,3,7；的稳定性。同时, 考察低、中、高浓度质控品4 l放置7 d、-20 l放置1 个月和3个月的稳定性以及920 l 冻融3次的稳定 性。结果表明前处理后的样本4 l避光7d稳定，血 浆样本保存于-20 l3个月稳定，反复冻融3次稳定。
+2.] MPA浓度检测在心脏移植患者中的应用6例心 脏移植患者按给予MM4 1 ]后，血浆中霉酚酸变化的药 时曲线见图2,药动学参数如下:(m8P为(1.83±1.13)h,
+表[LC7MS/MS测定MPA的准确度和精密度
+Bab.l Accuracy a#. precision of LC-M3/M3 assay of MPA
+浓度/ ( %]!m+91 )	日内( * i 6)				日内( * i 6)			
+	均值/	准确度	KT	KJD	均值/	准确度	KT	KJD
+	( %]!m+91 )		%		( %]!m+91)		%	
+0.1	0.100	100.0	0	6.2	0.098	98.0	92.0	7.3
+0.125	0.123	98.5	91.5	4.4	0.119	95.0	95.0	4.1
+7.5	7.373	98.3	91.7	2.6	7.335	97.8	92.2	4.2
+25	24.300	97.2	92.8	2.5	23.950	95.8	94.2	4.0
+医药导报2019年10月第38卷第10期
+• 1329 •
+：由为(0? 58 m(? &9) %] ! mL91, 8_10_1$ 为(26? 58 m 7.23)%] ! mL9! ! h,8_10_v 为(37.41±14.42)%] • m+91 • h, d122为(7.53±8.01) h, 1L2F 为(29.36±7.78) L • h9!, [; 为(258.80±177.96)L$ 30 例患者按 0.5] ,’12h 剂量 服用MMF至少7 d后血浆MP8稳态谷浓度的分布见 图 3,MP8 稳态谷浓度在 0. 37 j 3. 83 ( 1. 48 ± 0.88)%] • mL91之间波动，个体间变异高达59.2%,提 示有必要在该人群中开展MP8治疗药物浓度监测。
+boa)、超斐照自vds
+F’8.2 G)68 ,on,entration-$ime ,6)4% of MPA after si#81e
+-.2’#’&$)-7$’"# ’# \ 1%-)$ $)-#&A5-#$ A-$’%#$&
+ttu -bcd.)、翅触稣自 VdW
+lI,1,1,1,1,1,1,ill,111,ll,11,ll,,,,,,,,,,
+1 2 3 4 5 6 7 8 9101112131415161718192021222324252627282930 患者序号
+图S 30例心脏移植患者血浆MPA稳态谷浓度分布
+9ig.3 Distribution of the trough concentration of MPA at &tea.= &tate ’n Sc 1ea)t t)an&A5antat’"n Aat’ent&
+3 讨论
+MMF是目前器官移植术后常用的免疫抑制药，常 与钙调磷酸酶类抑制剂( 173)和糖皮质激素组成三联 免疫抑制治疗方案。MMF需在体内代谢为活性的 ML8才能发挥作用，而体内ML8暴露水平与急性排 斥反应的发生具有显著的相关性。研究显示，MPA与 环孢素8合用时谷浓度应维持在！.&~3.5 %] ! B+91， 与他克莫司联用谷浓度应维持在！.9~4.& %] ! B+91; 与环孢素或他克莫司联用时AUC&j12c都应维持在3&j 60 %] ! mL9! ! h 口’ $然而，MP8个体差异大，受多方 面因素(如患者病情%体内白蛋白水平%饮食%肝功能 等)的影响，难以保证MP8暴露量维持在目标水平内。
+因此,开展MP8的-6M具有十分重要的临床意义。
+目前，临床常用的MP8检测方法主要基于免疫原 理,如酶放大免疫技术( *I=:m* mXQDVEQV*d VmmXIA,UU,: D*@hIAQA]:,TM3-) [17]$该方法有商品化试剂盒,样本 检测方便快捷，适用于MP8的常规监测。但该方法存 在着缺点,如检测的特异性不高,存在交叉反应,检测 结果容易受代谢物以及相似物质的干扰,使得检测结 果偏高崎。另外，该方法MP8的线性范围在0.1 ~ 15 %] • m+T”7 ,常常会导致某些患者峰浓度值超出 检测限,适用性差。因此,采用治疗药物监测(-6M)检 测的金标准LCWJ/MJ法建立一种适用于临床MP8 检测及药动学研究的方法十分必要$目前,国内外已 有许多关于LCWJ/MJ法检测MP8的报道M ,检测 方法各具优缺点,如许多文献采用在线固相萃取技术 进行样本前处理,成本高;定量范围窄( h20 %] • mL91)难以满足临床检测需求；流动相成分复杂等特 点$而本文建立的方法最大特点在于样本前处理仅采 用乙腈沉淀蛋白,高速离心后进样分析,整个操作过程 简单方便%样本分析时间短%流动相成分简单%检测范 围可满足临床检测需求$
+MMF在健康人、肾移植、肝移植患者体内的药动学 研究已有诸多报道[8.10,20 ,但在心脏移植患者中药动学 资料还很少$本研究将建立的方法用于心脏移植患者 单次服用MMF的药动学研究发现MP8药动学在心脏 移植患者中存在较大个体差异,单次给药后肠肝循环不 明显$此外,笔者还将此方法用于30例心脏移植患者 MP8稳态谷浓度的测定,发现服用MMF 0.5 ], q12h达 稳态后MP8浓度均在1.48 %] • mL91,此结果高于 6T7NFK3N等网报道联用1 ],’12h MMF和环孢素8 达稳态后MP8谷浓度均值为1.2 %] • mL91 $本研究结 果偏高的原因可能为合并使用环孢素8时,因为环孢素 8干扰MP8的肝肠循环,可将MP8降低30%~50%；合 并使用他克莫司时则不干扰MP8代谢。目前,心脏移 植患者合并使用MMF和他克莫司后,MP8药动学以及 药动学参数与临床疗效的关系尚不明确,期望未来的研 究中通过本中心病例积累能得到MP8药动学变化规律 并制定出适宜的心脏移植患者MP8治疗窗,为推进该 人群个体化治疗做出积极贡献$
+参考文献
+[1	8LL3JN7 8 1,T_Y_3 T M. PXOVI* m*D,<AQVUm ,Id
+immuiosuppoessie* effects of mycopheiAQaD* mofetil ( MMF) [c .1QVI -O,IUEQ,ID,1996,10( 1 PD 2) : 77984.
+[2	8LL3JN7 8 1,T_Y_3 T M. M:copheIoQ,te mofetiQ ,Id its
+mech,Iisms of ,ctioI [c . 3mmuIoph,Om,coQo]:,2000,47
+!!%%&!
+Heo,ld of Medicine Wol.38 No.!& October 2019
+( $2%) : #(9!!#?
+3]	W8N YT+6TK -，H3+5K8N6J + 5，W8NKTN-TK.
+YHTG \，et ,Q? 8 O,I;oBi=e; ;oXbQe.bQiI;，BXQticeIteO EQ,UB, coIceItO,tioI coItOoQQe; UtX;: of tCe U,fet: ,I; effic,c: of oO,Q B:coECeIoQ,te BofetiQ foO tCe EOeeeItioI of ,cXte OedectioI ,fteO Hi;Ie: tO,IUEQ,It,tioI	c ]?
+-O,IUEQ,It,tioI，!999，’8( 2) : 2’!92’’?
+/] +T GT_K \，5w1H+TK G，-H3TKK\ 8，et ,Q? 3I;iei.
+;X,Qi=e; B:coECeIoQ,te BofetiQ ;oUiI] b,Ue; oI ;OX] ePEoUXOe Ui]Iific,ItQ: iBEOoeeU E,tieIt oXtcoBeU ,fteO OeI,Q tO,IUEQ,It,tioI c]? 8B c -O,IUEQ,It，2&&0，0 ( !! ) : 2/9’ 9 2(&3?
+(] b_\LTKJ 6 K，6T cNNYT H，N8TJTNJ G，et ,Q?
+1XOOeIt t,O]et O,I]eU of B:coECeIoQic ,ci; ePEoUXOe ,I; ;OX].OeQ,te; ,;eeOUe eeeItU: , (.:e,O， oEeI.Q,beQ， EOoUEectiee，cQiIic,Q foQQoF.XE UtX;: iI OeI,Q ,QQo]O,ft OeciEieItU c]?1QiI -CeO，2&&8，3&( /) : ’039’83?
+’] b_\LTKJ 6 K，+T GT_K \，18N-8KNW31H G，et ,Q?
+1oIUeIUXU OeEoOt oI tCeO,EeXtic ;OX] BoIitoOiI] of B:coECeIoQic ,ci; iI UoQi; oO],I tO,IUEQ,It,tioI c]? 1QiI c 8B Joc NeECOoQ，2&!&，(( 2) : 3/!93(8?
+0] -T-- JT，J83N-.G8K1N_[ 4，J-88-Z 1 T， et ,Q? G:coECeIoQ,te，cQiIic,Q EC,OB,coHiIeticU，foOBXQ,tioIU， ,I; BetCo;U foO ,UUeUUiI] ;OX] ePEoUXOe	c]? -O,IUEQ,It
+Kee ( NOQ,I;o)，2&!!，2(( 2) : /09(0?
+8]	HNN8K58bHJH N，KN_3N3 G K，+TJ8N. LTZTJHb3 G，et ,Q? G:coECeIoQic ,ci; EC,OB,coHiIeticU e,OQ: ,fteO Hi;Ie: tO,IUEQ,It c]? TPE 1QiI -O,IUEQ,It，2&!3，!! ( 2) : !!29!!0?
+9]	余自成，陈皓，张伟霞，等?霉酚酸在肝移植病人体内的 药代动力学研究c.药学学报，2006,41 (12)：1157-!!’&?
+10]	陆佳倩,陈冰?霉酚酸的药代动力学与药效学研究进展 C .中国临床药理学杂志,2016,32(6)：(73-576.
+11]	钟大放,李高,刘昌孝?生物样品定量分析方法指导原 则:草案C .药物评价研究,2011, 34(6)： 409.
+12]	国家药典委员会.中华人民共和国药典(三部)M .北
+京:中国医药科技出版社,201(: 39(0.
+13]	钟大放.以加权最小二乘法建立生物分析标准曲线的若
+干问题 c] .药物分析杂志,1996,16( () : 343.
+14]	b+TL81b3 c,b+8M3--TK c,5TN6K31b.LT8K- c,et
+,Q. 8 Ci]C.tCOoX]CEXt _.HL+1.GJ 2GJ ,UU,: foO tCe ‘X,Itific,tioI of B:coECeIoQic ,ci; ,I; itU B,doO Bet,boQiteU B:coECeIoQic ,ci; ]QXcXOoIi;e ,I; B:coECeIoQic ,ci; ,c:Q.]QXcXOoIi;e iI CXB,I EQ,UB, ,I; XOiIe c] .c 1COoB,to]O 5 8I,Q:t -ecCIoQ 5ioBe; +ife Jci, 2012,( 883 2884) : 1139119.
+1(]	ZH8NY 6,1HNM 6 J,KTN58KYTK c +. JiBXQt,IeoXU
+‘X,Itific,tioI of B:coECeIoQic ,ci; ,I; itU ]QXcXOoIi;e Bet,boQiteU iI CXB,I EQ,UB, b: ,I _L+1.GJ 2 GJ ,UU,: c] .5ioBe; 1COoB,to]O,2016,30( 10) : 1648916((.
+16]	68JY_L-8 8. -CeO,EeXtic ;OX] BoIitoOiI] of B:coECe.
+IoQic ,ci; c] .8;e 1QiI 1CeB,2016,76: 16(9 184.
+17]	GN_K86 G,1H835.T66N_K 6,G8+83JT c,et ,Q.
+8I,Q:tic,Q ,I; cQiIic,Q ee,QX,tioI of tCe TG3- B:coECeIoQic ,ci; iBBXIo,UU,: iI Hi;Ie: tO,IUEQ,It,tioI c] . -O,IUEQ,It LOoc,2000,32( 2) : 4049406.
+18]	b_N31b3 Lb,L8M3NJb3 -,5N1ZTb 8,et ,Q.8 coBE,.
+OiUoI of tCe iBBXIocCeBic,Q BetCo;U,LT-3N38 ,I; TG3-,FitC tC,t of HL+1._W foO tCe OoXtiIe BoIitoOiI] of B:coECeIoQic ,ci; iI Ce,Ot tO,IUEQ,It E,tieItU c] . -CeO 6OX] GoIit,201(,37( 3) : 3119318.
+19]	J\T6 G,JK3N3W8J N K.8 coBEOeCeIUiee OeeieF of tCe
+EXbQiUCe; ,UU,:U foO	tCe ‘X,Itit,tioI	of tCe
+iBBXIoUXEEOeUU,It ;OX] B:coECeIoQic ,ci; ,I; itU ]QXcXOoIi;,te; Bet,boQiteU iI bioQo]ic,Q fQXi;U c] . 5ioBe; 1COoB,to]O,2016,30( () : 7219748.
+20]	Y_N 6,L8NY + 4,H8N \,et ,Q.LoQ:BoOECiUBU of
+_Y-189 ,I; _Y-257 iIfQXeIce tCe EC,OB,coHiIeticU of B:coECeIoQic ,ci; ,fteO , UiI]Qe oO,Q ;oUe iI Ce,QtC: 1CiIeUe eoQXIteeOU c] . TXO c 1QiI LC,OB,coQ,2013,69 ( 4) : 8439849.
+21]	6TNN4K3N 6,+NH T,b8N 8,et ,Q. G:coECeIoQic ,ci;
+coIceItO,tioIU ,Oe ,UUoci,te; FitC c,O;i,c ,QQo]O,ft OedectioI c] .c He,Ot +XI] -O,IUEQ,It,2000,19( 11) : 107191076.

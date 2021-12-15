@@ -1,0 +1,81 @@
+﻿・410・
+中华器官移植杂志 29()7 年 7 月第 28 卷第 7 期 Chin J Organ Transplant,July 20()7, Vol 28,No. 7
+心脏移植前采用体外膜肺氧合循环 支持过渡二例
+黑飞龙王仕刚于坤龙村
+【摘要】目的探讨等待心脏移植患者发生心源性休克时采用体外膜肺氧合(ECMO)循环支持 过渡的可行性和有效性。方法2例患者在等待心脏移植期间发生心源性休克，1例为限制型心肌 病.另1例为扩张型心肌病，并发肝功能异常,药物治疗均无法控制心力衰竭和呼吸衰竭，遂紧急使用 ECM()支持，等待心脏移植。使用Medtronic成人ECMU系统,采用股动脉、股静脉插管,ECMO系 统使用肝素涂层表面和离心泵，流量3()〜5() ml・kgT・min」，激活全血凝固时间维持在16() s左右， 血温维持在36〜37 °C0流量随心肺功能改善情况进行调整，支持期间监测动脉血气、血浆游离血红 蛋白、血小板、出血及凝血指标,以及股动脉插管侧下肢血液循环情况。结果经ECMO支持后，患 者的血流动力学稳定，血气各指标改善，循环、呼吸平稳,X线显示双肺清晰,肝功能异常的1例肝功 能好转。ECMO支持期间未发生严重的并发症。2例患者分别支持了 5 d和3d,均顺利过渡到心脏 移植，术后心功能1级，未发生排斥反应，患者痊愈出院。结论 等待心脏移植患者发生心源性休克 时,可采用ECM。循环支持过渡.安全、有效。
+【关键词】心脏辅助装置;心力衰竭，充血性;心脏移植
+Two cases of extracorporeal membrane oxy 郎 nation as a bridge to heart transplantation HE I Fei-long ♦ WANG Shi-gang, YU Kun , et at. Department of CPB • Cardiovascular Institute and Fuwai Hospital ,CAMS and PUMS ♦ Beijing 100037, China
+(Abstract] Objective The feasibility and efficacy of extracorporeal membrane oxygenation (ECMO) as a bridge to heart transplantation was evaluated in patient who suffered acute cardiogenic shock. Methods Two candidates suffered acute cardiogenic shock when patients waited for the donor hearts, including one case of restrictive cardiomyopathy and one case of dilated cardiomyopathy and hepatic dysfunction. Medical treatments could not effectively control heart failure and respiratory failure. The ECMO system was performed at the bedside for providing emergent circulatory and respiratory support. Two patients received ECMO through the femoral veno-arterial route. The ECMO device had a heparin-coated Carmeda* bioactive surface and centrifugal pump. The mean ECMO blood flow was 30-50 ml/(kg・min) and the flow was adjusted according to the changes in heart and lung functions. Activated clotting time (ACT) was >16() s and core temperature was 36-37 °C. Blood gases, platelets, plasma free hemoglobin and coagulation factors were measured during ECMO support. The blood supply was monitored in the limbs cannulated with the femoral artery cannula. Results Two patients were successfully treated with ECMO without major complications. The circulatory and respiratory function of the patients was stable. The chest X-ray showed a no clouding of lungs and hepatic function was greatly improved in case 2 who underwent a successful heart transplantation following mechanical cardiocirculatory support as a bridge. Iwo patients received ECMO support for 5 and 3 days respectively. Both patients recovered well. No any severe acute rejection occurred and heart function was NYHA I . Conclusion When candidates suffered acute cardiogenic shock♦ ECMO can provide safe and effective mechanical circulatory support as a bridge to heart transplantation.
+【Key words】 Heart-assist devices； Heart failure, congestive； Heart transplantation
+终末期心脏病患者在等待供心的过程中出现突 然的循环恶化时，心室辅助装置将为患者顺利过渡 到心脏移植提供有效的循环支持。在各种机械循环
+作者单位北京，中国医学科学院中国协和医科大学阜外心血
+管病医院；黑飞龙 E-mail： heifeilong(ayahoo. com
+辅助装置中，体外膜肺氧合(ECMO)是一种短中期 心肺支持技术，其费用较低，安全有效。我院有2例 终末期心脏病患者突发心源性休克，应用ECMO循 环支持过渡后成功进行了心脏移植，现将我们的体 会报告如下。
+中华器官移植杂志 2(X)7 年 7 月第 28 卷第 7 期 Chin J Organ Transplant,July 2(X)7, Vol 28,No. 7
+对象与方法
+一■、研究对象
+2005年1月至12月，本院完成的心脏移植术 中，有2例患者在等待供心期间发生心室颤动，心肺 复苏后转为ECMO支持,其后病情稳定，顺利过渡 到心脏移植。
+例1男性,37岁，体重9() kg。活动后心慌、气 短1年，胸闷2周伴心悸1 d急诊入院。入院时患 者不能平卧，呼吸急促，双肺闻及湿啰音，阵发性室 性心动过速，同步电复律后恢复窦性心律。入院后 5 h,患者出现烦躁，继而请妄，口唇及四肢发绡，大 汗，端坐呼吸，血压进行性下降,间断推注肾上腺素， 但效果较差，无尿，快速滴注碳酸氢钠无法纠正代谢 性酸中毒。两肺满布湿啰音，脉搏血氧饱和度 (SpQ)持续下降,最低达65 %。超声心动图显示 双室扩大,二尖瓣、三尖瓣返流，射血分数(EF)为 0. 31。临床诊断为急性限制型心肌病，心脏增大，心 室颤动，I度房室传导阻滞，室性心动过速,心源性 休克，肺部感染，呼吸衰竭，顽固性代谢性酸中毒。 各科会诊认为,药物治疗无法控制急进性心力衰竭， 呼吸衰竭和代谢性酸中毒难以纠正，需紧急机械循 环支持，等待心脏移植。遂于病床旁紧急建立 ECMO,给予肝素10() U/kg,全身麻醉下行股动脉、 静脉插管，使用Medtronic成人ECMO系统，采用 股动脉-股静脉(A-V)模式运行，初始运行参数:泵 速 2000 r/min,流量 45 ml«kg-1 •min-1。激活全血 凝固时间(ACT)维持在16()〜19() s,通气量为1.5 L，氧浓度为5() %。ECMO辅助48 h后，血流动力 学平稳，血气改善。ECMO辅助4 d后，SpC)2为99 %,X线显示肺水肿明显改善。升压药逐渐停用，患 者循环呼吸平稳，呼吸机参数维持低水平，ECMO 流量逐渐减至25 ml-kg-'-min-\第4天膜肺出 现血栓，但氧合尚未受影响。ECMO支持第5天等 到供心，患者携带ECMO进入手术室，呼吸机恢复 常规辅助,按心脏移植术常规麻醉诱导置管。全量 肝素化,ACT>48() s后，下腔静脉及主动脉插管， 建立体外循环，停止ECMO,在体外循环下成功进 行心脏移植，患者术后1个月出院。
+例2女性，15岁，体重45 kg。活动后胸闷、咳 嗽、气短，双下肢水肿7个月，不能平卧4个月。入 院胸片显示双室增大，心胸比为().74,超声心动图显 示EF为0.25,双室扩大。实验室检查，丙氨酸转氨
+• 411 •
+酶(ALT)为98() U/L,天冬氨酸转氨酶(AST)为 224 U/L,肌酸激酶(CK)为297 IU/L,CK同功酶 为57 IU/L,乳酸脱氢酶(LDH)为4511 IU/L. LDHi为1015 IU/L。临床诊断为扩张型心肌病，心 脏扩大，心功能W级,肺部感染,急性肝功能不全，给 予心内科支持、抗感染及保肝治疗。入院后1 d突 然发生抽搐，意识丧失，心电图提示心室颤动，立即 行心脏胸外按压、同步电复律，恢复窦性心律，意识 恢复后仍反复出现室性心动过速和心室颤动，血压 不能维持。心率为99次/min, Bp为11() mm Hg/ 75 mm Hg0血液气体分析：pH为7. 17, HC(),为 10. 1 mmol/L,剩余碱(BE)为-18. 5 mmol/L0 各 科会诊认为，药物治疗不能控制心力衰竭和呼吸衰 竭，代谢性酸中毒难以纠正，具备机械循环支持的适 应证,紧急行ECMO辅助治疗。ECMO前心肺复苏 时间70 min,于病床旁建立ECMO,全身麻醉下行 股动脉、静脉插管，使用Medtronic成人ECMO系 统,初始运行参数：泵速180() r/min,流量为40 ml«kg_1 Tnin-1 o ACT维持在 16()〜19() s,通气量 为1.5 L,氧浓度为5() %。ECMO辅助后，患者血 流动力学稳定，血气各指标正常，肝功能转好，患者 处于清醒状态，心功能明显改善，X线显示双肺清 晰。逐渐减低流量至K)mbkg-1	，血流动力
+学指标稳定，运行3 d后成功撤离ECMO,等待心脏 移植。患者于ECMO撤离后1() d成功接受心脏移 植，术后1个月出院。
+二、ECMO支持
+2例患者均在直视下插入股动脉、股静脉插管， 股动脉插管为日本Terumo公司产品，股静脉插管 为美国Medtronic公司产品。插管成功后，连接完 成循环排气的Medtronic套装肝素涂敷管路系统， 预充血定安600 ml,建立ECMO。循环途径为：股 静脉-离心泵-膜式氧合器-股动脉，流量3()〜5() ml«kg-1 •min-1 , ACT维持在160 s左右，血温维持 在36〜37 °C。流量随心肺功能改善情况进行调整， 支持期间监测动脉血气、血浆游离血红蛋白、血小 板、出血及凝血指标,转流期间采用保护性通气策 略,低潮气量通气，监测股动脉插管侧下肢血液循环 情况。均采取液体负平衡、抗生素、营养支持等综合 治疗措施。患者心电图正常，血流动力学稳定，血管 活性药用量不大，血气和水电解质正常,X线胸片清 晰,肺顺应性改善，可试行减低流量。当辅助流量减 少至机体正常血流量的25%后，患者生命体征稳
+中华器官移植杂志 2007 年 7 月第 28 卷第 7 期 Chin J Organ Transplant,July 2007, Vol 28,No. 7
+• 412 •
+定，终止ECMO支持。
+三、心脏移植
+尸体供心,主动脉根部注射肝素12 5()() U后阻 断升主动脉，从主动脉根部灌注4 °C St. Thomas液 1()0()ml,使供心迅速停搏。取下供心后，经主动脉 根部一次灌注4 °C HTK液进行心脏保护,供心浸 泡在4 °C保存液内。心脏移植完成后，从主动脉根 部灌注温血低钾(K+ 1() mmol/L)停搏液5 ml/kg。 心脏复跳后，常规辅助60 min左右,待血流动力学 稳定，血气、电解质正常后逐渐降低辅助流量，缓慢 撤离体外循环。
+结 果
+ECM。支持后，患者血气趋于正常，血流动力 学稳定，代谢性酸中毒纠正，正性肌力和血管活性药 减量，患者心功能逐步恢复。一例患者ECMO支持 5 d后直接过渡到心脏移植;另一例患者ECMO支 持3d,撤除ECMO后1() d接受心脏移植。患者 ECMO期间系统参数变化见表1,血气及血流动力 学变化见表2。患者在ECMO支持期间均未发生
+严重的并发症。
+2例患者分别于心脏移植术后18 h和2() h拔 除气管插管,未发生感染、急性排斥反应和心功能不 全等并发症，术前乏力、食欲差、胸闷、咳嗽、双下肢 水肿等症状消失，血流动力学、血气和生化指标正 常,心功能I级。术后1个月，超声心动图提示房室 大小正常，各瓣膜无返流,左室射血分数分别为(). 60 和().68。2例患者均痊愈出院。
+讨 论
+心脏移植是治疗终末期心力衰竭的有效方法, 但由于供者缺乏，约三分之一的患者在等待供心中 死亡机械循环支持技术是等待心脏移植患者的 过渡支持手段⑶，而ECMO操作简便,费用较低,能 同时进行心肺支持，正被临床广泛采用⑶。
+本组2例患者分别为限制型心肌病和扩张型心 肌病，均属终末期心脏病，需要进行心脏移植。但这 类患者心功能差,心律失常多见，在等待供心期间许 多诱因可引发急性心源性休克，对突然出现心力衰 竭的紧急病例，在心脏移植术前进行有效的过渡支
+表1 ECMO期间系统参数变化
+时间 (h)	泵速(r/min)		流量(L/min)		ACT(s)		肝素	,min - 1)	静脉路测压(mm Hg)	
+	例1	例2	例1	例2	例1	例2	例1	例2	例1	例2
+1	300()	1800	4100	150()	830	660	0	0	-17	-1()
+12	3100	1850	4200	1630	196	211	4	0	-21	-1
+24	30(H)	1850	4200	1720	163	147	4	8	-29	-2
+36	3210	1870	39(H)	1560	195	155	16	8	-25	()
+48	3200	189()	375()	1550	137	170	8	8	-19	-1
+60	3300	1440	3200	80()	166	160	8	24	-31	-9
+72	3120	1260	2900	3()()	207	140	20	24	-26	0
+84	3KM)		2700		152		16		-17	
+96	3000		2050		187		24		-25	
+12()	2960		2000		192		24		0	
+表2 ECMO期间血气及血流动力学变化										
+时间	Pa()2(mm Hg)	Sa()2(%)		PaC()2(mm Hg)	乳酸(mmol/L) 心率(1/min)			平均动脉压	中心静脉压		
+(h)	例1 例2	例1	例2	例1 例2	例1	例2 例	1 例2	例1	例2 例1	例2
+1	296	231	99	98	42. 5	36. 3	11. 7	8, 2	76	99		72	60	24	15
+12	257	21()	10()	99	44. 3	35.()	7.3	6 9	92	106		9()	77	17	5
+24	287	186	99	99	39.3	31.6	4.5	1.6	85	122		92	95	12	8
+36	238	189	99	98	42. 0	34. 2	2.3	0. 6	, 9	7	81	103	78	6	6
+48	192	192	10()	10()	35. 2	37. 4	2.()	(),8	93	79		97	76	8	2
+60	186	242	97	100	41.2	35.9	3. 1	(),4	75	78		92	79	4	4
+72	253	258	98	99	35, 5	34. 7	1.7	0.3	102	83		90	78	7	6
+84	158	1()()		31.7	2.0	91		93	6	
+96	179	99		29.5	0.9	9	3	97	8	
+120	152	99		33.9	1.5	89		98	1()	
+注:Pa()2为动脉血氧分压.PaC(b为二氧化碳分压,SaO?为氧饱和度;平均动脉压和中心静脉压的单位均为mm Hg
+中华器官移植杂志 2007 年 7 月第 28 卷第 7 期 Chin J Organ Transplant,July 2007, Vol 28,No. 7
+• 413 •
+持成为治疗的关键口⑸。ECMO将静脉血从体内引 流到体外，经膜肺氧合后再经驱动泵将血液灌注到 体内，能迅速稳定循环、呼吸功能,逐步偿还氧债,纠 正代谢性酸中毒，恢复内环境的稳定状态,为心脏移 植赢得时间。ECMO属于短期机械循环支持系统， 安全支持时间1〜2周，支持时间过长容易发生溶 血、感染、出血和血栓形成等并发症。如在ECMO 安全支持期间得到供心，则应立即进行心脏移植;如 通过ECMO支持，患者的心、肺功能恢复，病情稳 定,则可试行撤除ECMO,等待心脏移植;如无法脱 离ECMO,又没有合适的供心，则应在肺部病变恢 复后,转为中长期心室辅助（VAD）,继续等待心脏 移植时-本组2例患者，一例在ECMO支持期间得 到供心，进行了心脏移植，另一例支持3 d,患者的病 情稳定，撤除ECMO后1（） d进行了心脏移植。与 心室辅助相比,ECMO有以下优点：（1） ECMO的费 用比VAD低得多；（2）ECMO可在病床旁局部麻醉 下安装，操作简便迅速，一般可在30 min内完成，避 免了患者转运、全身麻醉和手术操作的风险；（3） ECMO同时提供呼吸和循环支持，严重心力衰竭患 者常有程度不等的心源性肺水肿，心、肺同时支持， 利于心、肺功能的恢复。
+ECMO为心、肺同时支持，牵涉环节多，易出现 并发症，加强管理非常重要。ECMO期间抗凝不 足,ECMO系统有血栓形成的风险;而抗凝过度又 常引起致命的出血并发症，因此维持合适的抗凝状 态非常重要。应定时监测ACT,控制ACT在160 s 左右。ECMO期间血小板消耗较为严重，一般血小 板应维持在高于5 x 10VL水平，低于该水平应及时 补充。支持期间适当使用抑肽酶等药物，以减少术 后出血，防止血栓形成为避免股动脉插管远端 的肢体缺血，可放置远端供血侧路。由于患者需要 进行心脏移植，术前应尽量避免输入血液成分。对 于有肝脏功能损害的患者,ECMO支持期间使用保 肝药物常可改善肝脏功能。感染也是ECMO支持
+患者较常见的并发症，在进行ECMO支持时，应注 意环境的清洁,保证各个操作环节严格无菌，合理使 用有效的抗生素。氧合器氧合能力降低时,应及时 更换氧合器⑻。本组2例患者在应用ECMO支持 后，内环境紊乱得到纠正，心、肺功能明显改善，未发 生明显的并发症。
+在心脏移植前，机械支持治疗过渡可有效降低 患者等待供心期间的死亡率。ECMO支持治疗费 用低,安装简便迅速，安全有效，为抢救患者生命赢 得宝贵时间。
+弁考文献
+[1] Wang SS, Chu SH, Ko WJ. Clinical outcome of heart transplantation： experience at the National Taiwan University Hospital. Transplant Proc, 1996, 28(4)： 1733-1734.
+[2]Helman DN, Addonizio LJ, Morales DLS, et al. Implantable left ventricular assist devices can successfully bridge adolescent patients to transplant. J Heart Lung Transplant, 2000, 19 (2)：121-126.
+[31 Goldman AP. Cassidy J, dekva M, et al. The waiting game： bridgingto pediatric heart transplantation. Lancet, 2(23. 362 (9400).1967-1970.
+[4]	Fumagalli R, Bombino M, Borelli M, et al. Percutaneous bridge to heart transplantation by venoarterial ECMO and transaortic left ventricular venting. I nt J Art if Organs* 2004 ♦ 27(5):410-413.
+[5]	Bae JO, Frischer JS, Waich M, et al. Extracorporeal membrane oxygenation in pediatric cardiac transplantation. J Pediatr Surgt 2005, 40(6) • 1051-1056.
+[6]	Wang SS, Ko WJ, Chen YS, et al. Mechanical bridge with extracorporeal membrane oxygenation and ventricular assist device to heart transplantation. Art if Organs, 2001, 25(8)： 599-602.
+[7]	Fiser WP, Yetman AT, Gunselman RJ, et al. Pediatric arteriovenous extracorporeal membrane oxygenation (ECMO) as a bridge to cardiac transplantation. J Heart Lung Transplant, 2()03, 22(7)：770-777.
+[8]	Doll N, Kiaii B. Borger M, et al. Five-year results of 219 consecutive patients treated with extracorporeal membrane oxygenation for refractory postoperative cardiogenic shock. Ann Thorac Surg» 2004♦ 77( 1) • 151-157.
+(收稿日期：2()()6-()7-11)
+更 正
+登载于我刊2007年6月第28卷第6期第362〜364页《更昔洛韦对肝移植术后巨细胞病毒感染的预防和治疗作用》一 文，由于作者的疏忽，文中更昔洛韦胶囊的用法“（）.25 g,每天3次,疗程为3个月”（第363页右栏正数第6行）有误，应为“每 次100（） mg,每天3次,疗程为3个月”，特此更正，并向读者致歉。

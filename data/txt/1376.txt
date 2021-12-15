@@ -1,0 +1,87 @@
+﻿•472^	《实用器官移植电子杂志》2019 年 11 月第 7 卷第 6 期 Prac J Organ Transplant (Electronic Version), November 2019, Vol.7, No.6
+•论著•
+心脏移植术后早期肾脏替代治疗的疗效分析
+刘俊铎1，王允彦1，姜亦瑶2，柴军武2，孔祥荣2(1.天津市第一中心医院肾内科, 天津 300192；2.天津市第一中心医院心外科,天津 300192)
+【摘要】 目的 分析心脏移植术后因急性肾损伤接受肾脏替代治疗的风险因素,及其对术后短期预后 的影响。方法 回顾性分析2013年1月—2019年6月单中心接受心脏移植术后早期因急性肾衰接受肾脏替 代治疗患者(区丁组，15例)与非肾脏替代治疗组患者(NRT组，62例)在年龄、体重指数、术前肾功能 及手术方式、体外循环时间、主动脉阻断时间、术中输注红细胞量、输注血浆量等方面的差异,以及两组 患者术后28 d内预后的差别。结果RT组患者年龄显著大于NRT组((58.70 土 7.70)岁比(52.80 土 12.70)岁, P = 0.028〕,术前估算肾小球滤过率显著低于 NRT 组〔(61.00±22.86) ml/min 比(75.34±25.16) ml/min, P = 0.048〕。RT组患者有2例接受心脏移植+主动脉内球囊反搏术，NRT组1例为心肾联合移植，其余均 为单纯心脏移植，RT组患者术中输注血浆量多于NRT组〔(1 423.33 土 572.44 ) ml比(1 053.71 土 560.77 ) ml, P = 0.024〕。RT组患者术后28 d内病死率显著高于NRT组( 53.33%比8.06%, P V0.001)。结论 心脏 移植术后早期因严重肾损伤而接受肾脏替代治疗是常见而严重的并发症,与患者年龄、术前肾功能受损、 术中大量输注血浆等因素相关,是导致术后早期患者死亡的主要危险因素。
+【关键词】 心脏移植； 早期； 肾脏替代治疗； 短期预后
+Early stage renal replacement therapy after heart transplantation and its short-term prognosis 1	122	2
+Liu Junduo,Wang Yunyan,Jiang Yiyao,Chai Junwu,Kong Xiangrong . 1. The Department of Nephrology,The First Central Hospital of Tianjin,Tianjin 300192,China；2. The Department of Cardiac Surgery,The First Central Hospital of Tianjin,Tianjin 300192,China
+Corresponding author：Wang Yunyan,Email：wy2wyy@163.com
+【Abstract】 Objective To investigate the risk factors of early stage renal replacement therapy for acute kidney injury after heart transplantation and its effect on short-term prognosis. Methods We retrospectively studied 77 consecutive heart transplant recipients from January 2013 to June 2019, 15 patients of them accepted renal replacement treatment for acute kidney injury at early stage (RT group), and the other 62 patients didn't (NRT group). The age, BMI, protopathy, renal function before operation, operation model, duration of cardiopulmonary bypass, aortic crossclamp time, volume of blood transfusion and fresh frozen plasma transfusion were compared between the two groups, and the 28 d mortality were analyzed. Results The patients of RT group were older than that of NRT group〔(58.70±7.70) years vs( 52.80±12.70) years,P = 0.028〕. The estimated glomerular filtration rate(eGFR) before operation were much lower in RT group〔(61.00±22.86) ml/min vs( 75.34±25.16) ml/min, P = 0.048〕. And more fresh frozen plasma were transfused to patients of RT group〔(1423.33±572.44)ml vs (1053.71±560.77) ml,P = 0.024〕. Besides, most patients accepted heart transplantation, two patients in RT group accepted intra-aortic balloon pulsation simultaneously and 1 patients in NRT group accepted combined
+DOI：10.3969/j.issn.2095-5332.2019.06.016
+基金项目：国家国际科技合作专项项目(2015DFG31850)
+通讯作者:王允彦，Email : wy2wyy@163.com
+《实用器官移植电子杂志》2019 年 11 月第 7 卷第 6 期 Prac J Organ Transplant (Electronic Version), November 2019, Vol.7, No.6 ・ 473 ・
+cardiopulmonary transplantation. Patients with renal replacement therapy had a greater 28 d mortality (53.33% vs 8.06%, P V 0.001). Conclusion The early stage renal replacement therapy after heart transplantation is a frequent complication associated with a high short-term mortality and is mainly associated with older age, preoperative renal function impairment and more fresh frozen plasma transfusion during operation.
+【Key words】 Heart transplantation； Early stage； Renal replacement treatment； Short-term prognosis
+急性肾衰竭(acute renal failure, ARF )是心脏 手术后常见且严重的并发症,心脏移植手术因为 患者心脏疾病严重,术前合并肾功能受损比例高, 手术中体外循环及主动脉阻断时间长、出血量 多，术后钙调磷酸酶抑制剂(calcineurin inhibitor, CNI)类免疫抑制剂的肾毒性等因素，急性肾衰更 为常见,且往往需要肾脏替代治疗,但缺乏大样本 的研究报道。2013年1月—2019年6月,天津市 第一中心医院共进行了82例心脏移植手术,15例 术后因为肾功能衰竭接受了肾脏替代治疗,本文就 其风险因素及其对短期预后的影响进行分析。
+1 对象和方法
+1.1	病例选择：自2013年1月—2019年6月本院 共进行心脏移植手术82例,其中5例术前合并较 严重肾功能受损而行心肾联合移植,被排除在本文 后续分析中。其余77例中男性66例(85.80%), 平均年龄53.90 ( 17.00 ~ 73.00 )岁，原发病中冠 心病31例(40.2%),扩张性心肌病36例(46.70%), 其他心脏疾病10例(13.00%)。15例术后早期 因肾功能衰竭行肾脏替代治疗，按照术后28 d内 是否接受肾脏替代治疗分为替代治疗组(RT组， 15例)和非替代治疗组(NRT组，62例)；根据 手术时间分为2015年前、2016—2017年、2018— 2019年三个阶段,分别为16例、21例和40例。
+1.2	资料收集：收集患者术前体重指数(body mass index, BMI)、肾功能、血常规、手术日期、术中 体外循环持续时间、主动脉阻断时间、术中输血
+量、术后肾功能肾脏替代治疗开始时间、持续时 间及术后28 d内的转归。术前肾功能采用血肌酐 及估算肾小球滤过率(estimated glomerular filtration rate, eGFR ) 2009 CKD-EPI 公式〔eGFR = 141 x min ( SCr / k , 1 ) ax max ( SCr / k , 1 ) -1.209 x 0.993 agex1.018(if female)x1.159(if black)〕。
+1.3	伦理学：本研究符合医学伦理学标准,得到 医院伦理委员会审批(2019N125KY )。
+1.4	统计学分析:计量资料以均数士标准差(X士 s) 表示，两组均数间比较采用t检验，两组计数资料 之间比较采用卡方检验，P V 0.05为有统计学意义。 2 结 果
+2.1	一般资料(表1)：两组患者的性别比例、 BMI、术前血色素水平均没有显著差别，但RT组 平均年龄显著高于NRT组，而术前肾功能比较， RT组血肌酐水平显著高于NRT组，eGFR则显著 低于NRT组，RT组术前有6例(40.00%)患者 eGFR V 60 ml/min,而 NRT 组为 12 例(19.35% ), 但差别无统计学意义(P = 0.090)。RT组原发病 主要是冠心病,占66.70%,其次为扩张性心肌病, 占26.70%,而NRT组冠心病仅占33.90%,扩张性 心肌病占51.60%。
+2.2	术中资料(表2)： RT组13例行单纯心脏 移植术,2例心脏移植联合主动脉内球囊反搏术, NRT组61例为单纯心脏移植，1例心肾联合移植 术。术中体外循环时间RT组平均为301.30 min, NRT组平均为210.80 min,但差异不具有统计学意
+	表1术前基本资料
+组别	例数	性别	年龄 (例)〔例(％)〕(岁,X±s)	BMI	术前肾功能	原发病〔例(％)〕 、	血红蛋白 (x 土s)	血肌酐	eGFR	eGFRv (g/L, x 土s)	冠心病	扩心病	其他 (^mol/L, x ±s) (ml/min, x ±s) 60 ml/min(例，％)
+RT 组	15	13 ( 86.70) 58.70± 7.70 24.30±3.80 137.50±20.00	141.46± 133.66	61.00±22.86	6/15 (40.00%)	10 (66.70)	4 (26.70)	1 ( 6.70)
+NRT 组	62	53 ( 85.50) 52.80± 12.70 25.90±3.80 135.20±20.50	101.82± 32.65	75.34± 25.16	12/62 ( 19.35%)	21 (33.90)	32 (51.60)	9 ( 14.50)
+P 值	0.906	0.028a	0.27	0.694	0.032	0.048	0.090	0.067
+注：与RT组相比，aP V 0.05
+•474・	《实用器官移植电子杂志》2019 年 11 月第 7 卷第 6 期 Prac J Organ Transplant (Electronic Version), November 2019, Vol.7, No.6
+	表2术中资料
+组别	例数	手术类型〔例（％）〕	 体外循环时间	主动脉阻断时间	术中输血量	术中输血浆量 （例）	心脏移植	心脏移植+	心脏移植+主动脉内	（min, X±s）	（min, X±s）	（U, X±s）	（ml, X±s） 肾移植	球囊反搏术
+RT组 NRT组	15	13 (86.70)	0 (0.00)	2 ( 13.30)	301.30± 104.20	130.50±37.80	7.07±4.73	1423.33±572.44 62	61 (98.40)	1 ( 1.60)	0 ( 0.00)	210.80±36.30	120.60±27.70	5.41 ±4.35	1 053.71 ±560.77
+P值	0.013a	0.087	120.60±27.70	0.256	0.024a
+注：与RT组相比，aP <0.05
+义（P = 0.087）,主动脉阻断时间两组之间也无显 著差异。术中输血量两组之间无显著差异,但输血 浆量RT组显著多于NRT组。
+2.3	治疗及转归：RT组患者术后开始治疗时间 为（6.73±6.04）d,均采用连续性肾脏替代治疗方 式，术后28 d内8例死亡（53.33% ）, 4例肾功能 恢复停止替代治疗，3例至术后28 d继续肾脏替 代治疗。NRT组术后28 d内死亡5例（8.06%）, 与RT组差别显著（P < 0.001 ）。
+进一步根据手术时间分为3组：2015年之前、 2016—2017年及2018—2019年（图1）。随着时间 推移,术后早期需要肾脏替代治疗的比例快速下 降（31.30%、22.70%、12.20%）,围术期病死率也 显著下降（31.30%、18.20%、9.75%）。肾脏替代 治疗后的转归也有较大差别，2015年前5例患者 28 d内均死亡,2016—2017年4例患者中2例存活， 2018—2019年5例患者4例存活（表3）。
+35.00%
+30.00%
+25.00%
+20.00%
+15.00%
+10.00%
+2015年前	2016—2017年	2018—2019年
+肾替代治疗例数	围术期死亡例数
+5.00%
+0.00%
+图1 不同阶段心脏移植短期预后
+表3 治疗与转归〔例（%）〕
+组别	围术期死亡	肾替代治疗	替代治疗后死亡
+2015年前	5/16(31.30)	5/16(31.30)	5/5(100)
+2016-2017年	4/22(18.20)	5/22(22.70)	2/5( 40)
+2018-2019年	4/41( 9.75)	5/41(12.20)	1/5( 20)
+P值	0.350	0.234	0.153
+3 讨 论
+急性肾衰竭是心脏手术常见的并发症,以往 报道的心脏外科术后合并急性肾衰竭的发生率为 3.50% ~ 31.00%［t〕,其中 0.30%~ 15.00%需要 透析治疗［8-11］,以往的报道中,这个比例差别很 大,主要与对透析治疗的指征把握不同相关。心脏 移植手术难度高、持续时间长、体外循环持续时 间长、术前常合并肾功能受损、术后钙调神经抑制 剂的使用等因素,急性肾衰竭的发生率可能更高, 以往文献报道心脏移植术后急性肾损伤发生率为 14.00% ~ 76.00%［11-18］,导致严重肾功能损害而需 要透析治疗的比例为5.00% ~ 39.00%［11,12,15-20］, 本中心77例心脏移植术后发生急性肾衰且需要肾 脏替代治疗的比例为19.50%,且患者年龄、术前 肾功能、术中输新鲜冰冻血浆量等是术后肾脏替 代治疗的危险因素，文献也报道术前的肾损害与术 后急性肾损害发生相关［3-6］；患者年龄是另一个独 立危险因素,年龄较大患者肾脏的储备功能下降以 及面对术中各种原因导致的肾脏低灌注更为脆弱 都是可能的原因［9,21］。文献报道,体外循环时间 是影响术后急性肾衰的重要因素［3-6,11-13］,有报道 称体外循环大于90 min就会显著增加急性肾衰风 险［9］,本研究中替代治疗组患者平均体外循环为 301.30 min, 非替代治疗组为210.80 min； 术中出 血量等危险因素与急性肾衰发生之间的关联,本研 究未能证实,但替代治疗组输注新鲜冰冻血浆量显 著多于非替代治疗组,这方面既往的研究也有报 道［18］。本研究发现,发生急性肾衰需要肾脏替代 治疗的患者中原发病为冠心病占比较高,而非肾脏 替代治疗组患者中原发病为扩张性心肌病的占比较 高,但这方面有待更多样本、前瞻性研究的证实。 文献报道瓣膜病心脏移植术后急性肾损伤比例较 高,本系列患者中原发病为瓣膜病的仅4例,均未 在术后需要替代治疗组。
+《实用器官移植电子杂志》2019 年 11 月第 7 卷第 6 期 Prac J Organ Transplant (Electronic Version), November 2019, Vol.7, No.6 ・475・
+文献报道术后急性肾衰竭患者的病死率高达 1.30% ~ 22.30%n-7, 9, 17-18],而需要肾脏替代治 疗者病死率更高达23.90% ~ 88.90% G”,本组 77例心脏移植患者围术期病死率为15.90%,而需 要肾脏替代治疗的患者术后28 d的病死率更高达 53.3%,显著高于非肾脏替代治疗患者(8.06%), 说明心脏移植术后发生急性肾衰是围术期死亡的重 要危险因素。本院心脏移植团队组建并开始心脏移 植手术始于2013年,到2019年6月共完成心脏移 植手术82例(含心肾联合移植5例),作者团队也 发现早期(2015年前)急性肾衰并需要透析的发 生率较高,随后随着时间的推移逐步下降,类似的 患者的存活率也逐步提高,说明不管是预防术后严 重急性肾衰的发生,还是发生后的治疗效果,都与 医疗团队技术的成熟关系密切。
+本研究受回顾性资料收集的限制,对患者术前 心脏功能、包括糖尿病在内的合并症、术中出血量、 术后血管活性药物的使用情况,以及肾脏替代治疗 的方案也因为差异太大未纳入统计分析。
+参考文献
+[	1] Brown JR, Hisey WM, Marshall EJ, et al. Acute kidney injury severity and long-term readmission and mortality after cardiac surgery[J] . Ann Thorac Surg,2016,102(5)：1482-1489.
+[	2] 刘玲,姜春生,陈文梅,等.连续性血液净化在心脏术后严重肾 衰竭中的应用[J ].中国血液净化,2006,5 (11)： 762-765.
+[	3] Brown JR, Cochran RP, MacKenzie TA, et al. Long-term survival after cardiac surgery is predicted by estimated glomerular filtration rate[J] . Ann Thorac Surg,2008,86(1)：4-11.
+[	4] Kiers HD , van den Boogaard M, Schoenmakers MC, et al. Comparison and clinical suitability of eight prediction models for cardiac surgery related acute kidney injury[J] . Nephrol Dial Transplant,2013,28(2)：345-351.
+[	5] Bastin AJ, Ostermann M, Slack AJ, et al. Acute kidney injury after cardiac surgery according to Risk/Injury/Failure/Loss/End-stage, Acute Kidney Injury Network, and Kidney Disease： Improving Global Outcomes classifications[J] . J Crit Care,2013, 28(4)：389-396.
+[	6] Perez-Valdivieso JR, Monedero P, Vives M, et al. Cardiacsurgery associated acute kidney injury requiring renal replacement therapy. A Spanish retrospective case-cohort study[J] . BMC Nephrol,2009,10：27.
+[	7] Dasta JF, Kane-Gill SL, Durtschi AJ, et al. Costs and outcomes of acute kidney injury( AKI)following cardiac surgery[J] . Nephrol
+Dial Transplant,2008,23(6)：1970-1974.
+[	8] Fortescue EB, Bates DW, Chertow GM. Predicting acute renal failure after coronary bypass surgery： crossvalidation of two risk-stratification algorithms[J] . Kidney Int,2000,57(6)： 2594-602.
+[	9] Santos FO,Silveira MA,Maia RB,et al. Acute renal failure after coronary artery bypass surgery with extracorporeal circulation -Incidence, risk factors, and mortality[J] . Arq Bras Cardiol, 2004,83(2)：150-154,145-149.
+[10]	Levy EM, Viscoli CM, Horwitz RI. The effect of acute renal failure on mortality. A cohort analysis[J] . Jama,1996,275(19)： 1489-1494.
+[11]	De Santo LS, Romano G, Amarelli C, et al. Implications of acute kidney injury after heart transplantation： what a surgeon should know[J] . Eur J Cardiothorac Surg,2011,40(6)：1355-1361.
+[12]	Gude E, Andreassen AK, Arora S, et al. Acute renal failure early after heart transplantation： risk factors and clinical consequences [J]. Clin Transplant,2010,24(6)：E207-E213.
+[13]	WyattCM, Arons RR. The burden of acute renal failure in nonrenal solid organ transplantation[J] . Transplantation,2004,78(9)： 1351-1355.
+[14	] TurkerM, Zeyneloglu P, Sezgin A, et al. RIFLE criteria for acute kidney dysfunction following heart transplantation： incidence and risk factors[J] . Transplant Proc,2013,45(10)：3534-3537.
+[15	] Escoresca Ortega AM, Ruiz de Azua Lopez Z, Hinojosa Perez R, et al. Kidney failure after heart transplantation[J] .Transplant Proc,2010,42(8)： 3193-3195.
+[16]	Fortrie G, Manintveld OC, Caliskan K, et al. Acute kidney injury as a complication of cardiac transplantation： incidence, risk factors, and impact on 1-year mortality and renal function[J] . Transplantation,2016,100(8)：1740-1749.
+[17]	Boyle JM,Moualla S, Arrigain S, et al. Risks and outcomes of acute kidney injury requiring dialysis after cardiac transplantation [J] . Am J Kidney Dis,2006,48(5)：787-796.
+[18]	Tjahjono R, Connellan M, Granger E. Predictors of acute kidney injury in cardiac transplantation[J] . Transplant Proc,2016, 48(1)：167-172.
+[19]	Schiferer A, Zuckermann A, Dunkler D, et al. Acute kidney injury and outcome after heart transplantation： large differences in performance of scoring systems[J] . Transplantation,2016, 100(11)：2439-2446.
+[20	] Gultekin B, Beyazpinar DS, Ersoy O, et al. Incidence and outcomes of acute kidney injury after orthotopic cardiac transplant： a populationbased cohort[J] . Exp Clin Transplant,2015,13 Suppl 3：26-29.
+[21]	Xu J, Yu J, Xu X, et al. Preoperative hidden renal dysfunction add an age dependent risk of progressive chronic kidney disease after cardiac surgery[J] . J Cardiothorac Sur,2019,14(1)：151.
+(收稿日期：2019-07-31)
+刘俊铎，王允彦，姜亦瑶，柴军武，孔祥荣.心脏移植术后早期肾脏替代治疗的疗效分析[J/CD].实用器官移植电子杂志， 2019，7（6）：472-475.

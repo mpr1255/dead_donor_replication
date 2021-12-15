@@ -1,0 +1,91 @@
+﻿DOI :10. 16016/j. 1000 -5404.2000.03.030
+第22卷第3期 2000年3月
+导的。此外，据报道:在缺氧诱导VEGF表达的信号 传导中也有Ca2+离子流的参与[6]。蛋白激酶C (Protein kinase C PKC)参与了体内多种物质的生物合成, 是重要的信号传导介质。本实验应用PKC激动剂 PMA及PKC抑制剂Chelerythrine探讨PKC通路在 心肌细胞缺氧产生VEGF中的作用。结果显示:PMA 刺激组(BC D组),其VEGF表达量与缺氧对照组A 组相比较均有非常显著差异(P<0. 01),且呈剂量相 关趋势。而PKC抑制剂Chelerythrine组VEGF表达 量与缺氧对照组相比降低(PV 0.01)。说明在缺氧状 态下,PMA促进心肌细胞分泌产生VEGF,而PKC抑 制剂则减弱了此作用,但未完全阻断此过程,由此说 明:缺氧诱导大鼠心肌细胞分泌产生VEGF蛋白其 信号传导部分是通过PKC通路完成的。对于其它信 号传导通路的存在尚有待进一步证实。
+参考文献
+[1]	Hahimoto E Teruhiko O. Takaski N. et al. Rapid induction of vascular endothelial g rowth fact or expression by tran-si ent ischemi a in rat h eart [ J].A m J Ph ysiol , 1 994, 267
+第三军医大学学报
+ACTA ACA DEM IAE MEDICINAE MILITARIS TERTIAE
+Vol. 22 , No. 3 M ar.2000	277
+(4): H1 948-H1 954.
+[2]	Banai S, Jaklitsh MT, Shou M. et al. Angiongenic induced
+enhancement of collateral bl ood flow to is chemic m yocardiu m by VEGF in dogs[ J]. Circulation 1994 89 (5):2 183- 2 189.
+[3]	Simpson P, Savion S Differentiation of rat myocytes in sin-
+gle cell culture with and without proli ferat in g n onm yocardi al cells[ J]. Circ Res 1982 50(1): 101- 116.
+[4]	Mukhopadhy D Tsiokas L Zhou X M. et al. Hypoxia in-
+duction of human en dot h elial cell brow th f acto r expression through c-S rc activation[ J].Nature 1995 375(2): 577 -581.
+[5]	Takagi H, King G L Robinson G S, et al. Adenosine
+medited hyp oxi a induction of vascu lar endothelial grow th factor in retinal micro vascular endo t helial cells[ J].Inv Oph-tal Vis Sci 1996 37(5):2 165-2 176.
+[6]	Claffy K. Wilkison WO, Spiegelman B M. Vascular en-
+dothelilal grow th facto r regulatio n by cell differentiation and activa ted seco nd m essenger pathways [ J].J Biol Chem 1992 26 7(16): 16 317- 16 322.
+(编辑谢义霞)
+文章编号: 1000-5404(2000)03-0277-01
+经验与短篇
+用流式细胞术监测原位心脏移植病人术后的T细胞及亚群的变化
+Monitoring the changes of T cell and its subgroup after orthotopic cardiac transplantation with flow cytometry
+汪志文1,马 铮2，李	磊1,周元国1	(第三军医大学附属大坪医院野战外科研究所：1分子生物学中心；2胸心外科；重庆
+400042)
+我院于1998年9月成功地进行了 1例扩张型心肌病患者 的原位心脏移植手术 我们采用流式细胞术对术前、术后淋巴 细胞、T细胞及其亚群进行了详细的监测。
+1资料与方法
+1. 1临床资料
+患者 男 14岁 汉族 因扩张性心肌病入院 符合心脏移植 条件。供者 男 28岁 脑死亡者。免疫抑制剂的使用状况:术 前1 d开始给病人服用环孢素A和硫唑嘌吟剂量分别为150 mg/次、2次/ d 37 5 mg/次、2次/ d手术当日晨：环孢素A 150 mg、硫唑嘌吟37. 5 mg静滴；术后当晚：同手术当日晨，另加甲 基强的松龙1000mg分2次静滴。以后:每日均按手术当日用 药,术后第4天开始减免疫抑制剂用量。手术采用体外循环方
+作者简介:汪志文(1963.7),女,四川省泸州市人,实验师,主要从
+事生化实验方面的研究,发表论文5篇。电话:(023)
+68757465
+收稿日期；1999 01 率，修回日期：1999 U8Y,6 Electronic Publishing House. AU rights reserved.
+法进行全心移植。
+1. 2样品采集
+于术前和术后2、3、5、7d同法采患者静脉血2ml(肝素抗 凝)送检。术前血为服免疫抑制剂前采集。
+1. 3 方法
+采集的血液标本用法国IMMUNOTECH公司生产的荧光抗 体 直接标记。操作步骤为:①20因抗体+100因全血，混匀，25° C室温放置15 min②加500因红细胞裂解液，混匀,25°C放置 10 min③加500Ml pH 7 4磷酸缓冲液混匀，24C放置10 min 后上机。④检测:采用美国Coulter公司生产的ELITE ESP型流 式细胞仪观测外周血淋巴细胞、单核细胞、粒细胞、T淋巴细胞 及其亚群cd+cd+cd+cdj/cdj的数量变化。每次检测计 数5万个白细胞,其中80%以上是单个白细胞,通过设定门通道 进行分类计数;少量聚集粘连在一起细胞不能被有效计数,故不 列入检测结果。流式细胞仪的光源为氩离子激光器,激发波长 488 nm 发射波长分别为 525 nm(FITC)、575 nm(PE)
+286
+第三军医大学学报
+第3期
+参考文献
+[ 1]	Kuhn F, M o rris R, Witherspoon C D, et al.A standardized
+classificati on of ocular trauma[ J]. O phthalmology, 1996, 1 03 (2):240-243.
+[ 2]	M ieler W F, M ittra R A.The role and timing of pars plan a
+vitrectomy in penet rat in g ocular t raum a[ J].Arch Ophthalmol, 1 997, 115(9): 1 191- 1 192.
+[ 3]	Ch erry P M. In direct traumatic rupture of the globe[ J]
+.A rchOphthalmol, 1978, 96(2):252 -256.
+[ 4]	De Juan E Jr, Ster nberg P Jr, M ichels R G.Penetrating oc-
+(上接277页)
+2 结果
+原位心脏移植病人术后第2、3天血中CD+CD+CD。和 CD4+/ CD8均明显下降 术后5 - 7 d呈逐渐恢复趋势 但在术 后7d仍低于术前，见表1淋巴细胞在术后也明显减低，术后 2 ~ 7d 一直在10%以下。而单核细胞和粒细胞在术后显升高 趋势,见表2。
+表1手术前后T淋巴细胞亚群含量百分比变化(％)						
+	术前	术后(d)				正常值
+		2	3	5	7	
+	70.2	22,1	31.8	41.0	50.2	61.1-77.0
+CD；	70.4	14,0	14.6	24.6	29.9	25.8-41.6
+ciy	41.3	14.3	16J	18.9	21.8	18.1-29.6
+w，c以	1.70	0,98	0,91	1.30	1.37	1.45-2.27
+	正常参考值由第二军医大学长征医院提供					
+		表2手术前后淋巴细胞、				
+	单核细胞和粒细胞百分含量变化(%)					
+	术前		术后(d)			正常值
+		2	3	5	7	
+淋巴细胞	24.8	7.0	7.7	8.1	9.4	30
+单核细胞	1.8	5.2	4.0	3.3	1,7	1-3
+粒细胞	4S.8	71.4	81.9	76.9	67.3	70
+3讨论
+在进行异体器官移植后,移植物均可刺激受者的免疫系统 发生免疫应答,导致排斥反应。排斥反应发生的强弱取决于供 者、受者间组织相容性抗原的差异程度,受者的免疫功能状态、 移植物的种类及预防措施等因素。术后控制排斥反应是保证 移植物存活和发挥正常功能的关键。目前常用的方法就是术 后长期服用免疫抑制类药物,但过度抑制机体的免疫系统,又 可引起免疫功能缺陷、严重感染和造血功能障碍等并发症[1]。
+ular i nju ries.Ty pe of injuries and visu al res ul ts [ J ] .O phthalmolog y, 1983, 90(11): 1 318- 1 322.
+[ 5]	C olem an D J.Early vitrectomy i n the management of the
+severely traumatized eye[ J].Am J O phthalmol, 1982, 93 (5):543-547.
+[ 6]	Ryan S J. Gu ideli nes in the m anagem en t of p enet rat in g ocu-
+lar traum a with em ph asis on the role of timing of pars plan a vitrectomy[ J].Int Ophthalmol, 1979, 1(2): 105- 108.
+[7]	张卯年,马志中,何守志,等.玻璃体切除手术在眼外伤
+中的应用[J .中华眼科杂志,1993, 29(6)： 329- 330 (编辑王红)
+疫抑制剂,对患者的康复具有重要意义。
+CD3+为总T细胞标记，CD4+和CDt分别是T细胞辅助/ 诱导亚群、T抑制/细胞毒细胞亚群的标记，它们是重要的免疫 调节细胞。流式细胞仪对淋巴、单核、粒细胞数量和T淋巴细 胞及其亚群的检测,可用于术前、术后的免疫状态监测,特别是 对急性排斥反应是否出现有较高的阳性预测率[ 2, 3]。本例用流 式细胞仪进行分析,结果显示,术前 CD3+、CD4+、CD8+、CD4+/ CD?的值在正常范围内或抡高于正常值，粒细胞数量略低于正 常值;术后第2、3天淋巴细胞及亚群的阳性率明显降低,而单 核细胞和粒细胞数量呈增多趋势。这与术后环孢素A、硫唑嘌 呤、甲基强的松龙等免疫抑制剂的使用,抑制了机体免疫系统 功能有关[4]。随着环孢素A、硫唑嘌吟、甲基强的松龙等免疫 抑制剂用量的逐渐减低，淋巴细胞总数、T淋巴细胞及亚群的 阳性率逐步恢复正常。
+本文结果显示随着术后急性排斥期的过去,免疫抑制剂用 量的减少,患者的免疫系统在逐渐恢复。提示该手术后免疫抑 制剂使用适当免疫能力恢复平稳。本例患者于术后14 d作心 内膜活检一次取2处标本，结果显示,一处为1A级排斥反应， 另一处为零级。与流式细胞仪检测结果相吻合,表明用流式细 胞术监测器官移植术后受者免疫状态,对指导临床合理应用免 疫抑制剂提供有价值的参考意见。
+关键词 流式细胞术;移植;T细胞
+中图法分类号 R446 113	文献标识码 B
+参考文献
+[1]毕爱华，龚非力.医学免疫学[M].北京：北京人民医学 出版社, 1996.256 -263.
+[ 2]	U tzig M J, Blumke M.Flow cytometry cross-match :a
+method for predicting g raft rejecti on [ J].Transplantatio n, 1997, 63(4):551-554.
+[ 3]	S han ahan T.Application of flow cytometry in t ransp lant a-
+tion medicine] J] . Immunol Invest, 1997, 26(1 ~ 2)： 91 一 101.
+[4]	Wang X H, Xie T. Factors affecting therapeutic effect of aii—
+ti CD3 and CD4 mo noclonal an ti body in acut e renal allog raft reject ion[ J].T ransplant Proc, 1 996 , 28( 3): 1 306- 1 308.
+因此.手术前后,特别是术后进行免疫功能的监测合理使用免	(编辑冷怀明)

@@ -1,0 +1,54 @@
+﻿• 138 •
+中华外科杂志 2007 年 1 月第 45 卷第 2 期 Chin J Surg, January 2007, Vol. 45 , No. 2
+•国外学术动态•
+从多伦多经验谈肺移植进展
+朱艳红昌盛陈静瑜
+1983年多伦多总院进行了全球首例成功的单肺移植， 此后,随着供受者选择、肺保存技术、肺移植手术技术、围手 术期管理和免疫抑制剂的进步,肺移植得以在全世界范围内 广泛开展，术后早期生存率显著提高，肺移植也成为治疗终 末期肺病可选择的惟一方法。近5年来,肺移植每年以1500 例的速度在增长，而在2000年后全世界每年单、双肺移植的 数量已经持平,2002年后双肺移植已超过单肺移植，至2004 年底全世界共完成单、双肺移植约19 000多例，术后1年生 存率为76%⑴。在肺移植发展的历程中，多伦多肺移植中 心无论在临床研究还是基础研究均处于领先地位，现根据我 们近年来在多伦多肺移植中心的学习体会，从多伦多肺移植 经验谈一谈当今肺移植进展。
+在最初的10年中,多伦多主要在肺移植术式上进行探 索,包括单肺移植、整体双肺移植、序贯式双肺移植（体外循 环或非体外体外循环下进行）、肺叶移植，后10年则在延长 肺移植患者等待时间，增加供肺的利用及功能等方面进行了 研究。1986年多伦多在单肺移植成功的基础上又进行了首 例成功的双肺移植。1988年双肺移植治疗的肺囊性纤维化 受者存活至今。20年来该中心一共进行肺移植674例，其 中双肺移植551例（81. 8% ）、单肺移植103例（15. 3% ）、心 肺移植20例（2. 9%）、再次肺移植21例（3.1%）。所有病 例中以慢性阻塞性肺病（COPD）受者最多（32. 9% ）,其次是 特发性肺纤维化（26. 7% ）和肺囊性纤维化（23. 1% ）。共实 施儿童肺移植22例，其中再次肺移植1例。儿童肺移植受 者原发病多为肺囊性纤维化，占77%，其他分别是原发性肺 动脉高压（9% ）和Eisenmenger综合征（5% ）。该中心自20 世纪90年代以来，肺移植数量逐年增多，尤其是2000年以 来稳定在每年40 ~ 70例之间，成为全世界每年肺移植总数 超过50例的三大肺移植中心之一。目前在多伦多手术技术 已完全成熟,双肺移植的比率占了 90%，术后近期（＜30 d） 死亡率已低于10% ,长期效果显示受者5年存活率为52% , 10年存活率为34%。
+当前国际上肺移植发展的主要障碍是供体的短缺，受体 常常因为等不到合适供体，病情加重而死亡。肺移植围手术 期的死亡原因主要有原发性移植肺失功（primary graft dysfunction, PGD）、急性排斥反应和感染,1年以上的主要死
+作者单位：214073江南大学附属医院无锡市胸科医院肺移植 中心（朱艳红、陈静瑜）；华中科技大学同济医学院附属同济医院器 官移植研究院（昌盛）
+通讯作者.陈静瑜,Email ： jingyuchen@ hotmail. com
+亡原因是闭塞性细支气管炎综合征。多伦多肺移植中心在 此方面进行了探索，具体有以下进展。
+一、延长受体等待时间
+据加拿大安大略省的资料显示，由于供体短缺每年有 20% ~25%的患者在等待中死亡。因此关键是如何尽可能 延长患者等待时间。尽管体外循环（ECMO）技术在挽救终 末期呼吸功能衰竭方面有一定效果，但其有操作技术复杂， 需要体外人工血泵辅助，且血流动力学影响大、费用高昂、使 用时间不能过长等缺点。2003年德国研制出一种简易的体 外膜氧合装置一NovaLung®?* ,已在欧洲开始应用。该技 术操作简单，采用股动、静脉插管,体外接NovaLung®膜氧合 装置,其特点是血流阻抗小，管道流量大,仅依靠心脏泵血， 无需采用体外人工血泵。它只需将体内部分血液引出体外 氧合，但氧合效率高,CO2清除完全，一般6 h以内即可明显 改善高碳酸血症情况。配合采用保护性肺通气策略可以达 到较满意效果，且基本上避免了 ECMO技术的主要副作用。 Fischer等⑷首先报道了 2003年3月至2004年8月7例呼 吸机依赖的高危高碳酸血症患者采用NovaLung®技术，其中 6例成功过渡到接受肺移植，另1例因细菌感染致多器官衰 竭死亡。7例患者平均使用时间（14. 7 ±8.0） d,最长28 d, 使用后PaCO,显著下降,PH恢复正常。NovaLung®已在多 伦多用于动物试验，但目前尚无临床应用。
+二、提高供肺的可利用度
+目前的肺移植供体仍以尸体供者为主，为了缓解供肺紧 张,应尽可能对现有供体更好地加以利用。在过去的几年中 由于强化了对供肺的管理,对扩大供体及边缘供体利用率的 提高,使得以往供肺10%左右的利用率得以明显提高，据统 计在过去的10年中加利福尼亚供肺利用率从5%升至 38%，而多伦多则达到43% 3句。多伦多肺移植中心提出通 过更好地管理供体、预测术后肺功能、离体供肺的评估、离体 供肺的修复四方面来达到此目的。在总的供体数量变化不 大的基础上，而能使可用的供肺数量明显增加，且移植效果 也不减低。
+1	.加强供肺的管理及边缘供体的利用：供体的机械通 气、肺炎、误吸、血流动力学不稳定、内分泌失调、低体温、凝 血功能紊乱和外伤等都可引起炎性反应从而导致移植后肺 的缺血再灌注损伤，对此许多移植中心加强了对供体的管 理:如纠正代谢紊乱、维持激素低水平的用量、稳定血流动力 学及加强呼吸道的管理。2001多伦多在临床上应用其研究 的专门用于肺灌注保存的低钾右旋糖酎液（LPD液），取得 了很好的临床疗效⑺。以前一般肺的冷缺血时间为4 ~6h,
+中华外科杂志 2007 年 1 月第 45 卷第 2 期 Chin J Surg, January 2007, Vol. 45, No. 2
+■ 139 •
+而根据多伦多的经验，用LPD液灌注供肺时肺的冷缺血时 间临床上达到12 h,移植肺功能仍保持良好。2001年瑞典报 道应用LPD液灌注保存心跳停止数小时后的供肺仍能得到 较好的肺功能⑻。2003年LPD液获美国食品与药品管理局 (FDA)批准后,目前全世界主要的肺移植中心均应用此液体 进行肺灌注保存。
+在肺移植开展的早期阶段，通常只有被认为“理想”的 供体才会被用于肺移植,这就造成仅有差不多不到供体总数 量10%的供肺得到利用⑸。近来研究表明，对扩大供体及 边缘供体利用率的提高使供肺利用率增加到了 40%⑵。另 外,如果以肺组织含水量和肺泡液体清除率作为评判标准， 那么41%的供肺将可安全利用1刈。因此，重新修正以往的 供肺选择标准,术前即准确评估、预测术后移植肺功能,并对 供体进行优化处理，可望在总的供体数量变化不大的基础 上,使肺移植数量明显增加，且移植效果也不减低。
+2	.预测术后肺功能:术前供体切取时即对术后近期移 植肺功能进行准确评估、预测，对肺移植效果及受者的长期 存活意义重大，它可以在一定程度上减少肺移植术后PGD 的发生率。肺移植术后1个月内,PGD是导致肺移植近期死 亡的主要原因。它包括供者因素、移植手术本身的因素(如 缺血再灌注损伤、外科手术创伤等)、受者因素(原发疾病因 素、免疫学因素等)及医源性因素等。术前对多种因素进行 分析可预测术后肺功能。多伦多总院肺移植中心对128例 肺移植进行分类,根据供体质量分为标准供体与扩大供体, 总共123个供体,63 (51 %)个为扩大供体，术后30 d的病死 率为17.5% (11/63),而标准供体术后30 d的病死率为 6. 2% (4/65) I"1。根据受体情况分为标准受体与非标准受 体。又根据相互配伍分为4组:标准供体+标准受体组、标 准供体+非标准受体组、扩大供体+标准受体组和扩大供体 +非标准受体组。结果分析显示，标准供体+标准受体组术 后30 d病死率为6.5% (3/46)；标准供体+非标准受体组为 5. 3% (1/19)；而扩大供体+标准受体组为15. 6% (7/45)； 扩大供体+非标准受体组为22. 2% (4/18)皿。由此可见， 供体质量对移植效果有显著影响。
+移植相关的肺损伤包括两方面因素：同种抗原依赖性因 素和非同种抗原依赖性因素。前者又包括MHC错配、急性 排斥反应、不恰当的免疫抑制剂应用等。这些因素可使同种 反应性T细胞活化并发挥效应，对供肺组织造成损伤;后者 则包括缺血再灌注损伤上调免疫应答、巨细胞病毒感染、脑 死亡导致儿茶酚胺释放、机械通气和不适当的治疗等，这些 因素均可导致组织损伤。其中同种抗原依赖性因素和非同 种抗原依赖性因素之间又可以相互作用，进一步加重损伤的 程度，最终导致移植肺失功。
+缺血再灌注现象所造成的肺损伤在肺移植过程中几乎 不可避免,它是由多种因素激活炎性细胞因子，进而作用于 肺组织所导致。这些因素包括供肺的冷保存、脑死亡、低血 压、创伤、机械通气、肺部炎症及误吸等［⑴。供肺的冷保存、 植入过程的热缺血、移植物的再灌注共同造成细胞受损，这
+种受损如果是不可逆的，即导致细胞死亡;反之，细胞得以存 活并最终恢复正常。多伦多总院肺移植中心取该中心连续 20例肺移植病例手术即期的肺活检组织进行短期观察发 现，在供肺植入前的冷缺血和热缺血期间几乎没有凋亡细 胞，而组织再灌注后则逐渐出现大量凋亡细胞。凋亡的发生 具有时间依赖性，再灌注后30、60和120 min,凋亡细胞占总 细胞数量的比例分别是16. 6%、22. 1%和34. 9%［,4］。凋亡 细胞主要为肺泡II型细胞。但凋亡的程度与临床短期效果 (如P02、30 d病死率和术后机械通气维持时间等)无显著相 关性，也与供肺总的缺血时间、保存液类型及供肺切取完成 前的机械通气时间等无显著相关性。进而，他们在一项大鼠 的肺移植实验研究中发现，供肺冷保存20 min,6 h、12 h,仅 有少量细胞(＜2%)发生死亡，但冷保存18、24 h,则分别有 11%和27%的细胞发生死亡，死亡的类型以坏死为主〔⑸。 在供肺植入(即经历再灌注)后2、6、12 h组有约30%的细胞 发生凋亡，＜2%的细胞发生坏死，而18、24 h组则分别有 21%和29%的细胞发生坏死，＜1%的细胞发生凋亡。进一 步说明了供肺的功能随冷缺血时间的延长而下降。
+3	.离体肺的评估：以往对供肺的质量评估通常基于临 床经验和大体所见，但多伦多总院肺移植中心在一系列实验 及临床研究后认为，对供体的评估还应结合生物学评估和离 体实验评估。其基本过程包括:首先,供体获取后按传统方 法进行大体上的生理学功能评估，如认为可以利用，再进行 生物学方面的评估;如认为不适合,则进行离体预处理,假如 这一步骤完成后认为供肺可以利用，则重新进行生物学评 估，否则进一步做基因治疗或通过其他方法对供肺进行修 复,之后再次进行生物学评估。如果生物学评估认为供肺满 意，则用于移植，反之，则弃用。生物学评估主要指细胞因子 水平上的检测分析,即判断缺血再灌注损伤的程度及术后发 生原发性移植肺失功的危险度。
+细胞因子在缺血再灌注损伤中也发挥着至关重要的作 用，与缺血再灌注中的炎性反应过程相关。根据其作用的不 同，可以将这些细胞因子分为两大类：促炎性细胞因子，如 IL-6 JL-8,TNF-aJFN-7和IL-甲；抗炎性细胞因子，如IL-10。研究显示，供肺再灌注之前(获取及冷保存过程)促炎 性细胞因子/抗炎性细胞因子(如IL-8/ IL-10)的比率在一定 程度上可以反映原发性移植肺失功发生的危险程度。比率 越高，术后30 d内的病死率就越高，二者呈正相关。如果能 够用很短的时间完成这一检验,从而预先判定供肺的质量, 指导肺移植手术实施，无疑对减少原发性移植肺失功的发 生,提高术后存活有积极意义。多伦多总院肺移植中心进行 了有意义的尝试，他们通过Real-time PCR技术在供肺冷保 存期间立即进行相关细胞因子检测分析,1 h内获得结果，从 而决定供肺是否可用，是否需要对供肺作进一步的修复处 理「⑹。另外在缺血再灌注过程中相关炎性反应导致的基因 调节被看作是原发性移植肺失功的分子生物学标志八”。
+4	.基因治疗进行供肺修复:离体供肺生物学评估如果 认为供肺不可以利用，则给予基因治疗加以修复后再利用，
+■ 140 ■
+中华外科杂志 2007 年 1 月第 45 卷第 2 期 Chin J Surg, January 2007, Vol. 45 ,No. 2
+如转入IL-10基因。多伦多在一系列猪和老鼠的动物实验 中研究发现，供肺植入前转入腺病毒转染的IL-10基因可明 显改善缺血再灌注所造成的急性移植肺损伤的程度,甚至还 有可能对慢性移植肺损伤（如闭塞性细支气管炎）有所帮 助,Martins等在猪的动物实验研究发现经纤维支气管镜 转入IL-I0基因可明显提高供肺的功能。同时为了减少腺 病毒转染的一些不利影响,给予一定量的免疫抑制剂可以显 著提高转染效率和体内表达持续时间，获得良好效果口”。 另外的研究发现,器官获取过程中经支气管内转基因治疗较 切取后保存过程中的转基因治疗效果更佳1刈。这也提示， 如果为尽可能地减少缺血再灌注损伤的影响,常规给予经支 气管内转基因治疗或许是一个不错的手段。以上研究提示， 以各种方法（如转基因治疗及应用caspase抑制剂或血管紧 张素转换酶抑制剂等）调节供肺缺血再灌注期间细胞凋亡 与坏死之间的平衡，可能对改善术后移植肺功能，减少原发 性移植肺失功有所帮助。
+三、分子生物学AlloMap技术无创监测移植后免疫排斥 反应
+分子生物学技术监测免疫排斥反应在心肺移植领域的 应用是一个崭新的课题,其原理为利用对血液中单个核细胞 等免疫细胞的上百种基因表达状态的分析，来评估机体的免 疫排斥系统的状态，从而迅速及时地监测机体对移植物的排 斥反应程度。AlloMap是最新系统化的基因检测系统，最早 是在2005年由美国XDx研究中心发展出来的，主要在全美 国最顶尖的心脏移植中心使用,此外欧洲少数几个研究中心 也在使用。研究结果显示它可能是心肺移植领域的巨大进 展，是一种移植患者很容易接受的免疫监测方法。它可用于 心肺移植术后长期的免疫监测，同时也能用在其他脏器移植 上。近2年来多伦多肺移植中心应用AlloMap进行免疫监 测,资料显示排斥和感染在肺移植后患者的外周血中有不同 的基因表达。他们将进一步寻找出区分排斥与感染间具有 标志性的基因，这将有希望仅用血液就可鉴定肺移植后患者 是否发生排斥反应,而无需进行有创性检查。同时,AlloMap 也可以用于评估机体的免疫状况及免疫抑制药物的有效性。
+参考文献
+[1	] Tmlock EP, Edwards LB, Taylor DO, et al. Registry of the International Society for Heart and Lung Transplantation ： twenty-second official adult lung and heart-lung transplant report - 2005. J Heart Lung Transplant, 2005 , 24 ： 956-967.
+[2]	Reng M, Philipp A, Kaiser M, et al. Pumpless extracorporeal lung assist and adult respiratory distress syndrome. Lancet, 2000, 356： 219-220.
+[3	] Matheis G. New technologies for respiratory assist. Perfusion, 2003, 18： 245-251.
+[4]	Fischer S, Simon AR, Welte T, el al. Bridge to lung transplanlation with the novel pumpless inlervenlional lung assist device NovaLung. J Thorac Cardiovasc Surg, 2006,131 ：719-723.
+[5]	de Perrot M, Snell G, Babcock WD, et al. Strategies to optimize the use of currently available Inng donors. J Heart Lung Transplant, 2004, 23 ： 1127-1134.
+[6]	Shemie SD, Ross H, Pagliarello J, et al. Organ donor management in Canada ： recommendations of the forum on Medical Management to Optimize Donor Organ Potential. CMAJ, 2006, 174：S13-S32.
+[7]	Fischer S, Matte-Martyn A, de Perrot M, et al. Low-potassium dexlran preservation solution improves lung function after human lung transplantation. J Thorac Cardiovasc Surg, 2001 , 121 ； 594596.
+[8]	Fischer S, Hopkinson D, Liu M, et al. Raffinose improves the function of ral pulmonary grafts stored for twenty-four hours in low-potassium dextran solution. J Thorac Cardiovasc Surg, 2000 ,119： 488-492.
+[9]	Gabbay E, Williams TJ, Griffiths AP, et al. Maximizing the utilization of donor organs offered for lung transplantation. Am J Respir Cril Care Med, 1999,160：265-271.
+[10]	Ware LB, Wang Y, Fang X, et al. Assessment of lungs rejected for transplantation and implications for donor selection. Lancet, 2002, 360:6I9-620.
+[11]	Pierre AF, Sekine Y, Hutcheon MA, et al. Marginal donor Jungs： a reassessment. J Thorac Cardiovasc Surg, 2002,123 ：421427.
+[12]	Pierre AF, Sekine Y, Hutcheon M,et al. Evaluation of extended donor and recipient criteria for lung transplantation. J Heart Lung Transplant, 2001,20 ：256.
+[13]	de Perrot M, Liu M, Waddell TK, et al. Ischemia- reperfusion-induced lung injury. Am J Respir Grit Care Med, 2003, 167 ： 490-511.
+[14	] Fischer S, Cassivi SD, Xavier AM, et al. Cell death in human lung transplantation ： apoptosis induction in human lungs during ischemia and after transplantation. Ann Surg, 2000, 231 ： 424431.
+[15]	Fischer S, Maclean AA, Lin M, et al. Dynamic changes in apoptotic and necrotic cell death correlate with severity of ischemia-reperfusion injury in Jung transplantation. Am J Respir Crit Care Med, 2000, 62： 1932-1939.
+[16]	Kaneda H, Gutierrez C, de Perrot M, et al. Pre-irnplantation multiple cytokine mRNA expression analysis in donor lung grafts predicts survival after lung transplantation in humans. J Heart Lung Transplant, 2004, 23：S49-S50.
+[17	] Yamane M, Liu M , Kaneda H, et al. Reperfusion-induced gene expression profiles in rat lung transplantation. Am J Transplant, 2005, 5：2160-2169.
+[18]	Martins S, de Perrot M, Imai Y, el al. Transbronchial administration of adenoviral -mediated interleukin-10 gene to the donor improves function in a pig lung transplant model. Gene Ther, 2004, 11 ： 1786-1796.
+[19	] Suga M , Gladdy R, Xing Z, et al. Transplant immunosuppression enhances efficiency of adenoviral-mediated gene retransfection ： inhibition of interferon-gamma and immunoglobin G. Ann Thorac Surg, 2002, 73:1092-1097.
+[20]	Cassivi SD, Cardella JA, Fischer S, et al. Transtracheal gene transfection oi donor lungs prior to organ procurement increases transgene levels at reperfusion and following transplantation. J Heart Lung Transplant, 1999, 18： 1181 -1188.
+（收稿日期：20063-25） （本文编辑:韩静）

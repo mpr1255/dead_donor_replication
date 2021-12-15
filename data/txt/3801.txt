@@ -1,0 +1,90 @@
+﻿•320•
+《实用器官移植电子杂志》2020 年 7 月第 8 卷第 4 期 Prac J Organ Transplant (Electronic Version), July 2020, Vol.8, No.4
+.综述.
+心脏死亡器官捐献供体评估与保护
+史志勇1，张瑞1，樊永强1，莱智勇1，孙纪三2，徐钧1(1. 山西医科大学第一医院普外科, 山西 太原 030001； 2.天津市第一中心医院器官移植中心,天津市器官移植临床医学 研究中心,天津 300192)
+对终末期肝病患者施行肝移植手术可明显提高 其远期临床生存获益。术式的改进、免疫药物的进 展及围术期管理方式的更新使肝移植的成功率在不 断上升,其适应证也在不断拓宽。我国器官移植自 20世纪60年代起步,在经过多年发展后如今每年 可使约1万例的患者因器官移植而获得新生。但我 国的人口基数大、终末期肝病患者多,加之移植适 应证的不断拓宽,供体短缺的问题也变得愈发严峻。 据不完全统计,我国每年有超过30万人迫切需要 肝移植挽救生命,而能成功接受肝移植的仅数千人, 我们迫切的需要去寻求更多的、有效的可用于扩大 供体器官数量地合法途径。
+目前,不论从国际还是国内来讲,移植器官 的获取来源主要仍为心脏死亡器官捐献(donation after cardiac death， DCD)及脑死亡器官捐献 (donation after brain death， DBD)。在我国除了法 制因素的制约外,我国的文化背景也对供体器官的 获取有着一定影响。我国公民对于死亡的概念多局 限于“心脏死亡”,而对于“脑死亡”的概念,普 通民众的接受度较差,这对我国肝移植的发展有一 定程度的制约。1968年Starzl实施了全世界第1例 DCD肝移植口1，但未取得令人满意的效果。随着 立法的逐渐完善、基于上述我国相关社会现状及文 化背景下，DCD肝移植在逐渐被人们接受并推行， 其也代表了我国移植器官捐献的发展方向。
+1	器官捐献分类
+1.1早在20世纪90年代，国际上便对DCD供 体进行了分类，即广泛应用的Maastricht分类⑵。 通过该分类，使我们对于DCD供体器官的获取 和应用有了初步的评估和分类标准，规范了 DCD
+DOI：10.3969/j.issn.2095-5332.2020.04.023
+通讯作者:徐钧，Email : junxuty@163.com
+供体器官的获取工作。Maastricht标准共分5类： ①M-I,入院前已经宣告死亡，时间不超过45 min, 属于非可控型。②M- n,于医院外发生心脏停搏， 急诊入院经心肺复苏10 min无效，宣告死亡，属 于非可控型。③M-皿，受到严重的不可救治性损 伤，通常为毁灭性脑外伤，但还没有完全达到或完 全满足脑死亡的全套医学标准，同时生前有意愿捐 献器官，经家属主动要求或同意，有计划地撤除生 命支持和治疗，主要为终止呼吸机人工通气给氧， 心脏发生缺氧而停搏及残余脑细胞彻底失活，等待 死亡的发生，属于可控型。④M- N，脑死亡判定 成立后、器官捐献手术之前所发生的非计划性、非 预见性的心脏停搏，属于可控型。⑤M- V，住院 患者的心脏停搏( 2003年新增标准)，主要为重症监 护病房(intensive care unit， ICU )抢救过程中发生 的非计划性、非预见性的心脏停搏，属于非可控型。 1.2 2011年我国发布的中国DCD分类标准，对 DCD肝移植的推行起到了重要作用。中国器官捐 献分类标准除脑死亡器官捐献(中国一类)和心脏 死亡器官捐献(中国二类)外，还创新性提出了 过渡时期脑心双死亡器官捐献(donation after brain death followed by cardiac death， DBCD )即中国三 类，。目前在中国大多数DCD供体为中国三类, 其主要为手术室内在有序撤除生命支持手段后心跳 停止的捐献者。
+2	供体质量影响因素
+影响DCD供体质量的因素众多，包括供体年 龄、供肝的情况、供体血清丙氨酸转氨酶(alanine aminotransferase, ALT )水平、炎症分子水平、血钠、 热缺血及冷缺血时间、是否存在病毒感染等。DCD 供体的使用，扩大了供体来源，但对移植医生判定 供体质量及选择受体提出了更高的要求。
+2.1	中国心脏死亡捐献器官评估与应用专家共识 2014版［4］将50岁作为肝移植供体的年龄筛选界
+《实用器官移植电子杂志》2020 年 7 月第 8 卷第 4 期 Prac J Organ Transplant (Electronic Version), July 2020, Vol.8, No.4 ^321^
+限。高龄供体的潜在风险包括血管问题、肝细胞数 目减少、肝再生能力减弱等Dasari等,指 出老年供体有使受者发生早期肝功能不全(early allograft dysfunction, EAD )和原发性无功能(primary non function, PNF)风险，尤其是在伴有其他危险 因素的同时。高龄供体其患动脉粥样硬化的风险是 高于年轻供体的,从而导致移植后动脉并发症［6］。 供体年龄越大,缺血性胆管病变、移植失败等移 植术后并发症的发生风险也会随之提高［5］。但是 由于供肝来源的缺乏,已有部分研究对来源于高 龄人群的供肝的合理性进行了新的验证。Firl等〔8〕 指出45岁以上供体来源的肝移植物存活率与 45岁以下者相比并未明显差异(P = 0.67),且术 后胆道疾病的发生率与供体年龄也无明显相关性 (P = 0.57),但COX比例风险模型则指出供体年 龄为移植物存活时间的不利因素。Schlegel等⑶则 以60岁为界限将供体分组后发现,高龄供体组与 低龄供体组相比血管、胆道以及全身并发症发生 率无明显差异，且供体体重指数(body mass index, BMI)与缺血性胆管病及移植物功能丧失有着一定 关系。因此,供体的年龄对于移植物术后的存活及 术后并发症的发生确实具有一定影响,但如果排除 一些包括高BMI (> 25 kg/m2)在内的危险因素， 高龄人群作为器官供体的安全性及远期获益还是值 得肯定的。
+2.2	供体围拔管期的血流动力学不稳定,也是不良 预后的危险因素。围拔管期的持续低血压以及持续 低氧会对胆道造成不可逆损伤〔10-11〕。目前认为,当 收缩压低于 50 mmHg (1 mmHg = 0.133 kPa)时， 器官将会出现热缺血损伤。收缩压低于50 mmHg是 一个重要的分界线,收缩压如果长时间(> 2 min) 低于50 mmHg,“ 功能性热缺血期”就会被判定为 开始。但是,并不建议将外周血氧饱和度作为功能 性热缺血期开始的判定标准。因为患者在濒死过程 中,势必会引起外周组织的循环障碍〔4〕,这会严 重影响到通过血氧饱和度推测机体呼吸及循环功 能是否稳定的准确性。另外，热缺血时间(donor warm ischemic time, DWIT )的长短对于 DCD 肝移 植围术期并发症发生的重要性已被众多研究证实。 热缺血期间引起的一系列病理生理改变等指出热缺 血时间是DCD肝移植围术期并发症发生的独立危 险因素〔12〕(OR = 0.564, 95% CI = 0.332 ~ 0.957)。 魏宝龙等〔13〕指出血清ALT、天冬氨酸转氨酶
+(aspartate transaminase, AST ),肝组织中的超氧化 物歧化酶及部分炎症因子含量均随着功能性热缺血 期的延长在逐渐增加,且肝组织的病理损伤程度也 随着功能性热缺血期的延长而加重。氧和营养物质 来源的中断以及代谢产物的堆积可能是热缺血损 伤的最重要的因素〔14〕,热缺血时间的延长可能会 直接关系到移植后肝功能的恢复及器官存活时间。 Welling等〔15〕经多因素分析后发现，DWIT的延长 是胆管吻合口漏发生的独立危险因素。兰川等〔16〕 指出EAD组的DWIT要长于非EAD组(P = 0.009 ), 且 EAD 组的冷缺血时间(cold ischemic time, CIT) 也要长于非EAD组(P = 0.020)；另外COX模型 显示DWIT及CIT均可作为EAD发生的独立危险 因素,两者的比值比( odds ratio,OR) 分别为1.340 (P = 0.008)和 1.396 (P = 0.015 )。
+Reich等〔17〕指出肝脏对于热缺血的耐受时间 为30 min。Reich等〔17〕将心脏死亡供肝热缺血时 间限制在30 min以内，冷缺血时间限制在10 h内， 则1年和3年移植肝存活率分别为81%和67%, 与DBD供体移植后所取得的生存收益较为接近。 与此同时，不管是DWIT、还是CIT均会出现再灌 注这个过程,而再灌注的出现势必会引起再灌注损 伤。再灌注损伤的出现可通过炎症通路的激活及免 疫系统的反应,在引起肝细胞损伤的同时,进一步 增加移植术后胆道问题出现的可能性〔18〕。部分专 家指出,氧自由基清除剂及肝脏持续灌注转运系统 的应用对于减轻供肝缺血/再灌注损伤的发生具有 一定效果〔19〕。因此,今后的相关研究重点可以放 在探索缩短冷-热缺血时间的方式及减轻再灌注损 伤的方法之上。
+2.3	脂肪变性,尤其是大泡性脂肪变性,对于原 发性移植物无功能( primary nonfunction, PNF )的 发生及移植失败的出现是一个不利因素〔20〕。供体 的肝脏出现脂肪变性其原因包括脂代谢异常、高龄、 高脂饮食、营养不良等。目前,我们按照脂肪空泡 的大小将脂肪变性分为大泡型脂肪变性及小泡型脂 肪变性两种,而大泡型脂肪变性又被分为轻、中、 重3级〔21〕。来源于小泡性脂肪变性的供肝其受到 缺血再灌注的损伤较低,对于受者的预后影响较小； 轻度大泡性脂肪变性的肝脏(V 30%)相对安全； 中度大泡性脂肪变性的肝脏(30% ~ 60%)可以 在紧急情况下有选择性地使用,但需要控制冷缺血 时间〔22〕。而重度脂肪变性(> 60%)因为会增加
+•322•
+《实用器官移植电子杂志》2020 年 7 月第 8 卷第 4 期 Prac J Organ Transplant (Electronic Version), July 2020, Vol.8, No.4
+PNF的风险，并不推荐其作为供肝而被使用。
+2.4	供体的ALT水平对于肝移植的成功与否也 具有一定的影响。众所周知，EAD是一个严重 的肝移植术后早期并发症。目前，EAD的诊断标 准⑵1为：①术后第7天总胆红素(total bilirubin, TB) N 171 ~mol/L ;②术后第7天国际标准化比 率(international normalized ratio, INR) N 1.6 ;③ 术 后7 d内AST或ALT > 2 000 U/L ；上述3种情 况发生1种即视为EAD。赵强等〔24〕发现供体 血ALT > 200 U/L是EAD发生的独立危险因素 (OR = 19.409, 95% CI = 1.486 ~ 25.481, P = 0.024)。许蜂蜂等〔25〕同样发现ALT同样是影响肝 移植术后的独立危险因素(OR = 0.988, 95% CI = 0.977 ~0.999)。另外，Davila等〔26〕指出若供体血 清ALT水平大于正常值的4倍，则应考虑放弃该 供体。Sayuk等.〕指出器官遗弃风险随着ALT水 平的变化而变化。过高的血清ALT水平可能是供 体的肝脏受损、肝细胞出现坏死的一种标志。结合 上述相关研究，我们可以认为来源于ALT血清水 平较高的供肝对于肝移植的术后成功是一种危险因 素,对此部分供体我们应该谨慎考虑。另外,今后 的研究重点除了进行大规模随机试验予以验证外, 也可结合其他标志物通过运用风险比例模型建造可 靠的评估模型来发挥其真正的预测价值。
+2.5	目前已有部分研究对供体血钠水平在肝移植 中的角色进行了研究。Totsuka等 . 指出供体中血 钠较高者其移植后受者肝酶要明显低于供体中血钠 较低者,且接受高钠血症供体的肝移植术后患者更 容易出现移植物功能丧失。Tector等12"则指出高 钠血症并未增加PNF及EAD的发生风险。丁利民 等〔30〕则指出，供体血钠水平与EAD的发生有明 显相关性,这与许蜂蜂的研究相似。在许蜂蜂等［25］ 的研究中，血清钠的OR值为0.841 (95% CI = 0.767 ~ 0.923, P = 0.00),为 EAD 发生的独立危 险因素。于潇等［31］则通过回顾性研究发现供体高 纳并未对肝移植术后肝功能的早期恢复产生影响。 因此,尽管部分研究显示出了供体高钠血症的存在 对移植术的成功存在着一定影响,但供体高钠血症 的影响似乎有限。这除了部分研究为回顾性研究之 外,围术期治疗方案的不断进展及更新可能通过减 轻EAD的发生率而隐藏了其真实性，供体高钠血 症对于肝移植术后的影响仍需要进一步的大型随机 试验予以确定。
+2.6	Chan等0〕研究发现，供体体重> 100 kg者 可使移植受者更容易出现缺血性胆管病。Mathur 等〔33〕研究结果与Chan类似，供体体重>100 kg 为移植接受者的不利因素。结合Chan等进行的研 究,供体体重也应是我们以后进行肝移植前的一项 考虑因素,但其具体机制仍需要进一步研究。
+2.7	Loggi 等〔34〕、Choi 等 ㈤ 以及 Yu 等〔36〕进 行的相关研究，其结果均显示选用HBsAg阳性患 者作为供体并未增加肝移植相应术后危险。Loggi 等〔34〕在对6例HBsAg阳性受者在术后采用了乙 肝免疫球蛋白进行抗病毒治疗,但并未使血清中 的HBsAg得到完全清除。Loggi等〔34〕猜测这可能 与供肝中含有大量的HBsAg有关，并提议：即使 是HBsAg阴性受者，若有接受HBsAg阳性患者供 肝的可能下,则可考虑输注抗病毒疫苗予以保护。 Yu等〔36〕指出来源于HBsAg阳性供体的供肝与来 源于HBsAg阴性供体的供肝术后肝功能恢复速度 一致，且核苷酸类药物对接受了 HBsAg阳性患者 供肝的肝移植术后患者可起到很好的保护作用。同 时，Yu等.并不建议对接受了 HBsAg阳性患者 供肝的患者采用HBIG进行预防性治疗，而应采用 核苷酸类药物。上述研究均显示，HBsAg阳性患 者作为供体的可行性,尤其是对于状态较为危急 且暂无合适肝源的患者,但相关的术后抗病毒治疗 方案及HBsAg无法彻底转阴的机制仍需要进一步 研究。
+3	器官保护
+在捐献者尚未撤离生命支持系统前,尽可能保 存所需待取器官功能的完备是我们移植手术成功的 前提及关键。器官保护的相关内容包括：维持循环 稳定、细腻的通气策略、防止严重的代酸发生、维 持电解质平衡、预防及控制感染、提供合适的能量 底物、维持体温、减少热缺血及冷缺血时间、纠正 凝血功能异常等。在DCD的准备过程中，我们往 往需要采取大量的医疗干预措施,其目的更多的是 为了本可避免的资源浪费及潜在受者的手术成功及 移植后移植物的功能恢复,因此,必须遵守知情同 意及无害原则。
+近年来，体外膜肺氧合(extracorporeal membrane oxygenation, ECMO )技术在我国逐渐应用于 DCD及DBCD获取前期的器官功能维护。ECMO 的最基本设备为体外循环系统,其可通过输注氧和 血液而发挥暂时的、稳定的心肺替代功能,从而达
+《实用器官移植电子杂志》2020 年 7 月第 8 卷第 4 期 Prac J Organ Transplant (Electronic Version), July 2020, Vol.8, No.4 ^323^
+到缩短热缺血时间、减少器官受损、维持组织正常 代谢、减少氧化应激的目的。ECMO技术的应用可 显著改善DBCD供肝的移植前供体的稳态及移植后 受者的功能恢复137-381。目前，EMCO在我国主要 应用于Maastricht-皿类和N类DCD供者〔39〕，但 是基于我国目前整体医疗基础及条件，ECMO的应 用及推广仍然较为有限，期待不久的将来可以实现。
+供肝离体后的保存效果往往会直接影响到供肝 的存活及后续应用，因此怎样更好的保存离体器官 一直以来都是我们的工作重点。目前较为常用的灌 注方式包括机械灌注(machine perfusion, MP )及 静态冷保存(static cold storage, SCS ), SCS 的应用 相较于前者则更为广泛。SCS旨在通过低温(4^) 降低细胞的代谢率，降低待移植器官对ATP的摄 取需求。目前SCS常用的器官保护液有UW液以 及HTK液两种，两者对肝脏的保存效果短期内相 当〔40〕。另外，Jay等〔41〕研究发现冷缺血时间〉 12 h为移植后患者术后生存收益的危险因素，根据 其结论可以判定一般供肝在SCS存放时间不宜超 过12 h。MP与SCS原理不同，MP为通过对待取 器官血管实现连续灌注的方式达到输送氧气及营 养物质的目的。MP中常温机械灌注的维持温度为 37^,其可较好地模拟生理环境。Bral等〔42〕以及 Nasralla等〔43〕证明常温机械灌注对于供肝的保护 要优于SCS,提示了常温机械灌注相较于SCS的优 势，期待更多的数据对其保护性进行更为细致的论 证。
+Fukazawak等〔44〕指出NO缺乏可能与肝移植 期间的缺血/再灌注损伤密切相关，通过吸入NO、 静脉注射硝酸盐或其他可用于向肝脏补充NO的方 法可减轻来源于缺血/再灌注的损伤。Wood等〔45〕 指出由缺血/再灌注或炎症引起的急性氧化应激会 对组织造成严重损伤，而见可选择性地减少羟基 自由基的产生，从而保护细胞使其免受活性氧的危 害。Zhang等〔46〕发现在肝移植前给予2%的H2吸 人可通过激活NF- k B信号通路，减轻缺血/再灌注 给大鼠造成的损伤。上述试验结果表明NO、旦在内 的气体吸入可能是一种新的可用于减轻缺血/再灌注 损伤的方法，但仍需要进一步的临床试验数据予以 确认。
+公民器官捐献肝脏移植在我国尚处于初期阶 段，针对供体维护及选择的指南及共识仍然需要继 续制定及完善。另外，建立有效的可用于评判供肝
+质量的评分系统及可用于推测移植预后收益的准确 分析模型也是我们目前急需解决的问题。我国器官 捐献体系与国外不同，对于国外的供肝取舍标准不 能直接照搬，探索并建立我国供肝的取舍标准是非 常重要的。公民器官捐献肝脏移植之路在我国仍然 任重而道远，我们仍需继续努力。
+参考文献
+〔	1〕 STARZL T E，FUNG J J. Themes of liver transplantation〔J〕 . Hepatology，2010，51(6)：1869-1884.
+〔	2〕 KOOTSTRA G，DAEMEN J H，OOMEN A P. Categories of nonheart-beating donors〔J〕 . Transplant Proc，	1995， 27(5)：
+2893-2894.
+〔	3〕 中华医学会器官移植学分会.中国心脏死亡器官捐献工作指 南(第2版)〔J〕.中华器官移植杂志,2011,32 (12)： 756-758.
+〔	4〕 中华医学会器官移植学分会.中国心脏死亡捐献器官评估与 应用专家共识[J/CD].中华移植杂志(电子版)，2014,8(3)： 117-122.
+〔	5〕 DOLYE M B，COLLINS K，VACHHARAJANI N，et al.Outcomes using grafts from donors after cardiac death〔J〕 . J Am Coll Surg， 2015，221(1)：142-152.
+〔	6〕 DASARI B V M，SCHLEGEL A，MERGENTAL H，et al.The use of old donors in liver transplantation〔J〕 .BestPract Res Clin Gastroenterol，2017，31(2)：211-217.
+〔	7〕 JIMENEZ-ROMERO C，CASO MAESTRO O，CAMBRAMOLERO F，et al. Using old liver grafts for liver transplantation： Where are the limits?〔 J〕. World J Gastroenterol，2014，20(31)：10691-10702.
+〔	8〕 FIRL D J，HASHIMOTO K，O'ROURKE C，et al. Impact of donor age in liver transplantation from donation after circulatory death donors： A decade of experience at Cleveland Clinic〔J〕 . Liver Transpl，2015，21(12)：1494-1503.
+〔	9〕 SCHLEGEL A，SCALERAc I，PERERA M T P R，et al. Impact of donor age in donation after circulatory death liver transplantation： Is the cutoff "60" still of relevance?〔 J〕. Liver Transpl,2018, 24(3)：352-362.
+〔10〕	MUIESAN P,GIRLANDA R,JASSEM W,et al. Single-center experience with liver transplantation from controlled non-heart beating donors： a viable source of grafts〔J〕 . Ann Surg,2005, 242(5)： 732-738.
+〔11〕	HO K J,OWENS C D,JOHNSON S R,et al. Donor postextubation hypotension and age orrelate with outcome after donation after cardiac death transplantation〔J〕. Transplantation, 2008,85( 11)： 1588-1594.
+〔12〕	PERERA M T,BRAMHALL S R. Current status and recent advances of liver transplantation from donation after cardiac death〔J〕 .World J Gastrointest Surg,2011,3(11)：167-176.
+〔13〕	魏宝龙,王政禄,侯文,等.功能性热缺血时间对肝移植大鼠 肝组织炎症细胞因子的影响[J].中华器官移植杂志,2019, 40(3)：170-174.
+〔14〕	门贺伟，蔡金贞.心脏死亡供肝热缺血-损伤的研究进展[J]. 国际移植与血液净化杂志,2011,9(4)：8-12.
+〔15〕	WELLING T H,HEIDT D G,ENGLESBE M J,et al.Biliary complications following liver transplantation in the model for endstage liver disease era： effect of donor, recipient, and technical factors〔 J〕 . Liver Transpl,2008,14(1)：73-80.
+•324•
+《实用器官移植电子杂志》2020 年 7 月第 8 卷第 4 期 Prac J Organ Transplant (Electronic Version), July 2020, Vol.8, No.4
+[16]	兰川，张鸣，严律南，等.中国口类心脏死亡器官捐献肝移植早 期移植物功能障碍的危险因素分析:单中心经验[J].华西医 学,2017,32(7)：975-979.
+[17]	REICH D J,MUNOZ S J,ROTHSTEIN K D,et al.Controlled nonheart-beating donor liver transplantation： a successful single center experience, with topic update[J] .Transplantation,2000, 70( 8)：1159-1166.
+[18]	BHOGAL R H,SUTARIA R,Afford S C. Hepatic liver ischemia/ reperfusion injury：processes in inflammatory networks--a review[J] .Liver Transpl,2011,17(1)：95.
+[19]	FONTES P,LOPEZ R,VAN DER PLAATS A,et al. Liver preservation with machine perfusion and a newly developed cell-free oxygen carrier solution under subnormothermic conditions[J]. Am J Transplant,2015,15( 2)： 381-394.
+[20]	NICKKHOLGH A,WEITZ J,ENCKE J,et al. Utilization of extended donor criteria in liver transplantation ：a comprehensive review of the literature[J] .Nephrol Dial Transplant,2007, 22(Suppl 8)：viii29-viii36.
+[21]	ZEZOS P,RENNER E L. Liver transplantation and nonalcoholic fatty liver disease[J] . World J Gastroenterol,2014,20(42)： 15532-15538.
+[22]	VODKIN I,KUOA. Extended criteria donors in liver transplantation[J] . Clin Liver Dis,2017,21(2)：289.
+[23]	OLTHOFF KM,KULIK L,SAMSTEIN B, et al. Validation of a current definition of early allograft dysfunction in liver transplant recipients and analysis of risk factors[J] .Liver Transpl,2010, 16(8)： 943-949.
+[24]	赵强,邓雯,陈茂根,等.公民器官捐献肝移植术后早期肝功能 不全49例危险因素分析[J/CD ].中华普通外科学文献(电子 版),2015,9(2)：111-117.
+[25]	许蜂蜂,王华翔,蓝海斌,等.公民逝世器官捐献肝移植术后 早期肝功能不全危险因素分析[J].医学研究生学报,2019, 32(7)：729-733.
+[26]	DAVILA D,CIRIA R,JASSEM W,et al.Prediction models of donor arrest and graft utilization in liver transplantation from maastricht-3 donors after circulatory death[J] . Am J Transplant, 2012,12(12)： 3414-3424.
+[27]	SAYUK G S,LEET T L,SCHNITZLER M A,et al. Nontransplantation of livers from deceased donors who are able to donate another solid organ： how often and why it happens[J] . Am J Transplant,2007,7(1)： 151-160.
+[28]	TOTSUKA E,DODSON F, URAKAMI A,et al. Influence of high donor serum sodium levels on early postoperative graft function in human liver transplantation： effect of correction of donor hypernatremia[J] . Liver Transpl Surg,1999,5(5)：421-428.
+[29]	TECOR A J,MANGUS R S,CHESTOVICH P,et al.Use of extended criteria livers decreases wait time for liver transplantation without adversely impacting posttransplant survival[J] . Ann Surg,2006,244(3)：439-450.
+[30]	丁利民,徐志丹,李新长,等.公民逝世后器官捐献供肝保护及 功能评估临床分析[J ].器官移植,2017(6) ： 430-434.
+[31]	于潇,张雯,郑清元,等. 供体高钠血症对肝移植术后肝功能早 期恢复的影响[J/CD ].实用器官移植电子杂志,2019,7(6)： 464-468.
+[32]	CHAN E Y,OLSON L C,KISTHARD J A,et al. Ischemic cholangiopathy following liver transplantation from donation after cardiac death donors[J] . Liver Transpl,2008,14(5)：604-610.
+[33]	MATHUR A K, HEIMBACH J,STEFFICK D E,et al.Donation after cardiac death liver transplantation： predictors of outcome[J]. Am J Transplant,2010,10(11)：2512-2519.
+[34]	LOGGI E,MICCO L,ERCOLANI G,et al.Liver transplantation from hepatitis B surface antigen positive donors： A safe way to expand the donor pool[J] . J Hepatol,2012,56(3)：570-585.
+[35]	CHOI Y,CHOI J Y,YI N J,et al. Liver transplantation for HBsAg-positive recipientsusing grafts from HBsAg-positive deceased donors[J] . Transpl Int,2013,26(12)：1173-1183.
+[36]	YU S,YU J,ZHANG W,et al. Safe use of liver grafts from hepatitis B surface antigenpositive donors in liver transplantation[J] . J Hepatol,2014,61(4)：809-815.
+[37]	丁利民,李新长,罗文峰,等.体外膜肺氧合技术对脑心双死亡 器官捐献供肝的保护作用[J ].临床肝胆病杂志,2020,36,(1)： 145-148.
+[38]	欧晏娇,邓永,刘炜,等.体外膜肺氧合技术在心死亡供体肝脏维 护中的应用[J ].第三军医大学学报,2018,40(17)： 157^1578.
+[39]	古晨,廖小卒,李斌飞.体外膜肺氧合在心脏死亡器官捐献 供肝保护中的应用[J/CD].中华普通外科学文献(电子版), 2019,13(6)：421-425.
+[40]	POKORN H,RASOUL-ROCKENSCHAUB S,LANGER F,et al. Histidinetryptophanketoglutarate solution for organpreservation in human liver transplantation-aprospectivemulticentre observation study[J] .Transpl Int,2004,17( 5)：256-260.
+[41]	JAY C,LADNER D,WANG E,et al. A comprehensive risk assessment of mortality following donation after cardiac death liver transplant ananalysis of the national registr[J] . J Hepatol,2011, 55(4)：808-813.
+[42]	BRALM,GALA L,BIGAM D,et al. Preliminary single-center canadian experience of human normothermic ex vivo liver perfusion： results of a clinical trial[J] . Am J Transplant,2017, 17(4)：1071-1080.
+[43]	NASRALLA D,COUSSIONS C C,MERGENTAL H,et al. A randomized trial of normothermic preservation in liver transplantation[J] .Nature,2018,557(7703)：50-56.
+[44]	FUKAZAWA K,LANG J D. Role of nitric oxide in liver transplantation：Should it be routinely used?[J] . World J Hepatol, 2016,8(34)：1489-1496.
+[45]	Wood K C, Gladwin M T. The hydrogen highway to reperfusion therapy[J] . Nat Med, 2007,13(6)：673-674.
+[46]	ZHANG C B,TANG Y C,XU X J,et al. Hydrogengas inhalation protects against liver ischemia/reperfusion injury by activating the NF-k B signaling pathway [ J ]. Exp Ther Med,2015,9(6)： 2114-2120.
+(收稿日期：2020-03-30)
+史志勇，张瑞，樊永强，莱智勇，孙纪三，徐钧.心脏死亡器官捐献供体评估与保护[J/CD].实用器官移植电子杂志,2020,8（4）:
+320-324.

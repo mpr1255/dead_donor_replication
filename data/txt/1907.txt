@@ -1,0 +1,34 @@
+﻿医学影像观察•中国继续医学教育第7卷第14期39
+•临床研究，
+超声心动图动态监测同种原位心脏移植的研究
+邓淑敏।彭尧2
+【摘要】目的 运用超声心动图动态观察同种原位心脏移植患者术后心内 结构、血流、心功能及心包积液的变化。方法应用飞利浦IE33超声诊 断仪对6例心脏移植患者进行术后超声动态监测，常规测量各心室腔内 径、室壁厚度、主、肺动脉内径、瓣膜反流、心包积液及评估肺动脉收 缩压。结果 心脏移植患者术后，超声心动图有着特征性的改变，心内 结构、血流及心包积液的改变提示急性排斥反应。结论彩色多普勒超 声心动图能动态监测移植术后患者各项指标改变，指导临床积极制定治 疗方案，及时挽救.患者生命。
+［关键词］原位心脏移植;彩色超声心动图；排斥反应
+［中图分类号］R654	［文献标识码］B
+［文章编号】1674-9308 ( 2015 ) 14-0039-01
+doi ： 10.3969/j.issn. 1674-9308.2015.14.032
+Study on Dynamic Monitoring of Ultrasonic Beckoning Map of Orthotopic Heart Transplantation
+DENG Shumin1 PENG Yao2, 1 People's Hospital of He'nan Province, Zhengzhou City, Zhengzhou 450000, China, 2 He !nan Provincial Center for Disease Control and Prevention, Zhengzhou 450016, China
+［Abstract］ Objective To observe the dynamic changes of echocardiography in cardiac structure, blood flow, cardiac function and pericardial effusion after heart transplantation in allogeneic orthotopic using ultrasound. Methods The application of PHILPS IE33 ultrasonography of the 6 cases of heart transplantation in patients with postoperative ultrasound dynamic monitoring, routine measurement of the ventricular cavity diameter, wall thickness, the main pulmonary artery diameter, valvular regurgitation, pericardial effusion and evaluation of pulmonary artery systolic pressure. Results The patients after heart transplantation, echocardiography has a characteristic change, the structure of the heart, blood and pericardial effusion changes suggestive of acute rejection. Conclusion Color doppler echocardiography can change each index in patients with dynamic monitoring after transplantation, the positive guiding clinical treatment plan, in time to save the lives of patients.
+［Key words］ Orthotopic heart transplantation, Color echocardiography, Rejection reaction
+1资料与方法
+1.1临床资料
+收集我院2010 ~ 2012年器官移植科行心脏移植手术患者6 例，术后3个月内常规在我院行彩超检查，其中女2例，男4例， 年龄27 ~ 52岁，平均39.5岁，3例患者术前诊断为扩张性心肌病, 2例患者术前为陈旧性心肌梗死合并心尖部巨大室壁瘤，1例患者 术前为肥厚性心肌病。6例患者术前超声提示左心室射血分数约 19% ~ 36%。本组患者术前均经过长期内科治疗，临床症状未见 明显改善，超声心动图反复检查心功能未见明显好转，病情日益 加重，遂经配型成功后行同种异体原位心脏移植手术。
+1.2仪器与方法
+应用飞利浦IE33彩色超声诊断仪，探头频率2 ~ 4 MHz,二维 超声常规测量各房室腔大小，主动脉及肺动脉内径，着重检查心房 供受体连接缝合处，舒张期心包腔内积液的深度，彩色多普勒超声 检测各瓣口峰值流速及各瓣膜反流情况，估测肺动脉收缩压，并应 用Simpsong法计算左心室射血分数(EF% ),评价左心室收缩功能。 检查于手术后1天开始,一周内每天常规床旁彩超检查，术后1月
+作者单位：1 450000郑州人民医院;2 450016郑州，河南省疾病预防
+控制中心
+内隔天1次超声检查，1月后每周1 ~ 2次，直至患者出院。
+2结果
+2.1术后患者心脏结构改变
+二维超声3例患者手术后心包腔出现少量积液，3例患者手 术后心包腔内未见明显的积液，仅1例患者手术后第5天出现一 过性心包积液量增多，第28天又一次出现心包积液量增多到中-大量，后经积极内科对症治疗后心包积液量减至少量。
+2.2多普勒超声改变
+5例患者术后不同程度的出现瓣膜反流，其中二、三尖瓣反 流为少中量，主动脉瓣反流为微量。2例患者手术后第4天出现 舒张期二尖瓣口 E峰峰值流速明显减低，手术后第28天出现急性 排斥反应，三尖瓣口为中重度反流，根据三尖瓣口反流速度估测 肺动脉收缩压大于50 mm Hgo
+3讨论
+心包积液是所有心脏移植手术后患者最常见的并发症之一， 早期患者出现心包积液是由于主动脉及动脉广泛分离时淋巴液 回流进人心包腔所致。另外可能还与手术切口的渗出有关，若持 续性增加为急性排斥反应的重要特征囚。3例患者手术后心包腔出 现少量积液，3例患者手术后心包腔内未见明显的积液，仅1例 患者手术后第5天出现一过性心包积液量增多，第28天又一次出 现心包积液量增多到中-大量，临床出现呼吸及脉率加快，体温 升高，X线显示心影增大，初步考虑为急性排斥反应，后经积极 内科对症治疗后心包积液量减至少量。
+心功能改变，本组患者6例术后左室射血分数达到正常范围, 其中1例患者在术后第5天及第28天出现一过性心包积液增多时， 左室EF值维持在50% ~ 55%之间。
+移植术后1 ~ 2周内肺动脉收缩压较术前明显下降，但依然 稍高于正常值，大约术后1个月后下降至正常范围，并一直保持 至观察期结束。移植手术后1 ~ 2周内右心室及流出道内径较术 前增大，1月后下降至正常范围并维持至观察期结束，术后1 ~ 2 周右心房内径增大，3 ~ 6月才下降至正常范围并维持至观察期结 束,一般情况下移植术后早期右心系统增大，中远期可恢复至正常， 且相对稳定。应用经食管超声心动图进行观察，发现术前肺动脉 压力升高患者心脏移植恢复自身循环后不久供体心脏出现右心系 统扩大，即使肺动脉压力降至正常，这种扩张仍继续存在一段时间。 此次研究结果与两者观点基本吻合。
+心脏瓣膜反流，本组患者心脏移植手术后均出现二、三尖瓣少 中量反流，主动脉瓣反流为微量。1例患者手术后第4天出现舒张 期二尖瓣口 E峰峰值流速明显减低，1例患者于手术后第28天出 现急性排斥反应时三尖瓣口为中重度反流，此时肺动脉收缩压升高。
+彩色多普勒超声心动图属于无创伤性检查，可重复多次，连 续动态监测心脏移植手术后患者各项指标改变，有利于及时发现 排斥反应，指导临床调整用药，对症治疗。
+参考文献
+[1] 张建鑫，张平洋，张幼祥，等.超声心动图对同种原位心脏移 植术后早期改变的研究口临床超声医学杂志，2(X)9, 9 ( 11): 30-33.

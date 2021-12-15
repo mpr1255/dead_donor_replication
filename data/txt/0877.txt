@@ -1,0 +1,99 @@
+﻿岭南心血管病杂志2020年9月第26卷第5期	• 525 •
+doi ： 10.3969/j.issn. 1007-9688.2020.05.07	•论 著•
+24例心血管手术后再次开胸心脏移植患者的临床 研究△
+吴 敏，黄劲松，麦明杰，吴怡锦，吴梅芬
+[广东省心血管病研究所心外科广东省人民医院(广东省医学科学院)，广州510100]
+摘要：目的 探讨心血管手术后再次开胸行心脏移植患者的临床效果。方法 回顾性分析2017年2月至 2020年8月之间接受过心血管手术再次开胸行心脏移植24例患者，将同时期非心血管手术后的140例心脏移 植患者作为对照组。通过观察对比两组患者的左心室收缩末期内径(left ventricular end systolic diameter , LVESD)，左心室舒张末期内 径(left ventricular end diastolic diameter，LVEDD)，左心室射血分数(left ventricular ejection fraction，LVEF)，肌酐浓度，估算肾小球滤过率(estimated glomerular filtration rate，eGFR)，冷缺血时间， 体外循环(cardiopulmonary bypass，CPB)时间，主动脉阻断(aortic cross clamp，ACC)时间，冷沉淀，血浆、红细 胞和血小板的使用，以及重症监护病房(intensivecare unit，ICU)时间与住院时间等指标来评价临床效果。 结果 24例患者中1例围术期死亡，4例患者死于1年随访期内。研究组患者围术期的生存率为95.8%；研究 组患者1年生存率低于对照组，差异有统计学意义[79.2%( 19/24) vs. 88.6%( 124/140),P<0.05]。死亡原因是 感染，多器官功能衰竭与排斥。两组患者术前LVESD,LVEDD,LVEF,eGFR,冷沉淀，血浆、红细胞和血小板 的使用以及术后ICU停留时间与住院时间比较，差异无统计学意义(P>0.05)。两组患者术前肌酐浓度、供心 冷缺血时间、CPB时间、ACC时间比较，差异有统计学意义(P <0.05)。两组患者术后肌酐浓度均比术前明显升 高，差异有统计学意义(P<0.05)。结论 心血管手术后心脏移植比常规的心脏移植患者情况更加复杂，要在 术前综合评估手术风险。合理安排好供心获取时间，减少冷缺血时间，做好感染筛查，术前维护心脏、肝、肾 等重要器官功能，可以提高心血管手术后再次开胸心脏移植的生存率。
+关键词：心脏移植；心血管手术；感染；肾功能衰竭；再次开胸手术
+中图分类号：R654.2	文献标志码：A	文章编号：1007-9688(2020)05-0525-05
+Clinical study of heart transplantation after cardiovascular surgery in 24 patients
+WU Min，HUANG Jin-song，MAI Ming-jie，WU Yi-jin，WU Mei-fen
+(Department of Cardiac Surgery , Guangdong Cardiovascular Institute , Guangdong Provincial People's Hospital, Guangdong Academy of Medical Sciences，Guangzhou 510100，China)
+Abstract：Objectives To evaluate the clinical effect of patients underwent heart transplantation after cardiovascular surgery. Methods A retrospective analysis was conducted on 24 patients who had undergone cardiac surgery to undergo heart transplant by re-thoracotomy from February 2017 to August 2020 in Guangdong Provincial People's Hospital. In the same period，140 patients who underwent routine heart transplantation were selected as control group . Left ventricular end systolic diameter(LVESD)，left ventricular end diastolic diameter(LVEDD)，left ventricular ejection fraction (LVEF) , concentration of creatinine , estimated glomerular filtration rate (eGFR) , cold ischemia duration, cardiopulmonary bypass(CPB)duration，aortic cross clamp(ACC)duration，cryoprecipitate，application of plasma，red blood cells and platelets，intensive care unit(ICU)duration and hospitalization duration were compared between the two groups to evaluate the clinical effect. Results Among the 24 patients，1 died during perioperative period and 4 patients died within one year follow-up period. The perioperative survival rate of the study group was 95.8%. One-year survival rate of observation group was significantly lower than that of control group[79.2%(19/24)vs. 88.6%(124/140)，P<0.05] . The causes of death were infection and multiple organ failure . There were no significant differences in LVESD，LVEDd， LVEF，eGFR，cryoprecipitate，application of plasma，red blood cells and platelets，ICU duration and in- hospital
+△基金项目：广东省医学科学技术研究基金项目(项目编号：A2020002)。
+作者简介：吴敏(1979-)，男，主治医师，研究方向为心脏移植与肺动脉高压。
+• 526 •
+South China Journal of Cardiovascular Diseases, September 2020, Vol 26, No 5
+duration between the two groups（P>0.05）. There were significant differences in preoperative concentration of creatinine，cold ischemia duration，CPB duration and ACC duration between study group and control group（P<0.05）. Concentrations of creatinine after surgery were significantly higher than those before surgery in both groups（P<0.05）. Conclusions Patients underwent heart transplantation after cardiovascular surgery have more complicated situation when compared with routine operation patients. Preoperative comprehensive assessment of surgical risk should be evaluated for these patients. Reasonably arranging duration for obtaining donor heart，reducing cold ischemia duration， preoperative infection screening，maintaining the function of heart，liver and kidney can improve the survival rate of heart transplantation after cardiovascular surgery .
+Key words：heart transplantation；cardiovascular surgery；infection；renal failure；re-thoracotomy
+心脏移植是目前终末期心脏病的最佳治疗手 段。随着心脏移植技术的发展，心脏移植疑难患 者也逐年增多，其中包括接受过心血管手术后需 要再次开胸进行心脏移植的患者。这些心血管手 术包括心脏瓣膜置换术、瓣膜成形术、冠状动脉 旁路移植术、心脏肿瘤切除术和心脏移植等，关于 这类患者心血管手术后疾病进展和心脏移植的效 果尚未发现临床报道，因此本文回顾性分析最近 3年24例心血管手术后再次开胸行心脏移植的患 者的临床资料，为评估该类患者接受心脏移植手 术的效果提供临床依据。
+1 资料和方法
+1.1 一般资料
+研究组：回顾性分析2017年2月至2020年8月 之间接受过心血管手术再次开胸行心脏移植24例 患者资料：其中男18例，女6例，年龄（47.3±2.9）岁， 小于18岁儿童受者1例。接受心血管手术的类型 包括心脏瓣膜置换手术（17例）、瓣膜成形手术 （3例）、冠状动脉旁路移植术（2例）、心脏肿瘤切 除术后（1例）、心脏移植术（1例），其中心脏移植 术前接受过两次心血管病手术的患者有4例。合 并原发性高血压（高血压）1例、主动脉夹层1例、糖 尿病3例。术前使用主动脉内球囊反搏（IABP）辅 助3例，有2例合并体外膜肺氧合（ECMO）辅助支 持。介入支架及植入型心律转复除颤器（ICD）未 纳入本研究范围内。
+对照组：回顾性分析2017年2月至2020年8月 之间非心血管手术后再次手术心脏移植140例患 者的临床资料：其中男119例，女21例，年龄 （42.2±1.5）岁，其中儿童受者16例。14例患者术 前需要体外膜肺氧合辅助，11例术前主动脉内球 囊反搏辅助，2例患者术前需要主动脉内球囊反 搏和体外膜肺氧合辅助治疗。术前诊断包括扩张 型心肌病、缺血性心肌病、心脏肿瘤、瓣膜性心肌
+病、心肌炎等。
+两组患者性别、年龄比较，差异无统计学意义 （P>0.05）。
+1.2 观察指标
+患者术前常规实验室检查包括血常规，尿常 规，大便常规，肝、肾、甲状腺功能、电解质、凝血功 能、乙肝指标、梅毒、人类免疫缺陷病毒、巨细胞病 毒、EB病毒。技诊检查包括心电图，超声心动图， 胸部计算机断层扫描（computed tomography，CT）， 心脏核磁共振成像，心肺运动实验，肝、胆、胰、脾 腹部超声，泌尿系超声；有神经并发症患者需要行 头颅CT检查。
+比较两组患者的左心室收缩末期内径（left ventricular end systolic diameter，LVESD），左心室舒 张末 期 内径（left ventricular end diastolic diameter， LVEDD），左心室射血分数（left ventricular ejection fraction，LVEF），肌酐浓度，估算肾小球滤过率 （estimated glomerular filtration rate，eGFR），冷缺血 时 间，体外循环（cardiopulmonary bypass， CPB）时 间，主动脉阻断（aortic cross clamp，ACC）时间，冷 沉淀，血浆、红细胞和血小板的使用，以及重症监 护病房（intensive care unit，ICU）时间与住院时间 等指标。
+1.3 手术方法
+所有患者手术前使用巴利昔单抗+甲强龙 500 mg静脉使用进行免疫抑制治疗。对照组常规 正中开胸行心脏移植手术。心血管手术后患者再 次开胸手术耗时较长，所以比对照组更加需要安 排好供心获取和植入的衔接时间，尽量减少冷缺 血时间。手术过程：常规正中开胸，根据胸部CT 来判断主动脉，心脏与胸骨后黏连的程度，行股动 静脉插管，建立CPB，在CPB辅助下开胸，依次游 离主动脉，肺动脉，上、下腔静脉，心房及心室组 织。对于多次心血管手术患者尤其要注意黏连肺 组织的游离，避免肺部出血和血气胸。随后阻断
+岭南心血管病杂志2020年9月第26卷第5期
+• 527 •
+主动脉，剪除病心，保留肺静脉及左心房后壁，按 照左心房-下腔静脉-肺动脉-主动脉-上腔静脉 顺序缝合供心。对于严重钙化的左心房和主动脉 组织，注意加固左心房后壁及主动脉后壁缝合，避 免出血。合并主动脉夹层患者在吻合左心房，肺 动脉和上、下腔静脉后，将主动脉弓游离岛状结 构，深低温停循环下开放远端，植入主动脉支架， 将供受者主动脉弓进行吻合。心脏移植术开放循 环前继续使用甲强龙500 mg静脉注射，后并行循 环期间调整供心功能，术后没有及时逆转的肺动 脉高压患者需要进行综合降肺动脉压力治疗。对 于顽固肺动脉高压导致的右心衰竭则可以考虑行 右心辅助［1］，对于供心功能恢复不佳的患者使用 体外膜肺氧合或主动脉内球囊反搏机械辅助，停 CPB后彻底止血，及时补充红细胞、冷沉淀、血小 板和血浆等促凝血制品。
+1.4 统计学分析
+所有数据分析采用SPSS 21.0软件进行。计 量资料用（方土s）表示，统计推断采用独立样本t检 验及配对t检验。检验水准a =0.05。以P<0.05为 差异有统计学意义。
+2结果
+2.1	两组患者术后生存率比较
+研究组24例患者中1例围术期死亡，该患者 为LVEF保留的二尖瓣、主动脉瓣膜和三尖瓣瓣膜 置换术后患者，其右心室广泛纤维化，室壁变薄，
+临床表现为反复胸闷，气促，双下肢水肿的心力衰 竭表现，心电图提示反复室性心律失常，行心肺运 动实验提示峰值氧耗量为8.6 mL/（min-kg），由于 LVEF保留在67% ,未能及时抗心力衰竭并接受心 脏移植手术，入院后3 d因室性心动过速低血压行 体外膜肺氧合+主动脉内球囊反搏+连续性肾脏 替代疗法辅助支持，患者在心脏移植术中凝血功 能紊乱，多器官功能衰竭死亡。随访1年内4例患 者死亡，其中3例患者由于并发严重的感染性休 克，循环衰竭死亡。另外1例死亡患者为心脏移植 术后9个月出现慢性排斥导致LVEF进行性下降 而行再次心脏移植。术后检测该患者的血浆出现 群体反应性抗体（PRA）转阳性，予以激素、免疫 球蛋白、血浆置换及利妥昔单抗注射液治疗效果 不佳。行再次心脏移植术后，患者再次出现排斥 表现，加强抗排斥治疗后出现骨髓抑制表现，合 并出现肝及肾功能衰竭，最后死于感染性休克、 多器官功能衰竭。研究组患者围术期生存率为 95.8%；研究组患者1年生存率低于对照组，差异有 统计学意义［79.2%（19/24）vs. 88.6%（124/140）, P<0.05］。
+2.2	两组患者术前心、肾功能指标比较
+两组患者术前 LVESD, LVEDD, LVEF, eGFR 比较，差异无统计学意义/ P >0.05）,详见表1。
+2.3	两组患者术中血液制品使用比较
+两组患者冷沉淀，血浆、红细胞和血小板的使 用比较，详见表2。
+		表1	两组患者心、肾功能指标比较		[x±^s]
+组别	n	eGFR ( mL , min-1 , 1.73 m-2)	LVEDD/mm)	LVESD/mm)	LVEF/%)
+研究组	24	73.1±9.3	70.0±2.8	60.2±3.1	27.8±2.8
+对照组	140	80.9±3.6	67.3±1.5	58.2±1.6	29.4±1.3
+P值	-	>0.05	>0.05	>0.05	>0.05
+表2	两组患者冷沉淀，血浆、红细胞和血小板的			
+	使用比较			[x±s ]
+组别	n 冷沉淀（U）	红细胞（U）	血小板（U）	血浆（mL）
+研究组	24	10.0±0.0	6.1±0.9	2.0±0.6	507.1±79
+对照组	140	10.0±0.4	5.0±0.8	1.6±0.2	456.9±22.8
+P值	-	>0.05	>0.05	>0.05	>0.05
+2.4	两组患者各种治疗时间比较
+两组患者术后ICU停留时间与住院时间比较， 差异无统计学意义/ P >0.05）;两组患者供心冷缺
+血时间、CPB时间、ACC时间比较，差异有统计学 意义/ P <0.05）;详见表4。
+2.5	两组患者术前、术后血清肌酐浓度比较
+两组患者术前肌酐浓度比较，差异有统计学 意义/P<0.05）;两组患者术后肌酐浓度均比术前 明显升高，差异有统计学意义/ P <0.05）,详见表4。
+3讨论
+随着心脏移植技术,免疫治疗方案和术后随 访的检查不断完善,心脏移植的效果越来越好。
+• 528 •	South China Journal of Cardiovascular Diseases, September 2020, Vol 26, No 5
+		表3	两组患者各种治疗时间比较		[x±s]	
+组别	n	供心冷缺血时间（min）	CPB 时间(min)	ACC 时间(min )	ICU时间（d）	住院时间（d）
+研究组	24	254.8±11.4	308.7±15.5	151.2±14.4	13.9±4.0	31.4±4.3
+对照组	140	213.1±6.8	254.0±6.7	126.5±3.3	13.1±1.3	43.4±3.8
+P值	-	<0.05	<0.05	<0.05	>0.05	>0.05
+表4 两组患者术前、术后血清肌酐浓度比较
+［^mol/L, x±s ］
+组别	n	肌酐	
+		术前	术后
+研究组	24	148.24±41.6	267.44±44.6*
+对照组	140	116.78±11.9	219.91±17.6*
+P值	-	<0.05	>0.05
+注：与术前比较，* P <0.05
+国际上1年的生存率可达90%，心脏移植中位生 存时间可达15年，70%的心脏移植患者可生存超 过10年以上［2］。本研究中对照组1年生存率可达 88.6%，接近国际标准，但是研究组有4例死亡，生 存率仅为79.2%。死亡首要原因是感染，其次为 多器官功能衰竭。本研究发现研究组患者的供心 冷缺血时间、CPB时间和ACC时间比对照组明显 延长，差异有统计学意义（P <0.05）,这与再次手术 开胸分离困难相关。术前需要仔细评估心房及主 动脉组织钙化程度,心脏与胸骨黏连情况,减少因 手术和CPB时间的延长会增加感染的机会。本研 究还发现研究组术前血清肌酐浓度明显高于对照 组，差异有统计学意义（P <0.05），这可能与心血管 手术影响和出现心力衰竭就诊时间较晚相关；研 究组术后血清肌酐浓度也高于对照组，但差异无 统计学意义（P>0.05）。术前心力衰竭导致的肾功 能衰竭是心血管手术后再次开胸心脏移植患者最 常见的并发症［3］。术后血清肌酐浓度升高和连续 性肾脏替代治疗都是降低心脏移植手术生存率的 危险因素［4］。所以，预防患者术后早期的急性肾 损伤是减少术后并发症、减少住院时间、提高生存 率和降低住院花费的关键［5］。对于接受过心血管 手术的患者，术前医生需要仔细评估其肾功能损 伤情况。
+本研究的研究组中有1例患者于1996年接受了 二尖瓣置换，2000年行主动脉瓣置换手术，2019年 因动脉斑块脱离而导致主动脉夹层（Debakey I型）。 主动脉夹层升主动脉撕裂导致冠状动脉开口压迫
+及本身合并的冠状动脉粥样硬化性心脏病（冠心 病）综合影响导致心脏收缩功能严重下降，超声心 动图提示LVEF为19%。两次瓣膜置换手术造成 的黏连阻止了夹层的破裂，为该患者等待心脏供 体进行移植赢得时间。台湾曾经报道过联合心脏 移植和马凡氏综合征合并主动脉夹层的胸主动脉 完全置换的患者［6］，2014年陈锁成等［7］也报道了 大陆地区第一例扩张型心肌病合并夹层的外科治 疗，但都是非再次手术患者。本研究中的患者为 再次开胸手术，组织分离和动脉吻合时间较长，所 以我们选择了保留未受夹层侵犯的弓上血管岛， 停循环后开放远端，植入降主动脉支架封闭破口， 将供体主动脉弓与受者弓上血管岛吻合，心脏冷 缺血时间为450 min， CPB时间为411 min，ACC 时 间为340 min，深低温停循环时间为10 min。术后 患者恢复良好，未发现神经并发症。随后我中心 继续完成了2例心脏移植（扩张型心肌病）合并升 主动脉+全弓置换+远端支架植入手术，术后患者 恢复顺利。该类患者主动脉夹层破裂发生率要低 于普通夹层患者，这可能与心排血量较低，患者血 压不高有关。
+本研究中最常见的是瓣膜置换或者成形术后 的患者。由于国内心脏移植资质局限在少数医 院，以及心脏供体来源的限制，部分心脏中心针对 扩张型心肌病的患者二尖瓣反流行二尖瓣置换或 成形手术。部分患者术后心力衰竭加重由ICU转 入本中心行心脏移植手术。通过本组患者回顾性 观察发现，对于LVEF<30%合并大量二尖瓣反流的 患者，心脏瓣膜手术并不能改善患者临床症状，大 部分患者在术后半年内需要重返医院行进一步抗 心力衰竭治疗或者进行心脏移植手术。另外，对 于低LVEF的风湿性心脏病患者行瓣膜手术也是 困扰很多外科医师的问题。大约有42.8%的患者 在手术后5年内需要返回医院进行抗心力衰竭的 治疗，。据本研究观察，瓣膜置换术前LVEF>50% （6例）、病情发展缓慢的患者，瓣膜置换术后11~ 26年需要行心脏移植手术。瓣膜置换术前LVEF<
+岭南心血管病杂志2020年9月第26卷第5期
+• 529 •
+40%（5例）、病情发展较快的患者，瓣膜置换术后 6~9年需要行心脏移植手术，特别要注意的是， LVEF保留的致心律失常右心室心肌病的患者会 频发室性心律，其是一类容易被忽略的危险患者 群体。
+本研究中有1例二次心脏移植患者，该患者 心脏移植术后出现慢性排斥,导致LVEF进行性下 降，术后随访中检测血浆群体反应性抗体（panel reactive antibodies，PRA）转阳性，予以激素、免疫 球蛋白、血浆置换及利妥昔单抗注射液治疗后 PRA转阴性，但是心脏功能恢复效果不佳。患者 行二次心脏移植术前LVEF下降至26%，双下肢水 肿，血浆N末端脑钠肽前体浓度为15 800 pg/mL， 术前抗排斥方案选择巴利昔单抗+甲强龙静脉注 射，手术过程顺利，患者术后1周反复发作心律失 常、精神欠佳，予激素冲击治疗，效果欠佳，考虑患 者术前B细胞功能活跃，不排除抗体介导性排斥 反应（antibody-mediated rejection，AMR），予血浆置 换、大剂量免疫球蛋白冲击。术后1个月患者心 内膜活检提示：（1）移植心脏急性细胞性排斥反 应，1R级；（2）移植心脏AMR、pAMR1,抗排斥治 疗后出现血小板及红细胞下降等骨髓抑制表现。 手术后2个月患者出现反复高热，合并肝及肾功 能衰竭，最后死于感染与多器官功能衰竭。二次 心脏移植患者数量较少但是其风险很高，术后长 期存活时间也低于初次心脏移植［9］。该例患者术 后抗排斥和抗感染治疗区间很窄，本中心治疗经 验有限，术前使用免抗人胸腺细胞免疫球蛋白代 替巴利昔单抗会不会有更好的效果还需要进一步 检验和探讨。
+本研究中有2例患者为低LVEF的缺血性心 肌病的患者，对于LVEF<25%的患者进行冠状动 脉旁路移植术有术后低心排血量而增加机械辅助 依赖的风险［8］，有研究报道该类术后患者远期生 存率较差，而且与术后LVEF无关小。在本研究 中，有1例患者非体外循环下冠状动脉旁路移植术 （OPCAB）后2周脱离不了主动脉内球囊反搏转而 登记心脏移植，术后顺利脱离主动脉内球囊反 搏。另外1例患者冠状动脉旁路移植术后LVEF 恢复不理想，桥血管通畅但心脏功能不稳定，转体 外膜肺氧合+主动脉内球囊反搏支持，心脏移植术 后脱离机械辅助，恢复顺利。大部分低LVEF患者 在接受冠状动脉旁路移植术后能顺利脱离机械辅 助而度过围术期，但是对于一些血管弥漫改变，术
+后心脏功能恢复不佳而不能脱离机械辅助的患 者，心脏移植是一个可以提高生存率的选择。
+综上所述，心血管手术后心脏移植比常规的 心脏移植情况更加复杂，要在术前综合评估手术 风险。术前肾功能不全、感染、心脏移植抗排斥治 疗、合并主动脉夹层等其他高风险疾病都会增加 心脏移植手术死亡风险。合理安排好供心获取时 间，减少冷缺血时间，做好感染筛查，术前维护心 脏、肝、肾等重要器官功能，可以提高心血管手术 后再次开胸心脏移植的生存率。
+参考文献：
+[ 1 ] 吴敏，吴怡锦，周成斌，等.右心辅助在心脏移植术后急性 右心衰竭中的临床应用[J].中国胸心血管外科临床杂志， 2018，25（10）：906-909.
+[2]	STEHLIK J，KOBASHIGAWA J，HUNT SA，et al. Honoring 50 years of clinical heart transplantation in circulation：In-depthstate- of- the- artreview[J] . Circulation，2018，137（1）： 71-87.
+[3]	PUTTARAJAPPA C M, BERNARDO J F, KELLUM J A. Renal complications following lung transplantation and heart trans-plantation[J] . Crit Care Clin，2019，35（1）：61-73.
+[4]	KOLSRUD O，KARASON K，HOLMBERG E，et al. Renal function and outcome after heart transplantation[J] . J Thorac Cardiovasc Surg，155（4）：1593-1604.
+[5]	POTENA L，ZUCKERMANN A，BARBERINI F，et al. Complications of cardiac transplantation[J] . Curr Cardiol Rep，2018， 20（9）：73.
+[6]	WEI J，SUE S H，LEE Y T，et al. Combined heart transplantation and total replacement of thoracic aorta in Marfan's syndrome with recurrent aortic dissection：a case report[J] . Transplant Proc，2012，44（4）：1174-1175.
+[7]	陈锁成，丁尹俊，任正兵，等.1例扩张型心肌病合并Stanford A型主动脉夹层的外科治疗[J].中华胸心血管外科杂 志，2016，32（7）：432-434.
+[8]	SEESE L，SULTAN I，GLEASON T，et al. Outcomes of conventional cardiac surgery in patients with severely reduced ejection fraction in the modern era[J] . Ann Thorac Surg，2020，109 （5）：1409-1418.
+[9]	ZHU Y，SHUDO Y，LINGALA B，et al. Outcomes after heart retransplantation：A 50- year single- center experience [J] . J Thorac Cardiovasc Surg，2020. S0022- 5223（20）32145- 0.
+DOI：10.1016/j.jtcvs.2020.06.121[. Online ahead of print]
+[	10] OMER S，ADESEYE A，JIMENEZ E，et al. Low left ventricular ejection fraction，complication rescue，and long- term survival after coronary artery bypass grafting[J] . J Thorac Cardio-vasc Surg，2020.S0022- 5223（20）30642- 5.DOI：10.1016/j. jtcvs.2020.03.040.[Online ahead of print]
+（收稿日期：2020-09-01）

@@ -1,0 +1,84 @@
+﻿$ 626 $	心血管病学进展 2019 年 7 月第 40 卷第 4 期 5赤 +$%,-)<$s: Dis, July 20)9, @)..40, 7).4
+)879uorodeoxyH9uco?e positron emission tomography imaginH-assisted management of patients sith secere left ventricular dysfunction secondary to coronary disease[Q]a @ir< @ardiocas< .maging,20)6,9( 9) a pii: e004##)a
+22] Zrye =;,>ugust -,+roo4s BB,et ala > randomi[ed trial of therapies for type 2 diaUetes and coronary artery disease[Q]a / Nngl Q Bed,2009,#60 ( 24) : 2%0#-2%)%a
+2#] RellSeger BQ,Baraun B,Jsterhues MM,et ala -rogression to ocert or silent @>, in asymptomatic patients Sith diaUetes mellitus at high coronary ris4: main findings of the prospectice multicenter +>=,JV trial Sith a pilot randomi[ed treatment suUstudy[Q]a Q>@@ @ardiocasc .maging,20)4,7( )0) : )00)-)0)0a
+24] J" Beara N,Bielnic[u4 ;B,Cells D>,et ala >lternatice .maging Bodalities in .schemic Meart Zailure ( >.B.-MZ) .B>DN MZ -roPect .->: study protocol for a randomi[ed controlled trial[Q]a Vrials,20)#,)4: 2)(a
+2%] Mochman QA,;amas D>,+uller @N,et ala @oronary intercention for persistent
+occlusion after myocardial infarction[Q]a / Nngl Q Bed,2006,#%%( 2#) : 2#9%-2407a
+26] +a4s V, can Deuns =Q,,unc4er ,Q,et ala -rediction of left centricular function after drug-eluting stent implantation for chronic total coronary occlusions[Q]a Q >m @oll @ardiol,2006,47( 4) : 72)-72%a
+27] Nlias Q, can ,ongen .B,MoeUers ;-,et ala .mproced recocery of regional left centricular function after -@. of chronic total occlusion in AVNB. patients: a cardiocascular magnetic resonance study of the randomi[ed controlled NE-;J=N trial[Q]a Q @ardiocasc Bagn =eson,20)7,)9( )) : %#a
+2(] +ucciarelli-,ucci @,>uger ,,di Bario @,et ala @B= guidance for recanali[a-tion of coronary chronic total occlusion[Q]a Q>@@ @ardiocasc .maging,20)6,9 ( %) : %47-%%6a
+收稿日期: 20)(-))-)(
+LncRNAs与心脏移植免疫研究进展
+孟颖琦) 张烁2
+(1.哈尔滨医科大学研究生院，黑龙江哈尔滨1%0000； 2.哈尔滨医科大学附属第二医院心内科,黑龙江哈尔滨 )%0000)
+【摘要】心脏移植是心脏疾病终末阶段最有效的治疗方法，心脏移植后能否长期存活依然是一个挑战,移植排斥是影响移植物 存活的主要障碍，早期发现亚临床排斥可显著提高移植排斥的诊断并对及时指导调整排斥药物治疗剂量有重要意义％长链非编码 RNAs(lncRNAs)是长度>200个氨基酸的非编码RNAs,调节基因表达分化和发育过程％ LncRNAs在心脏移植中存在差异表达并可 能参与调节免疫反应和移植结果，有可能成为心脏移植状态标志物和改善移植结果的新治疗目标％现就近年来IncRNAs在心脏移 植中研究进展做简要综述%
+【关键词】LncRNAs;心脏移植免疫;移植排斥;移植耐受
+82,9 B2,F-27’,9 %B/) .,7 G#.41 !4.,)0+.,1.1’2, <$$;,’1C
+BNND Iing]i1,RMAND Ahuo2
+( 1A 6$%Fi( 9",i:$. ;(i<"%4i&0 T%$,>$&" B:2)).,6$%Fi( 1%0000,6"i.)(/8i$(/,+2i($; 2A !"#$%&’"(& )* +$%,i).)/0,12" B":)(, 5**i.i$&", 6)4#i&$. )* 6$%Fi( 9",i:$. ;(i<"%4i&0,6$%Fi( 1%0000,6"i.)(/8i$(/,+2i($ )
+/ Abstr.-t 】 Meart transplantation is the most effective treatment for end-stage heart diseases. Long-term survival of heart transplantation remains a challenge. Chile transplant rejection is the major restriction in successful long lasting graft surcical. Narly detection of suUclinical rejection can significantly improve the diagnosis of graft rejection and it has important practical significance in timely guiding the adjustment of rejection drug dosage. LncRNAs,more than 200 nucleotides in length,have significant effects on regulation of gene eTpression during development and differentiation processes. LncRNAs eTpress differentially in cardiac allograft and may regulate immune
+通讯作者：张烁,N-mail：519(07483’ ]].com
+心血管病学进展 2019 年 7 月第 40 卷第 4 期 5赤 Card-ovas: Dis, Jaly 20)9, @)/40, 7).4
+$*’$$
+response and graYt outcomes, so IncRNAs can be used as novel bioma3483s of cardiac graYt status and new therapeutic targets Kl improve graYt outcomes. In this review, recent advances in 9nc=NAs in heart transplantation were reviewed.
+【Key words】 LncRNAs；Meart transplantation immunity；Vransplant repection；Vransplantation tolerance
+心脏移植是心脏疾病终末阶段最有效的治疗方 法,心脏移植后能否长期存活依然是一个挑战,移植 排斥是影响移植物存活的主要障碍,免疫排斥是维持 移植物成功存活的主要限制,诱导免疫耐受是确保移 植物长期存活的主要目标[)]%早期发现亚临床排斥 可显著提高移植排斥的诊断并对及时指导调整排斥 药物治疗剂量有重要意义%组织活检是诊断心脏移植 排斥的金标准,然而它是高侵入性和危险的手术,采样 误差和观察者的变化也使得诊断变得复杂化,因此亟需 非侵袭性!敏感准确的标志物诊断亚临床移植排斥%
+Q长链非编码RNAs的定义分类及功能
+人类基因中约80%以上是被转录的，不到20d的 基因随后转录为蛋白质,这就意味着大部分的DNA序 列转录为非编码蛋白质的RNAs%非编码RNAs分为 小非编码RNAs和长链非编码RNAs (lncRNAs), lncRNAs是长度＞200个核苷酸的非编码RNA,具有基 因表达调节功能但不能编码产生蛋白质的一类 RNA02%根据lncRNA在基因组中的不同位置分为正 义lncRNA!反义lncRNA、双向lncRNA、基因间和基因 内lncRNA五种类型°# %新兴的研究发现lncRNAs参 与多种细胞进程:如细胞增殖、凋亡、分化,作为微小 RNAs的内源性诱饵来调节基因的表达％ LncRNA类 型的多样性及核苷酸的长度决定其功能的多样性,目 前认为lncRNA功能可能包括以下几方面.：(1)在编 码蛋白基因的上游启动子区进行转录,干扰临近蛋白 编码基因的表达； ( 2)与特定蛋白质相结合并调节其 活性； ( #)介导染色质重构和组蛋白修饰进而影响基 因表达； ( 4)与编码蛋白基因转录本形成互补双链产 生内源性小干扰RNA或干扰信使RNA剪切进而调控 基因表达水平%
+V LncRNAs在免疫炎症中的调控作用
+免疫反应主要由V细胞诱导,已有研究验证了超过 2 000个lncRNAs存在于人类T细胞中，证实lncRNAs 调节V细胞分化和功能发挥，参与固有免疫和获得性 免疫应答0% %器官移植后抗原递呈细胞被激活,将异 体抗原呈递给T淋巴细胞启动免疫应答％研究表明T 细胞谱系中存在很多lncRNA转录组，不同的T细胞 亚群在发育的不同阶段有不同特异性的lncRNA表 达口 % Vh1细胞为CD4kT细胞的亚群，参与调节细胞 免疫，辅助细胞毒性V细胞分化,调节细胞免疫应答， .©1 羽即皿Chma Acaaemic Joumar Electronic Put 参与迟发型超敏反应等％研究发现lncRNAWAFW位
+于编码MAF的基因上游，通过转录因子MAF的表观 遗传学沉默来控制人类Th1细胞的发育，MAF是 CD4kT细胞分化为Th2和Th17细胞的转录因子07 % LncRNA7BAFW的表达仅限于Th1细胞，它在幼稚T 细胞或其他淋巴细胞中不表达%通过体外细胞实验 发现Th1和Th2中lncRNAWAFW和MAF表达呈负 相关，表明lncRNA在这些辅助V细胞的发育中具有 调节功能08 %
+树突状细胞(DC)是人体免疫系统内功能最强的 抗原提呈细胞，快速启动免疫应答,Wang等囹使用基 因芯片、定量聚合酶链式反应及深度测序技术在人外 周血单核细胞诱导分化DC中检测出特异性表达 lncRNA即lnc7)C,在人DC分化过程将lnc7DC沉默 后,DC功能相关基因下调，DC中多种激活V淋巴细 胞的关键蛋白也下调％在鼠骨髓细胞内沉默lnc-DC 也影响DC分化。也就是说lnc-DC缺失会改变DC分 化趋势，影响DC功能％ Lnc-DC调控DC分化分子机 制可能为lnc-DC阻止磷酸酶AM-1与ATAT3结合，增 强DC中AVAV3的信号通路,促进人DC发育、激活T 淋巴细胞免疫应答的能力%还有研究证明不同 lncRNAs异常表达与各种自身免疫性疾病的起始、发 展和发病机制有关M,如类风湿性关节炎患者V细胞 中 lncRNAs Loc100652951 和 Loc100%06036 表达增加 可促进炎症反应011 ,染色体14]32b 2上的印迹DLK1-MND3基因可改变1型糖尿病易感性等012 %以上都 说明lncRNA在天然免疫和获得性免疫中免疫细胞增 殖及活化中起重要作用%
+W LncRNA在器官移植中的研究
+急性排斥一直是器官移植后成功与否的关键因 素,因此寻找无创、灵敏、高效的诊断急性排斥方法一 直是研究热点和努力的方向 ,Flechner 等013 用基因芯 片检测移植肾活检组织和外周血淋巴细胞内DNA水 平相关性,发现在肾移植后不同状态，二者DNA水平 的变化均有明显相关性,因此可以用一种无创的监测 手段来预测器官移植后的免疫状态％ Chen等014建立 C57BL/6J小鼠肝脏缺血再灌注模型，沉默其lncRNA： A0139328后发现可活化A4t信号通路并抑制人核因 子+B (NF+B)信号通路缓解肝脏缺血再灌注损伤，因 此A0139328可能成为肝脏移植后诊断或治疗的新靶 点 % Lorenzen等“％分别对9例肾移植后发生V淋巴 ing House. All rights reserved. .Ji . .	_ . v.cffii.net ,
+细胞介导的急性排斥患者和肾移植后稳定期的患者
+$*’($
+心血管病学进展 2019 年 7 月第 40 卷第 4 期 5赤 +$%,-)<$s: D-s, J>.0 20)9, @)/40,7).4
+尿液进行96<=/>芯片检测,发现有4 ）（9种96<=/>? 明显差异表达,为验证96<=/>在尿液中的可检测性 及表达变化,研究者选取变化最明显的96<=/>经在 肾组织活检分析后进一步筛选出恰当的96<=/>在尿 液标本中进行分析,筛选出三种转录本96<=/>即 ;#2）!;#27和;#2（,都具有清晰的扩增及溶解曲线, 在对照组中没有找到%在）0例抗排斥反应治疗成功 组的尿液96<=/>检测中发现,;#2（下降至对照组水 平,该研究结果表明;#2（有可能成为诊断肾脏移植 后急性排斥的特异性诊断指标，其灵敏度为49%,特 异度为9%%,95% +G为78.8%~99.9%。还有研究发 现96<=/> ;./@0））2）可评估应用免疫抑制剂的心脏 移植小鼠肾脏功能[）*]% ;6<=/>?的这些特征说明它 可能作为移植状态中新标志物和改善移植结果的新 治疗目标,具有广阔的临床应用前景及意义% P L,c%BA与心脏移植免疫
+4. Q Ln-%BA）与心脏移植排斥
+急性免疫排斥主要由激活的T细胞TM1、TM17、 V38H细胞介导,9ncRNAs调节T细胞分化、增殖和固有 免疫％ Df等口力选取（g 10周龄的雌性小鼠，建立小 鼠心脏移植急性排斥反应模型,分为#个实验组和# 个对照组,分别选取%只同种异体（从>;+1<小鼠的 心脏移植到@%7+1*小鼠）和同基因间心脏移植小鼠 （在@57+1*小鼠之间移植心脏）,获取移植后5 d小 鼠心脏组织及净化的移植浸润淋巴细胞,基因芯片分 析发现有195个IncRNAs （130个上调，65个下调）并 显示差异表达谱（倍数变化！2.0或#0. 5）,表明这些 IncRNA在同种异体移植排斥中基本上起着重要的作 用%用定量聚合酶链式反应和基因富集分析验证发 现其中高表达与可诱导急性排斥的V38H细胞相关的 96<=N>7>930015D03R5 和 9ncRNA1055,这两种 IncRNAs 与.;712=）1的表达呈显著正相关,.;712=）1对于.;712 介导的TM1细胞分化至关重要口8 %在体外V细胞分化 实验中，用短发夹RNA介导敲除A930015D03Rik、 9ncRNA1055明显抑制I；712R）1和"干扰素表达，说明 IncRNAs调控移植中TM1应答％实验还发现与免疫相 关的基因在异种异体移植排斥中明显高于同种异体移 植组，而介导免疫耐受的ILT0明显降低,TM1增强基 因IL-12R）1、IFN7<R2明显上调。在心脏移植排斥小鼠 外周血和血浆中可以检测到9ncRNA7A930015D03Rik、 9ncRNA1055明显增加,在人肾脏移植排斥患者中检测 到与这两种IncRNAs匹配的基因IncRNA NNAV00000628900 和R-117509P22.1高表达，IncRNAs可作为早期亚临床移
+4.V LncRNAs与心脏移植免疫耐受
+移植患者长期应用免疫抑制剂预防排斥反应,而 免疫抑制相关并发症的损害如糖尿病、机会性感染和 癌症等严重影响患者生存质量,最终20%以上的移植 患者在移植后5年内死亡[19]%近期研究发现一部分 常规免疫抑制治疗的肝移植和肾移植受者,一段时间 后停止免疫抑制治疗,也能达到耐受性,移植器官功 能稳定多年,较少组织发生病理学改变[20],这种特异 性移植耐受性（其中同种异体反应性V细胞特异性地 丧失能力,同时保留其余的免疫应答）,长期以来是临 床移植追求的目标。 DC是强有力的抗原提呈细胞， 参与免疫反应,对各种形式刺激应答时分泌细胞因子 IL-10调节免疫耐受，耐受型DC改变T细胞活性、产 生V38H?诱导免疫耐受，在移植免疫中扮演重要角 色加。 Cf等以研究发现IncRNA BALAV沉默miR-155提高树突细胞7细胞间黏附分子73结合非整合蛋 白（DC7AIGN）表达，进而诱导耐受型DC和Tree%通 过给予同种异体心脏移植小鼠抗CD-40L的单克隆抗 体诱导免疫耐受,基因芯片分析耐受型移植心脏和移 植浸润淋巴细胞中富含并上调表达IncRNA BALAT1, FISH分析发现BALAT1定位于CD11+细胞内，表明 该IncRNA可能作用于DC参与免疫耐受调节血，高 表达BALAT1的DC中促炎症因子白介素（IL） 6IL-12水平减低,抗炎因子IL-10显著增加，因此BALAT1 高表达促使DC转变为有低刺激信号、高分泌IL-10的 耐受型。 DC7AIDN是存在于DC细胞质和细胞核的免 疫调节受体,可诱导移植后免疫耐受[23],直接作用于 PO. 1,间接作用于miR-155网，敲除DC-SIDN明显阻 断BALAT1诱导低共刺激信号和IL-10蛋白分泌,变 为免疫型DC% AtarBase数据库分析发现BALAT1序 列有3个位点连接miR-155,敲除BALAT1的DC中 miR-155上调，DC4IGN下调，BALAT1可能沉默 miR155提高DC-SIDN表达发挥免疫耐受。 LncRNA BALAT1可诱导移植后免疫耐受很可能成为心脏移植 后治疗靶点,具有重要的临床意义%
+S 小结与展望
+综上所述,IncRNAs在心脏移植中通过各种机制 诱导免疫排斥和耐受,关于器官移植,只有少数几项 研究调查了 IncRNAs和移植免疫％ LncRNAs在移植 免疫的作用机制也不是很清楚,目前该领域尚处于起 步阶段,仍面临很多挑战,并且部分结果仅依赖于体 外研究，在人体内IncRNAs是否能发挥同样的功能还
+植排斥的标志物。	有待进一步的实验证咚进一步深入探讨96c叱在
+心脏移植的作用，有望在以后的临床工作中可通过检
+心血管病学进展 2019 年 7 月第 40 卷第 4 期 5赤 Card-ovas: Dis, J>0 20)9, @)..4&, No.!
+$*’"$
+测96<=/>?的血浆水平来辅助判断移植状态,甚至可 通过基因靶向治疗策略诱导移植免疫耐受,改善心脏 移植患者预后%
+参考文献
+[)] .489? @aVG8 26KG3L:L9LHW LY L3H26 K326?:926K2K5L6[Q]a>66F =8c >6KG3L:L9,20)#,42 ( )) : (97)02a
+[2] J42[245 I,ZF3F6L B,02?F42S2 V,8K 29a >629W?5? LY KG8 \LF?8 K326?<35:KL\8 based on YFnctional annotation of *0770 fulllength CDNA? Q .Nature, 2002, 420( *9)%) : %*#7%7#a
+[#] -ontinH @-,J9icer -;,=ei4 C. Nco9ution and fun<tion? of 9onH non<odinH =N>? [Q]. @e99,2009,)#*( 4) : *297*4).
+[4] Ci9u?[ QN,AunSoo M,A:e<tor D;. ;onH non<odinH =N>? fun<tiona9 ?ur:ri?e? fro\ the =N> Sor9d[Q]. Dene? Dec,2009,2#( )#) : )4947)%04.
+[%] A:ur9o<4 @Z,Vo??berH QV,Duo I,et a9. NT:re??ion and fun<tion? of 9onH non<odinH =N>? durinH hu\an V he9:er <e99 differentiation[Q].Nat @o\\un,20)%,*: *9#2.
+[*] -aHani B,=o??etti D,-an[eri .,et a9.=o9e of \i<ro=N>? and 9onH non<odinH =N>? in @D4 ( k) V7<e99 differentiation[Q]..\\uno9 =ec,20)#,2%#()) : (279*.
+[7] Mo .@,;o D,D9i\<her ;M.@7\af :ro\ote? V he9:er <e99 tW:e 2( Vh2) and attenu7 ate? Vh) differentiation bW both inter9eu4in47de:endent and 7inde:endent \e<ha7 ni?\? [Q].Q NT: Bed,)99(,)((( )0) : )(%97)(**.
+[(] >tianand B0,@affreW D=,Zit[Hera9d 0>. .\\unobio9oHW of 9onH non<odinH =N>? [Q].>nnu =ec .\\uno9,20)7,#%( )) : 7779(.
+[9] CanH -,Eue I,Man I,et a9.Vhe AV>V#7bindinH 9onH non<odinH =N> 9n<7D@ <ontro9? hu\an dendriti< <e99 differentiation[Q]. A<ien<e,20)4,#44( *)()) : #)07
+#)#.
+[)0] Cu D@,-an MZ,;enH =E,et a9.N\erHinH ro9e of 9onH non<odinH =N>? in auto7 i\\une di?ea?e?[ Q]. >utoi\\un =ec,20)%,)4( 9) : 79(7(0%.
+[))] ;u B@,Iu M@,Iu @;,et a9. .n<rea?ed eT:re??ion of 9onH non<odinH =N>? ;J@)00*%29%) and ;J@)00%0*0#* in V <e99? fro\ :atient? Sith rheu\atoid arthriti? fa<i9itate? the inf9a\\atorW re?:on?e?[Q]..\\uno9 =e?,20)*,*4( 2) : %7*7%(#.
+[)2] Ca99a<e @,A\Wth DQ,Bai?uria7>r\er B,et a9.Vhe i\:rinted D;0)7BND# Hene reHion on <hro\o?o\e )4]#2b 2 a9ter? ?u?<e:tibi9itW to tW:e ) diabete?[Q]. Nat
+Denet,20)0,42( )),*(77).
+)#] Z9e<hner AB,0urian AB,Mead A=,et a9. 0idneW tran?:9ant rePe<tion and ti??ue inPurW bW Hene :rofi9inH of bio:?ie? and :eri:hera9 b9ood 9W\:ho<Wte?[Q]. >\ Q Vran?:9ant,2004,4( 9) : )47%7)4(9.
+)4] @hen R,Qia A,;i D,et a9.Ai9en<inH of 9onH non<odinH =N> >0)#9#2( attenuate? i?7 <he\ia 1 re:erfu?ion inPurW in \ou?e 9icer?[Q].-;oA Jne,20)#,(( ))) : e(0()7.
+)%] ;oren[en QB,A<hauerte @,0o99inH B,et a9. ;onH non<odinH =N>? in urine are dete<tab9e and \aW enab9e ear9W dete<tion of a<ute V <e997\ediated rePe<tion of re7 na9 a99oHraft?[Q].@9in @he\,20)%,*)( )2) : )%0%7)%)4.
+)*] >?9eh =,Ani:e9i?4W D,Math<o<4 B,et a9. Deno\e Side a??o<iation ?tudW recea9? noce9 Heneti< 9o<i a??o<iated Sith <hanHe in rena9 fun<tion in heart tran?:9ant re<i:i7 ent?[Q].@9in Vran?:9ant,20)(,#2()0) : e)##9%.
+)7] Du D,MuanH I,Cu @,et a9.Differentia9 eT:re??ion of 9onH non<odinH =N>? durinH <ardia< a99oHraft rePe<tion[Q].Vran?:9ant,20)7,)0) ( )),(#79).
+)(] can de eo??e N,Macer4a\: BM,=a\ire[7>9ePo N,et a9..;7)2=)) defi<ien<W: \uta7 tion u:date and de?<ri:tion of the .;)2=+) cariation databa?e[Q]. Mu\ Butat, 20)#,#4( )0) : )#297)##9.
+)9] >r<iero Q@,Baturo >,>run >,et a9. @o\bininH theoreti<a9 and eT:eri\enta9 te<h7 ni]ue? to ?tudW \urine heart tran?:9ant rePe<tion[Q].Zront .\\uno9,20)*,7: 44(.
+20]	Bi99er B;,Danie9? BD,CanH V,et a9.A:ontaneou? re?toration of tran?:9antation to97 eran<e after a<ute rePe<tion[Q].Nat @o\\un,20)%,*: 7%**.
+2)] .berH @>,Qone? >,MaSiHer D.Dendriti< <e99? a? indu<er? of :eri:hera9 to9eran<e [Q]. Vrend? .\\uno9,20)7,#(( ))) : 79#7(04.
+22]	Cu Q,RhanH M,RhenH I,et a9.Vhe 9onH non<odinH =N> B>;>V) indu<e? to9ero7 Heni< dendriti< <e99? and reHu9atorW V <e99? cia \i=)%% 1 dendriti< <e997?:e<ifi< inter7 <e99u9ar adhe?ion \o9e<u9e7# HrabbinH noninteHrin 1.;)0 aTi?[Q]. Zront .\\uno9, 20)(,9,)(47.
+2#] @onde -,=odriHue[ B,can der VouS C,et a9. D@7A.DN( k) \a<ro:haHe? <ontro9 the indu<tion of tran?:9antation to9eran<e[Q]..\\unitW,20)%,42( *) : ))4#7))%(.
+24]	Bartine[7Nune[ =V,;ouafi Z,Zried\ann -A,et a9. Bi<ro=N>7)%% \odu9ate? the :athoHen bindinH abi9itW of dendriti< <e99? ( D@?) bW doSn7reHu9ation of D@7?:e<ifi< inter<e99u9ar adhe?ion \o9e<u9e7# HrabbinH non7inteHrin ( D@7A.DN) [Q]. Q +io9 @he\,2009,2(4( 24) : )*##47)*#42.
+收稿日期: 20)(7)0727
+♦加・♦如—♦如..♦如..♦如..♦如..♦如..♦如..♦如..♦如.刚♦刚♦如..♦如..♦如..♦如..♦如..♦如..♦如.刚♦刚♦如..♦如..♦如..♦如..♦如..♦岬
+投稿须知
+本刊已开通网上投稿,官方网站地址: htt:: 1 1TTHbT[[.:a:ero:en.<o\
+进入&作者投稿$,在&作者投稿管理平台’中投稿%
+近期本刊发现一些网站冒用（心血管病学进展）名义征稿,向（心血管病学进展）杂志投稿,一定要登录（心 血管病学进展）杂志的官方网站%
+若有任何问题咨询，咨询电话:02（-61#1（6%6,18190934621 或 N-mail：xxHbxjzcd@ aliyun.com
+；hina Academic Journal Electronic Publishing House. All rights reserve(心血管病学进展)编辑部

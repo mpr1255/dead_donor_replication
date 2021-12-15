@@ -1,0 +1,99 @@
+---
+title: "Appendix 1: Pilot study"
+output:
+  word_document:
+    reference_docx: docx_template.docx
+    
+link-citations: yes
+linkcolor: blue
+bibliography: dead_donor_references.bib
+csl: ama.csl
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+
+library(flextable)
+library(data.table)
+library(officer)
+library(tidyverse)
+library(glue)
+library(here)
+here <- rprojroot::find_rstudio_root_file()
+
+tbl_a <- read_csv(glue("{here}/appendix_1/table_a.csv"))
+tbl_b <- read_csv(glue("{here}/appendix_1/table_b.csv"))
+tbl_c <- read_csv(glue("{here}/appendix_1/table_c.csv"))
+
+source(glue("{here}/code/helper_functions.R"))
+source(glue("{here}/appendix_1/exclusions.R"))
+
+set_flextable_defaults(font.family = "Arial")
+
+n_file_list_pilot <- length(list.files(glue("{here}/appendix_1/txt/")))
+
+FitFlextableToPage <- function(ft, pgwidth = 6){
+
+  ft_out <- ft %>% autofit()
+
+  ft_out <- width(ft_out, width = dim(ft_out)$widths*pgwidth /(flextable_dim(ft_out)$widths))
+  return(ft_out)
+}  # With thanks to 'Sarah' on Stack Overflow for this function
+
+```
+
+### Search strategy
+
+We accessed Chinese-language medical papers published in academic databases, including Chongqing VIP Information Co., Ltd. (CQVIP), China National Knowledge Infrastructure (CNKI), and Wanfang Data. The papers were discovered in one of four ways, documented in Tables A and B. We chose only to access Chinese-language databases, because we reasoned that if these admissions of unethical BDD existed, we would be most likely to find them in Chinese, where foreign reviewers would be less likely to see and reject them. Also, Chinese transplant papers were in general subject to a boycott in Western publications until 2015.
+
+<br><br><br><br><br>
+**Table A. Searches in academic databases (n=469)**
+
+```{r, Table A, echo = FALSE, results="asis"}
+tbl_a <- flextable(tbl_a)
+FitFlextableToPage(tbl_a)
+```
+
+<br><br><br><br><br>
+
+These two searches led to 435 and 34 responsive papers respectively.
+
+The search terms were based on previous literature, but are narrowly tailored to our central hypotheses. They aimed to identify only clinical papers about heart and lung procurements which explicitly address warm ischemic time (the time between cessation of the flow of oxygenated blood to the heart or lung and its perfusion with a cold preservative solution), intubation, and organ procurement.
+
+<br><br><br><br><br>\
+**Table B. Other methods used to discover responsive papers (n=`r 683-469`)**
+
+```{r, Table B, echo = FALSE, results="asis"}
+tbl_b <- flextable(tbl_b)
+FitFlextableToPage(tbl_b)
+```
+
+<br><br><br><br><br>
+
+We identified nearly `r 683-469` other papers through other researchers, advocacy networks, colleagues, and our own readings in the literature.
+
+The combination of these methods led to the identification of `r n_file_list_pilot` medical papers for which we could locate the original pdf. Most articles were converted to plain text with the open source pdftotext command line tool; commercial optical character recognition software dealt with refractory cases.
+
+### Exclusion criteria
+
+Table C shows the exclusion criteria. Screening was done via programmatic analysis with extensive clerical validation.
+
+<br><br><br><br><br>\
+**Table C. Exclusion criteria (n=`r nrow(df_exclusions)`)**
+
+```{r, Table C, echo = FALSE, results="asis"}
+tbl_c <- flextable(tbl_c)
+FitFlextableToPage(tbl_c)
+```
+
+<br><br><br><br><br>
+
+Exclusions per category were: Other organ (n=`r o_ex`), animal (n=`r a_ex`), non-clinical (n=`r nc_ex`), infant (n=`r i_ex`), and voluntary (n=`r v_ex`). Papers claiming voluntary donors were only excluded if the phrase appeared in the paper title, or came with sufficient detail so as to make the claim credible. In Phase Two, we expanded the scope of the project by searching for and coding papers that reported ethical procurements from voluntary donors.
+
+### Findings
+
+Our qualitative review of these papers was for the purpose of identifying Chinese-language text strings indicating potential DDR violations. The text strings we found through this process of manual review were:
+
+> "脑死亡后用麻醉机维持呼吸", "死亡后迅速建立人工呼吸", "自主呼吸丧失的脑死亡供体,在特定条件下应尽可能迅速建立辅助呼吸支持循环,维持供心的血氧供应,避免或缩短热缺血时间,同时迅速剖胸取心", "供体大脑死亡后,首先分秒必争地建立呼吸与静脉通道", "经气管切开气管插管建立人工呼吸", "快速胸部正中切口进胸", "供者脑死亡后迅速建立人工呼吸", "供心保护脑死亡后用麻醉机维持呼吸", "供体确定脑死亡后,气管插管,彻底吸除气道分泌物,用简易呼吸器人工控制呼吸", "供体脑死亡后,迅速建立人工呼吸", "供体脑死亡后快速正中开胸,同时插入气管导管人工通气", "脑死亡后,紧急气管插管", "供者行气管插管", "供者行气管插管,球囊加压通气,静脉注射肝素200mg", "脑死亡后，用麻醉机维持呼吸", "供体在确认脑死亡后,气管插管,建立人工呼吸", "脑死亡后气管紧急插管,纯氧通气", "供体死亡后行人工呼吸、循环支持", "脑死亡后,气管插管", "脑死亡后立即气管内插管给氧", "脑死亡,面罩加压给氧,辅助呼吸", "脑死亡后,将供体取仰卧位,争取做气管插管", "脑死亡后迅速气管插管", "脑死亡后迅速气管插管进行机械通气", "协助麻醉医生进行支纤镜检查后进行供体气管插管", "脑死亡后,4例气管插管,3例面罩吸氧", "脑死亡后插入气管导管", "在这紧急情况下,必须在紧急开胸的同时,进行紧急气管插管及辅助呼吸", "供体手术气管插管通气", "供体手术气管插管", "气管切开气管插管", "供体心脏的提取供心者取仰卧位,垫高胸腔,气管插管", "进行供心、肺切取,吸净气管分泌物,气管插管给氧", "供体心肺的切取气管插管", "供肺切取:供体气管插管", "供者平卧位,气管插管", "供心切取配合,护士协助医生气管插管辅助呼吸", "供心切取配合..气管插管", "供体平卧位，气管插管", "协助麻醉医生进行支纤镜检查后进行气管插管", "供体心肺的获取和保护..行气管插管通气", "供心的切取供体气管插管后", "供者气管插管", "供体全身肝素化后，仰卧位，经口气管内插管","面罩吸氧"
+
+The full list of publications consulted in the pilot study is in the file **`./appendix_1/references/appendix1_full_ref_data.csv`**

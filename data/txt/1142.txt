@@ -1,0 +1,103 @@
+﻿中国胸心血管外科临床杂志 2019年11月第26卷第11期
+• 1069 •
+・2019中华医学会胸心血管外科青年医师论坛专集•
+125 例脑死亡捐献心脏供体的单中心
+回顾性分析及边缘供心使用探讨
+吴敏，吴怡锦，吴梅芬，麦明杰，黄劲松，陈欧迪
+广东省医学科学院 广东省人民医院 广东省心血管病研究所 心外科（广州 510080）
+【摘要】 目的 总结分析 125 例脑死亡捐献供心，探讨评估维护和边缘供心的使用。方法 回顾性分析 2016 年 4 月至 2019 年 8 月 125 例供心的评估、维护和手术及边缘供心使用后的随访结果。其中男 98 例、女 27 例，年龄6~50（36.0±2.4）岁。结果12例供心获取后评估不合格而丢弃。113例心脏移植均采用双腔静脉法。 平均冷缺血时间（220.1±6.7）min。4例术后30 d内死亡，4例术后右心辅助循环，12例术后主动脉内球囊反搏 （IABP）辅助，12例术后体外膜肺氧合（ECMO）辅助。边缘供心包括15例乙肝抗原阳性供心，2例三尖瓣反流，1 例二尖瓣反流，5 例冠状动脉钙化，4 例心肌顿抑和 2 例体重严重不匹配。随访时间 2 年。边缘供心术后随访效 果满意。结论 提升心脏供体的评估与维护提高了心脏的利用率，边缘供心缺乏长期随访。
+【关键词】 心脏移植；边缘供心；二尖瓣反流；三尖瓣反流；冠状动脉钙化
+Single-center retrospective analysis of 125 donor hearts from brain death donation and to explore the use of marginal donor hearts
+WU Min, WU Yijing, WU Meifen, MAI Mingjie, HUANG Jingsong, CHEN Oudi
+Department of Cardiac Surgery, Guangdong Academy of Medical Sciences, Guangdong Provincial People’s Hospital, Guangdong Cardiovascular Institute, Guangzhou, 510080, P. R. China
+Corresponding author: WU Min, Email: 26396284@qq.com
+【Abstract】 Objective To analyze the assessment and maintenance of 125 donor hearts from brain death donation and explore the use of marginal donor hearts. Methods A retrospective analysis was conducted on the evaluation, maintenance, operation and follow-up results of 125 donor hearts from April 2016 to August 2019. There were 98 males and 27 females at age of 6-50 (36.0±2.4) years. Results Twelve donor hearts were discarded due to unqualified evaluation after heart harvest. 113 patients of heart transplantation were performed with a double lumen venous anastomosis manner. The mean time of cold ischemia was 220.1±6.7 min. Four patients died within 30 days after operation. Postoperative right ventricular assist circulation was performed in 4 patients, intra-aortic balloon counterattack (IABP) in 12 patients and extracorporeal membrane oxygenation (ECMO) in 12 patients. Marginal donors included 15 hepatitis B antigen positive donor hearts, 2 tricuspid regurgitation, 1 mitral regurgitation, 5 coronary calcification, 4 myocardial stunning and 2 severe weight mismatch. The results of follow-up (2 years) after marginal donor heart transplantation were satisfactory. Conclusion Improving the assessment and maintenance of donor hearts can improve the utilization rate of the heart, and the marginal donor heart transplantation needs long-term follow-up.
+【Key words】 Heart transplantation; marginal donor heart; mitral regurgitation; tricuspid regurgitation; coronary calcification
+心脏移植是目前治疗终末期心脏病的最有效 手段［1］。随着近几年我国捐献事业的发展，心脏移 植得到快速发展。中国人体器官捐献管理中心公
+DOI：10.7507/1007-4848.201909078
+基金项目：国家自然科学基金面上项目（81771799）
+通信作者：吴敏，Email： 26396284@qq.com
+此文为2019中华医学会胸心血管外科青年医师论坛论文发言内容
+布了 2018 年我国器官捐献人数达 6 302 人，其中中 国一类（C - I）,国标标准化脑死亡器官捐献 （donation after brain death, DBD）占 27.2%。2018 年在我国心脏移植注册系统上登记完成了 490 例心 脏移植手术,比 2017 年增长了 9.9%。但是器官捐 献的供肝与供心比值持续上升到14.1 ： 1.0,远远大 于国际上2.7 ： 1.0的比例，说明我国在心脏供体的
+http://www.tcsurg.org j^Eg
+• 1070 •
+Chinese Journal of Clinical Thoracic and Cardiovascular Surgery, Nov. 2019, Vol. 26, No.11
+利用率上还有很大提升空间。2016 年 4 月至 2019 年 8 月广东省人民医院完成了 113 例心脏移植，获 取供心 125 例，其中 12 例手术获取后评估不合格 而丢弃，现将我们对供心的维护和评估技术要点总 结如下。
+1	资料与方法
+1.1	临床资料
+1.1.1	供者资料 2016 年 4 月至 2019 年 8 月我们 共获取了 125 例供者捐献心脏，其中男 98 例、女 27 例，体重 15 ~ 100 (63.4±2.6 ) kg,年龄 6 ~ 50 (36±2.4)岁，仅有 1 例紧急状态受者接受 55 岁供 者心脏。脑死亡原因中脑外伤 73 例，脑出血 43 例，窒息 5 例，其它原因 4 例。39 例供者有心肺复 苏史，时间不超过20 min。12例供心在获取后评估 不合格而丢弃，11 例是探查出冠状动脉严重钙化和 狭窄，1 例为心肌内血肿。其中有 15 例为乙肝表面 抗原阳性心脏供者，占比达 12%。
+1.1.2	受者资料2016年4月至2019年8月广东 省人民医院共完成了 113 例心脏移植，其中男 96 例、女17例，年龄6 ~ 73 (45.1 ± 1.4)岁，体重 15 ~ 100(61.5±1.5)kg,供受者体重差值＜30%,但有 两例体外膜肺氧合(ECMO)辅助下儿童紧急状态 受者供受者比例差达 300.0%。原发疾病包括扩张 型心肌病 68 例,缺血性心肌病 25 例,瓣膜型心肌 病 10 例,肥厚型心肌病 2 例,限制型心肌病 3 例, 先天性心脏病 1 例,心脏恶性肿瘤 1 例,致心律失 常右室心肌病 1 例,急性心肌炎 1 例,尿毒症性心 肌病 1 例。42 例患者合并肺动脉高压,32 例患者 合并慢性肾功能不全(术前肌酐＞120」mol/L)。术 前受者群体反应抗体(PRA)阳性率占总数的 5.3% (6例)，平均等待时间(55.8± 17.0) d,长于 PRA阴性受者(31.5±6.7)do PRA阳性率波动于 4.0% ~ 30.0%。
+1.2	方法
+1.2.1 供心选择标准 心脏供者根据《中国脑死亡 判定标准(成人)》［2］判定合格后,我们参考中国心 脏移植供心获取与保护技术规范(2019 版)［3］,结合 我们实际临床经验,制定了我院供心获取的选择标 准：(1)年龄＜50 岁,供心质量好且有条件做冠状 动脉检查可以放宽至 55 岁；(2)体重：供受体体 重相差不超过 30%。但是对于紧急状态下急需心 脏移植的儿童受者,最大体重差可达 3 倍体重(大 供体给小受者)；(4)心脏彩超未发现心脏运动异 常，左心室射血分数(LVEF)＞50%；(4)血管活性
+表 1 供体评估的主要内容
+项目	内容
+一般情况 年龄、身高、体重,脑死亡原因,心脏血管活性药物 用量,有无高血压、冠心病及糖尿病史等既往病史
+实验室检查 心功酶，肌钙蛋白/高敏肌钙蛋白，BNP/Pro-BNP, 血液传播疾病筛查(HBV、HCV、HIV、梅毒等)
+超声心动图 左室收缩舒张功能、心内结构、左心室室壁厚度、瓣 膜功能、多导心电图
+心电图 多导心电图
+冠状动脉造影(条件允许)评估冠状动脉情况
+药物：去甲肾上腺素＜0.5年/ (kgmin)或多巴胺/多 巴酚丁胺用量＜10胞/ (kgmin);(5)心脏彩超提示 瓣膜及心内结构正常,或者可修复的瓣膜病变以及 可修补的先天性心脏结构异常；(6)心电图正常； (7)血清学检查排除丙型肝炎及艾滋病(HIV)等感 染,对于乙肝携带者供心仅用于乙肝携带受者或紧 急状态下乙肝抗原阴性抗体阳性受者,并做好伦理 报备及乙肝隔离措施；(8)冷缺血时间：一般控制 在 6 h 以内,对于年轻供心,心脏功能正常且未用 血管活性药物供心可考虑放宽到 8 h 以内。
+1.2.2 心脏供体评估指标 (1)一般状态：性别、 年龄、供体体重、脑死亡原因、血管活性药物情 况；(2)心电图：排除心律失常及心肌缺血表现； (3)心脏彩色超声心动图：最有价值的评估手段, 评估心肌收缩舒张幅度及协调性、瓣膜功能,排除 复杂先天性心脏畸形,测量心室厚度等；(3)冠状 动脉检查：冠状动脉造影或冠状动脉CT,受获取 医院条件制约因素大；(4)检验指标：肝炎、梅 毒、HIV等感染指标以及脑钠肽前体(Pro-BNP/ BNP)、高敏肌钙蛋白/肌钙蛋白和心功酶等心肌损 伤指标的变化趋势(表1)。
+1.2.3 心脏供体维护 脑死亡供者交感神经兴奋, 下丘脑失调和垂体功能下降会导致循环衰竭,合理 使用血管活性药物(去甲肾上腺素、多巴胺/多巴酚 丁胺等药物)可以维护循环的稳定。维持酸碱和电 解质内环境稳定,补充胶体维持血容量,保持出入 量平衡,使用血管加压素,甲状腺素和糖皮质激素 组成的激素包替代治疗可以减少血管活性药物的 使用［4］。
+1.2.4 乙肝表面抗原阳性供心的使用标准 (1)仅 在紧急状态案例中使用,包括需要持续静脉血管活 性药物维持,使用 IABP 或 ECMO 辅助支持,呼吸 机辅助呼吸,频发恶性心律失常等影响生命体征, 预期寿命＜1 个月的受者；(2)手术前需要将使用 乙肝供心的风险详细告知患者及家属,并签署乙肝
+http://www.tcsurg.org
+中国胸心血管外科临床杂志 2019年11月第26卷第11期
+• 1071 •
+表抗阳性供心使用知情同意书，并将患者病情及知 情同意书报备伦理委员会；（3）尽量给与乙肝携带 受者或乙肝抗体阳性受者。
+制定乙肝抗原阴性受者乙肝阻断及监察方 案：（1）供者乙肝携带滴度监测；（2）获取后使用 3 000 mL 灌注液冲洗供心；（3）从术前一天开始连 续 5 d 给予乙肝免疫球蛋白肌肉注射；（4）术后给 与恩替卡韦片预防乙肝病毒；（5）术后长期门诊随 访乙肝抗原及 DNA 表达。对于乙肝携带者受者术 后 1 年给予预防乙肝并监测乙肝 DNA 的数量表达。 1.2.5 供心获取 （1）有高血压、糖尿病病史的脑 出血患者有很大几率出现冠状动脉血管的病变。 对于没有条件行冠状动脉造影/冠状动脉 CTA 检查 排除冠状动脉血管狭窄病变的供心，则需要手术获 取后用冠状动脉探条或离体造影探查冠状动脉通 畅情况来评估是否可以使用。（2）我们运用体外灌 注机恒压恒流灌注供体心脏，先用 1 000 mL St. Thomas 液体灌停心脏后，按照下腔静脉、左右肺静 脉、肺动脉、主动脉、上腔静脉的顺序剪下心脏，再 用 2 000 mL HTK 溶液灌注离体心脏并浸泡低温保 存供心。
+1.2.6 随访 心脏移植术后需要做到 100% 终身随 访，患者随访资料需要登记在中国心脏移植注册系 统中，并接受国家卫健委监督检查。每例心脏移植 都有伦理审查批准号。本文随访时间为 2 年。
+2	结果
+2.1	手术结果
+113 例心脏移植均采用双腔静脉手术方法。平 均冷缺血时间（220.1±6.7）min,阻断时间（127.0士 3.4）min,体外循环时间（250.1±6.0）min。4例术后 30 d 内死亡，其中 2 例死于术后多器官功能衰竭，1 例死于术后严重感染，1 例死于缺血缺氧脑病。4 例患者由于早期急性右心衰竭而需要右心辅助循 环下撤离体外循环，后均成功撤除右心辅助装置， 平均辅助时间（157.7±27.5）h。12例术后需要IABP 辅助，平均辅助时间（94.8±19.3）h； 12例术后需要 ECMO辅助，平均辅助时间（159.1±28.7）h。
+2.2	边缘供心使用及随访结果
+2.2.1 乙肝表面抗原阳性供心 15 例患者在紧急 情况下使用乙肝抗原阳性供心，经过综合抗乙肝处 理并随访 3 个月至两年，通过检查乙肝病毒 DNA 均未发现乙肝病毒感染，术后使用恩替卡韦片预 防， 1 年后规律随访乙肝病毒。
+2.2.2 心脏瓣膜损伤 2 例脑外伤供体心脏出现三
+表 2 边缘供体心脏统计
+项目	例数	随访
+乙肝抗原阳性供心	15	无传染
+三尖瓣损伤	2	成形术后未及反流
+二尖瓣损伤	1	成形术后未及反流
+冠状动脉钙化	5	复查冠状动脉血管造影未及狭窄
+心肌顿抑	4	左心室射血分数＞50%
+供受体体重不匹配	2	撤离 体外膜肺氧哈、高血压、肺部
+(>300%)		感染
+尖瓣腱索断裂至三尖瓣重度反流，术中经三尖瓣成 形处理后随访 1 年心脏彩超未发现三尖瓣反流。1 例供心二尖瓣脱垂，予以二尖瓣成形术并随访 12 个月心脏彩色超声心动图未发现二尖瓣反流。
+2.2.3 冠状动脉钙化 5 例心脏供体有冠状动脉钙 化，但是经冠状动脉探条探查后发现无明显狭窄后 使用，术后随访 9 个月至 1.5 年冠状动脉短血管造 影未发现冠状动脉狭窄。
+2.2.4 心肌顿抑 4 例供心在移植后出现心肌顿 抑，表现为心脏复跳时间＞1 h，左心室射血分数 ＜30%，1 例通过 IABP，3 例予以 ECMO 辅助 1 周左 右心功能恢复，术后随访左心室射血分数＞50%。
+2.2.5 体重不匹配供心 2 例体重 20 kg 术前予以 ECMO 辅助的儿童接受 60 kg 的成人供心，体重差 达3倍，无法关闭胸骨。经过1 ~ 2周ECMO辅助 后供心水肿消退，体积减小后成功关闭胸骨。术后 出现高血压，肺部出血及感染等并发症（表2）。经 过改变体位，拍背排痰，药物降压等对症处理均可 恢复正常。
+3	讨论
+中国目前有 460 万心力衰竭患者，其中有 5% 终末期心力衰竭患者需要接受心脏移植治疗［5］，而 目前每年仅有 490 例心脏移植。目前限制我国心脏 移植发展的重要原因还是供体心脏的短缺。尽管 目前我国器官捐献数量仅次于美国位于全球第二 位，但是目前我国器官 DBD 捐献比例仅 27.2%，距 离全球公民逝世后 DBD 捐献 83.1% 的比例差距很 大。这和部分基层医院脑死亡判定技术不足和器 官维护水平不够相关。移植中心积累供心选择经 验，与器官获取组织积极配合维护供心和做好获取 供心保护可以提高供心的利用率。本中心 113 例供 体心脏的平均冷缺血时间在 4 h 以内，无早期移植 物严重衰竭而需要再次移植的案例。本心脏移植
+http://www.tcsurg.org 首声
+• 1072 •
+Chinese Journal of Clinical Thoracic and Cardiovascular Surgery, Nov. 2019, Vol. 26, No.11
+中心位于的广东省是最早开展器官捐献的省份， 2018年器官捐献人数达835人，DBD捐献比例高 达 68.7%，远高于全国平均水平。这也是我中心能 很好开展心脏移植，开展供心评估和维护的基础。
+由于脑死亡造成的儿茶酚胺风暴，下丘脑和垂 体功能失常往往导致心率增快、血管舒张和尿崩 症，这些都会导致受体耗竭而心功能下降，循环衰 竭导致低血压也会造成心肌灌注不足，所以需要采 用稳定内环境、补充胶体容量、适量的血管活性药 物和激素替代治疗等综合维护措施来提高心脏的 利用率［6］。研究表明使用大剂量去甲肾上腺素并没 有影响移植术后近期及远期生存率，但会影响 ICU 住院时间［7］。但是我们发现大量使用血管活性药物 维护的供体心脏容易在移植后出现心肌顿抑的情 况。本中心有 4 例心脏移植术后出现心肌顿抑，表 现为心脏复跳困难，心室传导阻滞，左心室射血分 数＜20% ~ 30%。经过IABP或者ECMO辅助1周后 左心室射血分数都可恢复至 50% 以上。其中 3 例 心脏供体获取前去甲肾上腺素剂量〉0.4解/ (kgmin)。 尽管 1 例外伤供者在获取前未使用血管活性药物， 但是一直表现为高心率、高血压等神经交感兴奋的 状态，心脏移植术后供心过度耗竭也可导致心肌顿 抑。但是对于这种顿抑现象一般经过 1 周左右时 间都可以恢复到接近正常水平。如果 1 周时间供 体心脏仍然不可恢复，尽快准备再次心脏移植。
+供体心脏的主要风险因素包括供者年龄、左心 室功能、冷缺血时间/运输距离［8］。年龄＞60 岁的边 缘供心会增加心脏移植手术的远期生存率，但是供 受者之间年龄差距并不是影响远期生存时间的显 著因素［9］。我们使用的供心年龄普遍年轻，平均年 龄 36 岁，但是随着以后供心缺口进一步扩大，我们 需要开始使用50 ~ 60岁之间的供体心脏。由于所 在地区捐献条件优越，我们的平均冷缺血时间可以 控制在 4 h 以内。心脏彩超检查无创而且操作简 单，也是供心评估最重要的手段。心室的运动幅 度、协调性是心脏彩超主要探查内容。我们一般选 择左心室射血分数＞50% 的供心，但是最近美国器 官共享联合网络(United Network for Organ Sharing, UNOS)统计了左心室射血分数＜40%,左 心室射血分数40% ~ 50%和左心室射血分数＞50% 3 组 1 年内心脏移植物功能和死亡率差异并无统计 学意义［10］。心脏彩超还要排除心内结构先天性缺损 和瓣膜结构功能的异常。但是对于脑死亡供体往 往处于低容量状态,心脏充盈不足,所以对瓣膜功 能评估上可能出现漏诊。由于车祸,高处坠落等导
+致的胸部减速伤会造成腱索或乳头肌断裂,而导致 三尖瓣反流。我们发现 2 例三尖瓣反流供心,1 例 为腱索断裂,1 例为乳头肌撕裂。予以腱索重建和 乳头肌修复,三尖瓣人工瓣环置入后三尖瓣功能良 好,随诊 1 年未及三尖瓣反流。对于 1 例二尖瓣脱 垂供心予以重建腱索和人工瓣环环缩后二尖瓣未 发现明显反流。经过 1 年随访患者瓣膜功能良 好。所以对于可修复的瓣膜功能改变供心使用还 是安全可靠的。
+冠状动脉造影或冠状动脉 CTA 是心脏彩超之 外另外一个重要的指标。严重的冠状动脉狭窄病 变是手术获取评估过程中丢弃心脏最主要的一个 原因。但是对于有少量局限冠状动脉钙化供心,我 们通过冠状动脉探条探查冠状动脉远端可以通过 直径 2 mm 探条则判定可以使用,并且对该类患者 术后 3 个月便开始定期予以术后冠状动脉 CTA 随诊。
+中国有 1.2 亿乙肝携带者,在广东沿海地区乙 肝的携带率更是高达 17.6%。在器官捐献中会经常 遇到乙肝携带者的捐献案例,但是指南仍然未能给 出明确的建议［11］。本中心对 15 例紧急状态下乙肝 抗原阴性的受者使用了乙肝表面抗原阳性的供 心。经过严密隔离阻断措施和 1 年以上的随访,未 发现乙肝病毒传染的案例。关于乙肝抗原阳性的 供体心脏国内外报道很多,肝脏移植的乙肝传染性 较高,但是对于其他实体器官移植传染性不强,而 且运用拉米夫定能够有效预防乙肝病毒的传染［12］。 对心脏移植的受者不建议术后使用乙肝免疫治疗。
+心肌酶谱和肌钙蛋白/高敏肌钙蛋白的绝对值 和变化趋势有一定的提示作用。外伤导致的心肌 挫伤或心肌内血肿可以表现为心肌酶谱和肌钙蛋 白的大幅升高。有些脑死亡维护过程中心肌得到 有效灌注,心脏功能恢复也可表现心肌酶谱和肌钙 蛋白逐渐降低的趋势,对我们供心维护效果的评估 有一定的提示意义。
+一般供受体体重范围相差不超过 30%,但是也 有研究发现供体重量小于受体重量的 70% 会增加 非肥胖心脏移植受者的死亡率,但肥胖心脏移植受 者的死亡率不会增加。但是独立于体重匹配之外, 性别错配(女性供心给男性)是增加心脏移植死亡 率的独立风险因素［13］。113 例心脏移植中包含 6 例 儿童心脏移植,其中两例儿童心脏移植因为术前发 生心脏骤停而予以 ECMO 辅助下接受体重 3 倍的 成人供心。由于供受心极度不匹配造成早期 ECMO 撤离困难和胸骨无法闭合。但是经过两周 时间适应和水肿消退,我们观察到供心很大程度缩
+http://www.tcsurg.org
+中国胸心血管外科临床杂志 2019年11月第26卷第11期
+• 1073 •
+小。两例患儿均成功撤除 ECMO 并关闭胸骨。但 是也有左肺受压明显而影响呼吸和咳嗽排痰，术后 高血压等术后并发症，经过改变体位，拍背排痰， 药物降压等对症处理均可恢复正常。
+心脏移植不是一门新的技术，但是随着我国器 官捐献事业发展而焕发新的青春。接受脑死亡患 者的心脏供体的评估与维护尚有很大的探索空 间。通过不断总结经验，对边缘心脏的维护和使用 提高了心脏的利用率。但是针对这些边缘心脏的 使用还缺乏更加长期和严密的随访。
+利益冲突：无。
+临床试验注册：无。
+参考文献
+1	Stehlik J, Kobashigawa J, Hunt SA, et al. Honoring 50 years of clinical heart transplantation in circulation: in-depth state-of-the-art review. Circulation, 2018, 137(1): 71-87.
+2	宿英英, 张叶红, 高岱佺, 等. 脑死亡判定标准与技术规范(成人 质控版). 中华移植杂志(电子版), 2015, 9(1): 13-17.
+3	刘盛. 中国心脏移植供心获取与保护技术规范(2019版). 中华移 植杂志(电子版), 2019, 13(1): 8-10.
+4	Kumar L. Brain death and care of the organ donor. J Anaesthesiol Clin Pharmacol, 2016, 32(2): 146-152.
+5	Wang H, Yang JF. Prevention and management of heart failure in China:past,present and future perspective. Zhonghua Xin Xue Guan Bing Za Zhi, 2019, 47(9): 714-7.
+6	Jawitz OK, Raman V, Barac YD, et al. Influence of donor brain death duration on outcomes following heart transplantation: A United Network for Organ Sharing Registry analysis. J Thorac Cardiovasc Surg, 2019: pii: S0022-5223(19)30959-6.
+7	Angleitner P, Kaider A, Gokler J, et al. High-dose catecholamine donor support and outcomes after heart transplantation. J Heart Lung Transplant, 2018, 37(5): 596-603.
+8	Kobashigawa J, Khush K, Colvin M, et al. Report from the American Society of Transplantation Conference on Donor Heart Selection in Adult Cardiac Transplantation in the United States. Am J Transplant, 2017, 17(10): 2559-2566.
+9	Ram E, Lavee J, Kogan A, et al. Does donor-recipient age difference matter in outcome of heart transplantation? Clin Transplant, 2019: e13593.
+10	Moayedi Y, Khush KK. Throwing out the good with the bad: Declining potential donor hearts with left ventricular dysfunction. J Heart Lung Transplant, 2018, 37(3): 321-322.
+11	Huprikar S, Danziger-Isakov L, Ahn J, et al. Solid organ transplantation from hepatitis B virus-positive donors: consensus guidelines for recipient management. Am J Transplant, 2015, 15(5): 1162-72.
+12	Horan JL, Stout JE, Alexander BD. Hepatitis B core antibodypositive donors in cardiac transplantation: a single-center experience. Transpl Infect Dis, 2014, 16(5): 859-863.
+13	Bergenfeldt H, Stehlik J, Hoglund P, et al. Donor-recipient size matching and mortality in heart transplantation: Influence of body mass index and gender. J Heart Lung Transplant, 2017, 36(9): 940947.
+收稿日期：2019-09-26 修回日期：2019-09-28 本文编辑：刘雪梅
+http://www.tcsurg.org j^Eg

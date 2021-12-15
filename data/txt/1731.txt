@@ -1,0 +1,79 @@
+﻿国际麻醉学与复苏杂志2007年8月第28卷第4期Int J Ane8出Resus, August 2007, Vol 28 ,No. 4
+363
+•综述.
+肺移植供肺保护进展
+徐铭温小红
+【摘要】肺移植成为终末期肺病的惟一治疗手段。然而其死亡率仍高于其他实质器官移植，供肺保存过程中损伤机制 的探讨与保存方法的改进将有利于提高生存率。
+【关曜词】肺保护;肺移植
+Improvement of donor lung preservation XU Ming, WEN Xiao-hong. Department of Anesthesiology, the First Appiliated Hospital of Zhejiang University t Hangzhou 310003, China
+[Abstract] lung transplantation is now an established effective therapeutic option for end - stage lung disease. But its mortality rate is still higher than other organ transplantation. Better understanding the mechanism of, thus ameliorating the lung injury during retrieval and storage, is a way to improve the outcome. This article reviews the progress of donor lung preservation technique through the last decades.
+[key words] lung preservation; lung transplantation
+从1983年临床成功施行单肺移植以来,肺移植 已成为公认的终末期肺病的有效治疗手段。目前, 术后1年、5年生存率分别为74%和47%,死亡原 因早期主要是感染和移植肺功能衰竭，晚期则为闭 塞性细支气管炎⑴。
+供肺保护技术的提高，不仅使早期严重肺衰竭 的发生明显下降,且有利于减少中晚期并发症，极大 地改善了预后。许多国家因供肺缺乏采用了传统选 择标准以外的边缘供体、心跳停止供体并成功移植, 这在很大程度上归功于肺保护技术的进步。
+1供体内肺保护
+供肺损伤跟供体衰亡息息相关,供体内肺复苏 是肺保护的第一步。
+1.1脑死亡供体
+脑死亡触发全身炎症反应，可导致神经源性肺 水肿。脑死亡动物模型肺的炎症介质上调，与移植 后原发性肺衰竭发生相关,也和慢性排斥反应相 关⑵。皮质激素能明显缓解这种炎症反应。Follette 等研究证明：脑死亡供体予大剂量甲泼尼龙（15 mg/kg）处理，能显著减轻肺损伤并提高移植肺的氧 合能力。
+作者单位：310003杭州，浙江大学医学院附属第一医院麻醉科（徐 铭、温小红）
+脑死亡前后的血流动力学不稳定可造成肺损 伤。纠正低血压时，补给容量过多易引起心脏衰竭 和肺水肿。一般中心静脉压不超过10 mm Hg,但这 个指标并不绝对可靠。
+机械通气是肺保护的重要环节。现认为 Fi0250%，潮气量10 ml/kg,分钟通气量8 I/min ~ 10 I7min,PEEP5 cm H20~10 cm 凡0,气道压力不 得超过35 cm H20 -40 cm H20为佳。各种原因如 局部气道阻塞、气道痉挛、感染等引起的肺通气/血 流比例失调也对肺有害。
+1.2心跳停止供体
+实验证明，供肺在无心跳供体内保留lh,不影 响其移植后的存活和功能。若及时辅助通气或原位 低温处理,其耐受缺血时间至少可分别延长到90 min⑶和6 1?]。原位低温保护方法如胸腔内注入 冷保存液、冷空气通气等。从心跳骤停动物模型的 研究得出，单纯胸腔内局部冷却处理辅以全身肝素 化可提供12h~24h安全保存时间，效果与冷保存 液灌注保存相当，在减少再灌注水肿和降低肺血管 阻力方面甚至优于后者。但心跳停止供体本身病理 生理改变对供肺影响难以预计，因此移植前的肺功 能评价应予关注。
+2供肺获取保存
+供肺获取保存过程中的缺血/再灌注损伤机制
+364
+国际麻醉学与复苏杂志2007年8月第28卷第4期Int J Anesth Resus, August 2007, Vol 28,No.4
+非常复杂,尚未完全阐明，已知包括氧自由基反应、 ATP消耗、钠钾ATP酶活性改变、细胞内钙离子超 负荷、细胞表面分子上调、大量炎症介质释放、炎症 细胞聚集激活、肺间质水肿、细胞调亡等⑸。肺保 存方法的改进,其目的是减少和避免这些损伤。
+2.1	低温
+Muller等认为单纯低温保存18 h不影响供肺 的结构和功能。目前多采用血管床灌注冷却法，其 降温效果迅速均匀，但低温本身却能造成肺损伤。 理想的温度是个探索的话题，最佳灌注温度和最佳 保存温度并不完全相同。动物实验表明:予15ct ~ 22<€的灌注液冲洗血管床降温，较10七或更低温度 能明显改善肺功能，因为过低温度的灌注会导致肺 血管收缩和通透性增加。多数研究则认为保存期的 维持温度以KTC更佳。当温度超过lOt后,会迅速 增加肺损伤的风险。临床上为迅速、持久、安全降 温,采用的灌注和保存温度多为4t~8工，低温灌 注引起的不良影响可用舒血管物质缓解。
+2.2	保存液
+肺保存液种类繁多，但临床上主要有Euro -Collins (EC)液，University of Wisconsin ( UW)液,low -potassium dextran glycose ( LPDG)液和 Celsior 液 等。EC液和UW液均为细胞内液型保存液,其高钾 低钠离子浓度曾被认为能平衡膜两侧离子梯度,减 少细胞水肿和保存能量。但研究发现，保存液高钾 浓度使平滑肌细胞膜去极化，钙离子内流，引起肺血 管收缩。为了克服这一缺点,人们在保存液中加入 血管舒张物质,如前列腺素E, (PGE|)、钙离子通道 阻滞剂等。这种改良可能在一定程度上改善了肺功 能，但实际上PGE1的常用剂量不足以抑制这种血 管收缩，而是通过其他途径起到保护作用。细胞外 液型保存液更有利于延长肺冷缺血时间，Keshavjee 等通过猪肺冷缺血12 h的实验证实,一种含有低钾 离子浓度(4 mmol/L)和右旋糖甘-40的液体较EC 液显著提高保存后肺功能，于是发展出了 LPD液。 低钾有利于减少对内皮细胞结构功能的破坏，减少 自由基的生成和血管收缩物质的释放。右旋糖昔-40除了维持有效的胶体渗透压，还能保持红细胞形 态，防止细胞聚集,减少血栓形成，改善微循环和保 护交换膜。此外,LPD液也可能有利于降低对肺泡 n型细胞和表面活性物质的损害，减少白细胞聚集 和脂质过氧化。后来Date等在LPD液加入1%葡 萄糖作为代谢的底物，将充气膨胀的肺低温保存时 间延长到24 h。近几年来大量实验与临床研究均显
+示了 LPDG液肺保护效果优于细胞内液型保存液, 有报道⑹使术后严重原发性肺功能衰竭下降了 50% o Celsior液也是细胞外液型保存液，它虽不含 低分子右旋糖甘，但有谷胱甘肽和组氨酸等减少自 由基损伤的成分,肺保护效果与LPD液相当，甚至 更好⑺。目前对保存液各种成分包括离子成分、糖 类胶体和添加药物的研究仍在不断深入。值得一提 的是，目前保存液pH值均为7.4,而降低pH值能 抑制黄噂吟氧化酶活性，此酶是自由基生成的重要 媒介;也有抑制中性粒细胞激活的作用⑻，因此可 能有利于肺保护。
+2.3	血管床灌注
+血管床灌注除了快速均匀降温外，还有清除血 液成份，防止血栓形成等作用。由于重力关系，较大 量的灌注液以较快的灌注速度(60 ml/kg ,4 min完 成)有利于均匀冷却和充分冲洗。灌注压力影响肺 功能,Sasaki等认为灌注压在10 mm Hg ~ 15 mm Hg 能保证血管床良好灌注而有利于保护肺功能，灌注 压力大于20 mm Hg会损伤内皮细胞，内源性一氧 化氮(NO)的产生下降。既往为操作方便，多采用从 肺动脉顺向灌注冷保存液，但此法忽略了支气管动 脉血管床。为此提出从左心耳逆行灌注，能更均匀 的分布灌注液，更彻底的清理毛细血管，对表面活性 物质影响小。因此，能改善术后的肺动脉压和顺应 性，减轻肺水肿⑻。这种逆向灌注方法对心跳停止 供肺更具有明显的优势。有些中心采用先顺向灌注 PGEj随后再逆行灌注。同时顺向灌注肺动脉和支 气管动脉，可能更有利于减少再灌注损伤。保存后 的供肺在移植前灌注，目的是为了清除其中的炎症 介质等有害成分。Carolina大学专门研发出用于移 植前灌注的保护液,认为这种液体作用较EC液好。 临床上有人用LPD液进行移植前逆行灌注,明显改 善了术后肺功能。由于肺的氧供和血流分离的特殊 性，体外持续灌注对肺保护作用尚待评定。移植手 术中开放血管后的再灌注同样影响肺功能，应用改 良的再灌注手段,包括控制压力、去除白细胞、添加 减轻再灌注损伤的成分等明显减少了肺功能衰竭发 生叫
+2.4	肺膨胀
+在供肺灌注的同时一般要辅以通气，因为肺不 张使灌注压增加,影响灌注液的分布。虽然萎陷肺 在冷保存液中能保存数小时，然而大量研究均表明， 保存时维持充气状态，能明显提高术后肺功能。这 种充气处理至少有三方面优点:维持部分有氧代谢，
+国际麻醉学与复苏杂志2007年8月第28卷第4期Int J Aneslh Resus, August 2007, Vol 28,No. 4
+365
+保护表面活性物质,保持气道上皮的传输运动。充 气程度影响结果,曾认为肺过度膨胀有利于肺保护, 目前更多学者发现过度膨胀易致急性肺损伤，最佳 的膨胀程度为50%肺总量。膨胀时是否必须提供 氧气尚存在争议1”'⑵。可以确定处于低温状态的 肺仍维持一定代谢活性，提供一定的氧气有利于减 少无氧代谢和延缓细胞死亡。理论上高浓度氧充气 更有利于延长保存时间,但是吸入氧浓度高于50% 可能会助长氧自由基的产生。临床上对供肺的充气 氧浓度为40%左右,膨胀程度接近肺总量的50%为 宜,气道压力最好不超过15 cm H20 ~20 cm H20o
+3预处理
+采用预处理方法来保护供肺是基于这种神秘的 生物现象:组织受到一定的伤害性刺激如数次短暂 的缺血或适当高温，能更加耐受随后的缺血/再灌注 损伤。缺血预处理最早从心肌缺血保护中发现，此 后证明对其他许多脏器也有类似的保护作用。供肺 保存前给予数分钟一两次缺血/灌注处理后能显著 改善再灌注后的肺功能。其作用机制尚不清楚，但 与N0、蛋白激酶C、ATP敏感钾通道、氧自由基、核 因子-kB、血红素加氧酶-1等因素有关口“。经高 于正常温度5七左右的高温预处理可以保护脑、心 脏的功能,高温可上调热休克蛋白家族合成,能对组 织损伤包括缺血再灌注损伤起保护作用。实际上， 高温预处理可能与缺血预处理的保护机制类似〔⑹。 已经证明高温预处理能提高移植肾的存活和功能。 随着对预处理保护机理的深入了解，可以通过药物 干预起到相同的保护作用。因此药物预处理如ATP 敏感钾通道开放剂、核因子-kB抑制剂、血红素加 氧酶及其相关物质一氧化碳等存在广阔的研究前 景。总之，虽然缺血预处理已经成功应用于临床冠 状动脉旁路移植术、肝叶和肺叶切除术，但对肺移植 肺保护的价值还需要进一步研究评估。
+4药物干预
+随着对缺血/再灌注损伤机制认识的深入，试用 药物来减轻这种损伤一直是研究的热点。
+4.1	舒血管物质
+移植后肺动脉高压与预后关系密切，因此保护 内皮细胞和防止肺水肿是肺保护的重要措施。NO 是重要的内源性舒血管物质，有缓解自由基损伤、防 止中性粒细胞和血小板聚集黏附等作用，但在映加
+过程中其含量下降。已经证实通过补充其底物邳联" [l,rl '
+i，r'i .'-C *
+精氨酸，增加NO合酶活性，或直接给予外源性NO 和其前体物质，则提高其作用信使cGMP含量均可 改善肺功能。然而剂量和时机控制不当，NO反而 对肺组织造成损害”"o前列腺素E)( PGE,)和前列 环素(PG%)是另一类重要的舒血管物质，通过 cAMP途径起作用。PGE,被广泛应用于降低冷EC 液冲洗时的灌注压。他们可能通过其他多种途径如 抗炎、抑制血小板聚集等起到肺保护作用。一些医 学中心在开放血管后常规使用PGE(或PGI2来防治 严重早期肺功能衰竭，取得良好效果。由于低血压 副作用限制其静脉应用，而取代以吸入的方法。内 皮素是强烈的缩血管物质，在再灌注后早期明显升 高，相应予内皮素受体拮抗剂处理有一定保护作 用叫
+4.2	抗氧自由基损伤
+氧自由基损伤是缺血/再灌注损伤的重要原因 之一。其产生有黄嚓吟氧化酶/黄嚓吟水解酶和 NADPH两个途径，继而通过各种机制特别是脂质过 氧化引起细胞损伤。直接加入抗氧化剂或自由基清 除剂,抑制黄嚓吟氧化酶活性,阻滞脂质过氧化等办 法均在实验中证明能减轻供肺损伤。
+4.3	抑制炎症反应
+跟急性肺损伤类似,缺血/再灌注损伤的炎症反 应机制复杂,有多种炎症因子和炎症细胞的参与，阻 断炎症反应的进程能起到保护作用。众多实验应用 抗IL-8抗体、磷脂酶A2抑制剂、缓激肽受体抑制 剂、血小板活化因子拮抗剂、补体抑制剂及中和剂、 黏附分子阻滞剂或蛋白酶抑制剂等来处理再灌注前 后的供肺,均取得良好的肺保存效果。
+4.4	补充表面活性物质
+缺血/再灌注过程中，肺表面活性物质下降，影 响肺的顺应性和氧合功能。给予外源性表面活性物 质能提高移植后的肺功能“6］，在供肺获取前给比再 灌注前后给更好，其效果维持数天。Struber等用其 来治疗严重早期肺功能衰竭也取得良好效果。
+4.5	抑制细胞凋亡
+细胞凋亡在缺血再灌注损伤中起重要作用O 抑制细胞凋亡过程如抑制caspase活化能减轻再灌 注损伤。
+5基因治疗
+基因治疗的潜在价值不仅用于缓解肺缺血/再 灌注损伤，也可用于防治术后的排斥反应。实验曾 试用各种载体，通过静脉、肌肉和气管途径,在从获
+366
+国际麻醉学与复苏杂志2007年8月第28卷第4期Int J Anesth Resua, August 2007, Vol 28, No. 4
+取前到术后的各个阶段，将基因转移至供肺，并取得 一定进展。由于低温妨碍转移的成功率，因此基因 治疗最好在冷保存期以外进行。在大鼠和猪的供肺 获取前12 h气管转染人类IL- 10基因的模型上， 已经证实“8】其能减轻移植后的缺血/再灌注损伤, 为进一步研究基因治疗在人肺移植的可行性打下基 础。
+♦考文献
+1	Trulock EP, Edwards LB, Taylor DO, et al. Registry of the International society for heart and lung transplantation ： twenty - first ofiicial a-dult lung and heart - lung transplant report-2004. J Heart Lung Transplant, 2004, 23 ：804-815.
+2	Zweere N, Peteraen AH, van der Hoeven JA, et al. Donor brain death aggravates chronic rejection after lung transplantation in rats. Transplantation, 2004, 78:1251-1258.
+3	Greco R, Benito J, Gonzalez M, et al. Lung transplantation from ventilated non - heart - beating donors ： experimental study in a neonatal swine model. J Pediatr Sing, 1999 , 34：360-366.
+4	Kurokawa M, Matsumoto I, Oda M, et al. Effective 6 - hour preservation in non - heart - beating donor canine lungs with topical cooling： assessment from histopathological aspects, Sui^ Today, 2005, 35 ：389-395.
+5	de Perrot M, Liu M, Waddell TK, et al. Ischemia - reperfusion - induced lung injury. Am J Respir Crit Care Med, 2003, 167 ：490-511.
+6	Gamez P, Cordoba M, Millan 1, et al. Improvements in lung preservation： 3 years "experience with a low - potassium dextran solution. Arch Bronconeumol t 2005, 41 ：16-19.
+7	Sommer SP, Warnecke G, Hohlfeld JM, et al. Pulmonary preservation with LPD and cekior solution in porcine lung transplantation after 24 h of cold ischemia. Eur J Cardiothorac Surg, 2004, 26：151-157.
+8	Kelly RF. Current strategies in lung preservation. J Lab Clin Med, 2000, 136:427-440.
+9	Wittwer T, Franke U, Fehrenbach A, et al. Impact of retrograde graft preservation in Perfadex - based experimental lung tranaplantation. J Surg Res, 2004, 117：239-248.
+10	Ardehali A, Laks H, Russell H, et al. Modified reperfusion and ischemia -reperfusion injury in human lung transplantation. J Thorac Cardiovasc Surg, 2003, 126： 1929-1934.
+11	Patel MR, Laubach VE, Tribble CG, et al. Hyperinflalion during lung preservation and increased reperfusion injury. J Surg Res, 2005, 123:134-138.
+12	Kao SJ, Wang D, Yeh DY, et al. Static inflation attenuates ischemia/ reperfusion injury in an isolated rat lung in situ. Chest, 2004, 126： 552-558.
+13	Pagliaro P, Gattullo D, Rastaldo R, et al. Ischemic preconditioning： from the Gist to the second window of protection. Life Sci, 2001,69： 1-15.
+14	Joyeux - Faure M, Arnaud C, Godin - Ribuot D, et al. Heat stress preconditioning and delayed myocardial protection ： what is new? Cardiovasc Res, 2003 , 60：469-477.
+15	Gottnumn U, van der Woude FJ, Braun C. Endothelin receptor antag" oniste ： a new therapeutic option for improving the outcome after solid organ transplantation? Curr Vase Pharmacol, 2003, 1 ：281-299.
+16	van der Kaaij NP, Haitsma JJ, Kluin J, et al. Surfactant pretreatment ameliorates ischemia - reperfusion injury of the lung. Eur J Cardiothorac Su嗯，2005, 27：774-782.
+17	Ng CS, Wan S, Yim AP. Pulmonary ischaemia - reperfusion injury： role of apoptosis. Eur Respir J, 2005, 25 ： 356-363.
+18	Martins S, de Perrot M, Imai Y, et al. Transbronchial administration of adenoviral - mediated interleukin - 10 gene to the donor improves function in a pig lung transplant model. Gene llier, 2004, 11 ：1786-1796.

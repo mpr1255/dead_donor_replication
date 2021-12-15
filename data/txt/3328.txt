@@ -1,0 +1,80 @@
+﻿中华心血管病杂志2007年4月第35卷第4期 Chin J Cardiol, April 2007, Vol. 35 No. 4
+• 337 •
+•临床研究•
+合并肺动脉高压心脏移植患者术后早期 血流动力学分析及处理
+刘平 胡盛寿 宋云虎 杜娟
+【摘要】目的观察和探讨心脏移植患者术前肺动脉压力和肺循环阻力与术后右心功能不全 的关系，及降低因术后早期肺动脉高压造成右心功能损害的临床措施。方法54例接受同种原位心 脏移植手术的患者，根据术前肺动脉收缩压(sPAP) >45 mmHg(l mm Hg =0. 133 kPa)或<45 mm Hg, 分为I组34例和II组20例。统计术前血流动力学指标心排指数(CI)、肺循环阻力(PVR)、中心静脉 压(CVP)。Swan-Ganz导管连续监测术后60 h内的平均肺动脉压(mPAP)、PVR、CI等指标的动态变 化。床旁超声分别监测和评价术后3、7、14、21天和1个月时的三尖瓣反流程度。术后肺动脉高压及 右心功能维护治疗措施包括利尿、NO吸入、静脉注射前列环素(Ilomedin 20)、血液滤过等。结果 本组患者无术后早期死亡(术后30天内)。I、II组患者术前的sPAP分别为(60±12) mmHg和(25 士 9) mm Hg(P <0.01); PVR 分别为(358 ± 150) dyn , s'1 , cm”和(140 ± 68) dyn • s-1 • cm~5 (P < 0.01)o术后早期出现右心功能不全的患者I组24/34(70. 6% )例，II组7/20(35.0%)例,两组比 较，差异有统计学意义(尸= 0.01)。I组患者术后早期肺动脉压力和PVR仍明显高于n组患者，并 且在较长的时间后才逐渐下降至正常或仍维持偏高水平。I组患者术后早期三尖瓣反流的严重程度 高于II组患者(尸<0. 05),但随着术后时间的延长，两组患者三尖瓣反流程度差异无统计学意义。 结论心脏移植患者术前肺动脉高压的严重程度是影响术后早期右心功能的关键因素。通过有效的 降低和防治术后早期肺动脉高压,降低右心负荷，可以明确降低和缩短因肺动脉高压造成术后早期右 心功能损害的严重程度和持续时间，有利于术后早期心功能的恢复并维持良好的远期心功能状态。
+【关键词】心脏移植；肺动脉高压；心室功能障碍，右；三尖瓣闭锁不全
+Association between preoperative pulmonary hypertension and postoperative right ventricular function in heart transplant patients LIU Ping, HU Sheng-shou, SONG Yun-hu, DU Juan. Department of Cardiovascular Surgery, Cardiovasculae Institute and Fu Wai Hospital, Chinese Academy of Medical Science and Peking Union Medical College, Beijing 100037China
+[Abstract] Objective To observe the relationship between preoperative pulmonary artery pressure and postoperative right ventricular function in heart transplant patients. Method A total of 54 heart transplant patients were divided to two groups ： group I ( n = 34 ) ： preoperative pulmonary arterial systolic pressure(sPAP) 45 mm Hg( 1 mm Hg =0. 133 kPa) [ (60 ± 12) mm Hg] ； group H ( n = 20) ： sPAP <45 mm Hg [ (25 ±9) mm Hg]. Cardiac index (CI) , pulmonary circulation resistance (PVR) and CVP were measured preoperatively and up to 60 hours post operation by Swan-Ganz catheter. The extent of tricuspid regurgitation at preoperation and 3 , 7, 14, 21, 30 days post operation was evaluated by bedside echocardiography. Postoperative pulmonary hypertension was treated by diuresis, nitrates, Ilomedin 20 and hemofiltration (CRRT). Result All patients survived the operation. Preoperative PVR was significantly higher in group I patients than that of group H patients [ (358 ± 150) dyn • s_1 • cm” vs. (140 ±68) dyn • s-1 , cm-5, P <0. 01 ]. Right heart insufficiency early post operation was more often in group I patients than that in group H patients (70.6% vs. 35.0% , P < 0.05 ). The PVR was higher and tricuspid regurgitation extent severer in group II than group I early post operation and were similar 30 days post operation. Conclusion Post operative right heart insufficiency was associated to preoperative pulmonary hypertension in heart transplant patients.
+[Key words] Heart transplantation； Pulmonary hypertension； Ventricular dysfunction, right• Tricuspid valve insufficiency
+作者单位：100037北京，中国医学科学院中国协和医科大学阜	近年来，心脏移植已成为心功能严重损害及晚
+外心血管病研究所阜外心血管病医院心血管外科	期心力衰竭患者重要和有效的治疗手段。大部分患
+■ 338 -
+中华心血管病杂志2007年4月第35卷第4期 Chin J Cardiol, April 2007, Vol. 35 No. 4
+者术后心功能和生活质量可以得到明显的改善和提 高。对于因术前心功能长期损害继发严重肺动脉高 压的患者，由于供体心脏在术后早期不能立即适应 和耐受容量和阻力负荷急剧增加，术后早期可能出 现严重的供体心脏功能障碍。因此,能否有效的预 防和治疗与此相关的病理生理异常改变,将直接影 响到患者能否获得满意的治疗结果⑴o
+对于接受心脏移植手术的患者,术后早期肺动 脉高压对供体心脏功能恢复的影响一直是困扰临床 的重要难题。本研究就患者术前肺动脉高压的严重 程度与术后肺动脉高压防治和心功能维护的关系及 临床特点予以观察和探讨。
+资料与方法
+1.对象：2004年6月至2006年8月，接受同种 原位心脏移植患者63例。其中，男性54(85. 7%) 例，女性9( 14. 3%)例。年龄(44. 6 ±12. 4)岁。原 发病为心肌病42例,冠心病12例，其他9例。术前 导管资料完整的病例共54例,将这部分患者根据术 前肺动脉收缩压(sPAP)045 mm Hg( 1 mm Hg = 0. 133 kPa)或 <45 mm Hg,分为 I 组 34 例和 II 组 20例。I组34例中，男性29(85.3%)例。H组20 例中，男性17(85.0%)例。
+2	.血流动力学及三尖瓣反流程度监测：通过 Swan-Ganz导管，连续心排血量仪(Vigilance CCO/ SvO2/CEDV爱德华生命科学,美国)监测并记录两 组患者术前血流动力学指标包括心排指数(CI)、肺 循环阻力(PVR)、中心静脉压(CVP)。以术后即刻 和每12 h为一个数据点，记录术后平均肺动脉压 (mPAP)、PVR、CI和CVP的动态变化趋势,连续记 录到术后60 h。通过床旁心动超声,监测和评价术 后3、7、14、21天和1个月时的三尖瓣反流程度。
+3	.术后治疗措施:早期针对肺动脉高压的治疗 措施包括镇静、利尿、提高CI、持续吸入NO、静脉注 射前列环素(Homedin20)等综合治疗。降低患者右 心负荷的治疗措施包括利尿、降低肺动脉压力、增加 心排血量等。对利尿效果差或合并肾功能损害的患 者，有4例次患者应用血液滤过治疗。
+4	.统计学分析:采用SAS 8. 2软件，血流动力 学指标数据以无±s表示,进行成组比较t检验。各 监测点相应三尖瓣反流程度的病例数比较采用 Fisher's Exact Test检验。计量资料采用卡方检验。
+结 果
+1	.基本情况:图和n组患者术前的spap分别为 (60±12)mm Hg 和(25 ±9)mm Hg(P <0.01)；肺动 脉嵌顿压(PCWP)分别为(26 ±10)mm Hg和(14 土 6)mm H虱尸 <0.01)；EF 分别为(27 ±9)% 和(26 土 6)%(P>0.05)o两组患者病种、性别、年龄、手术 情况等一般资料差异无统计学意义。
+2	.血流动力学指标：I组患者术前和术后PVR 及术后mPAP均明显高于II组患者，术前CI明显低 于II组患者，差异有统计学意义(均产<0.01)。术 后大部分监测点的CI和CVP的差异无统计学意义 (表1)。全组患者术后早期发生右心功能不全的比 例为 52.4% (33/63)，其中 I 组为 70. 6% (24/34), II组为35.0% (7/20)，两组比较,差异有统计学意 义(尸=0.01)。
+3-术后三尖瓣反流结果：I组患者术后早期三 尖瓣反流的严重程度高于U组患者(P <0.05)。随 着术后时间的延长，两组患者三尖瓣反流的程度差 异无统计学(表2)。
+4	.治疗情况:对术后合并肺动脉高压、肺循环 阻力增高的患者，持续吸入NO,静脉注射前列环 素，提高CI,及时的血液滤过等综合治疗，有效地改 善了患者的心功能状态,减轻和缓解右心室前、后负 荷的异常升高，接受治疗的患者均获得满意疗效。 本组病例无术后早期死亡(术后30天)。
+表1 54例患者手术前后血流动力学指标院± s)
+组别(I CI -i /. PVR-i CVP	mPAP
+组别(L-mm . (dyn._s . (mmH)	(mmHg)
+m ) cm )
+I 组3=34)				
+术前	1.96 ±0.51	358 ±150	8.1 ±5.1	
+术后				
+即刻	2. 89 ±0.72	256 ±102	7.3 ±3,1	26.0 ±4.6
+12 h	3.18 ±0.77	172 ±65	7.8 ±2.8	22.3 ±3.6
+24 h	3.30 ±0.75	168 ±50	8.1 ±3.3	21.7 ±4.2
+36 h	3.54 ±0.80	167 ±62	8.9±3.0	22.8 ±5.2
+48 h	3.53 ±0.81	168 ±68	10.1 ±2.9	24.0±4.5
+60 h	4.09 ±0.74	160 ±76	11.3 ±4.0	26.9 ±4.9
+II 组(n=20)				
+术前	2.57±0.61a	140±68a	8.8 ±7.6	
+术后				
+即刻	3.02 ±0.61	170±69a	7.1 ±3.4	21.3 ±6.2a
+12 h	3.36±0.69	95 ±378	7.0 ±2.7	16.8 ±4.6a
+24 h	3.47 ±0.66	99 ±47fl	6.1 ±2.8b	16.2±5.08
+36 h	3.51 ±0.55	120±42a	8.1 ±3.9	18.3 ±4.2a
+48 h	4.40±0.62a	112 ±348	9.2 ±1.6	22.0 ±6.0
+60 h	3.85 ±0.92	112±29a	7.0 土 28	21.0 ±7. la
+注：CI:心排指数,PVR ：肺循环阻力，CVP ：中心静脉压,mPAP ： 平均肺动脉压;与I组相应时间段比较:ap<o.oi,bp<o.o5
+中华心血管病杂志2007年4月第35卷第4期 Chin J Cardiol, April 2007, Vol. 35 No. 4
+■ 339 •
+表2超声心动图监测术后各时间点 三尖瓣反流[例(％)]				
+组	别	微量	少量	中量以上
+I组				
+3 d(々二	29)	1( 3.5)	19(65.5)	9(31.0)
+7 d(n =	31)	8 (25.8)	18(58.1)	5(16.1)
+14 d( n	= 25)	11(44.0)	13(52.0)	1( 4.0)
+21 d( n.	= 12)	3 (25.0)	6 (50.0)	3(25.0)
+1个月(	n = 11 )	3 (27.2)	4 (36.4)	4(36.4)
+n组				
+3 d( =	15)	5 (33.3)a	7 (46.7尸	3(20.0),
+7 d(n =	12)	4 (33.3)	7 (58.3)	K 8.4)
+14 d (n	, 二 12)	3 (25.0)	7 (58.3)	2(16.7)
+21 d(n	=7)	3 (42.9)	4 (57.1)	0
+1个月(	n = 7 )	3 (42.9)	4 (57.1)	0
+注:与I组相应时间段比较,8			P<0.05	
+讨 论
+根据术后血流动力学监测，发现两组患者在术 后早期心脏功能即得到明显的改善，I组患者心功 能改善的效果更加显著。I组患者术后肺循阻力较 术前明显降低，但仍高于n组患者，并且在较长的时 间后才逐渐下降至正常范围,两组差异有统计学意 义。n组患者术前、术后肺循环阻力的变化不明显， 均基本上维持在正常范围以内。由于术后心功能的 改善，两组患者pvr值在术后早期均比术前有明显 的降低。因此,术前将肺循环阻力作为手术禁忌证 的主要限制性因素的做法有待探讨。
+I组患者术后治疗的复杂程度、术后达到心功 能稳定的时间以及并发症的发生和治疗等与n组患 者存在明显的差别。其重要环节就是如何控制和防 治术后早期肺动脉高压，减轻肺动脉高压对供体心 脏右心及全心功能的损害，以缩短供体心脏适应患 者循环负荷的时间，保证供体心脏维持良好的远期 功能状态。
+对于术前合并重度肺动脉高压的患者,术后镇 静、利尿、提高心排血量、持续吸入no、静脉或雾化 吸入前列环素等综合治疗措施能有效地降低和控制 心脏移植术后早期肺动脉高压[⑼。术后随着心功 能的进一步改善和稳定，患者的肺动脉压较术前会 有程度不同的降低，但部分患者的肺动脉压力降低 的并不显著，对肺动脉压力仍维持在偏高状态的患 者,应重视术后心功能的监测。部分患者可能会在 多因素的影响下,肺动脉高压不能得到有效的缓解， 进而造成在心脏移植术后较短的时间内(半年左 右)，发生持续和非排斥反应性的心功能衰竭。
+cvp可以有效提示右心的容量负荷状况。结
+合肺动脉压力指标，对判定术后早期右心功能不全 的发生和治疗效果等有良好的相关性。-对cvp高 于16 mm Hg的心脏移植术后患者，应积极采取降 低右心负荷的治疗措施。在常规利尿、降低肺动脉 压力、增加CI等治疗措施效果不好或同时合并肾功 能损害的情况时，可以通过及时的血液滤过超滤的 方法,快速地降低患者过重的心脏负荷。根据本组 患者4例次应用血液滤过治疗的临床经验，提示血 液滤过治疗对心脏移植术后患者同样简便、安全和 有效。
+术后早期通过连续床旁超声心动监测和评价三 尖瓣的反流程度，可以准确提示右心功能状况及肺 动脉高压对右心功能的影响程度。中等量以上的三 尖瓣反流提示有右心负荷过重或右心功能不全的存 在。术后肺动脉压力下降至正常水平的患者，三尖 瓣一般仅有微量或无反流存在。本研究发现，I组 患者在术后早期1周时间内，三尖瓣反流的严重程 度明显重于n组患者。在肺动脉压降低、右心负荷 减轻以后，两组患者三尖瓣反流的程度均明显改善 并维持稳定，结果比较，差异无统计学意义。但本组 研究受后期接受心动超声检查病例数减少的影响， 对结果的统计学分析产生了一定的影响，如果增加 后期检查的病例数,可能会增加结果的差异性。本 组研究还发现，一旦在术后某一阶段出现心功能下 降或心力衰竭时，患者的心动超声检查会重新出现 三尖瓣反流或反流程度的加重。
+参考文献
+[1 ] Bhatia SJ, Kirshenbaum JM, Shemin RJ, et al. Time course of resolution of pulmonary hypertension and right ventricular remodeling after orthotopic cardiac transplantation. Circulation, 1987,76(6) ：819-826.
+[2]	Lepore JJ,Dec GW,Zapol WM,et al. Combined administration of intravenous dipyridamole and inhaled nitric oxide to assess reversibility of pulmonary arterial hypertension in potential cardiac transplant recipients. J Heart lung Transplant t 2005,24 ( 11 )； 1950-1956.
+[3 ] Zakliczynski M, zebik T, Maruszewski M, et al. Usefulness of pulmonary hypertension reversibility test with sodium nitroprusside in stratification of early death risk after orthotopic heart transplantation. Transplant Proc,2005 ,37(2) ； 1346-1348.
+[4]刘平，胡盛寿.心脏移植术后早期精明注射依诺前列环素 (Iloprost)对血流动力学的影响.中国循环杂志,2006,21 (3 )： 225-227.
+[5 ] Elefteriades JA, Lovoulos CJ, Tellides G, et al. Right ventriclesparing hearttransplabt ； promising new technique for recipients with pulmonary hypertension. Ann Thorac Surg, 2000,69 ( 6 )： 18584863.
+(收稿日期：2006-11。7) (本文编辑:干岭)

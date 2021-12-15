@@ -1,0 +1,110 @@
+﻿DOI :10. 16151/j. 1007 -810x.2001.02.019
+• 119 •
+第8卷 第2期	肠外与肠内营养	Vol.8 No.2
+2001年4月	Parenteral & Enteral Nutrition	Apr.2001
+精氨酸与心脏移植
+李国逊综述,	刘敦贵,陈 实审校
+(同济医科大学附属同济医院器官移植研究所,湖北武汉 430030)
+摘要：精氨酸(Arg)与器官移植间的关系在国外受到广泛关注,Arg及其代谢产物一氧化氮(NO )在心脏移植中， 与供体心脏保存、灌注、排斥及延长存活时间方面都可能有一定作用。本文将国外在这些方面的研究及其进展作 一简要介绍。
+关键词：精氨酸；一氧化氮；心脏移植
+中图分类号：Q517 文献标识码：A 文章编号：100"-810*(2001)02-0119-04①
+Arginiue and heart transplantation
+LI Guo-Xun, LI U Dun-gui, C HEN shi ( R esearch Insti tu te of Or gan Transplantation, Tongj i Med ica l U niversity , Wu han 430030, Hubei, Chi na )
+Abstract:T he relationship between arginine (A rg)and o rgan transplantation w as widely focu sed on ab road .Arg adn its metabolite, ni tric ox ide (N O), have eff ects on preservation and inf usio n of org an, reject ion respon ce and survival time in patients with h eart transplantation.The progression in this area w as briefly review ed .
+Key words:	A rginine ;	Ni tric oxide ; Heart t ransplant ation ;
+0 引 言
+目前，营养性免疫调节(nutitional immu nomod-ulation)在器官移植中日益受到重视，精氨酸(argi-nine Arg)的研究尤其引人注目。现就所涉及的有 关问题综述如下。
+1 精氨酸的代谢及其生物活性
+精氨酸又名(-氨基冷胍基戊酸是碱性氨基 酸，又是一种半必需氨基酸。它分为左旋(L-Arg)和 右旋(D-Arg)两种旋光异构体，在生物体内有生理 作用的是L-Arg, D-Arg基本无效［1］。它主要在肝 细胞、血管内皮细胞及巨噬细胞内合成［2］;在体内 代谢有两条代谢途径:一是通过精氨酸酶参与鸟氨
+酸循环;二是通过氧化途径,经过一氧化氮合成酶 (NOS )催化生成具有生物活性的一氧化氮(NO )［3］。
+NOS又有两种异构体,分别是合成型一氧化氮 合成酶(cNOS)和诱导型一氧化氮合成酶(iNOS )。 cNOS分为内皮型(eNOS )和神经型(nNOS)两种亚 型，在心肌组织中，NOS主要为eNOS和iNOS 两种。eNOS是钙依赖性的，通常主要存在于内皮 细胞和心肌细胞中，只产生少量的NO； iNOS是钙 非依赖性的,广泛存在于受到细胞因子和多糖等因 素刺激后的血管平滑肌细胞、心肌细胞及巨噬细胞 中，可生成大量NO,并持续一段时间56。对于 NOS常用两种抑制剂,分别是左旋硝基精氨酸甲基 酯(L-NAME )［刀和单甲基左旋精氨酸(L-NM-MA)［ 8］,这些抑制剂都是Arg的结构类似物。
+① 收稿日期：2000-06-20
+• 120 •
+肠外与肠内营养
+2001年4月 第8卷
+Arg作为NO的前体物质,其生物学活性大部 分是通过NOS生成NO起作用的，虽然NO有着多 种多样的生物学作用,但在移植心脏中其生物学活 性主要表现为：①冠状血流的自身调节9 ;②抑制 中性粒细胞与内皮细胞相互作用［10］;③抑制血小板 聚集;④它本身是自由基，但还可能减弱其他超氧化 因子的作用［11］。虽如此，但病理状态下NO的功能 还不很清楚。
+尽管多数研究认为,Arg是通过NO途径发挥 效应，但Arg仍有一些作用还没有被证明与NO有 关,例如:①促进氮保存、蛋白质更新和伤口愈合;② 促进生长激素、胰岛素、胰高血糖素、催乳素和生长 抑素等的分泌;③具有胸腺营养作用,并增强巨噬细 胞、淋巴细胞对抗原和有丝分裂原的反应等［ 12］。
+2精氨酸与移植心脏的灌注和保存
+移植心脏的保存及缺血再灌注是心脏移植不可 或缺的环节。Mesaros等［ 13］报道大鼠和兔的移植心 脏在保存6h后将不能存活,然而在保存液中添加 L-Arg和四氢生物蝶呤(H4B)来保持心内NO合成 酶的氧化还原区,从而延长保存时间达90 h ,认为这 种效应是建立在最大限度地释放NO和把超氧化产 物减到最小量的基础上。Amrani等［14］也认为在保 存液中加入外源性的L-Arg可以促进心脏停搏和缺 血后心肌功能和心肌缺血的恢复;但认为中度低温 (20 °C)时L-Arg能起保护作用,而在深度低温(4。 时无效。在其他器官如肝保存中，保存液中加入L-Arg同样起延长保存时间的作用［15。但也有作者 认为,在心脏停搏后L-Arg对于心脏保护没有显著 效果［ 16］。
+L-Arg通过NO途径对缺血再灌注损伤的作用 主要表现在以下两个方面。
+首先 L-Arg通过NO途径对移植心脏在血流 动力学方面的影响。L-Arg与NO系统是最强有力 的血压调节系统之一，现已证明NO就是内皮衍生 的血管松弛因子，而给予NO合成的前体物质L-Arg或者NO合成阻滞剂(如L-NAME或L-NM-MA)都能相应地降低或升高血压［17］。Szabo等［17 证实通过注射L-NAME阻断内源性NO合成,会损 害大鼠异位心脏移植冷缺血1h再灌注后心肌血流 和左心室功能的恢复，同时还证实抑制内源性NO 合成可以导致对B肾上腺素系统的多巴胺反应性降 低,而这都可以被L-Arg所拮抗。在其他器官移植 模型中，L-Arg对心脏功能亦表现出多方面的促进
+和心脏指数,减小肺毛细血管楔压(PCWP)等,而且 这只出现在受体身上,而在供体猪身上注射L-Arg 没有此效应［18］。这可能提示不同状态下L-Arg代 谢途径不同。
+其次,Pabla等［10］报道了在心肌缺血再灌注后 L-Arg通过NO途径阻止多形核白细胞(PMN)介导 的损伤作用 用离体大鼠心脏缺血20 min 并且再灌 注45 min,在再灌注之前5 min内将人PMN注入, 发现用L-Arg治疗可以恢复心肌收缩功能,起到心 肌保护作用，而没有PMN时则L-Arg没有任何作 用。阻断NO的合成可以引起PMN介导的心肌收 缩功能丧失进一步恶化，PMN介导的损伤是与 PMN多种酶的释放和氧衍生的自由基导致的内皮 损伤有关,NO有减少PM N粘附、聚集和减少PM N 产生自由基的作用［19。据报道,抑制NO合成可以 导致PMN在毛细血管后小静脉内粘附增加,而加 用L-Arg可以逆转这一过程［20］。Gauthier等21］在 内脏缺血再灌注模型中发现NO可以减弱P-选择 素介导的PMN在内皮上的滚动,进而减弱PMN的 粘附,并减轻PMN介导的损伤。而且,Lefer等22］ 证明用L-Arg来增加NO的水平可以减少培养中的 人主动脉内皮细胞间粘附分子-1(ICAM-1)的表达。 所以,NO可作为一个抗粘附分子和抗PMN分子。 L-Arg可通过NO途径来减轻PMN在缺血再灌注 后介导的对内膜和心肌的损伤作用 从而起到保护 作用。
+3精氧酸与心脏移植中的排斥反应
+Arg和NO在器官移植领域中的作用及其反作 用一直存在争议。不同学者的研究结果往往彼此冲 突。
+Winlaw等［23］在大鼠心脏异位移植模型中，分 别给予L-Arg和L-NMMA,并用尿中硝酸盐的排泄 来定量分析内源性NO产物,结果无论是异种移植 还是同种移植 均不引起尿硝酸盐排泄量的显著变 化,而且移植物存活也没有变化,而加用NO合成抑 制L-NMMA,则移植物存活时间由(5.1 ±0. 1)天增 加到(6.3 ±0.2)天 虽仅轻度增加 但有统计学意 义。由此可见,由L-Arg代谢生成的NO在心脏移 植急性排斥中作为细胞毒效应分子 仅是一个次要 因素。最近,Menon等［8］再次证实了此观点。他们 在小鼠异位心脏移植因排斥而丧失心脏功能的模型 中,通过用L-Arg的结构类似物阻断NO的合成仅 轻度延长了移植物存活。
+作用在猪肝原位移植中，灌注L-Arg可以增加心率ishin,然而还有许多文献认为L-Arg通过其生成的
+第2期 李国逊等 精氨酸与心脏移植
+• 121
+NO在心脏移植排斥中起重要作用。一些学者认为 L-Arg通过广泛存在于浸润巨噬细胞和心肌细胞的 NOS合成NO,并通过NO途径在同种心脏移植排 斥反应中,对心肌细胞破坏和心室功能衰竭都起作 用。
+Yang等［24］通过检测由同种心脏移植排斥诱导 的心肌NOS高度表达，可间接证明L-Arg通过 iNOS合成NO对心肌坏死和心室衰竭起作用。另 有作者实验证明,供体特异性输血所诱导的移植物 免疫无反应与iNOS mRNA的低表达有关［约。这 从另一个侧面证明了 Yang等的观点。
+L-Arg生成的NO究竟通过何种机制在心脏移 植排斥反应中起作用呢?有不少学者在这方面做了 大量研究。目前见诸报道的有两种机制。Lancaster 等［26］运用一种较特殊的技术———电子顺磁共振 (EPR)技术检测到在排斥反应中NO与含铁蛋白中 的金属铁离子结合为铁亚硝酰基复合体,并导致随 后的含铁蛋白功能的破坏。这些含铁蛋白主要是含 铁酶,包括［顺］乌头酸酶、线粒体电子传递酶及核苷 酸还原酶等,这些酶对体内细胞呼吸及代谢十分重 要。另外,铁-亚硝酰基电子顺磁共振征象只在血液 及同种移植排斥位点上出现,而在其他组织中没有, 提示这一征象是免疫活动的特异性结果。另一可能 机制是凋亡机制。最近,Szabolcs等2］研究人同种 心脏移植排斥反应中活检发现凋亡细胞较对照组增 加30倍,许多凋亡心肌细胞间主要是富含巨噬细胞 的炎症样浸润,在巨噬细胞和相关的心肌细胞中 iNOS免疫反应十分强烈。由此认为,凋亡是人类同 种心脏移植排斥中心肌死亡的主要形式,而心肌细 胞凋亡与巨噬细胞和心肌细胞iNOS的表达以及过 氧亚硝酸盐作用于心肌蛋白产生硝化作用有密切关 系。体内的过氧亚硝酸盐是NO结合等摩尔量超氧 化物而形成的，然而NO是如何导致心肌细胞凋亡 的则仍不清楚。
+4精氨酸与延长心脏移植物的存活
+L-Arg延长心脏移植物的存活时间,对移植心 脏起保护作用,但确切机制仍不清楚。因为移植心 脏不可避免地要遭受缺血再灌注损伤的打击,所以 L-Arg在缺血再灌注损伤中的保护作用，对于延长 移植心脏的存活无疑是重要的。除此以外, L-Arg 还可从以下几个方面对延长移植心脏存活起作用。
+移植后第1个小时心脏移植物的功能,不仅决 定术后受者的命运,而且对于移植物的长期存活亦
+利于移植心脏再灌注后心脏功能的恢复。Szabo 等［29］在大鼠异位心脏移植模型中证明,在再灌注1 h后,Arg组心脏血流量显著提高,心脏收缩和舒张 功能恢复亦显示了较好的效果,对乙酰胆碱的反应 性也得到很好恢复。有文献证明，L-Arg对丧失的 心肌功能的恢复,是通过减弱多形核白细胞介导的 心肌损伤起作用的［10］。在肝再灌注后,有大量的 Arg酶释放将L-Arg分解为尿素和L-鸟氨酸导致 血浆中L-Arg水平迅速下降。血液中生理水平的 Arg酶,可能是导致肝移植再灌注后成为早期移植 物血流减少和肺高压的因素之一［30］。在心脏组织 中亦有Arg酶大量分布，虽目前还没有类似报道,但 不能排除体内有类似现象存在。
+在心脏移植中 加速移植心脏动脉硬化是影响 移植心长期存活的一个重要方面。L-Arg似乎通过 不同途径阻止了动脉硬化的进程。首先,L1-Arg促 进内皮细胞功能的恢复来阻止这一进程。冠状动脉 舒张功能丧失可能是发展成为内膜增厚和移植物动 脉硬化的先兆 并可能最终发展为动脉硬化。在心 脏移植受者中 无论是对冠状动脉微血管还是心外 膜，L-Arg对其内皮细胞功能的恢复都有促进作 用［31］。其次，L-Arg还可以直接作用于血管平滑 肌,如给动物长期饲喂L-Arg可以通过抑制平滑肌 细胞增生来减弱内膜增厚,血管壁中NO合成增强 可能阻止移植物的衰竭［3』。Lok［34证明在兔的同 种心脏移植模型中，口服L-Arg可以阻止移植后的 动脉硬化,这似乎是通过合成NO来阻止平滑肌细 胞对胰岛素样生长因子-1(IGF-1)和白介素(IL-6) 等分裂原的反应而起保护作用的。
+另外,有些学者认为,富含Arg的饲料具有潜在 的免疫调节能力 但需要其他因素协助来实现这一 潜能。Levy等［均在CsA和供体特异性输血(DST ) 治疗的大鼠心脏移植模型中喂饲富含Arg的饲料, 结果使移植物获得长期存活。这一发现揭示了饮食 免疫调节性治疗能激活实体同种器官移植中阻止排 斥和增加耐受的潜能。Alexander等［时也研究证实 了这一点。作者用相似的模型喂饲富含Arg和鱼油 的饲料，结果也获得了移植物的长期存活。Arg在 此模型中显示出轻度剂量依赖性和DST依赖性。
+Arg作为一种半必需氨基酸，在代谢方面亦有 一定作用。有文献显示,手术后和营养不良的动物 持续给予外源性Arg,可以促进氮保存、蛋白质更新 和伤口愈合 并促进生长激素、胰岛素、胰高血糖素 和生长抑素的分泌［ 12］ 。 Michacl等［31证明免疫抑
+有重要影响28］。有不少文献证明，L-Arg的使用有	制剂都会损害伤口愈合，其原因就是它们减少了伤
+• 122 •
+肠外与肠内营养
+2001年4月 第8卷
+口 NO的合成。
+总之,营养性免疫调节对器官移植有重要影响, Arg作为目前研究较多的营养素备受关注。
+参考文献:
+[1]	Rossitch E Jr Alexamder Black P. L-Arginine nomalixe endothelial function in ce reb ral vessels from hypercholerterloemic ra bbi ts [ J].J Clin Invers, 1991 ,87: 1295- 1299.
+[2]	Lee TJ, Sarwinski S Ishine T. Inhibition of cerebral neurogenic vasodilation by L- glut amine and mitruc ox ide sym t hase inhibitors and its reversal by L-C it rulline [ J].Am Soc P harm Exp Ther , 1996, 276(2):353- 358.
+[3]	Hoffman RA, lungrehr JM, Billiar T R. Alloantigeninduced cat iva-
+tion of rat splenocytes is re gulate d by the ox idat ive m etabolism of L-arginine[ J].J Immunol, 1990, 145(7):2220-2226.
+[4]	Spain DA, Wilson MA, Garrison RN . Mitric oxide symthase ingi-
+bition exacerbater se psi s-induced renal hypoperfusion[ J].Surgery 1994 116(2):322-330;discussion 330-331.
+[5]	U rsell PC Mayes M . Anatomic distribution of mitric oxide syn-
+thase in the heart[ J].Int J Cardiol, 1995, 50:217-223.
+[6]	Moncada S Higgs A. T he L-arginine initric oxide pathway] J] . N
+Eng1 J Med 1993 329:2002.
+[7]	Szabo G Batkai S Babrle S. Effects of Nitric oxide synthesis on reperfusion inju ry and catecholanine responsiveness in a he tero-t opic rat heart transplat at ion mode[ J].J Cardiovase P harmaco l 1998 31:221-230.
+[8]	Menon SG Zhao L, Xus. Relative importance of cytotoxic T
+lymthocytes[ J].T ransplatation 1998 66(4):413-419.
+[9]	Kelm M, Schrader J .Control of coronary tone by nitric oxide[ J]. Circ Rec 1990 66: 1561-1575.
+[ 10]	P abla R Buda AJ Flynn DM .Nit r ic o xide attenuates neu trophil-mediated myocardial co nt ra ctile dysfunc tion aft er isc hem ia and re perfusion[ J].Circ Res 1996 78:65-72.
+[ 11]	Rubanyi GM Ho EH Cantor EH .Cytoprotec tive f unctio n of ni-
+tric oxide:inactivation of superoxide radicals produces by hum an Leuocytes[ J].Biochem B iophy s Res C ommun 1991 181 : 13921397.
+[ 12]	Daly JM Reynolds J Thom A .Immune and m etabot ic ef fec ts of
+arginine in the surg ical patie nt[ J].Ann Surg 1988 208 :512-521 .
+[ 13]	M e saros S G runf eld S M esarosova A .N ew st rat egy for prolong-
+ing the treservation time of hearts for t ransplant ion[ J].Thysiol Res 1997 46(4):251-255.
+[ 14]	Amrani M G ray CC S molenski RT .The effect of La rg inine on
+myocardial recovery aft er car dio ple gic arre st and ischemia under moderate and deep gypothermia[ J].Circ ulatio n 1997 96(9 sup-pl):274- 279.
+[ 15]	Yin DP S ankary HN Chong AS.Protetive effect of ischem ic pre-
+conditioning on live r preservation-reperfusion injury in rat s[ J]. Transplantation 1998 66(2): 152-157.
+[ 16]	Carrier M P elle rin M Page PL .Can L-arginine improve myocardial prot ec tion duri ng cardioplegic arrest ? Result s of a phase L pilot stud[ J].Ann Thorac Su rg 1998 66(1)108-112.
+[ 17]	M oncadao S Palmer RM J Higgs EA.Nit ric oxide :physiology
+pathophysiology and pharmacology[ J].Pharmacol Rev 1991 43: 109 .
+[ 18]	Langle F Steininger R Waldm ann E .Improvement of cardiac o utput and live r blood flow and reduct ion of pulmonary v ascular re sist ance by intravenors inf usion of L-arginine during t he ea rly reperfusion perio d in pig liv er transplan tat io r[ J].Transplant atio n 1997 63(9): 1225- 1233 .
+[ 19]	Grygleski RJ Palmer RM J M oncada S . Superox ide anion i s in-vosved in the b rea kdow n of endot helium-derived v ascula r relaxing fa cto r[ J]. M ature Lond 1986 320:454- 456.
+[ 20]	K ubes P Suzuki M Granger DN . Nitric Oxide:an endogenous modulator of leakocyte adhesio n .Proc M atl[ J]? A cad S ci U SA 1991 88:4651-4655.
+[ 21]	G au thie r T W Da ve npeck KL Lefer A M . Ni tric oxie at tenuates leakocyte-endothelial int erac tion via P-sclect in in spla nchnic is-chemia-reperf usion[ J]? AM J P hysiol 1994 267:G562-G568 .
+[ 22]	Lefer DJ Klunk DA Lu tty GA.Nitric oxide(N O)donors reduce basal ICA M- I espr ession on humam aortic endot helial ce lls (HAECS)[ J].Circulation 1993 88: 3037.
+[ 23]	Winlaw DS Schyvens CG Smythe GA .Sele ctiv e inhibitio n of ni-
+tric ox ide p roduction during car diac allograft re ject ion causes a small increase in g raft survi val[ J].T ransplantation 1995 60( 1): 77-82.
+[ 24]	Yan X CHow dhury N Cai B.Induct ion of myocardial nit ric oxide synthase by car diac allograft reji ctio n[ J].J Clin Invest 1994 94 : 714-721.
+[ 25]	Ichiguchi O Yam aguchi Y G oto M .A significant reduct on of
+macrsphages espressing i nducible nitric oxide symt hase in rat hepatic allo gr afts perterate d w it h donor-specific bloo d[ J].Transplan-tation 1998 65(6):776-785.
+[ 26]	Lancaster JR Langr eh r JM .EP R detestion of heme and nonheme iron-containing rot ein nitrosylation by nit ric ox ide during r ejic tion of rat heart allograft[ J].J Biol Chem 1992 267 ( 16): 1099410998 .
+[ 27]	Szabolcs M Ra va lli S M inano v O .A popt osis and increased ex-
+pression of inducible nitric oxi de synthase in human allograft r ejec-tion[ J].Transplan tat ion 1998 65(6):804-812.
+[ 28]	Darracott-Cancovich S Stovin PGI Wheeldon D.Effect of donor heart damage on survival aft er t ransplant at ion[ J].Eur J Crdiotho-rac Surg 1989 3:25-32.
+[ 29]	Szabo G Bahrle S Batkai S.L-arginine:effect on reperfusion injury afterteart transplant ation[ J].Word J S urg 1998 22(8):791-779;disussion 797-798.
+[ 30]	La ngle F roth E S teininger R.A rgina se r ele ase follow ing live r reperf usion[ J].T ransplantation 1995 59(1); 1542- 1549.
+[ 31]	Drexler H Fische ll TA Pint o FJ .Effect of L-arginine on cor o nary endothelial func tion in c ardiac transplant re cipi ent s[ J].Circula-tion 1994 89: 1615-1623.
+[ 32]	O kazaki J Konori K K.L-arginine inhibit s smoot h muscle cess
+prolif erat ion of vein graft intim al thickness in gypercholesterolemic rabbits[ J].Cardiovasc Res 1997 36(3):429-436.
+[ 33]	D avi es M G D alen H Kim JH . Control of accelerated vein gr aft at heroma w it h t he nit ric oxide p racursor:L-arginine[ J].J Surg Res 1995 59(1):35-42.
+[ 34]	Lou H K odama T Wang YN .L- argi nine prevent s heart trans-
+plant arteriosclerosis by m odulat ing t he v ascula r cell pro life r ati ve response to insulin-like grow th fa cto r- I and i nte rle uki n-6 [ J].J H eart Lung Tr ansplant 1996 15( 12): 1248- 1257 .
+[ 35]	Levy AE A lexander JW .N ut rit ional immunomodulati on e nhance s cardiac allograf t survi val in rats treated w it h donor-specific transfusion and cyclosporine[ J].T ransplantation 1995 60( 8):812-815.
+[ 36]	alex ander JW Levy A G us ter D.A r ginine fish oil and dono r-specifi c t ra nsfusions independenlly improve car diac allo graft sur-viv al in rats gi ven subtherapeutic doses of cy clospo ri n[ J].JP EN 1998 22(3): 152- 155.
+[ 37]	Schat ter M R F uchs N Prodsch B .T acrolimus inpai rs w ound
+healing[ J].Transplantation 1998 65(6): 813-881.
+（本文责任编辑周士彦）

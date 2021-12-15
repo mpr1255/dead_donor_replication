@@ -1,0 +1,79 @@
+﻿Tianjin Med J, May 2018, Vol. 46 No. 5
+478
+临床研究
+体外膜肺氧合在心脏移植术后右心功能 衰竭中的应用体会
+柴军武，王凯，周巍，陈洪磊，薛奋龙，孔祥荣人
+摘要：目的探讨体外膜肺氧合(ECMO)在心脏移植术后右心功能衰竭中的应用价值。方法回顾性分析我院 2016年1月一2018年1月完成的31例心脏移植患者临床资料，其中3例因术后出现右心功能衰竭应用ECMO辅助治 疗。3例患者中男2例，女1例，年龄分别为52、38、67岁。2例术中植入ECMO辅助治疗，1例术后8 h行ECMO辅助 治疗。ECMO辅助经股动脉、股静脉植入，选择V-A模式，辅助流量在3.0L/min左右。ECMO治疗期间持续呼吸机支 持、低温镇静、抗感染、营养支持治疗。结果3例患者经ECMO辅助治疗后右心功能均得到改善，逐步减低辅助流 量后脱离ECMO辅助，均顺利拔除气管插管。1例ECMO辅助后出现肾功能衰竭，予持续床旁血滤治疗(CRRT)，术 后20 d后过渡到规律透析，术后3个月出院后行规律透析治疗;2例ECMO辅助期间行CRRT治疗，拔除ECMO后肾 功能恢复正常。3例患者呼吸机辅助时间为(168.6±24.6)h，重症监护室停留时间为(31.8±12.5)d，均无出血及血栓并 发症，术后肺部感染1例，给予抗感染治疗后好转。3例患者均顺利出院，复查超声心动图示心功能正常，2例患者出 院后活动自如，1例透析患者活动轻微受限。结论ECMO可用于治疗心脏移植术后右心功能衰竭，可获得满意的临 床效果。
+关键词：心脏移植;体外膜氧合作用;右心功能衰竭
+中图分类号：R654.28	文献标志码：A	DOI： 10.11958/20180447
+Application of extracorporeal membrane oxygenation in right ventricular failure after heart transplantation
+CHAI Jun-wu, WANG Kai, ZHOU Wei, CHEN Hong-lei, XUE Fen-long, KONG Xiang-rong^ Department of Cardiovascular Surgery, Tianjin First Central Hospital, Tianjin 300192, China △ Corresponding Author E-mail: kongxiangrong001@sina.com
+Abstract：Objective To summarize the value of extracorporeal membrane oxygenation (ECMO) in right ventricular failure after heart transplantation. Methods Data of 31 cases with orthotopic heart transplantations from January 2016 to January 2018, in Tianjin First Central Hospital were retrospectively analyzed. Three patients received ECMO support
+作者单位：天津市第一中心医院心血管外科(邮编300192)
+作者简介：柴军武(1983)，男，硕士，主治医师，主要从事成人心脏外科及心脏移植相关临床研究
+△通讯作者 E-mail：kongxiangrong001@sina.com
+and the Editorial Board of the Chinese Journal of Pediatrics. Expert consensus on the intervention therapy of children’s common congenital heart disease[J] . Chin J Pediatr，2015，53(1)：17-24. doi：10.3760/cma.j.issn.0578-1310.2015.01.004.
+[ 8]	Du ZD，Hijazi ZM，Kleinman CS，et al. Comparison between transcatheter and surgical closure of secundum atrial septal defect in children and adults[J] . J Am Coll Cardiol，2002，39(11)：1836-1844.
+[9]靳有鹏，王玉林，韩波，等.儿童房间隔缺损介入治疗后心脏结 构改变及并发症的随访研究[J].中华儿科杂志，2008,46(12)： 932 - 933. Jin YP，Wang YL，Han B，et al. The changes of cardiac structure and with complications after percutaneous closure of atrial septal defect，a follow up study[J] . Chin J Pediatr，2008，46(12)：
+932-933. doi：10.3760/j.issn:0578-1310.2004.04.014.
+[10]曹莉，郑萍，阳维德.儿童与青少年房间隔缺损介入治疗并发症 随访研究 J].内科，2010,5(4)：365-367.CaoL,ZhengP,Yang WD. Follow up of postoperative complications after interventional therapy for atrial septal defect in children and adolescent[J] . Internal Medicine of China，2010，5(4)：365 -367. doi：10.3969 / j. issn.1673-7768.2010.04.006.
+[11]沈玲云，高伟，赵鹏军.幼儿房间隔缺损介入治疗的临床分析仃]. 中国小儿急救医学，2012，19(6)：606-607. Shen LY，Gao W，Zhao PJ. Clinical analysis of the interventional treatment of atrial septal defect[J] . Chinese Pediatric Emergency Medicine，2012，19(6)： 606-607. doi：10.3760/cma.j.issn.1673-4912.2012.06.016.
+(2018-03-26收稿 2018-04-12修回) (本文编辑 胡小宁)
+天津医药2018年5月第46卷第5期
+479
+because of right ventricular failure after operation. There were two males and one female in these three patients. Their ages were 52, 38 and 67 years old. ECMO was performed in the heart transplantation (2 patients) and eight hours after the surgery. ECMO was established in these patients via femoral artery and femoral vein, V-A model. The mean blood flow was about 3.0 L/min. Continuous ventilator supports, low temperature sedation, anti-infection and nutrition support therapy were applied in the ECMO procedure. Results ECMO was weaned off successfully in all three patients. The time for ECMO was ( 144-177) h. All three patients were treated with continuous renal replacement therapy (CRRT). One patient had renal failure, the transition was given to regular dialysis after CRRT treatment, and the regular dialysis treatment after discharged from hospital. The ventilator time was (168.6±24.6) h in the three patients. The duration of staying in the intensive care unit was (31.8 ± 12.5) d. All three patients were discharged from the hospital successfully, and their cardiac function was normal. Conclusion ECMO can be used to treat right heart failure after heart transplantation, and the clinical effect is satisfactory.
+Key words：heart transplantation; extracorporeal membrane oxygenation; right heart failure
+心脏移植是治疗终末期心脏病的唯一有效治疗 手段，随着移植技术及围手术期管理的进步，心脏移 植在国内部分心脏中心已成为常规手术。而及时有 效地处理心脏移植术中及术后并发症是心脏移植患 者顺利恢复的前提，目前右心衰竭是心脏移植后常 见的并发症之一，也是心脏移植围手术期死亡的主 要原因之一E。体外膜肺氧合(ECMO)作为一种有 效的心肺辅助方法，可相对长时间提供呼吸循环支 持；已成为心脏移植围手术期心功能衰竭最重要的 机械辅助手段。我院采用ECMO技术治疗了 3例心 脏移植术后出现严重右心功能不全的患者，疗效满 意，现报告如下。
+1	对象与方法
+1.1	研究对象 我院自2016年1月—2018年1月间共完成 原位心脏移植31例，男27例，女4例。其中原发病为心肌病 23例，冠心病6例，瓣膜病2例，平均年龄(53.3±11.2)岁。 2016年完成14例，2017年完成13例，2018年1月份完成4 例。心脏移植术中及术后出现急性右心功能衰竭而行 ECMO治疗者3例，男2例，女1例，年龄分别为52,38,67岁。 2例为扩张型心肌病患者；1例为风湿性心脏病，二、三尖瓣置 换术后8年患者。术前心功能均为N级，3例患者术前均合 并重度肺动脉高压。
+1.2	方法
+1.2.1 术前准备 术前常规查血常规、生化、凝血、输血全 项、甲状腺功能、肿瘤全项、病毒全项、HLA配型、群体反应性 抗体、血型等，常规检查包括：超声心动，胸CT，腹部及泌尿 系超声，下肢血管超声、颈部血管超声等。术前常规行强心、 利尿、补钾、降低肺动脉压、抗心律失常等治疗，术前所有心 脏移植受体均经我院伦理委员会讨论通过。
+1.2.2 供体选择 我院心脏移植供体选择脑外伤或脑血管 意外死亡捐献者，并签署公民自愿捐献同意书，报请伦理委 员会通过，并在天津市红十字会监督下完成供心切取手术。 我院心脏移植供体选择条件：年龄＜50岁；无传染病及血流感 染情况；供者血型与受体符合输血原则；血管活性药物(多巴 胺或多巴酚小于5Mg/(kg・min)，肾上腺素或去甲肾上腺素小
+于50ng/(kg・min)；超声心动检查示心功能正常，左心室射血 分数(LVEF)＞0.50，各心腔及瓣膜结构正常；心电图无异 常等。
+1.2.3 手术方式 受体常规麻醉，漂浮导管测量肺动脉压及 肺血管阻力，等待供体切取并确认可用后进行受体手术，常 规正中开胸，主动脉插管，上、下腔静脉插管(上腔静脉直角 插管)，阻断后依次剪断主动脉近端、肺动脉主干、上腔静脉、 左房前壁和下腔静脉。置入供心后，依次吻合左心房、主动 脉、肺动脉和下腔静脉，开放主动脉后再吻合上腔静脉。
+1.2.4术中及术后右心功能衰竭的临床判断及ECMO的放 置 术中体外循环并行停机后出现右心收缩力差，右心胀 满；体肺循环血压比＜2.5；中心静脉压＞16 mmHg(1 mmHg= 0.133 kPa)；每小时尿量＜1 mL/kg，超声心动提示右心扩大， 三尖瓣返流；循环难以维持。在排除左心衰的基础上符合上 述2条以上标准可临床诊断为移植后右心功能衰竭。ECMO 的放置：在心脏移植术中或术后出现右心功能不全时，应用 药物治疗仍难以纠正，出现右心功能衰竭时考虑放置ECMO 辅助。ECMO离心泵及管路等选择美国Medtronic公司产品， 放置时选择右侧腹股沟横切口，显露股动脉、股静脉，5/0滑 线分别于股动、静脉缝荷包，经皮直视下穿刺。股动脉、股静 脉插管型号多选择17-19/19-21，根据股动脉管径情况决定 是否采用深静脉导管于动脉插管处分流供血于下肢远端。
+1.2.5 ECMO辅助的术后管理ECMO辅助期间血流量维持 在约3.0 L/min，平均动脉压维持在50 ~ 60 mmHg。同时降低 血管活性药物用量，加强利尿降低心脏负荷，维持中心静脉 压在8 mmHg以下，必要时行持续床旁血滤治疗(CRRT)。呼 吸机支持适当降低氧浓度，给予适当的呼气末正压通气 (PEEP)，间断吸痰，保证呼吸道通畅。同时体温维持在36七 左右，减少机体氧耗。ECMO运转期间，血小板破坏较多，血 小板尽量维持在30X109/L以上。观察置管肢体的温度及血 供，出现明显缺血时尽早再次恢复远端供血。
+1.2.6撤除ECMO的时机选择当ECMO辅助流量减为患 者的心输出量20%以下；血管活性药物小剂量维持的情况 下，平均动脉压在60 mmHg以上，脉压差＞20 mmHg，中心静 脉压＜10 mmHg;LVEF＞0.40，右心功能良好，三尖瓣无明显反 流；在辅助流量减少为10%以下循环稳定时可考虑撤除 ECMO。
+480
+2	结果
+3例患者经ECMO辅助后均痊愈出院，住院期间 未出现严重出血、血栓、肢体坏死、感染等并发症。3 例患者常规拔除气管插管，未行气管切开，其中1例 行二次插管2 d后拔除气管插管，2例患者ECMO辅 助期间应用CRRT治疗，1例患者在撤除ECMO后应 用CRRT治疗。3例患者ECMO辅助均经股动脉、静 脉置入，V-A模式，同期主动脉内球囊反搏(IABP) 辅助治疗，2例为右侧股动、静脉植入，1例为左侧股 动、静脉植入。患者具体临床资料见表1。2例患者 术后肾功能恢复正常，尿量恢复；1例出现肾功能衰 竭，术后规律透析治疗。术后定期复查超声心动、 FK506浓度、肝肾功能等，随访3~20个月，患者心功 能均正常(LVEF>0.50)，2例活动无受限，1例活动轻 微受限；2例患者肾功能正常，1例尿毒症长期透析 治疗。
+Tab. 1 Clinical data of three patients received ECMO support
+表1 3例ECMO辅助患者临床资料
+指标	病例1	病例2	病例3
+性别	男	男	女
+年龄(岁)	55	62	67
+体质量(kg)	85	83	62
+术前诊断	扩张型	扩张型	风湿性心脏病，
+	心肌病	心肌病	二、三尖瓣置
+			换术后8年
+肺动脉收缩压(mmHg)	63	65	83
+术前LVEF	0.25	0.23	0.30
+冷缺血时间(min)	380	390	250
+主动脉阻断时间(min)	82	105	123
+体外循环时间(min)	310	298	241
+置入ECMO时机	术后8 h	术中	术中
+ECMO辅助时间(h)	144	156	177
+IABP辅助时间(h)	288	305	336
+CRRT应用时机	ECMO期间及ECMO期间及		撤除ECMO后
+	撤机后	撤机后	
+气管插管(h)	二次插管，	312	332
+	328		
+ICU停留时间(d)	20	23	71
+术后住院时间(d)	57	52	95
+3	讨论
+心脏移植是终末期心脏病的最为有效的治疗方 法，其适应证包括：(1)缺血性心肌病(冠心病无法行 支架或冠脉搭桥治疗、冠脉搭桥术后再狭窄无法再 次搭桥、心功能严重下降、血管弥漫性狭窄等)。(2) 扩张型心肌病，如终末期瓣膜病等。目前全世界每
+Tianjin Med J, May 2018, Vol. 46 No. 5
+年完成心脏移植4 500余例，其1年存活率达到 90%，5年存活率在70%以上［2］。2016年国内注册登 记心脏移植例数为368例，我院器官移植中心自 2006年开始逐步开展心脏移植，目前已可常规开展 心脏移植、心肾联合移植、急诊心脏移植等，截止目 前已完成50余例心脏移植，1年存活率达到90%，心 脏移植手术及围手术期管理逐步成熟，同时选择院 内脑死亡供体捐献，术中在供体切取同时受体开胸 手术，最大限度地缩短冷缺血时间，减少术后并 发症。
+目前ECMO越来越多地应用于心脏移植围手术 期，其在心脏移植领域主要用于以下几个方面：(1) 术前等待心脏移植患者心功能较差，等待心脏移植 期间容易出现心源性休克、恶性心律失常等，对于此 类等待患者要及时判断心功能情况，出现循环难以 维持时要尽早行ECMO辅助治疗，维持重要脏器供 血，尽早接受心脏移植，获得生存希望。(2)术中辅助 循环。术中出现明显的右心衰，左心功能衰竭时无 法脱离体外循环尽早行ECMO辅助循环，获得有效 的循环支持。(3)术后早期(多于1周内)因液体负荷 变化、血管活性药物调整、肺部感染等出现明显的呼 吸循环衰竭时应用ECMO辅助，短时间辅助心脏度 过循环波动期［3-4］。
+心脏移植后的严重并发症中，右心功能不全占 70％。随着边缘供体的应用，包括冷缺血时间大于 6 h、供体年龄偏大、存在冠脉病变、供受体体质量不 符、受体肺动脉高压等，心脏移植术中出现右心功能 不全的风险明显加大［5］。本组2例受体体质量偏大， 同时合并肺动脉高压增加了术后右心衰的发生风 险；另1例女性患者为风湿性心脏瓣膜病合并重度 肺高压患者，术中难以脱离体外循环，出现了难以逆 转的右心功能衰竭。心脏移植术中多存在不同程度 的右心功能不全，术中早期多选择静脉应用前列地 尔、吸入NO等降低肺动脉压，当出现明显的右心功 能衰竭(右心收缩力差，中心静脉压持续增高，尿量 减少，血压低于90 mmHg等)时尽早使用ECMO辅 助，降低右心负荷，使得右心功能得到充分恢复与锻 炼。早期应用ECMO辅助可明显改善循环状态及组 织灌注，降低肾功能衰竭的风险。对于冷缺血时间 过长的边缘供体，ECMO的辅助更为重要，ECMO辅 助可选择V-A模式，对于合并严重左心功能不全时 可同时进行左房引流，减轻左心负荷，提高脱机率。 在股动脉管径较细时，可选择髂外动脉或锁骨下动 脉置管辅助。ECMO辅助期间可根据股动脉血供情 况决定是否须建立侧支增加肢体远端血供，且须间
+天津医药2018年5月第46卷第5期
+断检查侧支分流是否通畅，持续观察肢体温度，避免 肢体坏死。对于辅助期间抗凝管理，应注意放置导 管前肝素化使得激活凝血时间(ACT)在200 s以上， ECMO辅助过程中ACT维持在150~200 s，活化部分 凝血活酶时间(APTT)50 ~ 70 s。术中或术后出现严 重渗血、出血可以不用肝素或减少肝素用量，待出血 情况稳定后泵入肝素，每2~4 h监测ACT。辅助期间 通过超声心动持续评估心脏功能，当出现心肌收缩 力明显好转，辅助流量逐步减低，小剂量血管活性药 物可维持有效的循环时，可考虑撤除ECMO[6-7]。辅 助期间加强营养，尽早开放胃肠道功能，减少肠道并 发症。总之，ECMO作为一种生命支持手段，其在心 脏移植后右心功能衰竭的治疗中效果明显，可提高 治愈率。
+参考文献
+[ 1] Beissel DJ，Birnbaum BF，Barnes AP，et al. Use of mechanical circulatory support in isolated right heart failure：A bridge to transplantation[J] . Ann Thorac Surg，2017，104(2)：155-156. doi： 10.1016/j.athoracsur.2017.02.058.
+[2]郑萍，程才，魏翔.体外膜肺氧合在心脏移植后右心功能衰竭治 疗中的应用["中华器官移植,2015,36(5)：271-275.ZhengP, Cheng C，Wei X. Application of extracorporeal membrane oxygenation in the treatment of right ventricular failure after heart transplantation[J] . Chin J Organ Transplant，2015，36(5)：271 -
+481
+275. doi：10.3760/cma.j.issn.0254-1785.2015.05.004.
+[4] Loforte A，Murana G，Marinelli G. Role of intra-aortic balloon pump and extracorporeal membrane oxygenation in early graft failure after cardiac transplantation[J] . Artif Organs，2016，40(8)： 136-145. doi：10.1111/aor.12793.
+[6]潘禹辰，史锋，药晨，等．心脏移植后右心功能不全的处理36 例[J].中华器官移植，2014,35(10):611-614. PanYC,Shi F, Yao C，et al. Clinical treatment of right cardiac insufficiency after heart transplantation[J] . Chin J Organ Transplant，2014，35(10)： 611-614. doi：10.3760/cma.j.issn.0254-1785.2014.10.009.
+[7] Takeda K，Li B，Garan AR，et al. Improved outcomes from extracorporeal membrane oxygenation versus ventricular assist device temporary support of primary graft dysfunction in heart transplant[J] . J Heart Lung Transplant，2017，36(6)：650-656. doi：10.1016/j.healun.2016.12.006.
+(2018-03-24收稿 2018-04-10修回) (本文编辑 胡小宁)

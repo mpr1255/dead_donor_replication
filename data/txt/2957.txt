@@ -1,0 +1,78 @@
+﻿临床药物治疗杂志
+Clinical Medication Journal
+第17卷第11期
+2019年11月
+VoL17.No.11
+November2019
+1例心脏移植术后肺炎患者的用药分析与药学监护
+许萌匕孔旭东2*
+(1.河北医科大学第二医院药学部，河北石家庄050000； 2.中日友好医院药学部，北京100029)
+【摘要】1例59岁男性患者因心脏移植术后肺炎收入院。入院后对该患者的治疗对策的有效性、安全性和药学监 护情况进行探讨。临床药师根据患者的病情变化，协助医师根据药敏结果为患者制定有效的治疗方案，通过监测血药 浓度及时调整替考拉宁及环抱素的给药剂量，同时关注患者使用环抱素等药物所致不良反应，提出合理的药学监护措 施。患者经过抗感染治疗后，感染得到控制，病情相对稳定而出院。通过对患者治疗方案的优化，协助医师制定个体 化治疗方案，及时调整药物剂量，有利于提高临床药物治疗水平，促进临床合理用药。
+【关键词】心脏移植；替考拉宁；血药浓度监测；用药分析；药学监护
+【中图分类号】R969.3	【文献标志码】B	【文章编号】1672-3384(2019)11-0084-04
+doi ：10,3969/j. issn. 1672-3384.2019.11.019
+Medication analysis and pharmaceutical care ： a patient with pneumonia after heart transplantation
+XU Meng12,KONG Xu-dong2*
+(1. Department of Pharmacy, the Second Hospital of Hebei Medical University, Hebei Shijiazhuang 050000, China ；2. Department of Pharmacy 9 China-Japan Friendship Hospital t Beijing 100029
+[Abstract] A 59-year-old male patient was admitted to hospital due to pneumonia after heart transplantation. The effectiveness, safety, and pharmaceutical care of the patient were discussed after admission. According to the patient's condition, the clinical pharmacist assists the doctor to make an effective treatment plan for the patient by the drug sensitivity results, adjusts the dosage of teicoplanin and cyclosporine in time by means of blood concentration monitoring, pays attention to the adverse reactions caused by the patient's use of cyclosporine and other drugs, and puts forward reasonable pharmaceutical monitoring measures. After the patient zs anti-infective treatment, the infection was controlled and the condition was relatively stable, then patient was discharged. Clinical pharmacists assist physicians to formulate individualized treatment plans, and to solve adverse drug reactions timely, which is conducive to improve the effect of clinical drug treatment and promote rational drug use.
+[Key words] heart transplantation； teicoplanin; therapeutic drug monitoring; drug analysis； pharmaceutical monitoring
+对于很多即使接受最佳药物治疗但功能容量仍 严重受损的终末期心力衰竭患者，心脏移植是治疗 首选。由于免疫抑制剂的不断发展及受、供体之间 良好的配型，使心脏移植患者的生活质量明显提 高。但随着大量免疫抑制剂的临床应用及术后患者 自身抵抗力低下，感染是心脏移植后的主要并发 症，同时也是导致心脏移植术后患者死亡的常见原 因⑴。肺部感染是心脏移植后最常见和最严重的感
+染，是移植后生存率的一个主要决定因素⑵"。本 文通过文献检索和复习，结合患者病情探讨心脏移 植术后肺炎患者的治疗及相关用药治疗方案的 管理。
+1病例简介
+患者，男，59岁，85 kg,因间断发热4 d于 2018年4月17日收入中日友好医院(以下简称我
+［收稿日期］2019-01-04
+［作者简介］许萌，女，主管药师；研究方向:药物分析和临床药学；Tel： (0311)66007385； E-mail； xumeng0622@126.com
+［通信作者］•孔旭东，男，主管药师；研究方向：临床药学；Tel： 17810362244； E-mail： kxd023@outlook.com
+• 84・
+许萌，等：1例心脏移植术后肺炎患者的用药分析与药学监护
+院）。患者4 d前受凉感冒后出现间断发热，体温最 高39.8七，伴畏寒、寒战、头痛、肌肉酸痛、乏 力，无鼻塞、流涕、咽痛，无明显咳嗽、咳痰、憋 气。自服复方氨酚烷胺片1次，效果不佳。次日就 诊于衡水市第四人民医院，查动脉血气（FK）2 21% ） , pH 7. 47, PCO2 26 mmHg, P02 56 mmHg。 血常规检测正常。肺CT示双肺弥漫分布磨玻璃 影。予以头抱哌酮、更昔洛韦静脉滴注，伏立康 嗖口服，进一步就诊至我院。入院诊断：①免疫 功能低下宿主肺炎（肺胞子菌肺炎，巨细胞病毒 肺炎）；②心脏移植术后；③冠心病（陈旧性心肌 梗死）；④室性心律失常（心脏起搏器置入状 态）；⑤糖尿病。患者冠心病、心肌梗死病史25 年，2012年于北京东方医院先后放置7枚支架。 2014年因阵发性室颤于北京东方医院置入心脏起 搏器。1年前（2016年11月17日）因心功能衰 竭于北京安贞医院行心脏移植术，术后规律服用 抗排异药物（环抱素100 mg每12小时1次，吗 替麦考酚酯750 mg每12小时1次），口服阿昔洛 韦100 mg每日2次、伏立康嗖200 mg每日1次， 共2个月。患有糖尿病1年余，平时未用药，监 测血糖可。否认高血压、神经精神疾病史，无食 物或药物过敏史。
+2治疗经过
+入院时患者无发热，无咳嗽、咳痰、憋气。 不吸氧时监测指尖氧饱和度99%。患者心脏移 植术后1年余，长期口服抗排异药物，为免疫功 能低下宿主肺炎。给予联磺甲氧苇咤片4片每8 小时1次、注射用更昔洛韦300 mg每12小时1 次、注射用哌拉西林钠/他陛巴坦钠4.5 g每8小 时1次、伏立康唾片200 mg每日1次；同时完 善呼吸道分泌物检查明确病原体。此外，临床药 师考虑到伏立康嘎为肝药酶抑制剂，可使环徇素 血药浓度升高，故将环泡素减量为25 mg每日2次 口服。同时临床药师建议对环徇素及伏立康隆进行 血药浓度监测。4月18日查环抱素血药浓度为 135.8 ng - mL'1,伏立康噬血药浓度为1.0 fxg -mf *o 实验室检查：NE% 80.7%、LY% 12.8%、 PLT 82 x 109 • L-1, ESR 18 mm - h-1,尿素 11. 66
+mmol • L_1 ,肌肝 140. 1 p,mol ' L-1 o 4 月 19 日患者 出现发热，体温最高38. 79,伴气短，偶有咳嗽、 少痰。外院血培养48 h回报为金黄色葡萄球菌，未 行药敏检查。4月19日行支气管镜检查，肺泡灌洗 液送检病原学。4月20日，我院血培养为金黄色葡 萄球菌，药敏结果为耐甲氧西林金黄色葡萄球菌 （methicillin resistant Staphylococcus aureus, MRSA ） 0 肺泡灌洗液细菌、真菌培养阴性，巨细胞病毒（cytomegalovirus ,CMV）及耶氏肺电子菌肺炎（pneu-mocystis pneumonia, PCP）核酸均为阴性。因此， 考虑为MRSA菌血症。临床药师建议加用替考拉宁 400 mg每12小时1次，连用3剂，之后400 mg每 日1次。将联磺甲氧苯咤片改为2片隔日1次，预 防PCP,将更昔洛韦减量为150 mg每日1次预防 CMVO停用哌拉西林钠/他嗖巴坦钠、伏立康噪。4 月23日患者无发热，无明显咳嗽、咳痰，查肌酊 101. 8 jimol ♦ L”,临床药师建议查替考拉宁血药浓 度为11.5mg・L, 继续上述治疗。4月24日临床 药师建议查环抱素血药浓度为178.8 ng - niL-'o 4 月25日血培养无致病菌生长（5 d）。4月26日患 者无发热、咳嗽、咳痰，查肌酊89. 2 |imol - L-1, 追问患者，本次发病前胸前手术瘢痕处有脓性分泌 物，无其他部位皮肤破损或外伤。考虑MRSA菌血 症与手术瘢痕炎症有关。目前手术瘢痕处皮肤无红 肿、溢脓，病情相对稳定，安排出院。院外继续静 脉应用替考拉宁400 mg每日1次抗感染治疗1周。 2个月后复查胸部CT,不适随诊。临床药师建议将 环抱素加量至50 mg每日2次口服，同时监测血药 浓度，及时调整药量。1周后加用吗替麦考酚酯 750 mg每日2次口服。
+3药学分析与讨论
+3.1	抗感染方案治疗方案的制定
+患者中年男性，社区获得性肺炎诊断明确， 1年余前行心脏移植手术，长期服用抗排异药 物，免疫功能低下，应及早进行抗感染治疗。根 据2016年版《中国成人社区获得性肺炎诊断和 治疗》⑷，该患者有基础疾病，需入院治疗、无 需入住ICU,常见病原体为肺炎链球菌、流感嗜 血杆菌、肺炎克雷伯菌等肠杆菌科细菌、流感病
+• 85 •
+第17卷第11期
+2019年11月
+临床药物治疗杂志
+Clinical Medication Journal
+VoL17tNo.1l
+November,2019
+毒等。患者1年余前行心脏移植手术，由于免疫 抑制剂的使用以及移植物存活情况改善，机会性 感染的发生率和感染谱也随之增加37〕。引起的 主要感染的机会性病原体包括：PCP、真菌、 CMV等®叼。
+患者心脏移植术后1年余，初始治疗方案给予 联磺甲氧苇咤片4片每8小时1次抗PCP、注射用 更昔洛韦300 mg每12小时1次抗CMV、注射用哌 拉西林钠/他嚏巴坦钠4. 5 g每8小时1次抗细菌、 伏立康陛片200 mg每日1次抗真菌治疗是合理的。 用药48 h评估疗效，第3天患者出现发热，体温最 高38. 7七。外院血培养48 h回报为金黄色葡萄球 菌。分析原因可能为MRSA感染、口服伏立康陛制 剂血药浓度未达标或合并其他特殊病原体感染，如 结核分枝杆菌等。完善肺泡灌洗液病原学检查，追 血培养结果。4月20日，我院血培养为金黄色葡萄 球菌，药敏结果为MRSA。肺泡灌洗液细菌、真菌 培养阴性，CMV及PCP核酸均为阴性。因此，考 虑为MRSA菌血症。MRSA菌血症一线治疗药物为 万古霉素、达托霉素，替代药物为利奈嗖胺、替考 拉宁口°】。目前患者血肌肝偏高，血小板偏低，考虑 到万古霉素会引起急性肾功能不全、间质性肾炎等 肾功能损伤，而利奈嘤胺有出现骨髓抑制的报道： 包括贫血、白细胞减少和血小板减少等不良反应， 临床药师建议使用替考拉宁治疗。患者为MRSA菌 血症，有可能引发感染性心内膜炎，需给予替考拉 宁足够负荷剂量抗感染治疗。患者体重85 kg,如 果按6 ~ 12 mg • kg”的负荷剂量给药，则替考拉宁 剂量会过大而引起肾损害，但剂量过小又难以达到 抗感染治疗的目标浓度，故推荐起始负荷剂量 400 mg每12小时1次，连用3剂，之后400 mg每 日1次。目前认为，替考拉宁谷浓度〉1。mg ♦ 适用于绝大多数严重感染，通过进行血药浓度监 测，该患者静脉给药3 ~5次后，C“而通常在10 mg 以上，表明通过加大负荷总剂量的方式可以达到治 疗目标谷浓度以上。此外，将联磺甲氧苯咤片改为 2片隔日1次预防PCP,将更昔洛韦减量为150 mg 每日1次预防CMV。停用哌拉西林钠/他嘎巴坦钠、 伏立康陛。经过上述抗感染治疗后，患者病情相对 稳定，安排出院。
+3.2	免疫抑制药剂量调整
+心脏移植术后患者免疫抑制治疗的目的在于 预防或治疗同种异体心脏移植的排斥反应，同时 尽量减轻药物毒性和免疫抑制的重大不良后果， 即感染和恶性肿瘤口”。所以术后正确使用免疫抑 制药是提高心脏移植术后生存率的关键因素。免 疫抑制方案可分为诱导、维持或抗排斥。该患者 心脏移植术后1年余，处于维持阶段治疗。本患 者入院前使用了环抱素和吗替麦考酚酯，入院后 仅使用环抱素维持治疗。环抱素经肝脏CYP3A4 酶代谢，该患者初始使用的药物中伏立康嘤为肝 药酶抑制剂可影响其代谢，升高其血药浓度，需 降低环抱素剂量。因此环抱素剂量减少至25 mg 每日2次口服，同时应监测其血药浓度及患者肾 功能。一般情况下，心脏移植后第1年的环抱素 血药浓度维持在最高水平(200 ~ 350 ng • mLT), 随后降低(100 -200 ng . mL-')o 4月20日停用 伏立康嗖后，环抱素继续25 mg每日2次口服，4 月24日复查血药浓度仍维持在所要求的浓度范围 内。患者出院时临床药师建议将环抱素加量至50 mg每日2次口服，出院后继续监测血药浓度及肾 功能，及时调整药量。1周后加用吗替麦考酚酯 750 mg每日2次口服。
+3.3	关注药物不良反应与药物相互作用
+临床药师对患者所用药物进行监护，避免药 物毒性作用对肾功能损害及潜在的药物相互作用。 环抱素常见的不良反应为肾功能不全、震颤、高 血压多毛症等，多呈剂量依赖性。患者入院时肌 肝清除率60. 4 mL • min-，为轻度肾功能受损， 因此在联合使用伏立康嚏时减少环袍素剂量，并 且定期复查肾功能，此后肌酊慢慢恢复为正常水 平。替考拉宁也存在一定耳、肾毒性，但是该患 者通过监测血药浓度，延长负荷剂量经综合治疗 临床症状及感染相关指标好转，未出现肾功能损 害加重等不良反应。
+综上所述，通过对1例心脏移植术后肺炎病例 的回顾性分析发现，合理选择抗感染药物很关键, 同时免疫抑制药的个体化用药也至关重要，临床药 师可协助医师进行药物治疗。
+(下转第89页)
+• 86 •
+叶鸣，等：1例卡泊芬净致低蛋白血症合并肺部真菌感染患者肝损伤报道
+药物性肝损伤需要停止使用相关药物。针对患者需 要抗真菌治疗，对比分析三陛类、棘白菌素类及两 性霉素B的药理作用及不良反应，棘白菌素类肝损 伤作用最小⑷，患者感染症状较重，故未更换抗真 菌药物。
+3.3卡泊芬净致肝损伤治疗
+经过医师与临床药师讨论，患者胃癌术后， 感染较重，暂予卡泊芬净50 mg每日1次维持治 疗。给予患者异甘草酸镁注射液150 mg每日1次 静脉滴注保肝治疗，异甘草酸镁主要成分是18-草 酸甘草酸，是一种肝细胞保护剂，具有抗炎、保 护肝细胞膜及改善肝功能的作用。能减轻肝细胞 变性、坏死和炎性细胞浸润，降低氨基转移酶水 平⑸。该患者给予异甘草酸镁保肝，肝功能明显 改善。
+综上，在临床工作中不仅需要重视药物常见的 不良反应，也应关注药物药代动力学情况。对于特 殊患者，临床药师仍应严格审查用药医嘱，关注药
+物潜在不良反应，应密切监测患者各项指标，避免 不良反应发生。
+【参考文献】
+[1 ] Ripeau J S, Aumont F, Belhumeur P, et al. Effect of the echinocandin caspofungin on expression of Candida albicans secretory aspartyl proteinases and phospholipase in vitro [ J ]. Antimicrob Agents Chemother,2002,46(9) ：3096-3100.
+[2]科赛斯.注射用醋酸卡泊芬净说明书[EB/OL]. (20179927) [2019-02-27 ]. http：//www. msdchina. com. cn/product/.
+[3] Perez-Pitarch A, Feiriols-Lisart R, Aguilar G, et al. Dosing of caspofungin based on a pharmacokinetic/pharmacodynamic index for the treatment of invasive fungai infections in critically ill patients on continuous venovenous haemodiafiltration [ J ] . Int J An-timicrob Agents,2018,51 (1) ： 115-121.
+[4]刘晓东，熊梦瑶，朱旭，等.卡泊芬净药物不良反应的分析 [JL中国临床药理学杂志,2018,34(13)： 1574-1576.
+[5]池翔.异甘草酸镁治疗药物性肝损伤的临床疗效观察[J].临 床合理用药,2018,11( 10)：596),
+(本文编辑:郭美晨)
+(上接第86页)
+【参考文献】
+[1 ] Lund L H,Edwards L B, Kucheryavaya A Y,et al. The registry of the international society for heart and lung transplantation ： thirtieth official adult heart transplant report-2013 ； focus theme ： age [ J ]. J Heart Lung Transplant, 2013, 32 ( 10 )： 951-964.
+[2] Kiipeli E,Ulubay G,Akkurt E S,et al. Long-term pulmonary infections in heart transplant recipients [ J ]. Exp Clin Transplant, 2015,13(1) ：356-360.
+[3] De Gasperi A,Feltracco P,Ceravola E,et al. Pulmonary complications in patients receiving a solid-organ transplant [ J ]. Curr Opin Crit Care,2014,20(4)：4H419.
+[4]中华医学会呼吸病学分会，中华结核和呼吸杂志编委会.中 国成人社区获得性肺炎诊断和治疗[J]，中华结核和呼吸杂 志,2006,39(4)：253-279.
+[5]	Fishman J A. Infection in solid-organ transplant recipients [ J ]. N Engl J Med,2007,357(25) ：260I-2614.
+[6]	Fishman J A,Issa N C. Infection in organ transplantation： risk factors and evolving patterns of infection [ J ]. Infect Dis Clin North Am,2010,24(2)：273-283.
+[7]	Green M. Introduction： infections in solid organ transplantation [J]. Am J Transplant,2013,13( Suppl 4) ：S3-S8.
+[8]	Sepkowitz K A. Opportunistic infections in patients with and patients without acquired immunodeficiency syndrome[ J ]. Clin Infect Dis,2002,34(8) ： 1098-1107.
+[9]	AU Montoya J G,Giraldo L F, Efron B,et al. Infectious complications among 620 consecutive heart transplant patients at Stanford University Medical Center [ J ]. Clin Infect Dis, 2001,33 (5)：629-640.
+[10]	Liu C,Bayer A,Cosgrove S E,et al. Clinical practice guidelines by the infectious diseases society of america for the treatment of methicillin-resistant Staphylococcus aureus infections in aduhs and children： executive summary [ J ]. Clin Infect Dis, 2011,52 (3)：285-292.
+[11]	Lund L H,Edwards L B,Kucheryavaya A Y,et al. The registry of the international society for heart and lung transplantation: thirty-second official adult heart transplantation report-2015 ； focus theme ： early graft failure [ J ]. J Heart Lung Transplant ,2015,34 (10):1244-1254.
+(本文编辑:郭美晨)
+89 -

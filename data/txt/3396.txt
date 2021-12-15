@@ -1,0 +1,82 @@
+﻿中国继续医学教育 第10卷 第27期 161
+同种异体原位心脏移植的手术配合
+江晶
+【摘要】 心脏移植已经被公认为治疗终末期心脏病的最有效的治疗方 法，可明显改善患者的生存质量并延长患者的生命。本文总结同种异 体原位心脏移植术前准备、术中手术配合的经验。本组资料回顾性总 结76例临床心脏移植的手术护理配合，就术前患者的访视、切取供心 的物品准备和手术配合、受体手术的物品准备和手术配合以及经典法、 双腔法植入供心的手术配合等进行了分析总结。心脏移植手术和其它 器官移植一样有别于普通的手术，要重视术前对患者的访视，以保证 手术的顺利进行。要特别注意无菌观念，降低术后感染的发生率。在 术中要根据不同的手术进程及时准确备好相关物品，同时做好手术全 过程的护理是手术成功的重要保证。
+【关键词】心脏移植；术前准备；术前访视；手术中护理；配合；供心 保护
+【中图分类号】R473 【文献标识码】A
+【文章编号】1674-9308(2018)27-0161-03
+doi：10.3969/j.issn.1674-9308.2018.27.080
+Surgical Coordination of Allogeneic Orthotopic Heart Transplantation
+JIANG Jing Operating Room, Fujian Medical University Union Hospital, Fuzhou Fujian 350001, China
+[Abstract] Heart transplantation has been recognized as the most effective treatment for end-stage heart disease, which could significantly improve the patients' quality of life and prolong their lives. This article summarizes the experience of preoperative preparation and operative cooperation in orthotopic heart transplantation. Our data retrospectively analyzed and summarized 76 cases of clinical heart transplantation surgical care coordination in the aspects of patient's visit before surgery, the preparation and the surgical cooperation for the donators, the preparation and the surgical cooperation for the recipients, as well as the surgical cooperation for the classic method and double cavity method. The heart transplant operation is the same as other organ transplants which is differentiated with ordinary surgery. It is important to pay attention to the patient's visit before surgery to ensure the smooth operation of the surgery. The concept of sterility is also important to reduce the incidence of postoperative infections. During the operation, it is necessary to accurately and timely prepare relevant articles according to different surgical procedures. At the same time, the care of the entire operation is also an important guarantee for successful operation.
+[Keywords] heart transplantation; preoperative preparation; preperative interview; intraoperative care; cooperation; heart protection
+心脏移植是治疗终末期心脏病最有效的方法[1-3]。截至 2015
+年 6 月底，国际心肺移植协会(International Society for Heart and Lung Transplantation,ISHLT)注册成人心脏移植已达113 472例[4]。在国 内，1992年哈尔滨医科大学附属第二医院的夏求明教授报道了国 内首例心脏移植长期存活的病例，随后越来越多的单位开展了临 床心脏移植。我科自1995年8月21日开展第1例临床心脏移植 至今，共完成临床心脏移植76例，其中1例患者已经存活11年。
+作者单位：福建医科大学附属协和医院手术室，福建 福州 350001
+现就术中的手术配合报道如下：
+1	临床资料
+1.1	一般资料
+本组共76例，男性患者64例，女性患者12例，最小年龄13岁， 最大年龄65岁，年龄大于50岁者15例。术前诊断为扩张型心肌 病63例，冠心病6例，先天性心脏病3例，限制性肥厚型心肌病2例， 风湿性心脏病1例，心脏恶性肿瘤1例。术前常规进行实验室生 化检查，内分泌学检查，免疫学检查，相关的细菌学、病毒学检 查以及心电图、胸部摄片和心脏彩超检查，特别是进行漂浮导管 检查，以测定肺血管阻力，从总体上进行手术适应证的评估。
+1.2	免疫配型情况
+受体术前常规进行HLA分型，测定群体反应性抗体（PRA）， 进行淋巴细胞毒试验。血型的选择不要求完全一致，“AB”型供 体只能移植给“AB”型受体，“O”型供体可以移植给各种血型 的受体，“AB”型受体可以接受各种血型的供体。
+1.3	免疫治疗方案
+早期，免疫治疗方案在术前没有进行免疫诱导治疗，应用经 典的三联免疫抑制治疗方案，即环孢素、硫唑飘呤、强的松。后期， 在术前用白介素2受体拮抗剂（赛尼哌）进行诱导治疗，术后仍 然用三联免疫抑制治疗方案，即环孢素、霉酚酸酯（或硫唑飘呤）、 强的松。
+2	术前准备
+2.1 手术间准备
+尽可能准备层流手术间，除了一些必须的物品外，尽量清除 多余的仪器设备，保证手术间整洁，严格控制出入手术室的人员。 2.2 物品准备
+2.2.1 供体组物品准备 器械包内备有切皮刀、胸骨劈开刀、胸骨 撑开器、长短组织剪各1把，弯血管钳以及蚊式钳各4把，升主 动脉阻断钳1把，Potts钳2把，镊子2把,6 X14的无损伤缝线2根。 除此还须备大量无菌冰屑，吸引器以及照明设备，消毒物品等。
+2.2.2 受体组物品准备 手术间内仪器设备的表面要用消毒水擦拭， 手术器械的准备和普通心脏手术没有太大的区别，不同的是，心脏 移植手术由于吻合口较多，体外循环时间较长，加之患者体质差， 术中容易出血，因此要多备止血材料，如生物蛋白胶、止血纱布等。 2.3 术前访视
+器官移植不同于普通的心脏外科手术，其涉及的环节较多， 除了纯粹的医疗因素外，还涉及医学伦理以及社会问题，大部分
+162 China Continuing Medical Education, Vol. 10, No.27
+患者对此认识不足，因此术前精神紧张，对手术感到茫然和恐惧。 供体缺乏是全球共同面对的问题，而且受经济、法规、文化传统等 因素影响，这一问题亚太地区更为显著［5］。正因为这种特殊性，巡 回护士在术前访视患者显得尤为重要，护士应该加强对患者的关怀， 加强与患者的交流［6］。应当向患者介绍手术室环境、手术体位等， 巡回护士要对患者进行心理评估，并在术前对患者进行心理干预［7］， 以减轻患者的恐惧感，使其保持情绪稳定，保证手术的顺利进行。
+3	手术配合
+3.1	供心摘取的手术配合
+供心的质量与心脏移植术后心功能恢复、生存率密切相关［8］。 器械护士应先将手术器械和无菌冰屑准备好后再洗手。供体仰卧 位，消毒铺巾，正中开胸，撑开胸骨，迅速递给医生血管钳和剪刀， 准备好带双针6 x 14的无损伤缝线，医生打开心包后用无损伤缝 线在升主动脉根部作一 “U”形缝合，然后递给升主动脉阻断钳， 灌注师开始灌注后，再递给Potts钳给医生阻断上、下腔静脉，最 后递给剪刀，医生将供心完整取出，灌注冷HTK液巴使用4层 无菌袋逐层封扎，置入无菌冰桶内保存、运输，保证运输过程的 无菌状态。随后准备冰屑和装供心的容器备用［10］。
+3.2	受体手术的配合
+3.2.1 巡回护士配合 首先安置体位，患者取仰卧位，肩背部垫高， 以便术中心脏的充分暴露。肢体安放在正常的生理位置，防止肢 体局部受压。术前术后检查患者皮肤的完整性，防止发生褥疮。 协助麻醉医生做好深静脉置管、放置；漂浮导管等。
+其次应快速将各种无菌物品准备好，同时准备修剪供心的无 菌操作台，打开无菌包，和器械护士一起点数并将手术器械和物 品准备好。在整个手术过程中根据病情的变化和需要，及时添加 物品，保证手术的顺利进行。
+术中做好保温工作，术中低体温能削弱巨噬细胞氧化杀伤力， 血管收缩导致组织氧含量减少，易发生术后切口感染［11］。术中需 严格控制和管理容量，液体一旦输入过多，即可导致心脏负荷过重， 造成心功能衰竭。
+3.2.2 经典法植入供心的手术配合要点 器械护士洗手后准备好无 菌器械台，摆放好手术器械及术中使用的无菌物品，并和巡回护 士一起清点器械和敷料，协助医生消毒、铺巾。手术开始后，和 普通心脏手术一样，常规使用手术器械物品，协助建立体外循环， 当供心到达手术室后医生即切除受体心脏，简单修剪供心后即开 始植入手术。通常吻合的顺序是：左心房、主动脉、肺动脉，开 放升主动脉后吻合右心房。有文献报道在完成主动脉吻合后即可 开放升主动脉，而后吻合肺动脉和右心房，但本组资料总结认 为，肺动脉壁很薄，吻合后容易导致狭窄，要求在供心复跳前用 5-0 Prolene线作显微吻合。要准备的缝线有：2根带双针的3-0 Prolene线吻合左心房、2根双针带垫片的4-0 Prolene线吻合主动
+脉、1根带双针的5-0 Prolene线吻合肺动脉、2根带双针的4-0 Prolene线吻合右心房。在手术过程中，要用薄层纱布包冰屑裹在 心肌表面降温。心脏植入完毕后心腔排气开放升主动脉，备好除 颤板。由于植入心脏没有神经的支配，因此在术中需要准备2根 临时起博导线缝置在右心室表面。如果受体没有重度肺动脉高压， 供心功能良好，即可撤离体外循环。如果各个吻合口有漏血，则 用相应的Prolene线修补，准备好生物蛋白胶备用。
+3.2.3 双腔法植入供心的手术配合要点 双腔法植入供心的手术配 合与经典法大同小异，区别在于双腔法不吻合右心房，而是分别 吻合供受体的上腔静脉和下腔静脉，吻合上、下腔静脉各用1根4-0 Prolene线。吻合的顺序有2种，如果冷缺血时间较短，吻合顺序 为：左心房、主动脉、下腔静脉、肺动脉，开放升主动脉后吻合 上腔静脉。如果冷缺血时间较长，吻合顺序为：左心房、主动脉、 肺动脉，开放升主动脉后分别吻合上、下腔静脉，因此在术中要 根据医生的吻合顺序来准备缝线和无菌物品。
+4	小结
+心脏移植手术包括供心的切取、受体病变心脏的切除以及供 心的植入等三个步骤，心脏移植具有转流时间长、术中意外多等 特点［12］，因此在物品的准备方面要考虑周全。
+在配合供心的切取过程中，由于时间紧迫，人员有限，因此 要提前将相关物品准备好，术中动作要迅速，配合要娴熟。
+在手术的过程中，由于不同的病情需要和手术进程，手术步 骤和方法可能随时发生改变，这就要求在术前准备中预先了解可 能的手术过程，避免术中慌乱，保证手术顺利进行。
+由于患者术后要服用免疫抑制剂，加之术前由于长期受疾病 的影响，患者体质差，抵抗力低下，因此在术后容易发生感染， 所以要求无菌观念强，尽可能使用层流手术间，严格控制手术间 人数，限制人员进出。
+此外，有些患者肺动脉压力较高，术中供心复跳后可能发生 急性右心功能不全，因此要做好重新转流的准备，在必要时也要 做好安装右心辅助转流装置的物品准备。
+参考文献
+［1］	杨柳青，徐芬. 行体外膜肺氧合联合主动脉内球囊反搏治疗21 例心脏移植患者术后的护理J］.中国临床护理，2017, 9(2)： 136-137.
+［2］	赵阳，李平，刘金平，等. 单中心儿童心脏移植的供心保护经验 总结J］.中国体外循环杂志，2016,14 (3 ):159-161.
+［3］	张海波，孟旭，韩杰，等. 脑死亡器官捐献心脏移植供体保护 性治疗与功能评价J］.实用器官移植电子杂志，2016, 4(5)： 270-276.
+［4］	Lund LH,Edwards LB,Dipchand AI,et al. The registry of the international society for heart and lung transplantation： thirty-third adult heart transplantation report-2016 ；focus theme ：primarydiagnostic indications for transplant［J］. J Heart LungTransplant,2016,35(10)：1158-1169.
+中国继续医学教育 第10卷 第27期 163
+[5]	Sivathasan C，Lim CP，Kerk KL，et al. Mechanical circulatory support and heart transplantation in the Asia Pacific region[J].J Heart Lung Transplant，2017，36（1）：13-18.
+[6]	周杨，徐芬.人文关怀护理在心脏移植术后患者中的应用J].中
+国临床护理，2015，7（6）：485-486.
+[7]	何细飞，黄丽红，曾铁英. 心脏移植术后病人生存质量的质性研 究 J].护理研究，2015,29 （ 12）:4596-4599.
+[8]	赵阳，董念国，刘金平，等.133例心脏移植供心保护回顾分析J]. 中国体外循环杂志，2014，12（4）：219-221.
+[9]	张丽，钟浩. 2例改良的双腔静脉原位同种异体心脏移植手术的 护理配合J].中国临床护理，2015，7（2）：143-145.
+[10]	余文静，高兴莲，王曾妍，等. 146例脑死亡器官捐献心脏 移植手术期管理J].临床心血管杂志，2016，32（4）： 418421.
+[11]郭莉，钱蒨健，陈肖敏，等.2016年版手术室护理实践指南[乂]. 北京：人民卫生出版社，2016：86-88.
+[12]徐林.心脏移植的现状与进展[J].沈阳医学院学报，2015,17（3）： 129-130.
+综合保温措施在新生儿开腹术中的临床价值探析
+莫凤初曾艳玲何新
+【摘要】 目的 分析综合保温措施在新生儿开腹手术中的应用价值。方 法 选取2016年6月—2017年12月于我院行开腹手术的36例新生儿， 随机分为两组，各18例。研究组新生儿选择综合保温措施，对照组选 常规保温措施，比较临床应用效果。结果 研究组新生儿术中体温波动 较小(尸》 0.05);对照组新生儿体温波动较大(户< 0.05);研究组新 生儿术中不良反应发生率低于对照组(P V0.05)。结论新生儿开腹手 术中应用综合保暖措施疗效显著，安全性佳。
+【关键词】新生儿；开腹手术；综合保温措施；价值；常规；体温 【中图分类号】R473	【文献标识码】A
+【文章编号】1674-9308(2018)27-0163-02
+doi：10.3969/j.issn.1674-9308.2018.27.081
+Analysis of Clinical Value of Comprehensive Thermal Insulation Measures in Neonatal Laparotomy
+MO Fengchu ZENG Yanling HE Xin Operating Room, Nanning Maternal and Child Health Hospital, Nanning Guangxi 530011, China
+[Abstract] Objective To analyze the application value of comprehensive insulation measures in neonatal open surgery. Methods 36 newborns undergoing laparotomy in our hospital from June 2016 to December 2017 were selected, randomly divided into two groups, 18 cases in each group. The study group selected newborns for comprehensive thermal insulation measures,the control group selected routine insulation measures, clinical application effects was compared. Results The study group had small fluctuations in body temperature during surgery (P > 0.05); The body temperature of newborns in the control group fluctuates greatly (P < 0.05); The incidence of intraoperative adverse events in the study group was lower than that in the control group (P < 0.05). Conclusion The application of comprehensive warming measures in the open surgery of neonates is effective, safe.
+[Keywords] newborns; open surgery; comprehensive insulation measures; value; conventional; body temperature
+新生儿因体温调节中枢发育不完善，加之体表面积大、皮下 脂肪薄、血管众多易于散热，导致体温调节能力和保温能力较差， 易损伤其他器官组织，影响生长发育。多数新生儿在接受开腹手 术时因体温波动大，影响医疗操作及术后恢复，为帮助患儿保持
+作者单位：南宁市妇幼保健院手术室，广西 南宁 530011 通信作者：何新
+恒定体温，规避并发症，医者推出术中保温措施[1-2]。常规保温措 施效果不甚理想，综合保温重视术中保暖维护，应用多种手段营 造适宜温度，减少热量蒸发和功能受累，提高手术效果，规避不 良反应[3-4]。本文旨在分析综合保温措施在新生儿开腹手术中的应 用效果，资料如下。
+1 资料与方法
+1.1 基本资料
+从2016年6月—2017年12月行开腹手术的新生儿中选取36 例作为研究对象，随机分为两组，每组18例。本次研究经医学伦 理委员会审核通过，所有患儿家属均签署知情同意书。研究组男 12例，女6例;平均出生至手术时间（14.2±0.3）d。对照组男10例， 女8例；平均出生至手术时间（14.1±0.4）d。两组患儿基本资料 差异无统计学意义（P >0.05）,有可比性。
+纳入标准：开腹手术；手术时间1 ~ 3 h；术前体温正常。排 除标准：排除免疫功能缺陷、凝血功能障碍患者。
+1.2 治疗方法
+两组新生儿均接受开腹手术，由同一医疗团队工作人员进行 操作，术后由护士监护。对照组新生儿选常规保温措施，用保温 毯保暖，减少裸露皮肤，调节手术室温度和湿度，术后穿戴衣物 并覆盖被褥。
+研究组新生儿则采用综合保温措施，即为术前加热手术床、 手术被褥；在新生儿病房与手术室运送途中应注意覆盖棉被，可 用暖宝宝或热水袋（由棉布包裹）取暖，注意挡风；进入手术间后， 医护人员触碰新生儿前可先搓热双手，将其放置于预热好的保温 毯上并覆盖预加温的医用棉被，可为新生儿佩戴帽子，在距离新 生儿足底20 ~ 30 cm处及身体周围分别放置由棉布包裹的温水袋， 消毒铺布后贴上手术贴膜，围成一个相对的恒温环境；麻醉时也

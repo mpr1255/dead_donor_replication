@@ -1,0 +1,68 @@
+---
+title: "Appendix 2: Excerpts from medical papers showing apparent dead donor rule violations"
+output:
+  word_document:
+    reference_docx: docx_template.docx
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+
+library(flextable)
+library(data.table)
+library(officer)
+library(tidyverse)
+library(here)
+library(glue)
+
+here <- rprojroot::find_root("dead_donor_replication.Rproj")
+
+tbl_a <- fread(glue("{here}/appendix_2/bdd_included.csv", sep = "\t", colClasses = 'character', quote=""))[,`:=` (year = as.character(year), id = as.character(str_pad(id, 4, "left", 0)))][order(year)]
+
+oldname <- c("id", "text", "en")
+newname <- c("docid", "Chinese text", "translation")
+setnames(tbl_a, oldname, newname)
+
+FitFlextableToPage <- function(ft, pgwidth = 6){
+
+  ft_out <- ft %>% autofit()
+
+  ft_out <- width(ft_out, width = dim(ft_out)$widths*pgwidth /(flextable_dim(ft_out)$widths))
+  return(ft_out)
+}  # With thanks to Sarah on Stack.
+
+all_papers1 <- fread(glue("{here}/appendix_2/bdd_included_translated_refs.csv"), colClasses = 'character')
+all_papers1 <- all_papers1 %>% arrange(factor(bibtexkey, levels = tbl_a$docid))
+all_papers3 <- data.table()
+all_papers3$docid <- all_papers1$bibtexkey
+all_papers3$reference <- glue("{all_papers1$author} [{all_papers1$eng_authors}]. {all_papers1$title} [{all_papers1$eng_titles}]. {all_papers1$journal}. {all_papers1$issue}")
+
+```
+Below are the references, Chinese-language text excerpts, and translated text from the medical papers that form the basis of our study. The "docid" column refers to the txt and pdf files that can be found in the respective folders in `/data`. The full references can be found in the file `/data/all_included_w_data.bib` and in Table B below. The full Chinese-language reference data is preserved to ensure researchers can locate the original independently.
+
+<br><br><br><br><br>  
+
+**Table A. References and excerpts to papers used in study**
+```{r, Table A, echo = FALSE, results="asis"}
+tbl_a <- flextable(tbl_a)
+tbl_a <- tbl_a %>% 
+  width(j=c(1,2), width = 0.7) %>% 
+  width(j=c(3,4), width = 2.5) # With thanks to nsbatra
+font(tbl_a, i = NULL, j = NULL, "Arial", part = "all")
+```
+<br><br><br><br><br>  
+<br><br><br><br><br>  
+<br><br><br><br><br>  
+
+
+**Table B. Full reference to original document with English translation**
+```{r, refs, echo = FALSE}
+tbl_b <- flextable(all_papers3)
+tbl_b <- tbl_b %>% 
+  width(j=1, width = 0.7) %>% 
+  width(j=2, width = 5.7) # With thanks to nsbatra
+font(tbl_b, i = NULL, j = NULL, "Arial", part = "all")
+
+
+```
+

@@ -1,0 +1,75 @@
+﻿.358 ・
+中华胸心血管外科杂志 2007 年 10 月第 23 卷第 5 期 Chin J Thorac Cardiovasc Surg, October 2007, Vol.23 No.5
+•综述。
+供肺灌洗方法的研究进展
+陈其瑞侯生才 李辉 胡滨
+肺移植可以有效治疗各种终末期肺部疾病,2000年至 2003年7月肺移植的3年生存率已达到63.3%")。但是肺保 存技术的不成熟限制了肺移植的临床发展。我国无脑死亡立 法，使用的供肺均为无心跳供体(non-heart-beating donor, NHBD),由于肺保护效果不理想等原因，临床肺移植的成功率 较低。通过改进供肺血管灌洗的方法，有效的保护供肺,将直 接影响肺移植的成败。现就供肺灌洗目的、灌洗液、灌洗方法 等方面的研究进展作一综述。
+灌洗目的
+L实现供肺的快速冷却。肺灌洗降温快速、有效，可以增 加供肺对缺血的耐受性。没有良好的肺灌洗使供肺整体冷却 降温，将延长热缺血时间，增加氧和营养物质的消耗，产生较 多有害介质,导致细胞凋亡和坏死，加重供肺的热缺血损伤， 缩短肺保存时限。
+2.清除肺循环内的血液成分，减轻缺血再灌注损伤。 NHBD肺存在明显的热缺血损伤,且供肺内形成微血栓，易导 致肺内分流和缺氧,甚至发生术后移植肺功能衰竭⑵。改进 供肺灌洗方法是减少各种微血栓损伤的有效途径。
+3 .提供代谢底物和保护性物质,运输有害代谢产物。
+灌洗液
+肺保护液可分为细胞内液型和细胞外液型两大类，前者 的代表液是 Euro-Collins 液(EC 液)和 University of Wisconsin 液 (UW 液)，后者的代表液是 LPD 液(Low-potassium dextran solu-tion,LPDs)和Celsios液。动物实验和临床研究均表明，细胞外 液型保护液在改善肺功能上优于细胞内液型肺保护液。
+LPD液是一种专用于肺保护的细胞外液型肺保护液，目 前已在世界范围内被广泛采用。动物实验和临床研究都表 明,LPD液对供肺的保存效果优于细胞内液型肺保护液中的 EC液和UW液，可以更好的维持肺泡上皮Na+ /K+ -ATP酶的 活性,减少脂质过氧化,减少对肺II型细胞的细胞毒性。Fischer 等⑶发现，在LPD液中加入棉子糖(30 mmoVL)可以防止红细 胞堆积，提高保存肺中微循环的流量，减轻肺组织损伤，改善 供肺的氧合能力。
+Celsior液是另一种细胞外液型肺保护液,早期用于心肌 保护,以乳糖酸作为渗透压成分,黏滞度较低。Wittwer等⑷研 究表明,Celsior液比低钾EC液具有更好的肺保护效果;在顺
+作者单位:100020首都医科大学附属北京朝阳医院胸外科
+行灌洗中Celsior液对供肺的保护效果优于LPD液，逆行灌洗 中与LPD液肺保护效果相当，都明显好于LPD液顺行灌洗的 效果。Sommer等⑸对LPD液和Celsior液的研究表明，两种保 存液都可以安全的冷保存供肺24 h,对肺表面活性物质活性的 影响差异无统计学意义，在保护内皮细胞功能方面Cekior液 稍好于LPD液。可见Celsior液可能将在供肺保护中发挥重要 作用。
+灌洗方法
+一、基本灌洗途径
+根据灌洗液的流向可分为顺行灌洗(antegrade Hush,AT)和 逆行灌洗(retrograde flush,RF),根据灌洗时间的不同又可以分 为摘取供肺时的早期灌洗、移植再灌注之前的晚期灌洗和持 续低流量灌洗。
+1	.AF：包括肺动脉灌洗(pulmonary artery flush,PAF)和支气 管动脉灌洗(bronchial artery Hush, BAF),指灌洗液从肺动脉或 支气管动脉灌入，灌流方向与生理条件下相同,在肺内循环后 从肺静脉流出。
+(l)PAF：用冷保护液作PAF可以使供肺迅速降温，临床使 用普遍。其优点是:操作简单，能快速有效冷却供肺,并灌洗 出肺循环内的白细胞、血小板、补体、纤维素等有害成分，防止 残留血液成分产生毒性物质，防止再灌注时肺组织微循环血 流不能完全恢复,即无复流现象(no>reflow phenomenon)的发生, 减轻缺血再灌注损伤。缺点是:易发生肺动脉收缩;灌洗液不 能到达支气管循环;血凝块、脂肪栓子等可影响灌洗液的均匀 分布,加重移植肺的缺血再灌注损伤，尤其是对严重创伤或多 发骨折者。
+(2)BAF：操作较为复杂，可以作为一种辅助灌洗方式，增 加供肺灌洗的效果,特别是对大气道的保护效果较好。少数 移植中心也将BAF作为常规用于供肺的保护⑹。
+2	.RF：1993年SarsanF等首先引入临床的一种肺灌洗方 法,指灌洗液从左心耳或者肺静脉灌入,逆生理流向进入肺循 环,从肺动脉流出，使供肺快速降温。RF具有低血管阻力和 高灌注容量的特点，而且可以同时灌洗肺循环和支气管循 环⑻，灌洗液分布快速、均匀，从而更好的保护气道结构。以 往的研究中用EC液、UW液或LPD液逆行灌洗供肺都取得了 比顺行灌洗更好的肺保护效果。RF与AF相比均可以明显减 轻肺水肿，保护肺泡表面活性物质，降低肺血管阻力,提高肺 的动态顺应性,减轻肺的湿干重比，改善供肺的氧合能力,减 轻肺损伤心⑵。但亦有研究表明,RF不能改善组织中白细胞
+中华胸心血管外科杂志 2007 年 10 月第 23 卷第 5 期 Chin J Thorac Caidiovasc Surg, October 2007, Vol.23 No.5
+浸润，因此在移植术后早期(< 5 h)RF组的肺泡膜气体交换能 力较AF组高,而术后18 h差异已不明显⑼。
+研究还表明,RF可以比AF更有效的清除肺循环中的微 血栓，比吸入一氧化氮能更好的抑制血栓形成，并且可以明显 改善术后肺功能，一般认为与RF使灌注液在低压高容的肺静 脉系统中更均匀的分布有关“3")。RF有效清除肺血管内的 各种血栓后，可以使灌洗液到达远端细血管，促进灌洗液的均 匀分布，使血凝块和其他栓子从肺动脉端流出,特别是NHBD 肺移植,RF比AF具有更大的优势⑺。临床上很大比例的多 器官供体，特别是有多发性损伤者，在尸检时会发现大量的由 脂肪组织、脑组织或者骨组织构成的栓子，在肺移植术后缺血 再灌注损伤中可能起了一定的作用，而用单纯的PAF很难清 除这些栓子。即使无血栓形成,RF也可以较均匀的灌洗供 肺，而仅采用PAF的供肺仍存在积血⑼。即使NHBD已经肝 素化，同样有微血栓形成，影响术后移植肺功能，有必要行RF, 可以明显提高供肺的保存效果(⑷。有学者指出，并非所有 NHBD必须肝素化,而对未行肝素化者,RF可能更好地显示其 清除血栓的作用。RF并不妨碍心脏移植，其临床应用已经显 示了明显的肺保护优势。
+二、灌洗方案
+1	.早期肺动脉灌洗,是最早使用的一种灌洗方法，要掌握 好灌洗压力、温度和速度,以减轻灌洗损伤。
+2	.早期逆行灌洗，实验证明其对供肺的保护效果优于早 期肺动脉灌洗。
+3	.二次肺动脉灌洗，在早期肺动脉灌洗之后、供肺吻合前 进行第二次肺动脉灌洗可以冲洗肺血管内被激活的炎性细 胞、补体成分、氧自由基等细胞毒性产物，有助于减轻缺血再 灌注损伤⑸。
+4	.肺动脉灌洗加逆行灌洗(PAF+RF),可以是早期PAF + RF®,也可以早期paf+晚期 /⑹。目前前者在国际上临床 肺移植中应用较普遍，关于以上两种灌洗方案的肺保护效果 尚未见相应的对比研究。Luh等⑼在热缺血90 min的NHBD 实验中采用改良EC液早期AF+ RF,发现肺动脉压和肺血管 阻力下降、肺顺应性升高、肺水肿和组织损伤减轻，特别是微 血管的血栓形成减少。Hayama等⑻选用LPD液在NHBD犬的 肺保护研究中发现，早期AF(50ml/kg) +RF(25ml/kg)与早期 单纯AF(50 ml/kg)相比，可以明显提高移植肺的氧合功能，降 低湿干重比,RF可以进一步灌洗出残留在肺内的微血栓。 Venuta等(⑹在临床肺移植中，采用改良的EC液和前列腺素 匕行前瞻性研究，对比了早期PAF和早期PAF+晚期RF的早 期肺保护效果，发现晚期RF时有血和血凝块,甚至脂肪栓子 从肺动脉流出;早期PAF+晚期RF与早期PAF相比可以明显 改善肺内分流，改善肺泡一动脉氧分压梯度,降低平均气道 压，改善X线胸片表现;氧合指数、肺水肿程度、插管时间、住 监护病房时间等指标也有改善,但是尚无统计学差异;血流动 力学指标两组间差异无统计学意义。
+5	.早期肺动脉灌洗加支气管动脉灌洗(PAF+BAF)。肺脏
+■ 359 •
+具有肺循环和支气管循环双重血液供应，支气管循环供应动 脉血到气道、胸膜、淋巴结、神经和肺血管。常规的PAF灌洗 达不到主气道,Bitu-Moreno等⑺证实,肺动脉和支气管动脉同 时灌洗效果优于两者分别灌洗,并推测支气管动脉的吻合再 植入可以降低气道并发症，然而再植入操作难度大，临床上极 少采用。Roe等的研究不同灌洗方法对支气管黏膜温度和局 部淋巴结炎症细胞因子表达时发现,PAF + BAF与传统的PAF 或者PAF + RF相比可以更好地降低支气管黏膜温度,且可减 少干扰素 y表达。但BAF操作较复杂,限制了其临床应用。
+6	.持续低流量肺动脉灌洗，可以及时冲出氧自由基、氢离 子等有害产物，由于灌洗液的渗透压作用，可以减轻肺水肿。 但实现条件困难，临床较少应用。随着保存液的改进,这种方 法可能将会在供肺的常温保存中发挥重要作用。
+此外，根据临床肺移植的过程还可以行早期的PAF和RF 及晚期的RF,这种3次灌洗方案理论上应该取得更好的肺保 护效果，但尚需要进一步实验证实。
+三、灌洗压力和容量
+目前，临床上一般采用50 - 60 ml/kg的灌洗容量,灌洗时 维持肺动脉压10-20 mmHg,以不超过肺动脉平均压为原则。 此外，良好的膨肺，并给予一个适当的呼气末正压是保证供肺 灌洗均匀的必要条件,肺膨胀不全往往导致灌洗效果不理想。 ， 一般认为，采用早期PAF联合晚期RF比较适合我国肺移 植的现状，可以取得较好的肺保护效果㈣。总之，供肺的灌洗 是肺保护的重要步骤，无论采用顺行灌洗、逆行灌洗,还是组 合式灌洗方法，都要根据临床肺移植中供肺的特点实施。
+参考文献
+1	Estenne M, Kotloff RM. Update in Transplantation 2005. Am J Respir Crit Care Med, 2006, 173:593 - 598.
+2	Oto T, Rabinov M, Griffiths AP, et al. Unexpected donor pulmonary embolism affects early outcomes after lung transplantation： a major mechanism of primary graft failure? J THorac Cardiovasc Surg,2005,130:1446.
+3	Fischer S,Hopkinson D, Liu M, et al. Raffinose inproves 24 - hour lung preservation in low potassium dextran glucose solution： a histologic and ul-trastiuctural analysis. Ann Thorac Surg, 2001, 71:1140 - 1145.
+4	Wittwer T, Fdirenbach A, Meyer D, et al. Retrograde flush perfusion with low-potassium solutions for improvement of experimental pulmonaiy preservation. J Heart Lung Transplant, 2000, 19:976 - 983.
+5	Sommer SP, Wamecke G, HohUeld GM, et al. Pulmonary preservation with LPD and celsicr solution in porcine lung transplantation after 24h of cold ischemia. Eur J Cardiothorac Surg, 2004, 26:151 - 157.
+6	Gohrbandt B, Wamecke G, Fischer S, et al. A novel technique for semiselective in situ bronchial artery perfusioi in human lung retrieval. J Thorac Cardiovasc Surg, 2005, 129:456 - 457.
+7	Sarsam MA, Yonan NA, Deiraniya AK, et al. Retrograde puhnonaryplegia for lung preservati(Hi in clinical transplantation： a new technique. J Heart Lung Transplant, 1993, 12:494 - 498.
+8	Hayama M, Date H, Oto T, et al. In^roved lung function by means of retrograde flush in canine lung transplantation with ncai-heart-beating donors. J
+中华胸心血管外科杂志 2007 年 10 月第 23 卷第 5 期 Chin J Thorac Cardiovasc Sur*October 2007, Vol.23 No.5
+• 360 ・
+Thorac Cardiovasc Surg, 2003, 125:901 - 906.
+9	Luh SP, Rai CC, Shau WY, et al. The effects of inhaled nitric oxide, ^bexaie mesilate, and retrograde flush in the lung graft from non-heart beating minipig donors. Iransplantation, 2000 , 69:2019 - 2027.
+10	Struber M, Hohlfeld JM, Kofidis T, et al. Surfactant function in lung transplantation after 24 hours of ischemia: Advantage of retrograde flush perfusion for preservalion. J Ihorac Cardiovasc Surg, 2002, 123:98 — 103.
+11	Wittwer T, Franke UF, Fehrenbach A, et al. Innovative pulmonary preservation of non-heart-healing donor grafts in experimental lung transplantation. Eur J Cardiothorac Surg, 2004, 26; 144 - 150.
+12	Wittwer T, Franke U, Fehrenbach A, et al. In^pacl of retrograde graft preservation in Perfadex-based experimental lung transplantation. J Surg Res, 20CK, 117:239 - 248.
+13	Chen CZ, Gallagher RC, Ardery P, el al. Retrograde versus antegrade flush in canine left lung preservation for six hours. J Heart Lung Transplant, 1996, 15:395 - 403.
+14	Kiser AC, Ciriaco P, Hofi&nann SC, et al. Lung retrieval from non-heart
+beating cadavers with use of a rat lung transplant model. J Hiorac Cardiovasc Surg, 2001, 122:18-23.
+15王平善,吴清玉，关彬，等.移植前低钾右旋糖甘液二次灌洗减轻供 肺再灌注损伤.中国医师杂志,2006,8 ： 27 - 29.
+16	Venuta F, Rendina EA, Bufi M, el al. Preiniplantation retrograde pneumo-pl毋ia in clinical lung transplanlation. J lliorac Cardiovasc Surg, 1999, 118:107-114.
+17	Bitu-Moreno J, FrancischelU 1, Siemer R, el al. Influence of different routes of flush perfusion on the distribution of lung preservalion solulitms in parenchyma and airways. Eur J Cardiolhorac Surg, 1999,15:4S1 — 489.
+18	Roe DW, Fehrenbacher JW, Niemeier MR, et al. Lung preservation: pulmonary Bush route affects bronchial nucosal temperature and egression of IFN-gsmma and Gro in regional lymph nodes. Am J Transplant, 2005 , 5: 995 - 1001.
+19胡滨,侯生才，李辉，等.肺移植术中LPD液顺行逆行灌注的肺保护 作用.中华胸心血管外科杂志,2006,22:211.
+(收稿日期：20(611-17)
+•病例报告•
+感染性胃底支气管痿1例
+王安
+病人 女,40岁。反复发热、咳嗽、咯血4年，加重2个 月。2001年1月发现甲亢同时患脊椎结核（此-L），左膈膨 升（局限性）。予丙基硫氧喀咤和抗痛治疗。3个月后出现发 热、咳嗽。X线胸片显示：左下肺炎症阴影，按肺炎治疗后痊 愈。此后症状反复、间断发作，均按肺炎给予抗生素治愈。 2003年10月，病人症状加重，同时伴血丝样痰,逐渐发展为大 咯血200 ~ 400 ml，平卧时咳嗽、胸闷加重，严重时咳出食物残 渣。
+查体:贫血貌，慢性病容，消瘦，口唇轻度发绢。心脏检查 无异常发现。双肺均可闻及干湿性罗音，左下肺呈管状呼吸 音，叩浊音。按压左下腹部咳嗽加重。实验室检查白细胞 18.2x Kf/L,中性粒细胞0.80,淋巴细胞0.20,血红蛋白65 g/L,红细胞2.28 x Kf/L,红细胞压积0.19。X线胸片示左下 肺大片密度增高阴影，边缘不清,左侧膈肌显示不清。胸部CT 示左侧膈肌显示不清，左肺下叶实变（图1）。胃镜检查见胃底 部有一 5 cm x 4 cm巨大溃疡。病理检查:慢性胃溃疡。消化 道领餐造影见银剂通过食管顺利，经头低体高位观察，部分锁 剂穿过胃底进入左肺，左支气管树状显影（图2）。诊断：（1）感 染性胃底一支气管痿;⑵脊椎结核;（3）左膈膨升。
+20傲年H月在全麻下行左侧开胸探查术。术中发现左 肺下叶完全实变，重度充血,左肺下叶膈面与膈肌、胃底严重
+作者单位：571400海南，琼海市人民医院外一科
+图1本例CT检查所见 图2术前消化道领餐造影见钢剂通过 食管顺利，进入胃腔后经头低体高位观察,部分锁剂通过胃底进 人左肺下叶,左肺下叶树枝状显影
+粘连，并有大量增生血管，胸2腰1椎体局部破坏并已钙化 固定。胃底部有一 5 cmx 4 cm溃疡，其中央有一约1 cm穿孔 与左肺下叶后基底段支气管相通。手术行左肺下叶切除，部 分膈肌和部分胃底切除。
+手术顺利，术后恢复良好。术后随访2年可以从事一般 生产劳动。
+讨论我们认为，本例感染性胃底支气管痿临床较为罕 见，是由脊柱结核引起的周围炎症病变,使胃底、膈肌、左肺下 叶发生粘连，继而发生炎症性溃疡穿孔所致。
+（收稿日期：200&I2Q）

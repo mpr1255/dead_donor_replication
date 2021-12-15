@@ -1,0 +1,114 @@
+﻿• 108 •	临床超声医学杂志 2020 年 2 月第 22 卷第 2 期 J Clin Wtrasound in Med,February 2020, Vol.22,No.2
+•临床研究•
+二维斑点追踪成像评价心脏移植术后左室收缩 同步性的价值探讨
+易仁凤 周燕翔 宋宏宁 姜 楠 蔡 迪 郭瑞强
+摘 要 目的 应用二维斑点追踪成像评价临床状态稳定的心脏移植患者术后左室收缩同步性。方法 选取 20例心脏移植后无并发症且临床状态稳定的患者(心脏移植组)，于移植术后3d、1个月、3个月、6个月和1年行超声心 动图检查；另选20例正常成人(对照组)。应用二维斑点追踪成像技术获取左室各节段纵向应变、径向应变及圆周应 变达峰时间(Tls、Trs、Tcs)，计算左室整体收缩期纵向应变、径向应变、环向应变达峰时间标准差(Tk-SD、Trs-SD、 Tcs-SD)及达峰时间最大差值(Tls-dif、Trs-dif、Tcs-dif)，并计算纵向应变延迟指数(LSDI)，同时应用改良Simpson双 平面法测量左室射血分数(LVEF)。比较心脏移植组各时间段与对照组间、心脏移植组各时点间上述参数的差异。 结果心脏移植组术后3 d各应变参数均较对照组显著增高，差异均有统计学意义(均P<0.05)；术后1个月Tls-SD与 对照组比较差异有统计学意义(P <0.05)。心脏移植组术后LSDI、Tls-SD、Tls-dif呈逐渐降低趋势，且术后3d与术后 3个月、6个月、1年比较，差异均有统计学意义(均P<0.05)；术后1个月Tls-SD与术后1年比较差异有统计学意义 (P <0.05)。术后各时间段 LSDI、Tk-SD 和 Tls-dif 与 LVEF 均呈负相关(r=-0.523、-0.434、-0.401，均 P <0.01)，其中 LSDI 相关系数最高。结论临床状态稳定的心脏移植术后患者左室收缩功能存在不同步性，以术后3d最为显著，在术后 3个月左室收缩同步性得以恢复,并趋向正常。二维斑点追踪成像测得的LSDI、Tls-SD、Tls-dif可以客观评价心脏移植 术后左室收缩同步性的变化，且以上参数与LVEF显著相关。
+关键词 斑点追踪成像，二维；心脏移植；同步性，心室，左
+［中图法分类号］R540.45;R617	［文献标识码］A
+Two-dimensional speckle tracking echocardiography in evaluating left ventricular systolic synchronization after heart transplantation
+YI Renfeng，ZHOU Yanxiang，SONG Hongning，JIANG Nan，CAI Di，GUO Ruiqiang
+Department of Ultrasonography，Renmin Hospital of Wuhan University，Wuhan 430060，China
+ABSTRACT Objective To evaluate left ventricular systolic synchronization in the patients with stable clinical state after heart transplantationin by two-dimensional speckle tracking technique(2D-STE). Methods A total of 20 patients with stable clinical status after heart transplantation were selected(heart transplantation group). Echocardiography was performed at 3 d，1 month，3 months，6 months and 1 year after heart transplantation，and 20 normal subjects were collected as control group. The longitudinal strain，radial strain and circumferential strain at peak time(Tls，Trs，Tcs)of each segment of left ventricle were obtained by 2D-STE. The standard deviations(Tls-SD，Trs-SD，Tcs-SD)and the maximum difference of peak time(Tls-dif， Trs-dif，Tcs-dif)of longitudinal strain、radial strain and circumferential strain at peak time of left ventricle were calculated.The longitudinal strain delay index(LSDI)was calculated，and the left ventricular ejection fraction(LVEF)was measured by modified Simpson biplane method. Results The strain parameters of heart transplantation group were significantly higher than those of control group at 3 d after heart transplantation(all P<0.05). There was significant difference in Tls-SD between 1 month heart after transplantation and control group(P<0.05). In the heart transplantation group，the LSDI，Tls-SD，Tls-dif decreased gradually after operation，and there were significant differences between the 3 d and 3 months，6 months，1 year after
+基金项目：武汉大学自主科研资助项目(2042019kf0089) 作者单位：430060 武汉市，武汉大学人民医院超声影像科
+通讯作者：郭瑞强，Email ： ruiqiangwhrm@hotmail.com
+临床超声医学杂志 2020 年 2 月第 22 卷第 2 期 J Clin Utrasound in Med,February 2020, Vol.22,No.2	• 109 •
+transplantation(all P<0.05). There was significant difference in Tls-SD between 1 month and 1 year after sransplantation (P<0.05).In the transplantation group,there were significant negative correlations between LSDI,Tls-SD Tls-dif and LVEF (r=- 0.523,- 0.434,- 0.401,all P<0.01),and the correlation coefficient of LSDI was the highest. Conclusion The left ventricular systolic function of patients with stable clinical state after heart transplantation is not synchronous,the most significant is the 3 d after transplantion. After 3 months of transplantation,the synchronization of left ventricular systolic function tends to be normal.In the 2D-STI synchronization parameters,LSDI、Tls-SD,Tls-dif can objectively evaluate the changes of left ventricular systolic synchronization after the heart transplanted,and the above parameters have significant correlation with LVEF.
+KEY WORDS Speckle tracking imaging,two-dimensional；Heart transplantation；Synchronization,ventricle,left
+心脏移植是晚期和/或不可逆性心力衰竭心脏病 患者的最佳选择。目前心脏移植术后早期的生存率 随术式的改进和免疫药物的发展等得到大幅提高［1］。 超声心动图是评价原位心脏移植术(orthotopic heart transplantation，OHT)术后患者心功能的一线无创成像 工具“，其中二维斑点追踪成像(two-dimensional speckle tracking imaging, 2D - STI)技术由于其不受声束角度 干扰,通过定量分析心肌形变,获得多组运动信息参 数,成为随访过程中早期发现潜在心肌功能异常的 有效手段〔3〕。本研究拟应用2D-STI技术测量临床状 态稳定的心脏移植患者移植心脏左室收缩同步性的 变化,以评估心脏移植术后患者恢复情况,并分析其 与左室射血分数(LVEF)的相关性。
+资料与方法
+一、研究对象
+选取2018年5月至2019年7月在我院行心脏移 植的患者20例(心脏移植组),男13例,女7例,年龄 17~73岁，平均(49.4±11.1)岁。纳入标准:①随访1年 内临床表现无异常或临床提示无排异;②手术方式均 为OHT;③术后常规免疫抑制方案为他克莫司+骁悉+ 醋酸泼尼松龙;④心脏移植术后3 d、1个月、3个月、6个 月及1年的超声心动图检查资料完整且图像质量佳。 其中扩张型心肌病12例、缺血型心肌病5例、瓣膜病 2例及艾森曼格综合征1例。
+另选同期健康志愿者20例为对照组,其中男12例, 女8例,年龄28~75岁,平均(48.4±10.2)岁,常规体检、 心电图及超声心动图检查均未发现异常,排除系统性 疾病及心脏疾病。本研究经我院医学伦理委员会批 准,入选者均知情同意。
+二、仪器与方法
+使用GE Vivid E 9彩色多普勒超声诊断仪，M5S 探头，频率为1.7~3.3 MHz；配备EchoPAC科研工作站 及分析软件。受检者取左侧卧位,于平静呼吸状态
+下进行图像采集,连接同步心电图,调节仪器帧频 50~70帧/s,分别记录5个心动周期的心尖四腔、二腔 及三腔心长轴观及左室二尖瓣、乳头肌、心尖水平短 轴观的二维图像,存盘供脱机分析。
+1	.常规超声心动图参数测量:于左室长轴切面测 量室间隔厚度(IVSd)、左室后壁厚度(LVPWd)；改良 Simpson双平面法测量左室舒张末容积(LVEDV)、收 缩末容积(LVESV)和LVEF；脉冲多普勒获取二尖瓣 口舒张早期和晚期峰值血流速度(E、A),并计算E/A; 组织多普勒频谱测量二尖瓣环舒张早期运动速度(e), 计算E/e。
+2	.左室同步性参数测量：采用EchoPAC工作站、 Q-analysis软件进行图像分析。分别于3个心尖切面 和3个短轴切面手动标定心内膜边界,软件应用斑点 追踪技术追踪组织中各点在整个心动周期的运动轨 迹,生成感兴趣区,对显示不佳的节段进行手动微调, 直至获得满意的追踪。系统自动将左室长轴每个面 分为6个节段,左室短轴每个水平分为6个节段,共18个 节段,获取左室长轴纵向、左室短轴径向及圆周应变 曲线,同时系统自动获取各节段应变达峰时间：左室 各节段纵向应变达峰时间(Tls)、径向应变达峰时间 (Trs)及圆周应变达峰时间(Tcs),上述参数均在不同心 动周期测3次取平均值。计算左室收缩期纵向、径向、 环向应变达峰时间标准差(Tls-SD、Trs-SD、Tcs-SD) 及节段达峰时间最大差值(Tls-dif、Trs-dif、Tcs-dif), 并计算18个心肌节段纵向应变峰值与收缩末应变的 差值之和作为纵向应变延迟指数(LSDI)。
+三、统计学处理
+应用SPSS 21.0统计软件，计量资料以刀±s表示， 所有资料均经正态性检验及方差齐性检验。符合正 态分布且方差齐的计量资料多组间比较采用单因素 方差分析,差异有统计学意义者进一步两两比较行 Bonferroni法;不满足正态分布且方差不齐的计量资料 多组间比较采用Kuskal-Wallis H检验。Pearson线性
+• 110 •
+临床超声医学杂志 2020 年 2 月第 22 卷第 2 期 J Clin Utrasound in Med,February 2020, Vol.22,No.2
+相关分析法分析左室收缩同步性参数与LVEF的相关 性。P<0.05为差异有统计学意义。
+结果
+一、常规超声心动图参数比较
+心脏移植组各时间段与对照组比较,心率、 LVESV、LVEF差异均有统计学意义(均P<0.01)；组间 两两比较,心脏移植组术后各时间段心率均较对照组 增高，差异均有统计学意义(均P <0.05)。心脏移植组 术后3 d LVESV与对照组比较差异有统计学意义(P< 0.05)，术后3 d、1个月LVEF与对照组比较差异均有统 计学意义(均P <0.05)。心脏移植组LVESV随时间呈 下降趋势，LVEF随时间呈增加趋势，其中术后3 d LVESV与术后6个月、1年比较差异均有统计学意义 (均P<0.05)，术后3 d、1个月LVEF与术后3个月、6个月、 1年比较差异均有统计学意义(均P<0.05)。见表1。
+二、左室同步性参数比较
+心脏移植组各左室收缩同步性参数与对照组比
+较，差异均有统计学意义(均P<0.05)。组间两两比 较，术后3 d LSDI、Tls-SD、Tls-dif、Trs-SD、Trs-dif、 Tcs-SD、Tcs-dif均较对照组显著增高，差异均有统计 学意义(均P<0.05)；术后1个月Tls-SD与对照组比较 差异有统计学意义(P <0.05)；而术后3个月、6个月及1年 的LSDI和左室收缩期纵向、径向、环向应变参数与对 照组比较，差异均无统计学意义。见表2。
+心脏移植组术后各时间段比较，LSDI、Tls-SD、 Tls-dif呈逐渐降低趋势,且术后3d与3个月、6个月及 1年比较差异均有统计学意义(均P <0.05)；术后1个月 Tls-SD与术后1年比较差异有统计学意义(P<0.05)； 而术后3个月、6个月及1年的LSDI和左室收缩期纵 向、径向、环向应变参数比较差异均无统计学意义。 见表2和图1。
+三、相关性分析
+心脏移植组左室收缩同步性参数中LSDI、Tls-SD 和 Tls-dif与 LVEF呈负相关(r=-0.523、-0.434、-0.401, 均P<0.001)，其中LSDI相关系数最高;余指标与LVEF
+表1心脏移植组与对照组常规超声心动图参数比较(I 士S)
+组别	心率(次/min)	IVSd(cm)	LVPWd(cm)	LVEDV(ml)	LVESV(ml)	LVEF(%)	E/A	E/e
+对照组(20) 心脏移植组	67.62±6.79	0.92±0.07	0.92±0.07	73.93±14.54	26.00±6.95	65.25±2.52	1.07±0.29	8.17±1.40
+术后3 d(20)	93.18±12.67*	1.01±0.09	1.01±0.09	84.24±14.32	34.53±8.39*	59.71±3.90*	1.46±0.47*	9.78±2.62
+术后1个月(18)	88.07±7.22*	0.97±0.06	0.96±0.05	80.31±10.98	31.50±5.93	61.00±2.99*	1.30±0.32	9.43±2.39
+术后3个月(18)	91.86±12.62*	0.98±0.05	0.97±0.05	69.54±8.90	26.30±4.11	64.54±2.44#a	1.25±0.35	9.46±1.42
+术后6个月(16)	97.83±8.05*	0.95±0.07	0.95±0.07	69.67±8.45	25.25±4.16#	64.54±1.89#^	1.14±0.31	8.79±1.48
+术后1年(20)	92.57±13.26*	0.93±0.07	0.93±0.07	70.74±10.90	25.68±4.78#	64.47±2.95#a	1.07±0.29	8.24±1.69
+F值	15.589	12.707	11.356	17.594	23.314	10.192	3.110	2.056
+P值	<0.001	0.026	0.045	0.004	<0.001	<0.001	0.013	0.079
+与对照组比较，*P<0.05 ；与术后3 d比较,#P<0.05 ；与术后1个月比较/P<0.05。IVSd:室间隔厚度;LVPWd :左室后壁厚度;LVEDV：左室舒张末 容积;LVESV ：左室收缩末容积;LVEF ：左室射血分数;E/A ：二尖瓣口舒张早期与晚期峰值血流速度比值;E/e ：二尖瓣口舒张早期峰值血流速度与二 尖瓣环舒张早期运动速度比值
+表2心脏移植组与对照组左室同步性参数比较(I士s)
+组别	LSDI	Tls-SD	Tls-dif	Trs-SD	Trs-dif	Tcs-SD	Tcs-dif
+对照组(20)	1.85±0.68	12.16±5.08	38.00±20.17	47.10±12.75	120.93±35.18	35.11±14.23	107.50±37.34
+心脏移植组							
+术后3 d(20)	12.30±7.18*	41.16±16.12*	137.61±54.72*	80.58±31.2*	197.71±65.48*	54.10±20.75*	171.11±66.22*
+术后1个月(18)	4.40±3.18	25.08±9.14*	90.08±54.96	74.50±35.59	193.62±79.76	52.41±20.38	156.54±89.78
+术后3个月(18)	3.08±1.73#	16.89±5.23#	59.93±34.66#	73.06±36.45	199.60±95.01	52.50±16.47	158.20±63.09
+术后6个月(16)	2.74±1.95#	16.41±8.49#	54.92±33.52#	63.06±35.82	170.62±86.53	41.99±19.65	137.92±67.68
+术后1年(20)	2.20±2.29#	13.35±4.66#a	39.42±17.30#	70.18±28.78	190.57±77.91	45.37±15.67	155.36±51.63
+F值	44.329	47.277	42.143	11.407	14.028	14.240	14.392
+P值	<0.001	<0.001	<0.001	0.044	0.015	0.014	0.013
+与对照组比较，* P<0.05；与术后3 d比较,#P<0.05；与术后1个月比较/P <0.05。LSDI ：纵向应变延迟指数；Tls-SD ；左室纵向应变达峰时间 标准差；Tls-dif：左室纵向应变达峰时间最大差值;Trs-SD :左室径向应变达峰时间标准差;Trs-dif：左室径向应变达峰时间最大差值;Tcs-SD :左室 环向应变达峰时间标准差;Tcs-dif：左室环向应变达峰时间最大差值
+临床超声医学杂志 2020 年 2 月第 22 卷第 2 期 J Clin Utrasound in Med,February 2020, Vol.22,No.2
+• 111 •
+无相关性。见表3。
+四、收缩期纵向应变曲线及峰值应变达峰时间牛 眼图
+心脏移植组术后3 d的收缩期纵向应变曲线及走 形一致性较差,甚至部分波形反向,达峰时间较离散,
+牛眼图呈不均一颜色分布。随着时间推移,术后1个月 和1年的应变曲线走形一致性均较前明显改善,达峰 时间较集中,牛眼图部分节段颜色分布不均匀性逐渐 改善。对照组纵向应变曲线走形一致性高,达峰时间 集中,牛眼图呈较为均匀的绿色分布。见图2。
+表3心脏移植患者延迟指数及左室应变参数与LVEF的相关性									
+指标	LSDI r值	P值	Tls-SD r值	P值	Tls-dif r值	P值	Trs-SD r值	P值	Trs-dif r值	P值	Tcs-SD		Tcs-dif	
+						r值	P值	r值	P值
+LVEF	-0.523	<0.001	-0.434	<0.001	-0.401	<0.001	-0.230	0.839	0.139	0.227	-0.121	0.293	-0.073	0.124
+LSDI：纵向应变延迟指数;Tls-SD；左室纵向应变达峰时间标准差;Tls-dif：左室纵向应变达峰时间最大差值;Trs-SD：左室径向应变达峰时间标准 差；Trs-dif ：左室径向应变达峰时间最大差值;Tcs-SD :左室环向应变达峰时间标准差；Tcs-dif ：左室环向应变达峰时间最大差值;LVEF ：左室射血分数
+时间	®	时间	®	时间	©	时间	©
+图1心脏移植组术后LSDI、Tls-SD、Tls-dif及LVEF（A~D）随时间改变的折线图
+A~C分别为心脏移植组术后3 d、1个月、1年;D ：对照组
+图2 心脏收缩期纵向应变曲线及峰值应变达峰时间牛眼图
+讨论
+随着OHT的不断开展，需对移植后供体心脏在术 后即刻和长期随访间采用特定的方法进行监测。目 前对于正常的移植心脏力学机制尚不清楚,现有数据 尚不足以确定在随访第一年内左室收缩应变参数的 实际系列变化。本研究应用2D-STI技术获取临床状 态稳定的心脏移植术后患者左室收缩同步性的参数, 旨在探讨其左室收缩同步性的变化。
+左室收缩整体纵向、径向、环向应变达峰时间标 准差和最大差值越大,表明应变达峰时间离散度越 大,左室收缩不同步性越显著。本研究结果显示,与 对照组比较,心脏移植组左室收缩同步性仍较低,以 术后3d的左室同步性参数与对照组差异最为显著， 且术后1个月Tls-SD与对照组比较差异仍有统计学意 义（P<0.05）；术后3个月左室收缩各同步性参数与对 照组比较差异均无统计学意义。Antonczyk等14〕研究 也表明在心脏移植术后患者中早期心室的纵向应变 参数较正常对照组显著降低,随时间推移在术后1年
+内逐渐恢复,至随访结束前已达到健康人群的正常范 围,提示在心脏移植术后早期,由于移植心脏心肌功 能的损伤,使左室各节段运动呈不同程度延迟激活, 导致左室心肌收缩不同步。其原因可能在病理生理 方面,包括手术程序、冷缺血时间、热缺血时间、缺血 后再灌注损伤等,在供体和受体方面包括年龄和性别 的匹配、供体方死亡原因、左室肥厚、受体方基础疾 病,以及术后多种致炎因子的影响［5〕。
+本研究结果显示，术后3d与3个月、6个月及1年 各左室同步性参数比较差异均有统计学意义,且术 后1个月Tls-SD与术后1年比较差异有统计学意义 （均P<0.05）。结果表明心脏移植后的左室重构是一个 涉及纵向心肌层的扩展过程,心脏移植组不同时间纵 向应变同步性参数比较,在移植后呈逐渐降低的趋 势,其原因可能是心内膜下心肌主要由纵行心肌构 成［6〕,而移植后心内膜下心肌对病变易感性更强,心内 膜下心肌最先受累,随着移植后心肌的逐渐适应和重 构,其表现出一个逐渐恢复的过程。本研究中心脏移 植组组间比较发现术后各时间段的环向、径向同步性
+• 112 •
+临床超声医学杂志 2020 年 2 月第 22 卷第 2 期 J Clin Wtrasound in Med,February 2020, Vol.22,No.2
+参数比较差异均无统计学意义，提示纵向应变同步性 参数较环向应变和径向应变参数能更敏感地检测心 脏移植术后早期左室同步性变化情况。目前多项研 究［4,7-8］均指出超声心动图整体纵向应变对左室功能的 评价是预测临床预后不良的敏感指标,斑点追踪应变 参数是评价心脏移植受者预后唯一的非侵入性独立 因子。本研究结果亦表明心脏移植术后早期左室纵 向应变参数显示左室收缩不同步,随着时间推移,至 移植术后3个月左室纵向应变同步性参数趋于稳定, 左室收缩功能得以恢复。Eleid等⑸研究也表明若心 脏移植术后3个月左室纵向应变未改善,则移植后心 脏事件和死亡的发生率将会较高。
+本研究相关性分析表明,左室纵向应变参数 Tls-SD、Tls-dif、LSDI 与 LVEF 均呈负相关(均 P <0.05)， 其中LSDI相关系数最高。其可能原因是心脏移植术 后早期心肌收缩力减弱收缩延迟,导致术后早期左室 各节段应变曲线及走形一致性较差,甚至部分波形反 向,达峰时间较离散,运动不同步现象较明显,而随着 移植术后心肌的逐渐适应和重构,其表现出一个逐渐 恢复的过程。而本研究心脏移植组环向、径向同步性 参数与LVEF的相关性分析均未表现出明显的相关 性,说明纵向同步性参数可作为心脏移植术后早期评 价心肌功能的有效参数。
+本研究的局限性:①本研究仅对心脏移植患者术 后1年内的左室收缩同步性进行了统计分析,随访时 间较短,移植后长期的随访和全面心功能的评价尚待 进一步研究；②心脏移植组样本量偏少，有待进一步 扩大样本；③由于临床限制未能对心脏移植组患者进 行心内膜活检而排除排异反应患者；④本研究基于 2D-STI，故难以反映心脏三维的运动状态，今后有望 应用3D-STI对左室同步性进行更精确的评价。
+综上所述,心脏移植术后早期患者左室收缩功能 存在不同步性,而随着时间的推移呈逐渐恢复的过程。 2D-STI技术同步性参数可以客观评价移植心脏左室收
+缩同步性恢复情况,稳定的心脏移植患者在术后3个月时 左室收缩同步性得以恢复，其中纵向应变参数Tls-SD、 Tls-dif及LSDI具有较高的敏感性，且与LVEF相关，可 以用于评价心脏移植术后患者左室收缩同步性。
+参考文献
+[	1] 闫志国,徐忠能,李立,等.同种异体原位心脏移植24例临床分析 [J].中华移植杂志(电子版),2018,12(4)： 174-176.
+[2]	Dandel M,Hetzer R. The use of echocardiography post heart
+transplantation[J] . Expert Rev Cardiovasc Ther,2016,14(10)： 1161-1175.
+[3]	Saleh HK,Villarraga HR,Kane GC,et al. Normal left ventricular
+mechanical function and synchrony values by speckle-tracking echocardiography in the transplanted heart with normal ejection fraction[J] .J Heart Lung Transplant,2011,30(6)：652-658.
+[4]	Antonczyk K,Niklewski T,Antonczyk R,et al. Evaluation of the graft
+mechanical function using speckle-tracking echocardiography during the first year after orthotropic heart transplantation[J] . Ann Transplant,2018,23(8)：554-560.
+[5]	Singh S,Dalzell JR,Berry C,et al. Primary graft dysfunction after
+heart transplantation：a thorn amongst the roses [J] . Heart Fail Rev, 2019,24(5)：805-820.
+[6]	Szilard M,Mesotten L,Maes A,et al.A nonsurgical porcine model of
+left ventricular dysfunction. Validation of myocardial viability using dobutamine stress echocardiography and positron emission tomography[J] .Int J Cardiovasc Intervent,2000,3(2)：111-120.
+[7]	Sarvari SI,Gjesdal O,Gude E,et al. Early postoperative left
+ventricular function by echocardiographic strain is a predictor of 1 -year mortality in heart transplant recipients[J] . J Am Soc Echocardiogr,2012,25(9)：1007-1014.
+[	8] Clemmensen TS,Logstrup BB,Eiskjaer H,et al. Serial changes in longitudinal graft function and implications of acute cellular graft rejections during the first year after heart transplantation[J] . Eur Heart J Cardiovasc Imaging,2016,17(2)：184-193.
+[9]	Eleid MF,Caracciolo G,Cho EJ,et al. Natural history of left
+ventricular mechanics in transplanted hearts：relationships with clinical variables and genetic expression profiles of allograft rejection [J].JACC Cardiovasc Imaging,2010,3(10)：989-1000.
+(收稿日期：2019-08-12)
+关于延期举办“第五届全国超声分子影像学术会议”的通知
+分子影像超声专业委员会、各有关单位、各位专家及会员代表：
+鉴于目前国内新型冠状病毒肺炎疫情流行趋势,为了深入贯彻落实习近平总书记关于冠状病毒疫情防控的重要指示,根据科 技部“关于切实做好疫情防控工作的通知”精神要求,总会决定,原定于2020年3月27~29日在重庆召开的“第五届全国超声分子影 像学术会议”将延期举行,具体会议时间、地点将另行通知。由此给大家带来的不便敬请谅解。
+特此通知。
+中国超声医学工程学会
+2020年1月28日

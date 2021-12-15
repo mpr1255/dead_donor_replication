@@ -1,0 +1,134 @@
+﻿第11卷 第1期
+2020年1月
+Vol. 11 No. 1
+Jan. 2020
+器官移植 Organ Transplantation
+•综述•
+心脏移植物血管病变研究进展
+张正刚 郑芳
+【摘要】 同种异体心脏移植（HTx）是终末期心力衰竭患者的首选治疗方法，而HTx术后远期并发心脏移 植物血管病变（CAV）是影响受者长期存活的主要因素。迄今为止，尚无预防和治疗CAV的有效方法。本文从 CAV的病理学表现、引起CAV的免疫学因素以及引起CAV的其他危险因素等方面进行综述，为CAV研究提供 新的思路和认识。
+【关键词】	心脏移植；心脏移植物血管病变；免疫学因素；T淋巴细胞；B淋巴细胞；白细胞介素；干扰素
+【中图分类号】R617, R541.6+1【文献标志码】A【文章编号】1674-7445（ 2020）01-0017-07
+Research progress on cardiac allograft vasculopathy Zhang Zhenggang, Zheng Fang. Department of Immunology, Basic Medical College, Tongji Medical College of Huazhong University of Science and Technology, Wuhan 430030, China Corresponding author: Zheng Fang, Email: zhengfangtj@hust.edu.cn
+【Abstract】 Allogeneic heart transplantation (HTx) is the primary treatment for patients with end-stage heart failure. Nevertheless, the long-term complication of cardiac allograft vasculopathy (CAV) after HTx is the main factor affecting the long-term survival of the recipients. Up to now, there is no effective methods to prevent and treat CAV This article reviews the pathological manifestations of CAV, immunological factors of CAV and other risk factors of CAV, aiming to provide novel ideas and understanding for CAV research.
+【Key words] Heart transplantation; Cardiac allograft vasculopathy; Immunological factor; T lymphocyte; B lymphocyte; Interleukin; Interferon
+同种异体心脏移植（heart transplantation，HTx） 是终末期心力衰竭患者的首选治疗方法［1］。当前 HTx术后受者1、5、10年的生存率分别为90%、 80%、65%［2］。心脏移植物血管病变（cardiac allograft vasculopathy，CAV）是造成HTx术后移植心失功的 主要原因，其发生率随时间的延长而增加，CAV在 移植术后5、10年发生率分别为29.3%、47.4%［3］,迄 今尚无完全预防和治疗此并发症的有效方法［4］。深入 研究CAV的发生发展机制有助于研发相关药物，进 一步提高HTx受者的生存率和生存质量。本文将对
+CAV的研究进展进行综述。
+1	心脏移植物血管病变的病理学表现
+CAV是HTx术后的严重并发症之一，是免疫和 非免疫因素介导的内皮细胞损伤与修复的结果,主要 影响移植心冠状动脉系统而非受者动脉,以冠状动脉 血管周围炎症、多种炎症细胞向内膜迁移和增殖、内 膜增生为特征。冠状动脉内皮细胞、血管平滑肌细胞 增殖最终导致冠状动脉狭窄甚至闭塞［5-6］。CAV不仅 累及心脏表面走行的冠状动脉血管,同时也累及心
+DOI: 10.3969/j.issn.1674-7445.2020.01.017
+基金项目：国家自然科学基金（31670876、31470852）
+作者单位：430030 武汉,华中科技大学同济医学院基础医学院免疫学系
+作者简介：张正刚，男，1982年生，博士研究生，主治医师，研究方向为器官移植免疫与心脏大血管外科，Email： 571869406@qq.com
+通信作者：郑芳，女，1972年生，博士，教授，研究方向为器官移植免疫与自身免疫病，Email ： zhengfangtj@hust.edu.cn
+第1期
+张正刚等．心脏移植物血管病变研究进展
+・105・
+肌组织内穿行的细小冠状动脉及静脉［7］。与冠状动脉 粥样硬化性心脏病(冠心病)的病理变化相比，CAV 的早期病理改变为移植心脏冠状动脉内皮细胞结构破 坏、功能紊乱，同时伴有血管中膜平滑肌细胞的迁移 和炎症细胞的浸润；而冠心病早期，在内皮细胞损伤 的基础上，内皮细胞通透性增加，血浆脂质浸入血管 内皮下层，单核细胞浸润内皮下并吞噬脂质形成泡沫 样细胞，内皮下脂质不断沉积逐渐发展为冠状动脉粥 样硬化。在CAV的病理改变中，血管钙化并不常见 且弹性纤维完整。也有研究认为，内皮细胞的损伤和 慢性免疫排斥反应持续攻击，可加速血管平滑肌细胞 迁移和增殖，使CAV内皮细胞骨架结构受损、功能 减退［8］。CAV另一个特点是血管内膜增生呈同心圆状 而非偏心状，后者多见于冠心病。目前比较公认的是 CAV可能始发于缺乏平滑肌和弹性纤维的冠状动脉 远端微动脉。HTx后的慢性免疫应答形成的损伤与修 复过程中，远端微动脉内皮细胞增生使血管内径减小， 管腔狭窄，循环阻力增加，导致CAV由远及近逐渐 加重，也使CAV呈现弥漫性特点。此外，CAV血管 增生的内膜中既存在移植心脏来源增殖的平滑肌细胞， 也存在受者来源的单个核细胞，主要是T淋巴细胞和 巨噬细胞，还包括其他固有淋巴细胞和髓系细胞类型， 如树突状细胞(dendritic cell，DC)。但与T淋巴细 胞和巨噬细胞相比，DC所占比例较低［9］。浸润的免 疫细胞多位于受累动脉管腔内皮细胞基质。也有研究 认为，CAV病理学表现为弥漫性的血管平滑肌、外 膜增生，主要累及心外膜走行的冠状动脉［10］。
+纤维化也是CAV的重要病理改变［11］。正常心肌 组织中最多的间质细胞就是心肌成纤维细胞，在受到 应急刺激后会增殖并合成细胞外基质成分，导致心脏 纤维化。有学者研究发现，同种异体HTx后心脏纤 维化主要是由心脏内皮细胞来源的成纤维细胞驱动， 与胚胎发育类似，内皮细胞向外迁移并转化为心肌成 纤维细胞，因此，内皮细胞可能是心肌成纤维细胞的 重要来源［12］。也有学者认为，移植心脏供者来源的 成纤维细胞，通过循环系统向不同器官迁移，在病理 条件下成纤维细胞沉积于不同器官并导致相应器官纤 维化，但这种作用相对较小［13］。在大鼠HTx模型中 发现，高达65%的成纤维细胞是受体来源，受体来 源间充质干细胞可分化为心肌成纤维细胞［14］。因此， 推测移植血管纤维化可能由内皮细胞向外迁移和外膜 成纤维细胞在炎症微环境下综合作用所致。CAV作
+为慢性排斥反应的主要表现形式，诱发原因包括免疫 因素以及非免疫因素［15］。
+2	引起心脏移植物血管病变的免疫学 因素
+2.1	天然免疫细胞介导的效应
+目前研究发现固有免疫细胞在移植免疫应答 中不仅可以提呈主要组织相容性复合体(major histocompatibility complex，MHC)，还参与移植排 斥反应的效应阶段［16］。固有免疫细胞如巨噬细胞、 自然杀伤(natural killer，NK)细胞、嗜碱性粒细胞、 单核细胞、DC等作为移植物中的早期主要浸润细胞， 参与或调控移植排斥反应。HTx过程中的器官损伤和 固有免疫可启动机体的适应性免疫［17］。
+2.1.1	巨噬细胞 巨噬细胞是一种功能极其广泛的免疫 细胞，具有多种免疫作用，特别是巨噬细胞亚群中 的调节性巨噬细胞(regulatory macrophage，Mreg)， 由于小鼠和人Mreg在起源、发育、形态学、标记表 型和体外功能等方面都很相似，所以小鼠Mreg能反 映入Mreg的特征。有研究显示，小鼠HTx前给予供 体来源的Mreg可显著延长移植心脏的存活时间，说 明Mreg对同种异体移植心脏具有保护作用，该作用 依赖于诱导型一氧化氮合成酶(inducible nitric oxide synthase，iNOS)的活性 ［18］。
+巨噬细胞在不同的微环境下可极化为两种免疫 功能不同的表型一M1型和M2型。最近研究发现， 移植心脏中浸润的巨噬细胞以M2型为主，它们优 先表达瞟呤能 P2X7 受体(purinergic P2X7 receptor， P2X7R)，P2X7R是瞟呤能受体家族成员之一，是一 种以三磷酸腺苷(adenosine triphosphate，ATP)为配 体的离子门控通道。体外实验发现，阻断P2X7R可 抑制M2极化，而在体内阻断P2X7R可减少移植心 脏内M2型巨噬细胞的浸润数量，减轻CAV病理改变; 在组织损伤时，参与应答的巨噬细胞也主要是M2型， 其可分泌多种抗炎介质，如白细胞介素(interleukin， IL)-10、转化生长因子(transforming growth factor， TGF)-P1等，这些炎症介质可抑制免疫应答，减轻 炎症反应，在CAV的病理演变中也可能具有抑制作 用［19］。另外，在CAV的病理演变过程中，M2巨噬 细胞在移植物血管周围浸润、增殖，并产生TGF-B1 促进血管纤维化［20］。驻留巨噬细胞是一组功能和表 型相似的细胞，组织分部不均匀，在组织内发挥免疫
+•106。
+器官移植
+第11卷
+功能［21］。最近研究表明，移植心脏内的驻留巨噬细 胞可持续存在数年，并在诱导供体特异性抗体(donor specific antibody, DSA)的应答中发挥关键作用［22］。 也有观点认为巨噬细胞只在启动CAV阶段发挥作用， 在CAV进展中并不重要［16］。所以，巨噬细胞在CAV 不同阶段的作用及其机制仍有待进一步研究。
+2.1.2	自然杀伤细胞NK细胞是固有免疫的关键细 胞，可对细胞感染或损伤作出快速反应，并通过自然 细胞毒性或抗体依赖细胞介导的细胞毒性(antibodydependent cell-mediated cytotoxicity，ADCC)杀伤靶 细胞。NK细胞毒性由其表面受体介导，这些受体 能够识别同种异体移植器官表达的MHC-I类抗原。 NK细胞通常与促炎免疫有关，可导致同种异体移植 物损伤加重。在CAV中，NK细胞的活化导致多种细 胞因子的表达，尤其是干扰素(interferon, IFN)-y 在CAV的发病机制中起关键作用［23］。另外，在小鼠 模型中，NK细胞表达的CD16分子(IgG Fc段的受体)， 可与DSA结合促进CAV发生，CD16+ NK细胞数量 随着CAV的发展而增加，而NK细胞的耗竭可抑制 CAV的发展［24］。
+2.1.3	嗜碱性粒细胞Schiechl等［25］研究显示，小鼠 CAV模型中，促纤维化细胞因子IL-4主要源自浸润 于组织的嗜碱性粒细胞,可促进肌成纤维细胞的形成 并分泌细胞外基质,导致移植物血管纤维化；另外, 嗜碱性粒细胞还可诱导移植心脏血管内皮细胞释放促 纤维化细胞因子TGF- B 1,从而促进血管平滑肌细胞 增殖、纤维化，最终导致CAV°I型胶原、a-平滑 肌肌动蛋白在正常心脏组织中几乎检测不到,但在同 种异体移植心脏血管平滑肌中却有丰富表达［25］。实 验研究发现诱导嗜碱性粒细胞耗竭后，a -平滑肌肌 动蛋白的含量以及胶原蛋白在冠状动脉血管基质的 沉积明显减少，减轻了 CAV ［25］。此外，嗜碱性细胞 可释放C-C趋化因子配体(C-C chemokine ligand , CCL)17和CCL22,细胞因子IL-3、IL-33及胸腺基 质的淋巴细胞生成素,促进局部血管周围发生免疫反 应,使移植心脏血管内皮增殖、平滑肌纤维化而发展 为CAV。所以，嗜碱性粒细胞可能在CAV纤维化的 发生发展中起着非常重要的作用。
+2.2	特异性免疫细胞介导的效应
+2.2.1 T淋巴细胞 在HTx术后，抗原提呈细胞从移 植器官移行到外周淋巴器官，激活T淋巴细胞，从 而产生同种异体免疫应答［17］。活化的T淋巴细胞分
+泌细胞因子IL-2及IFN- y使细胞外基质结构破坏和 细胞外胶原沉积,促进成纤维细胞增殖,最终使移植 心脏血管纤维化改变而发展成CAV［14］。CAV中T淋 巴细胞主要浸润于受累血管的外膜和内膜，以CD4+ T淋巴细胞为主。血管内膜浸润的T淋巴细胞通过分 泌 IL-2、IL-4、IL-5、IL-6 及 IFN-y,刺激 T 淋巴细 胞增殖及内皮细胞黏附分子上调,分泌趋化因子,导 致内皮细胞活化和炎症细胞的聚集,吸引更多的辅助 性T细胞(helper T cell, Th) 1和单核细胞到内皮细 胞基质内发挥免疫效应。被招募到内膜的单核巨噬 细胞分泌IL-1、IL-6和肿瘤坏死因子(tumor necrosis factor, TNF) -a导致平滑肌细胞向内膜迁移、增殖 以及细胞外基质沉积而发展为CAV［26］。此外，有研 究者发现在CAV模型HTx术后，受者与供者的免疫 应答可增加两者之间的淋巴管形成,增加的淋巴管可 使更多的移植心脏中的过客白细胞回流入受者引流淋 巴结。同时,更多的受者抗原提呈细胞进入移植心脏内, 共同促进抗原提呈细胞与受者T淋巴细胞的接触启 动免疫应答。其中，供者心肌组织内CD8+T淋巴细 胞的比例增加，促进移植心脏血管破坏，使CAV进 一步加重［17, 27-28］。最近有研究发现脂肪组织内有大量 定居的Y ST淋巴细胞，可分泌IL-17,此群y5T 淋巴细胞能够控制调节性T细胞(regulatory T cell, Treg)稳态。但是，yST淋巴细胞分泌的IL-17是 否也参与了血管外膜纤维过程有待进一步研究［29］。 在CAV中，其他T淋巴细胞亚群也浸润内膜，如记 忆T细胞可能通过分泌IFN-Y和TNF-a促进CAV 的形成。
+2.2.2 B淋巴细胞B淋巴细胞是CAV中的重要免疫 细胞,既可以发挥效应功能,也可以发挥调节功能［30］。 移植心脏血管周围B淋巴细胞浸润在HTx术后很常 见，浸润的B淋巴细胞可能导致CAV［31-32］。研究者 对冠心病和心力衰竭患者心脏组织进行尸检发现,心 肌组织中几乎没有B淋巴细胞，只有极少数患者的样 本显示有少量B淋巴细胞浸润。而在移植心脏冠状 动脉周围显示有大量的B淋巴细胞聚集［31］。这说明 B淋巴细胞可能是从末梢小血管中渗出，并从外到内 浸润冠状动脉。此外，B淋巴细胞常出现在CAV内 膜增厚区附近，亦提示移植心脏血管周围浸润的B淋 巴细胞可能会导致CAV。然而，B淋巴细胞总是与T 淋巴细胞紧密相随,共同浸润到供体心脏血管周围, 构成类似“淋巴结”样结构(异位淋巴结构)［30-31］。
+第1期
+张正刚等．心脏移植物血管病变研究进展
+・107・
+在CAV中，效应B细胞的主要功能是将抗原提呈给 T淋巴细胞，驱动持续免疫反应，转化为浆细胞并释 放DSA［30］。DSA与移植心脏血管内皮细胞抗原结合， 可激活补体，通过补体经典途径裂解成C4d,与移植 心脏血管内膜基质、内皮细胞n型胶原结合使血管内 皮结构损伤、功能紊乱，逐渐发展为CAV。在CAV 移植心脏冠状动脉增殖的内膜和外膜中，常可见致密 的纤维化区域。在病理条件下，B淋巴细胞成为导致 纤维化的重要因素［11］，如由肝毒素引起的肝纤维化 在B淋巴细胞缺乏的小鼠中显著减少。推测B淋巴 细胞参与CAV纤维化的形成可能是直接通过细胞因 子的作用，或间接地促进巨噬细胞和T淋巴细胞的 作用。B淋巴细胞除了参与抗体介导的体液排斥反应 外，还具有调节功能，如调节性B细胞(regulatory B cell, Breg)主要通过分泌IL-10减少炎症、控制自 身免疫或防止cav［33］。
+Zeng等［34］通过对缺乏抗体但有B淋巴细胞的小 鼠与两种都缺乏的小鼠进行对比发现，CAV可以在 完全没有抗体的情况下发生，而B淋巴细胞通过提 呈抗原来支持T淋巴细胞的反应，从而促进这一过 程。在小鼠模型中也尝试通过耗竭B淋巴细胞来减轻 DSA产生的影响。虽然抗CD20单克隆抗体可以有效 地介导人B淋巴细胞耗竭，但目前还没有等效的小 鼠抗体［35］。最近的一项研究发现，尽管移植后早期 应用抗人CD20抗体治疗有效地消耗了 B淋巴细胞和 DSA,但DSA滴度在1个月内出现反弹，并出现明 显的间质纤维化［36］。虽然经典的DSA主要针对的是 抗人类白细胞抗原(human leukocyte antigen, HLA) 抗体，但非抗HLA抗体的存在被认为与CAV和长期 移植物存活时间下降有关［37］。
+2.3	抗体介导的排斥反应
+在过去的10年中，无论是在同种异体HTx早期， 还是在慢性同种异体CAV演变和移植物失活的过程 中，抗体介导的排斥反应都扮演重要角色。HLA错 配是CAV发生的主要决定性因素，在供者和受者间 HLA不匹配的数量和持续时间增加了 CAV的风险， 特别是HTx术后受者产生的特异性抗体，在攻击供 者HLA 口的同时也加重了 CAV。循环抗体攻击供者 血管内皮细胞抗原,如波形蛋白通常分布在成纤维细 胞、内皮细胞等细胞中，参与了 CAV的病理演变［38］。 抗体介导的CAV,其本质也是供者心脏血管周围的 炎症反应。
+3	引起心脏移植物血管病变的其他危险 因素
+CAV的危险因素还包括受者高脂血症、肥胖、 高血压、糖尿病及供者年龄、脑死亡等移植相关因素, 以及巨细胞病毒感染、缺血-再灌注损伤(ischemia-reperfusion injury, IRI)等因素。其中，IRI 对 CAV 的影响可能最为严重。IRI使黄瞟呤氧化酶系统激活 产生大量的氧自由基加重了内皮细胞损伤,促进内皮 细胞释放内源性损伤相关的分子,激活固有免疫细胞, 加重排斥反应进而导致CAV。有研究显示，由细胞 间黏附分子-1介导的微血管纤维蛋白原沉积和血小 板黏附在再灌注后10 min就发生了，血栓的形成不 仅影响心肌组织循环而且增强微血管内皮的活化,加 重局部炎症反应，导致CAV加速发展［7］。
+Dashkevich等［17］研究发现，IRI数小时内，移 植物血管内皮生长因子(vascular endothelial growth factor, VEGF) -C、血管内皮生长因子受体(VEGF receptor, VEGFR) -3和黏附蛋白表达增加。在移植 心脏IRI过程中，抑制VEGF-C/VEGFR-3可降低早 期淋巴管活化,进而抑制急、慢性排斥反应。由此推 测抑制VEGF-C/VEGFR-3可能也会减弱CAV的发生。 研究发现，IRI可触发补体依赖性炎症反应，最终可 导致心肌细胞变性坏死［39］。
+在人体组织细胞受到损伤时,机体反应性地释 放内源性危险信号,又称警报素,包括高迁移率族蛋 白 1 (high-mobility group box 1, HMGB1 )、热休克 蛋白、IL-33等。HMGB1是一个损伤相关模式分子， 是真核生物中最丰富的蛋白质之一,也是损伤相关分 子模式的典型代表,普遍存在于真核细胞核内,属 非组蛋白DNA结合蛋白，释放至细胞外后即为致炎 因子［40］。Zou等［41］研究显示，小鼠心脏慢性排斥反 应模型中，HMGB1的释放促进了移植物排斥反应和 移植物血管病变的发生。HMGB1主要通过促进供者 Th17和Th1细胞应答、DC和巨噬细胞参与细胞介导 的慢性排斥反应。在小鼠MHC错配HTx模型中， IL-33 通过刺激 ST2+ CD4+ Th2 分泌 IL-4、IL-5 和 IL-13,减少IFN-y的分泌和增加Treg的产生，进而延 长移植物存活时间［42］。小鼠腹腔注射重组IL-33导致 供体心脏T淋巴细胞浸润较少，但Treg的数量增加， 可能是IL-33诱导Th1向Th2转变延长了移植心脏存 活时间［43］。在小鼠同种异体HTx模型中IL-33可以
+・108・
+器官移植
+第11卷
+增强CD4+ Foxp3+Treg的功能，减少Th1和Th1相关 细胞因子的表达(如IFN-y )，从而延长移植心脏 的存活时间[44]。
+巨细胞病毒感染与CAV的发生发展密切相关， 巨细胞病毒可通过促进炎症细胞因子的产生、黏附分 子的表达、单核细胞活化和平滑肌细胞增殖，为动脉 粥样硬化的形成创造环境，还可通过增加一氧化氮合 酶抑制剂非对称二甲基精氨酸的产生，减弱内皮一氧 化氮合酶介导的冠状动脉血管舒张，从而加速CAV 的发展[26]。
+4	展 望
+目前，HTx术后远期并发CAV仍是影响受者长 期生存的主要障碍，CAV是由免疫因素和非免疫因 素协同作用，导致移植心脏冠状动脉弥漫性内膜增 殖和纤维化，最终引起冠状动脉管腔狭窄及心肌缺血 等病理变化。现在对CAV的发病机制尚不完全清楚， CAV的病因及病理生理学机制可以从警报素分子角 度继续深入研究，如在成人心肌细胞、成纤维细胞以 及冠状动脉平滑肌细胞的细胞核中表达的IL-33,可 在细胞或组织损伤时发出警报信号，以警告表达ST2 受体的免疫细胞[45]。所以，IL-33调控CAV发生发 展的机制值得深入研究。另外，检查点分子在CAV 中作用的研究也极其重要，比如程序性死亡受体-1 (programmed death receptor-1，PD-1)参与了一些免 疫反应的负调控[46]。程序性死亡配体-1(programmed death ligand-1, PD-L1)是PD-1的主要配体，在生理 条件下，PD-1/PD-L1的相互作用对于免疫耐受的发 展至关重要,可以防止导致组织破坏和自身免疫的过 度免疫细胞活动[47]。PD-L1/PD-1信号途径是否参与 及如何参与调节CAV是另一个值得研究的领域。 参考文献：
+[1]	KIM IC, YOUN JC, KOBASHIGAWA JA. The past, present and future of heart transplantation[J]. Korean Circ J, 2018,48(7):565-590. DOI: 10.4070/kcj.2018.0189.
+[2]	LUND LH, EDWARDS LB, DIPCHAND AI, et al. The Registry of the International Society for Heart and Lung Transplantation: thirty-third adult heart transplantation report-2016; focus theme: primary diagnostic indications for transplant[J]. J Heart Lung Transplant, 2016,35(10):1158-1169. DOI: 10.1016/j.healun.2016.08.017.
+[3]	NIKOLOVA AP, KOBASHIGAWA JA. Cardiac allograft vasculopathy: the enduring enemy of cardiac
+transplantation[J].Transplantation, 2019,103(7):1338-1348. DOI:10.1097/TP.0000000000002704.
+[4]	SPARTALIS M, SPARTALIS E, TZATZAKI E, et al. Cardiac allograft vasculopathy after heart transplantation: current prevention and treatment strategies[J]. Eur Rev Med Pharmacol Sci, 2019,23(1):303-311. DOI: 10.26355/ eurrev_201901_16777.
+[5]	FEARON WF, OKADA K, KOBASHIGAWA JA, et al. Angiotensin-converting enzyme inhibition early after heart transplantation[J]. J Am Coll Cardiol, 2017,69(23):2832-2841. DOI: 10.1016/j.jacc.2017.03.598.
+[6]	SEKI A, FISHBEIN MC. Predicting the development of cardiac allograft vasculopathy[J]. Cardiovasc Pathol, 2014,23(5):253-260. DOI: 10.1016/j.carpath.2014.05.001.
+[7]	LABARRERE CA, JAEGER BR, KASSAB GS. Cardiac allograft vasculopathy: microvascular arteriolar capillaries ("capioles") and survival[J]. Front Biosci (Elite Ed), 2017,9:110-128.
+[8]	MANGINI S, ALVES BR, SILVESTRE OM, et al. Heart transplantation: review[J]. Einstein (Sao Paulo), 2015,13(2):310-318. DOI: 10.1590/S1679-45082015RW3154.
+[9]	MEROLA J, JANE-WIT DD, POBER JS. Recent advances in allograft vasculopathy[J]. Curr Opin Organ Transplant, 2017,22(1):1-7. DOI: 10.1097/MOT.0000000000000370.
+[10]	TAWAKOL A, TARDIF JC. Early detection of cardiac allograft vasculopathy and long-term risk after heart transplantation[J]. J Am Coll Cardiol, 2016,68(4):393-395. DOI:10.1016/j.jacc.2016.05.046.
+[11]	JANSEN MA, OTTEN HG, DE WEGER RA, et al. Immunological and fibrotic mechanisms in cardiac allograft vasculopathy[J]. Transplantation, 2015,99(12):2467-2475. DOI:10.1097/TP.0000000000000848.
+[12]	ZEISBERG EM, TARNAVSKI O, ZEISBERG M, et al. Endothelial-to-mesenchymal transition contributes to cardiac fibrosis[J]. Nat Med, 2007,13(8):952-961.
+[13]	DIREKZE NC, FORBES SJ, BRITTAN M, et al. Multiple organ engraftment by bone-marrow-derived myofibroblasts and fibroblasts in bone-marrow-transplanted mice[J]. Stem Cells, 2003,21(5):514-520.
+[14]	PICHLER M, RAINER PP, SCHAUER S, et al. Cardiac fibrosis in human transplanted hearts is mainly driven by cells of intracardiac origin[J]. J Am Coll Cardiol, 2012,59(11):1008-1016. DOI: 10.1016/j.jacc. 2011.11.036.
+[15]	SOLER MJ, BATLLE M, RIERA M, et al. ACE2 and ACE in acute and chronic rejection after human heart transplantation[J]. Int J Cardiol, 2019,275:59-64. DOI:10.1016/j.ijcard.2018.10.002.
+第1期
+张正刚等．心脏移植物血管病变研究进展
+•109•
+[16]	ZHAO Y, CHEN S, LAN P, et al. Macrophage subpopulations and their impact on chronic allograft rejection versus graft acceptance in a mouse heart transplant model[J]. Am J Transplant, 2018,18(3):604-616. DOI: 10.1111/ajt.14543.
+[17]	DASHKEVICH A, RAISSADATI A, SYRJALA SO, et al. Ischemia-reperfusion injury enhances lymphatic endothelial VEGFR3 and rejection in cardiac allografts[J]. Am J Transplant, 2016,16(4):1160-1172. DOI: 10.1111/ ajt.13564.
+[18]	RIQUELME P, TOMIUK S, KAMMLER A, et al. IFN-Y-induced iNOS expression in mouse regulatory macrophages prolongs allograft survival in fully immunocompetent recipients[J]. Mol Ther, 2013,21(2):409-422. DOI: 10.1038/mt.2012.168.
+[19]	WU C, ZHAO Y, XIAO X, et al. Graft-infiltrating macrophages adopt an M2 phenotype and are inhibited by purinergic receptor P2X7 antagonist in chronic rejection[J]. Am J Transplant, 2016,16(9):2563-2573. DOI: 10.1111/ ajt.13808.
+[20]	BORTHWICK LA, BARRON L, HART KM, et al. Macrophages are critical to the maintenance of IL-13-dependent lung inflammation and fibrosis[J]. Mucosal Immunol, 2016,9(1):38-55. DOI: 10.1038/mi.2015.34.
+[21]	DAVIES LC, TAYLOR PR. Tissue-resident macrophages: then and now[J]. Immunology, 2015,144(4):541-548. DOI: 10.1111/imm.12451.
+[22]	NAYAK DK, ZHOU F, XU M, et al. Long-term persistence of donor alveolar macrophages in human lung transplant recipients that influences donor-specific immune responses[J]. Am J Transplant, 2016,16(8):2300-2311. DOI: 10.1111/ajt.13819.
+[23]	LIN CM, PLENTER RJ, COULOMBE M, et al. Interferon gamma and contact-dependent cytotoxicity are each rate limiting for natural killer cell-mediated antibody-dependent chronic rejection[J]. Am J Transplant, 2016,16(11):3121-3130. DOI: 10.1111/ajt.13865.
+[24]	HIROHASHI T, CHASE CM, DELLA PELLE P, et al. A novel pathway of chronic allograft rejection mediated by NK cells and alloantibody[J]. Am J Transplant, 2012,12(2):313-321. DOI: 10.1111/j.1600-6143.2011.03836.x.
+[25]	SCHIECHL G, HERMANN FJ, RODRIGUEZ GOMEZ M, et al. Basophils trigger fibroblast activation in cardiac allograft fibrosis development[J]. Am J Transplant, 2016,16(9):2574-2588. DOI: 10.1111/ajt.13764.
+[26]	CHIH S, CHONG AY, MIELNICZUK LM, et al. Allograft vasculopathy: the Achilles' heel of heart transplantation[J]. J Am Coll Cardiol,2016,68(1):80-91.
+DOI:10.1016/j.jacc.2016.04.033.
+[27]	EDWARDS LA, NOWOCIN AK, JAFARI NV, et al. Chronic rejection of cardiac allografts is associated with increased lymphatic flow and cellular trafficking[J]. Circulation,2018,137(5):488-503.DOI:10. 1161/CIRCULATIONAHA.117.028533.
+[28]	BALDWIN HS, DRAKOS SG. Lymphangiogenesis in chronic rejection and coronary allograft vasculopathy: an emerging diagnostic and therapeutic target?[J]. Circulation, 2018,137(5):504-507.DOI:10.1161/CIRCULATIONAHA. 117.031716.
+[29]	KOHLGRUBER AC, GAL-OZ ST, LAMARCHE NM, et al. y 8 T cells producing interleukin-17A regulate adipose regulatory T cell homeostasis and thermogenesis[J]. Nat Immunol, 2018,19(5):464-474. DOI: 10.1038/s41590-018-0094-2.
+[30]	ZORN E. Effector B cells in cardiac allograft vasculopathy [J]. Curr Opin Organ Transplant, 2019,24(1):31-36. DOI: 10.1097/MOT.0000000000000591.
+[31]	CHATTERJEE D, MOORE C, GAO B, et al. Prevalence of polyreactive innate clones among graft--infiltrating B cells in human cardiac allograft vasculopathy[J]. J Heart Lung Transplant, 2018,37(3):385-393. DOI: 10.1016/ j.healun.2017.09.011.
+[32]	HUIBERS MM, GAREAU AJ, BEERTHUIJZEN JM, et al. Donor-specific antibodies are produced locally in ectopic lymphoid structures in cardiac allografts[J]. Am J Transplant, 2017,17(1):246-254. DOI: 10.1111/ajt.13969.
+[33]	MOHIB K, CHERUKURI A, ROTHSTEIN DM. Regulatory B cells and transplantation: almost prime time?[J]. Curr Opin Organ Transplant, 2018,23(5):524-532. DOI: 10.1097/MOT.0000000000000559.
+[34]	ZENG Q, NG YH, SINGH T, et al. B cells mediate chronic allograft rejection independently of antibody production[J]. J Clin Invest, 2014,124(3):1052-1056. DOI: 10.1172/JCI70084.
+[35]	QIN L, LI G, KIRKILES-SMITH N, et al. Complement C5 inhibition reduces T cell-mediated allograft vasculopathy caused by both alloantibody and ischemia reperfusion injury in humanized mice[J]. Am J Transplant, 2016,16(10):2865-2876. DOI: 10.1111/ajt.13834.
+[36]	THOMAS KA, VALENZUELA NM, GJERTSON D, et al. An anti-C1s monoclonal, TNT003, inhibits complement activation induced by antibodies against HLA[J]. Am J Transplant, 2015,15(8):2037-2049. DOI:10.1111/ajt. 13273.
+(下转第125页 to page 125)
+第1期
+卓金风等．肝移植术后加速康复护理的标准化操作流程
+・125・
+transplantation: a score to assign location of care[J]. Am J Transplant, 2014, 14(9):2088-2096. DOI: 10.1111/ajt.12796.
+[20]王怡.肝移植术后睡眠障碍的原因分析及护理干预[J]. 北京医学,2016,38(12):1343-1344. DOI:10.15932/j.0253-9713.2016.12.031.
+WANG Y. Cause analysis and nursing intervention of sleep disturbance after liver transplantation[J]. Beijing Med J, 2016,38(12):1343-1344. DOI:10.15932/j.0253-9713.2016.12.031.
+[21]	林晓鸿,臧运金,王璐,等. 肝移植受者的失眠状况及 其影响因素分析[J].护理研究,2016,30(20):2452-2456. DOI:10.3969/j.issn.1009-6493.2016.20.007.
+LIN XH, ZANG YJ, WANG L, et al. Analysis of insomnia status of liver transplant recipients and its influencing factors[J]. Chin Nurs Res,2016,30(20):2452-2456. DOI:10.3969/j.issn.1009-6493.2016.20.007.
+[22]	刘成媛,乔琼,罗梦丹,等. 加速康复外科的应用研究 进展[J].护理研究,2019,33(2):261-264. DOI:10.12102/ j.issn.1009-6493.2019.02.017.
+LIU CY, QIAO Q, LUO MD, et al. Application research
+progress on enhanced recovery after surgery[J]. Chin Nurs Res,2019,33(2):261-264.DOI:10.12102/j.issn.1009-6493. 2019.02.017.
+[23]	陶为杰,石小举,孙晓东,等.快速康复外科理念在肝 移植围手术期应用的研究进展[J].中华肝胆外科杂 志,2017,23(1):60-63. DOI:10.3760/cma.j.issn.1007-8118. 2017.01.018.
+TAO WJ, SHI XJ, SUN XD, et al. Research progress on the application of enhanced recovery after surgery in liver transplantation[J]. Chin J Hepatobil Surg,2017,23(1):60-63. DOI:10.3760/cma.j.issn.1007-8118.2017.01.018.
+[24]	郑彩霞,冯志仙.肝移植围手术期护理质量指标研究 进展[J].护理与康复,2019,18(2):40-42. DOI:10.3969/ j.issn.1671-9875.2019.02.010.
+ZHENG CX, FENG ZX. Research progress on perioperative nursing quality index of liver transplantation[J]. Nurs Rehabil J,2019,18(2):40-42. DOI:10.3969/j.issn.1671-9875. 2019.02.010.
+(收稿日期：2019-11-05) (本文编辑：石梦辰 吴秋玲)
+(上接109页 from page 109)
+[37]	ZHANG Q, REED EF. The importance of non-HLA antibodies in transplantation[J]. Nat Rev Nephrol, 2016,12(8):484-495. DOI: 10.1038/nrneph.2016.88.
+[38]	ROSE ML. Role of anti-vimentin antibodies in allograft rejection[J]. Hum Immunol, 2013,74(11):1459-1462. DOI: 10.1016/j.humimm.2013.06.006.
+[39]	ATKINSON C, QIAO F, YANG X, et al. Targeting pathogenic postischemic self-recognition by natural IgM to protect against posttransplantation cardiac reperfusion injury[J]. Circulation, 2015,131(13):1171-1180. DOI: 10.1161/CIRCULATIONAHA.114.010482.
+[40]	PELLEGRINI L, FOGLIO E, PONTEMEZZO E, et al. HMGB1 and repair: focus on the heart[J]. Pharmacol Ther, 2019,196:160-182. DOI: 10.1016/ j.pharmthera.2018.12.005.
+[41]	ZOU H, YANG Y, GAO M, et al. HMGB1 is involved in chronic rejection of cardiac allograft via promoting inflammatory-like mDCs[J]. Am J Transplant, 2014,14(8):1765-1777. DOI:10.1111/ajt.12781.
+[42]	SIEDE J, FROHLICH A, DATSI A, et al. IL-33 receptorexpressing regulatory T cells are highly activated, Th2 biased and suppress CD4 T cell proliferation through IL-10 and TGFP release [J]. PLoS One, 2016,11(8):e0161507.
+DOI: 10.1371/journal.pone.0161507.
+[43]	JIN Y, KONG D, LIU C, et al. Role of IL-33 in transplant biology[J]. Eur Cytokine Netw, 2019,30(2):39-42. DOI: 10.1684/ecn.2019.0429.
+[44]	DAI C, LU FN, JIN N, et al. Recombinant IL-33 prolongs leflunomide-mediated graft survival by reducing IFN-y and expanding CD4(+)Foxp3(+) T cells in concordant heart transplantation[J]. Lab Invest, 2016,96(8):820-829. DOI: 10.1038/labinvest.2016.54.
+[45]	CAYROL C, GIRARD JP. Interleukin-33 (IL-33): a nuclear cytokine from the IL-1 family[J]. Immunol Rev, 2018,281(1):154-168. DOI: 10.1111/imr.12619.
+[46]	SPALLAROSSA P, MELIOTA G, BRUNELLI C, et al. Potential cardiac risk of immune-checkpoint blockade as anticancer treatment: what we know, what we do not know, and what we can do to prevent adverse effects[J]. Med Res Rev, 2018,38(5):1447-1468. DOI:10.1002/ med.21478.
+[47]	KYTHREOTOU A, SIDDIQUE A, MAURI FA, et al. PD-L1[J]. J Clin Pathol, 2018,71(3):189-194. DOI: 10.1136/jclinpath-2017-204853.
+(收稿日期：2019-09-22) (本文编辑：王维苹 吴秋玲)

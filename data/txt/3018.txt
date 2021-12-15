@@ -1,0 +1,161 @@
+﻿护理研究2020年3月第34卷第5期(总第649期)
+• 789 •
+•科研论著•
+心脏移植术后早期血肌钙蛋白水平变化 及院内死亡影响因素分析 李 敏，王慧华* *，李燕君
+(华中科技大学同济医学院附属协和医院，湖北430022)
+Changes of serum troponin levels and influencing factors of hospital death in early stage after heart transplantation
+LI Min,WANG Huihua,LI Yanjun
+(Union Hospital, Tongji Medical College, Huazhong University of S cience and Technology, Hubei 430022 C hina)
+摘要：［目的］探讨心脏移植术后早期血肌钙蛋白(TnI"K平变化及其与院内死亡的关系。［方法］选取2013年4月一2018年1月我院 收治的进行心脏移植的病人520例作为研究对象，采用ROC曲线分析手术当天(术后入重症监护室1h内抽血化验)至手术第2天血 TnI水平对心脏移植术后病人院内死亡预测作用并寻找阈值，根据阈值将病人分为高TnI水平组和低TnI水平组，然后比较两组的 术前一般资料、术后恢复情况以及院内死亡率，并采用Logistic回归分析心脏移植术后病人发生院内死亡的独立危险因素。［结果］术 后第1天TnI水平预测院内死亡ROC曲线下面积为0. 888 ［95% CI(0. 799~0.976), P <0.05］,当TnI水平为38. 5 ng/mL时，预测院 内死亡的敏感性和特异性分别为82.1%和92. 7%；以38.5ng/mL为临界值，将纳入病人分为高TnI水平组(TnI套38.5ng/mL)和低 TnI水平组(TnI<38. 5 ng/mL)；两组病人受体术前肌酐、术前NT-proBNP升高倍数、供体体重、供体冷却血时间、供体冷却血时间 >6h所占比例差异具有统计学意义(P <0,05)； 520例心脏移植者中，院内死亡的病人有27例，其中高TnI水平组院内死亡13例，低 TnI水平组院内死亡14例；高TnI水平组院内死亡率明显高于低TnI水平组，差异具有统计学意义(P <0,05)。多因素Logistic回归分 析结果显示，术前血肌酐［OR = 2. 15,95%CI(1.31〜3, 43)］、术前血胆红素［OR = 3. 63,95%C((1. 55〜8, 79)］、术后第1天TnI水平 ［OR = 4.26,95% C( 1.07〜5.36)］是影响心脏移植术后院内死亡的危险因素。［结论］心脏移植病人早期TnI水平升高与受体、供体 等因素有关，术前血肌酐、术前血胆红素、术后第1天TnI水平(分38.5ng/mL)是院内死亡的危险因素。
+关键词：心脏移植；血肌钙蛋白I;院内死亡；影响因素；供体；受体；预测
+Abstract Objective：To investigate the changes of serum troponin level in e arly stage after heart transplantation and analyse its relationship with hospital death. Methods：A total of 520 patients with cardiac transplantation admitted to our hospital from April 2013 to January 2018 were selected as the research objects. ROC curve was used to analyze the predictive effect of troponin I(TnI)level on the in-hospital death of cardiac transplant patients from the day of surgery(blood test w ithin 1 hour after admission to the intensive care unit) to the second day of surgery and the threshold was analyzed. Patients were divided into two groups according to the threshold，high TnI level group and low TnI level group. Then the general preoperative data，postoperative recovery and in-hospital mortality of the two groups were compared. Logistic regression analysis was used to analyze the independent risk factors of in-hospital mortality of heart transplant patients. Results：The area under ROC curve for predicting in-hospital death at TnI level on the first day after operation was 0. 888 ［ 95% CI(0. 799 -0. 976)，P<0. 05］ . When TnI level was 38. 5 ng/mL，the sensitivity and specificity for predicting in-hospital death was 82. 1% and 92. 7%，respectively. With 38. 5 ng/mL as the critical value，the patients included in the study were divided into high TnI level group (TnI238. 5 ng/mL) and low TnI level group (TnI<38. 5 ng/ml). The proportions of preoperative creatinine, preoperative NT-proBNP elevation degree, donor body weight, donor cooling blood time and donor cooling blood time26 h in the two groups were statistically significant(P<0. 05). Among 520 heart transplanters，27 patients suffered from in-hospital death，including 13 patients with high TnI level，and 14 patients with low TnI level. The in-hospital death rate of high TnI level group was significantly higher than that of low TnI level group，the difference was statistically significant(P<0. 05). The multivariate Logistic regression analysis showed that preoperative serum creatinine［OR=2. 15，95%CI(1. 31-3. 43)］，preoperative blood bilirubin［OR=3. 63，95% CI (1. 55-8. 79)］，and TnI［OR=4. 26，95%C(I 1. 07-5. 36)］on the first day after heart transplantation were risk factors that affect hospital death after heart transplantation. Conclusion：The increase of TnI level in e arly stage of heart transplantation patients was related to recipient, donor and so on. Preoperative serum creatinine, preoperative serum bilirubin and TnI(套38. 5 ng/mL) on the first day after operation were risk factors for hospital death.
+Keywords heart transplantation；troponin I；hospital death；influencing factors；donor；recipient；prediction
+中图分类号：R473. 6 文献标识码：A doi:10. 12102/j. issn. 1009-6493. 2020. 05. 015
+基金项目 湖北省自然科学基金项目，编号：2014CFB997
+作者简介 李敏,本科
+*通讯作者 王慧华，E-mail： 57976120@qq.com
+引用信息 李敏，王慧华，李燕君,心脏移植术后早期血肌钙蛋白水平变化及院内死亡影响因素分析[J].护理研究，2020,34(5):789-794.
+• 790 •
+CHINESE NURSING RESEARCH March, 2020 Vol. 34 No. 5
+近年来，心脏移植得到不断推广，心脏移植技术日 益成熟完善，使得许多心功能衰竭病人的生命得以延 续，心脏移植术后病人1年、5年和10年的存活率分别 为85%、70%和55%，中位存活时间10年，已成为心 脏病病人终末期的最有效治疗措施［T。血肌钙蛋白I （TnI）是心肌细胞损伤的特异性标志物，当心肌细胞 受到损伤时TnI水平会有所升高［4］。已有研究表明， TnI水平会在心脏移植术后7.1 d升至最高浓度，随后 缓慢下降，术后43 d TnI水平仍高于正常值［5］。国外学 者多将心脏移植术后1个月以上的TnI作为研究点［6］， 并已证实TnI在心脏移植术后出现心功能衰竭和1年 生存率方面具有一定的预测价值。然而术后1周内 TnI水平变化及和院内死亡关系的研究鲜有报道，本 研究回顾性分析于我院进行心脏移植的520例病人的 临床资料，分析手术当天至术后第2天不同TnI水平 对心脏移植术后发生院内死亡的影响。
+1 资料与方法
+1.1 一般资料 选取2013年4月—2018年1月华中 科技大学同济医学院附属协和医院收治的进行心脏移 植的病人520例，所有病人的手术资料和随访信息均 进行了详细的登记，并构建了心脏移植数据库。520 例心脏移植者中，出现院内死亡的病人有27例。
+1	. 2 方法
+1.2.1	数据采集 收集心脏移植数据库中手术当天 （术后人重症监护室1h内抽血化验）至手术第2天TnI 化验结果，同时参照国际心肺移植协会（ISHLT）报 告［7］提取心脏移植近期生存危险因素，其中受体术前 临床资料：性别、身高、体重、年龄、体质指数（BMI）、原 发性心脏疾病（冠心病/先天性心脏病/再移植/心肌 病）、糖尿病史、输血史、高血压病史、术前两周抗生素 应用史、机械辅助过度至心脏移植情况［持续肾脏替代 疗法（ECMO）及体外膜肺氧合（CRRT）应用］、总胆红 素、氨基末端脑钠肽前体（NT-proBNP）和血肌酐； Swan-Ganz导管：肺动脉舒张压（dPAP）、肺动脉收缩 压（sPAP）、肺动脉平均压（mPAP）、肺毛细血管楔压 （PAWP）、中心静脉压（CVP）、心脏指数（CI）以及肺 血管阻力（PVR）。超声心电图：左室舒张末期前后径 （LVEDd）、左房前后径（LA）、左室射血分数（LVEF）、 右室前后径（RV）。供体资料：年龄、性别、身高、体重、 供体类型、心脏保护液类型（UW/HTK）、供心冷却血
+时间以及群体反应性抗体（PRA）；供受匹配情况：供 受体体重差与受体体重比值、供受体性别匹配情况；术 后恢复情况：机械通气时间、重症监护室时间、术后机 械辅助治疗［CRRT/ECMO/主动脉内球囊反搏 （IABP）］应用情况以及院内死亡情况。
+1.2.2	研究方法检测术后当天至第2天TnI水平并 绘制ROC曲线观察其对心脏移植病人院内死亡的预 测价值，并找出院内死亡预测阈值（cut-off）。依据cutoff 将纳入病人分为高TnI水平组和低TnI水平组，对 两组的一般资料、术后恢复情况以及院内死亡情况比 较，然后采用单因素和多因素分析影响心脏移植术后 病人院内死亡的危险因素。
+1.2.3	TnI水平的检测采集空腹静脉血2 mL，分离 血清后检测血TnI水平。使用MEIA试剂盒（美国 ABBOTT LABORATORIES公司），采用微粒子酶免 疫分析法定量测定血TnI水平。
+1.2.4	统计学分析数据分析采用SPSS 16.0统计软 件，利用ROC曲线分析TnI水平对院内死亡预测价值 并找出cut-off，计量资料符合正态分布，则采用均数士 标准差（亍土 s）进行描述，组间比较采用独立t检验；不符 合正态分布的则以中位数表示，组间比较采用Wilcoxon 秩和检验；计数资料采用频率、百分比（%）描述，组间 比较采用片检验；院内死亡因素分析则采用Logistic回 归分析。以P<0.05为差异有统计学意义。
+2	结果
+2. 1术后当天至第2天TnI水平对心脏移植病人院 内死亡预测价值术后当天TnI水平预测院内死亡 ROC 曲线下面积为 0.801［95% CK0.687,0.914），P < 0.05］，当TnI水平为46.5ng/mL时，预测院内死亡的 敏感性和特异性分别为66.7%和88.6%。术后第1天 TnI水平预测院内死亡ROC曲线下面积为0.888 ［95%CI（0.799, 0.976），P<0.05］，当 TnI 水平为 38.5 ng/mL时，预测院内死亡的敏感性和特异性分别为 82.1%和92.7%。术后第2天TnI水平预测院内死亡 ROC 曲线下面积为 0.742［95% CI （0.627,0.857），P < 0.05］，当TnI水平为13.5 ng/mL时，预测院内死亡的 敏感性和特异性分别为64.3%和84.9%。选择预测价 值较高的术后第1天TnI水平作为研究点，以38.5 ng/mL 为临界值，将纳入病人分为高TnI水平组（TnI>38.5 ng/mL）和低 TnI水平组（TnI<38.5 ng/mL）。见图 1。
+护理研究2020年3月第34卷第5期（总第649期）
+• 791 •
+1一特异度	1-特异度	卜特异度
+a.术后当天	b.术后第1天	，术后第2天
+图1术后当天~第2天TnI水平对心脏移植病人院内死亡预测ROC曲线
+2.2高TnI水平组和低TnI水平组病人一般资料比		水平为12.3 ng/mL。	两组病人受体术前肌酐、术		
+较 高TnI水平组（TnI>38.5ng/mL）病人有50例，		前NT-proBNP升高倍数、供体体重、			供体冷却血时
+占9.6%，中位TnI水平为58.1 ng/mL；低TnI水平组		间、供体冷却血时间>6h所占比例差异有统计学意义			
+(TnI<38.5 ng/mL)病人有 470例	，占 90.4%，中位 TnI	（P<0.05）。两组临床资料比较见表1。			
+表1	高TnI水平组和低TnI水平组病人及其供体临床资料比较				
+项目	低TnI水平组（n=470）	高TnI水平组（n=50）		统计值	P
+受体					
+年龄（岁）	44.8±10.1	45.1± 10.3	t	-0.199	0.842
+性别［男（%）］	400(85.1)	41(82.0)	x2~	0.339	0.561
+身高（cm）	171.2± 7.9	170.8±8.3	t	0.339	0.735
+体重（kg）	63.5± 9.5	64.1± 9.2	t	- 0.426	0.670
+BMI(kg/m2)	22.2±4.1	22.5±3.9	t	- 0.494	0.621
+冠心病/心肌病（%）	18.2	22.2	X2-	0.348	0.556
+先天性心脏病/心肌病（%）	1.3	5.6	x2~	3.408	0.065
+既往心脏移植［例（%）］	5(1.1)	0(0.0)	x2~	0.537	0.464
+高血压史［例（%）］	60(12.8)	9(18.0)	x2~	1.076	0.300
+糖尿病史［例（%）］	61(13.0)	6(12.0)	x2~	0.039	0.844
+输血史［例（%）］	20(4.3)	3(6.0)	x2~	0.325	0.568
+术前2周使用抗生素史［例（%）］	90(19.1)	9(18.0)	X=0.167		0.682
+术前使用CRRT［例（％）］	5(1.1)	0(0.0)	X2-	0.537	0.464
+术前使用ECMO［例（％）］	5(1.1)	2(4.0)	X=2.934		0.087
+术前肌酐（fimol/L）	91.3±10.2	102.7±21.4	t	- 6.535	<0.001
+术前总胆红素（fimol/L）	30.4± 6.3	30.8± 6.1	t	- 0.428	0.669
+术前NT-proBNP升高倍数	8.1±1.2	10.8±2.3	t	- 13.513	<0.001
+术前Swan-Ganz导管					
+sPAP(mmHg)	38.2± 5.4	37.9±4.9	t	0.377	0.307
+dPAP(mmHg)	19.3±3.7	18.8±4.2	t	0.896	0.371
+mPAP(mmHg)	26.1±4.6	25.8±4.2	t	0.442	0.659
+PAWP(mmHg)	17.6±3.8	17.7±4.1	t	－0.176	0.861
+CVP(mmHg)	6.3±1.2	6.5±1.3	t	－1.111	0.267
+PVR/Wood	2.6±0.9	2.6±0.8	t	0.000	1.000
+CI[L/(min・m2)]	2.2±0.5	2.3±0.5	t	－ 1.345	0.179
+• 792 •
+CHINESE NURSING RESEARCH March, 2020 Vol. 34 No. 5
+(续表)				
+项目	低TnI水平组(n=470)	高TnI水平组(n=50)	统计值	P
+术前超声心动图				
+LA(mm)	48.5±8.7	48.4±7.9	t=0.078	0.938
+LVEDd(mm)	71.3±8.2	70.9±7.8	t=0.329	0.742
+LVEF(%)	28.1± 5.4	28.4±4.9	t= - 0.377	0.707
+RV(mm)	27.1±4.3	26.9±4.2	t=0.313	0.754
+供体				
+年龄(岁)	28.9±4.5	29.3±4.2	t=-0.601	0.548
+性别［男(%)］	468(99.6)	50(100.0)	X2=0.214	0.644
+体重(kg)	67.9± 6.4	70.4± 6.2	t= - 2.634	0.009
+供体类型/［脑死亡(%)］	25(5.3)	4(8.0)	X2=0.617	0.432
+心脏保护液类型［HTK/UW(%)］	320(68.1)	29(58.0)	X2=2.083	0.149
+冷却血时间(min)	325.7± 10.9	389.8± 11.2	t= - 39.429	<0.001
+冷却血时间分6h［例(%)］	200(42.6)	36(72.0)	X2=15.810	<0.001
+群体反应性抗体阳性/［例(%)］	15(3.2)	2(4.0)	X2= 0.093	0.760
+供受体匹配情况				
+供受体体重差与受体体重比值(%)	0.03(-0.1,0.3)	0.04(- 0.1, 0.4)	Z=0.117	0.829
+女供/男受体与男供/男受体比值(%)	0.43	0.00	X2=0.214	0.644
+注：1 mmHg=0.133 kPa。
+2.3高TnI水平组和低TnI水平组病人院内恢复情 0.05);高TnI水平组术后机械辅助治疗比例也明显高 况比较高TnI水平组机械通气时间和ICU住院时间 于低TnI水平组，差异具有统计学意义(P<0.05)。详 均明显长于低TnI水平组，差异具有统计学意义(P< 见表2。
+表2高TnI水平组和低TnI水平组病人院内恢复情况比较
+组别	例数	机械通气时间(h)	ICU住院时间(d)	术后需机械辅助治疗［例(%)］ CRRT	ECMO	IABP
+低 TnI水平组	470	19.0(17.0，35.0)	3.5(2.5,5.3) 高 TnI水平组	50	56.0(33.0，164.0)	7.4(3.6，11.0)	15(3.2)	26(5.5)	24(5.1) 16(32.0)	16(32.0)	6(12.0)
+统计值	Z=36.189	Z=21.325 P	<0.001	<0.001	X2=66.903	X2=42.642	X2=4.114 <0.001	<0.001	0.043
+2.4高TnI水平组和低TnI水平组病人院内死亡情
+况比较 520例心脏移植者中,出现院内死亡的病人
+有27例，其中高TnI水平组院内死亡13例；低TnI水
+平组院内死亡14例。高TnI水平组院内死亡率明显 高于低TnI水平组，差异具有统计学意义(P<0.05)。 见表3。
+表3高TnI水平组和低TnI水平组病人院内死亡情况比较
+组别	例数	移植物心脏衰竭(例)	多功能器官衰竭(例)	合计［例(%)］
+低TnI水平组	470	10	4	14(3.0)
+高TnI水平组	50	8	5	13(26.0)
+注：X=48.654,P <0.001。
+2. 5 心脏移植术后院内死亡影响因素分析 单因素 Logistic回归分析结果显示，术前血肌酐、术前血胆红 素、术后第1天和第2天TnI水平是影响心脏移植术后 院内死亡的危险因素(P <0.05)。将单因素有统计学意 义的因素纳入多因素Logistic回归分析结果显示，术前
+血肌酐［OR = 2.15,95% C(1.31~3.43)］、术前血胆红 素［OR = 3.63,95% C(( 1.55~8.79)］、术后第 1 天 TnI 水 平［OR = 4.26,95% C((1.07~5.36)］是影响心脏移植术 后院内死亡的危险因素。见表4。
+护理研究2020年3月第34卷第5期(总第649期)	• 793 •
+表4 心脏移植术后院内死亡影响因素分析				
+项目	单因素Logistic分析		多因素Logistic分析	
+	OR 值(95% CI)	P	OR 值(95% CI)	P
+受体 性别	1.93(0.85~3.62)	0.433		
+年龄	0.56(0.23~1.98)	0.346		
+身高	1.68(0.25~3.18)	0.716		
+BMI	0.91(0.34~1.24)	0.332		
+先心病/心肌病	1.04(0.92~2.03)	0.459		
+冠心病/心肌病	0.62(0.43~1.31)	0.543		
+既往心脏移植	1.18(0.79~3.45)	0.814		
+既往输血史	2.61(0.98~6.24)	0.916		
+术前2周抗生素使用史	0.65(0.91~3.78)	0.324		
+术前ECMO应用史	1.45(0.65~4.57)	0.116		
+术前血肌酐	4.63(2.36~9.36)	<0.001	2.15(1.31~3.43)	<0.001
+术前血胆红素	6.35(2.36~9.78)	0.005	3.63(1.55~8.79)	0.003
+术前NT-proBNP升高倍数	2.24(0.34~3.54)	0.781		
+术前sPAP	1.33(0.66~2.18)	0.652		
+术前mPAP	0.85(0.12~1.24)	0.549		
+术前PAWP	0.28(0.16~1.09)	0.867		
+术前PVR	1.15(0.89~2.11)	0.517		
+术后当天TnI	1.57(0.68~5.51)	0.435		
+术后第1天TnI	2.12(1.02~5.66)	0.002	4.26(1.07~5.36)	<0.001
+术后第2天TnI	4.63(2.36~9.36)	<0.001		
+供体 年龄	1.23(0.82~2.91)	0.592		
+供体体重	0.96(0.76~2.74)	0.438		
+供心冷却血时间	1.15(0.96~1.36)	0.764		
+群体反应性抗体	0.87(0.75~1.72)	0.882		
+供受体体重差与受体体重比值	1.23(0.87~1.89)	0.487		
+3 讨论
+作为有效治疗终末期心脏疾病措施之一，心脏移 植被广泛应用于临床治疗。存在于人体横纹肌肌丝中 的血TnI水平是心脏移植术后心血管事件的重要检测 因子［8F。国外学者对29例心脏移植病人进行研究发 现，TnI在术后第1天达到顶峰［10］，TnI水平在术后升 高与围术期的多种原因引起的心肌细胞损伤有关，其 病理表现为巨噬细胞浸润、中性粒细胞坏死，免疫组化 可观察到纤维蛋白在心肌细胞内和微血管中沉积，且 心肌纤维多伴随有明显的收缩带，能够快速引起单核 细胞钙化［11必。本研究检测心脏移植病人术后当天至 术后2 d的TnI水平变化，并绘制ROC曲线，结果显 示，术后第1天TnI水平预测院内死亡ROC曲线下面 积为 0.888［95%CK0.799~0.976)，P<0.01］，当 TnI水 平为38.5 ng/mL时，预测院内死亡的敏感性和特异性 分别为82.1%和92.7%。将术后第1天TnI水平38.5
+ng/mL作为临界点将纳入病人分为两组，高TnI水平 组(>38.5 ng/mL)供心冷却血时间为(389.8±11.2) min，明显长于低TnI水平组(<38.5 ng/mL)的 (325.7±10.9)min。心脏移植术后早期TnI水平升高 不仅和供体心脏缺血时间有关，还可能和供体术前状 态、手术操作等因素有关［13-14］。另有学者研究发现肾 功能不全、炎症反应以及心脏负荷过重均会引起TnI 水平发生变化［15］。病人术前心力衰竭较重和肾功能较差 也会引起术后早期TnI水平升高。本研究还发现，高TnI 水平组术前血肌酐以及NT-proBNP水平明显高于低 TnI水平组。综上所述，TnI水平升高和供体、受体以 及手术操作等多种因素均有关系。本研究未发现早期 TnI水平变化和供体脑死亡有明显关系，可能是因为 脑死亡例数较少，使用脑死亡供体TnI水平变化是否 和非脑死亡供体TnI水平变化趋势一致，有待更进一 步研究。
+• 794 •
+本研究纳入520例心脏移植者中，院内死亡的病 人有27例，其中高TnI水平组院内死亡13例，低TnI 水平组院内死亡14例。高TnI水平组院内死亡率明 显高于低TnI水平组，差异具有统计学意义(P < 0.05)。本研究还证实术后当天至术后2dTnI水平对 心脏移植病人院内死亡均具有一定的预测作用，多因 素Logistic回归分析结果显示术后第1天TnI水平> 38.5 ng/mL是院内死亡的独立危险因素，提示术后当 天至术后第2天TnI水平可以作为是否应用ECMO、 CRRT和IABP等机械辅助治疗的参考依据，此观点 有待进行前瞻性研究证实。国外有学者对362例心脏 移植病人进行回顾性分析，发现术后24 h的TnI水平> 10 ng/mL可以作为急性肾损伤和移植物功能衰竭的 预测因素[16]。还有学者观察了术后1个月TnI水平对 心脏移植病人预后的影响，结果显示TnI水平升高大 大增加了移植物血管病变的风险，且能够预测1年生 存率[17]。本研究多因素分析结果显示，术前血肌酐 [OR = 2.15,95% C( 1.31~3.43)]、术前血胆红素[OR= 3.63, 95%CI(1.55~8.79)]、术后第 1 天 TnI[OR= 4.26,95% CI( 1.07~5.36)]均是影响心脏移植术后院 内死亡的危险因素，提示在参考早期TnI水平的同时， 还需要充分结合病人术前血肌酐以及胆红素水平。
+4 小结
+综上所述，心脏移植病人早期TnI水平升高和受 体、供体等因素有关，术前血肌酐、术前血胆红素、术后 第1天TnI水平(>38.5 ng/mL)是院内死亡的危险 因素。
+参考文献：
+[1]	BREATHETT K, ALLEN L A, HELMKAMP L, et al. The affordable care act medicaid expansion correlated with increased heart transplant listings in African-Americans but not Hispanics or Caucasians[J].JACC Heart Failure,2017,5(2):136-147.
+[2]	BANSAL N, DELIUS R E, AGGARWAL S. Coronary artery spasm in a neonate with transposition of great arteries : a rare complication and reason for heart transplant[J]. Cardiology in the Young,2017,28(1):1.
+[3]	ALIVIZATOS P A. Fiftieth anniversary of the first heart transplant: the progress of American medical research , the ethical dilemmas, and Christiaan Barnard[J].Proceedings,2017,30(4):475.
+[4]	FREUNDT M, PHILIPP A, KOLAT P, et al. Impact of elevated donor troponin I as predictor of adverse outcome in adult heart transplantation: a single-center experience[J]. Thoracic & Cardiovascular Surgeon, 2017,66(5):417-424.
+[5]	KEDDIS M T, EL-ZOGHBY Z, KAPLAN B, et al. Soluble ST2
+CHINESE NURSING RESEARCH March, 2020 Vol. 34 No. 5 does not change cardiovascular risk prediction compared to cardiac troponin T in kidney transplant candidates[J]. PLoS One , 2017 , 12 (7):e0181123.
+[6]	GALEONE A, VARNOUS S, LEBRETON G, et al. Impact of cardiac arrest resuscitated donors on heart transplant recipients' outcome[J].J Thorac Cardiovasc Surg ,2017 ,153(3):622-630.
+[7]	None. Correction to:2017 ACC/AHA/HFSA/ISHLT/ACP Advanced Training Statement on Advanced Heart Failure and Transplant Cardiology(revision of the ACCF/AHA/ACP/HFSA/ISHLT 2010 clinical competence statem ent on management of patients with advanced heart failure[J].Circ Heart Fail,2018,11(5):e000028.
+[8]	ROLID K, ANDREASSEN A K, YARDLEY M , et al. Clinical features and determinants of VO _ (2peak) in de novo heart transplant recipients[J].World Journal of Transplantation, 2018, 8(5):70-79.
+[9]	BARGECABALLERO E,GARCiAL(1)PEZ F,MARZOARIVAS R,et al. Prognostic value of the nutritional risk index in heart transplant recipients[J].Revista Espanola De Cardiologia,2017,70(8):639-645.
+[10]	JANKOWSKI K, TRZEBICKI J, BIELECKI M, et al. Prognostic value of perioperative assessment of plasma c ardiac troponin I in patients undergoing liver transplantation[J]. Acta Biochimica Polonica, 2017,64(2):331-337.
+[11]	LEWIS J R , LIM W H , WONG G , et al. Association between high-sensitivity cardiac troponin I and cardiac events in elderly women[J].J Am Heart Assoc ,2017,6(8):e004174.
+[12]	LI Y , ZHU G , PAOLOCCI N , et al. Heart failure-related hyperphosphorylation in the cardiac troponin I C term inus has divergent effects on cardiac function in V ivo [J]. Circ Heart Fail, 2017,10(9):e003850.
+[13]	CHAPMAN A R, NEWBY D E, MILLS N L. High-sensitivity cardiac troponin I assays in the diagnosis of acute myocardial infarction[J].Heart Asia,2017, 9(1):88-89.
+[14]	VITRONE M , ANDINI R, MATTUCCI I, et al. Direct antiviral treatment of chronic hepatitis C in heart transp lant recipients[J]. Transplant Infectious Disease,2018,20(1):e12813.
+[15]	KAYALI S , ERTUGRUL I, YOLDAS T , et al. Sensitive cardiac troponins: could they be new biomarkers in pediatric pulmonary hypertension due to congenital heart disease? [J]. Pediatric Cardiology, 2018,39(4):1-8.
+[16]	SANTO L S D, ROMANO G P, MAIELLO C, et al. Perioperative myocardial injury in adult heart transplant : determinants and prognostic value[J]. PLoS One , 2015 , 10(5): e0120813.
+[17]	ERBEL C, TASKIN R, DOESCH A, et al. High-sensitive troponin T measurements early after heart transplantation predict short and long-term survival[J]. Transp lant International, 2013, 26 (3):267-272.
+(收稿日期：2019-03-29；修回日期：2020-01-29) (本文编辑 崔晓芳)

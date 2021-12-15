@@ -1,0 +1,47 @@
+﻿中国循证心血管医学杂志2019年12月第11卷第12期Chin J Evid Based Cardio vasc Med,December,2019,Vol.1 1,No. 12	• 1535 •
+• 综述 •
+长链非编码RNA在心脏移植免疫耐受中的研究进展
+周香君1，张烁1
+【中图分类号】R318.11	鬻翳
+【文献标志码】A	开放科学（源服务）标识码（OSID） ffH
+心脏移植是终末期心血管疾病最有效的治疗措施，而 同种异体移植排斥是影响移植物存活的主要限制因素。尽 管免疫抑制剂治疗已取得了进展，但仍有一些副作用如心 血管疾病、癌症、肾衰竭和感染等会导致移植物丢失和死 亡。因此，诱导器官特异性免疫耐受是解决问题的关键。 近年来，长链非编码RNA（ lncRNA）在心血管疾病中的研 究越来越广泛，lncRNA参与调节T细胞的发育和活化，而调 节性T细胞（Treg）可以抑制移植物排斥，参与器官移植免 疫耐受。研究发现，lncRNA可以作为心脏移植免疫耐受的 调节因子。本文就lncRNA在免疫系统中的作用及在心脏移 植免疫耐受中的研究进展做一简要综述。
+1	lncRNA的概述
+lncRNA被定义为一类长度超过200个核苷酸的非编码内 源性单链RNA，其由RNA聚合酶II转录。lncRNA可以通过核 苷酸碱基配对与DNA或RNA相互作用，或折叠成复杂的三 维结构通过高级的RNA结构与蛋白质相互作用。lncRNA可 以通过修饰转录、转录后、表观遗传和翻译水平的基因表 达，在一些生理和病理过程中发挥关键作用［1,2］。有证据表 明，lncRNA已成为癌症、心血管疾病和糖尿病等疾病中基 因表达的关键调节因子［3］。
+lncRNA在免疫系统的调控中起重要作用，包括先天性 免疫和适应性免疫。一些lncRNAs参与调节巨噬细胞、树突 状细胞、NK细胞的发育和分化。最近研究表明，lncRNA在 T细胞和B细胞的许多亚群中差异表达，lincRNA-Cox2可以 介导不同类别的免疫基因的激活和抑制［的。lncRNA在T细胞 的发育和活化中起着重要的调节作用。幼稚CD4+T淋巴细胞 在不同的细胞因子激活和诱导下分化为效应辅助性T细胞， 如Th1，Th2，Th17和Treg，从而协调免疫应答［6,7］。同样地， 幼稚CD8+T细胞分化为细胞毒性T淋巴细胞（CTL），其被 聚集到外周部位以在抗病毒防御期间提供保护［8］。许多研究 报道，lncRNA可通过结合和调节T细胞转录因子如T-bet， GATA-3，STAT4和STAT6来影响Th1/Th2细胞分化。Kanduri 等人鉴定了参与早期Th1和Th2分化的谱系特异性lncRNAs， 并通过基因本体论分析预测其预期功能，研究表明这些 lncRNAs在自身免疫性疾病的病因学中起作用［9］。事实上， 在T细胞分化过程中，lncRNAs可与谱系特异性转录因子和 细胞因子协调，作为控制CD8+和CD4+T细胞的灵活性和可 塑性的调节因子［10］。
+2	Treg与移植免疫耐受
+作者单位：1 150000 黑龙江哈尔滨,哈尔滨医科大学附属第二医 院心内科
+通讯作者：张烁,E-mail:zhangshuoemail@163.com
+doi：10.3969/j.issn.1674-4055.2019.12.33
+Treg是CD4+T细胞的特化亚群，对T细胞受体（TCR） 的刺激具有无反应性或低反应性，通过细胞间连接抑制 辅助性CD4+T细胞和细胞毒性CD8+T细胞的增殖和活化。 FoxP3是Treg的关键转录调节因子，具有FoxP3表达标志物的 Treg强烈抑制效应T细胞和记忆T细胞的增殖，从而控制外 来抗原的过度免疫应答并维持自身耐受［11-13］。Treg的生成也 是产生耐受性树突状细胞（tDC）的关键特征之一。最新研 究发现，Treg可能通过控制供体反应性T细胞的活化和扩增 来预防或延迟异种移植物的排斥，从而掩盖抗供体的免疫 应答，进而延长异种心脏移植物的长期存活［14］。近年来， CD4+CD25+FoxP3+Tregs已成为维持自身和同种异体移植物 耐受性中最有效和最重要的群体。带有治疗性Treg细胞的混 合嵌合体疗法已经在临床前期动物模型的安全性和功效方 面显示出巨大的效力。Treg治疗不仅减少了受体条件，满足 了临床广泛应用的先决条件，还产生了抑制同种异体移植 物慢性排斥的真性耐受［15］。
+3	lncRNA与心脏移植免疫耐受
+心脏移植是终末期心力衰竭的首选治疗方法。然而心 脏移植排斥反应在移植后的第一年仍然是严重的并发症， 40%的移植患者在此期间至少发生一次排斥反应［16］。此外， 心脏移植排斥反应是移植后一年内死亡率达12%的原因，也 是心脏移植物血管病变的独立危险因素［17］。此外，有证据表 明，心脏移植物血管病和恶性肿瘤仍是移植5年后患者死亡 的主要原因［18］。这也强调了长期免疫抑制的局限性，而且现 阶段免疫抑制药物治疗仍有一些致命性并发症。因此，诱 导移植免疫耐受是延长移植物存活的关键。
+研究发现，在小鼠心脏移植模型中，lncRNA-A930015D03Rik和mouse lincRNA1055在同种异体心脏移植物 和移植物浸润淋巴细胞中高表达。lncRNA-A930015D03Rik 和mouse lincRNA1055随着急性排斥反应的发展而增加， 并与Th1反应途径中最重要的分子IL-12RB1 （白介素-12 受体）呈正相关。在体外分化的Th1细胞中敲低lncRNA-A930015D03Rik和mouse lincRNA1055后,Th1细胞中IL-12RB1的表达显著抑制，证明它们可作为急性排斥反应的 新型生物标志物［19］。近来已有研究证明，耐受性树突状细胞 （tDC）能预防器官移植中的同种异体免疫排斥［20］。Wu等［21］ 研究发现，功能性lncRNA MALAT1 （肺腺癌转移相关转录 子1 ）参与心脏移植和实验性自身免疫性心肌炎（EAM）中 tDC的诱导和免疫耐受。功能上，MALAT1过表达有利于DC 转变为耐受表型；机制上，过表达的MALAT1通过细胞质中 miR155起作用来促进树突状细胞表面特异性细胞间粘附因子 3结合非整合素分子（DC-SIGN）和IL10的产生，这对于tDC 的诱导和维持以及DC-SIGN阳性亚群的更有效的致耐受功能
+・1536 •	中国循证心血管医学杂志2019年12月第11卷第12期Chin J Evid Based Cardio vasc Med,December,2019,Vol.11,No.12
+是必需的。lncRNA MALAT1是一种新型的免疫耐受调节因 子，对于一些涉及到DC的疾病具有重要的治疗意义，如移 植、自身免疫性疾病、癌症及致病性感染。Zhang等[22]研究 发现，lncRNA NEAT1 (核旁斑组装转录本1)可以作为免疫 相关疾病的治疗靶点，敲低lncRNA NEAT1可以诱导体内免 疫耐受。在EAM和心脏移植的小鼠模型中，输注敲低NEAT1 的DC可以减少炎症细胞的浸润、抑制T细胞的增殖、增加 Treg的数量；应用敲低NEAT1的DC治疗可以延长心脏移植 后小鼠的同种异体移植物的存活。Zhang等[23]在培养小鼠骨 髓来源的DC时，发现生长分化因子15(GDF15)在DC中表 达。敲除GDF15可以促进DC成熟，增强免疫应答功能，上调 环状RNA malat-1 ( circ_Malat1 )表达及激活NF- k B途径。 GDF15过表达可以增强免疫抑制/抑制分子，促进DC诱导T细 胞衰竭，增强免疫抑制基因IDO依赖性的Treg产生。在心脏 移植后的小鼠中输注GDF15处理的DC可以促进免疫耐受的诱 导。GDF15可以通过抑制circ_Malat1和NF- k B信号转导途径 以及IDO的上调导致tDC, GDF15-DC可以预防心脏移植后同 种免疫排斥并延长移植物的存活，可能作为一种新的潜在的 治疗方法。
+4	结语与展望
+近年来研究发现，lncRNAs参与胚胎发生发育、器官 功能稳态维持以及疾病发生发展等多种生理和病理过程, 一些IncRNAs在心血管疾病如心肌肥厚、心力衰竭、心肌 梗死、心脏缺血再灌注损伤和心律失常(房颤)等的发生 发展中差异表达。一些特异性IncRNAs已应用为癌症等疾 病更敏感、更便捷、更安全的生物学标志物和新型诊疗手 段。LncRNAs也是免疫细胞分化、先天免疫系统和适应性 免疫系统激活的重要调节因子，在调节免疫功能和自身免 疫中起关键作用。随着IncRNAs在同种异体心脏移植中研究 的深入，发现几种IncRNAs在心脏移植后排斥和免疫耐受中 差异表达，参与调节DC从而诱导免疫耐受，可以考虑作为 心脏移植免疫耐受的调节因子及潜在的治疗靶点。综上所 述，lncRNAs在心脏移植免疫耐受中起着重要作用，开展 IncRNAs与心脏移植后发生机制的相关研究可以为诱导心脏 移植免疫耐受和心脏移植后免疫排斥的诊疗开辟新路径。
+参 考 文 献
+[1]	He A,He S,Li X,et al. ZFAS1: A novel vital oncogenic lncRNA in multiple human cancers[J]. Cell Prolif,2019,52(1):e12513.
+[2]	Quinn JJ,Chang HY. Unique features of long non-coding RNA biogenesis and function[J]. Nat Rev Genet,2016,17(1):47-62.
+[3]	Heward JA,Lindsay MA. Long non-coding RNAs in the regulation of the immune response[J]. Trends Immunol,2014,35(9):408-19.
+[4]	Carpenter S,Aiello D,Atianand MK,et al. A long noncoding RNA mediates both activation and repression of immune response genes[J]. Science,2013,341(6147):789-92.
+[5]	Li X,Li N. LncRNAs on guard[J]. Int Immunopharmacol,2018,65: 60-3.
+[6]	Zhang Y,Zhang Y,Gu W,et al. TH1/TH2 cell differentiation and molecular signals[J]. Adv Exp Med Biol,2014,841:15-44.
+[7]	Pagani M,Rossetti G,Panzeri I,et al. Role of microRNAs and long-non-coding RNAs in CD4(+) T-cell differentiation[J]. Immunol Rev,2013,253(1):82-96.
+[8]	Gerlach C,Rohr JC,Peri e L,et al. Heterogeneous differentiation patterns of individual CD8+ T cells[J]. Science,2013,340(6132): 635-9.
+[9]	Kanduri K,Tripathi S,Larjo A,et al. Identification of global regulators of T-helper cell lineage specification[J]. Genome Med,2015,7:122.
+[10]	Ranzani V,Arrigoni A,Rossetti G,et al. Next-Generation Sequencing Analysis of Long Noncoding RNAs in CD4+ T Cell Differentiation[J]. Methods Mol Biol,2017,1514:173-85.
+[11]	Benoist C,Mathis D. Treg cells, life history, and diversity[J]. Cold Spring Harb Perspect Biol,2012,4(9):a007021.
+[12]	Waight JD,Takai S,Marelli B,et al. Cutting edge: epigenetic regulation of Foxp3 defines a stable population of CD4+ regulatory T cells in tumors from mice and humans[J]. J Immunol,2015,194(3):878-82.
+[13]	Green DR,Flood PM,Gershon RK. Immunoregulatory T-cell pathways[J]. Annu Rev Immunol,1983,1:439-63.
+[14]	Singh AK,Chan JL,Seavey CN,et al. CD4+CD25Hi FoxP3+ regulatory T cells in long-term cardiac xenotransplantation[J]. Xenotransplantat ion,2018,25(2):e12379.
+[15]	Pilat N,Granofszky N,Wekerle T. Combining Adoptive Treg Transfer with Bone Marrow Transplantation for Transplantation Tolerance[J]. Curr Transplant Rep,2017,4(4):253-61.
+[16]	Patel JK,Kobashigawa JA. Should we be doing routine biopsy after heart transplantation in a new era of anti-rejection[J]. Curr Opin Cardiol,2006,21(2):127-31.
+[17]	Stehlik J,Edwards LB,Kucheryavaya AY,et al. The Registry of the International Society for Heart and Lung Transplantation: twentyseventh official adult heart transplant report--2010[J]. J Heart Lung Transplant,2010,29(10):1089-103.
+[18]	Stehlik J,Edwards LB,Kucheryavaya AY,et al. The Registry of the International Society for Heart and Lung Transplantation: 29th official adult heart transplant report--2012[J]. J Heart Lung Transplant,2012, 31(10):1052-64.
+[19]	Gu G,Huang Y,Wu C,et al. Differential Expression of Long Noncoding RNAs During Cardiac Allograft Rejection[J]. Transplantation,2017, 101(1):83-91.
+[20]	Li H,Shi B. Tolerogenic dendritic cells and their applications in transplantation[J]. Cell Mol Immunol,2015,12(1):24-30.
+[21]	Wu J,Zhang H,Zheng Y,et al. The Long Noncoding RNA MALAT1 Induces Tolerogenic Dendritic Cells and Regulatory T Cells via miR155/Dendritic Cell-Specific Intercellular Adhesion Molecule-3 Grabbing Nonintegrin/IL10 Axis[J]. Front Immunol,2018,9:1847.
+[22]	Zhang M,Zheng Y,Sun Y,et al. Knockdown of NEAT1 induces tolerogenic phenotype in dendritic cells by inhibiting activation of NLRP3 inflammasome[J]. Theranostics,2019,9(12):3425-42.
+[23]	Zhang Y,Zhang G,Liu Y,et al. GDF15 Regulates Malat-1 Circular RNA and Inactivates NF k B Signaling Leading to Immune Tolerogenic DCs for Preventing Alloimmune Rejection in Heart Transplantation[J]. Front Immunol,2018,9:2407.
+本文编辑：李丹花，田国祥

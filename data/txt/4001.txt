@@ -1,0 +1,66 @@
+﻿当代医学 2020年2月第26卷第6期总第557期 Contemporary Medicine，Feb.2020，Vol.26 No.6 Issue No.557
+doi：10.3969/j.issn.1009-4393.2020.06.080
+--综述--
+自体心脏移植切除心脏肿瘤应用现状及技术要点
+杨洪钢1，王戈2，许文柳2
+（1.武警广东省总队医院医务处，广州 广东 510507；2.南方医科大学珠江医院心外科，广州 广东 510280）
+摘要：完整切除肿瘤组织是心脏肿瘤最根本的治疗措施。但是解剖的不可触及性和重要结构的邻近性对涉及左心系统的肿瘤切除手术 造成了巨大的挑战。常规原位心脏切除肿瘤暴露困难，难以完整切除。为解决这一解剖问题，发展了心脏移植、体外切除、心脏重建和心脏再 植等技术。本研究讨论不同方法的应用现状及进展，并描述其技术要点。
+关键词：心脏肿瘤；自体心脏移植；手术
+Cardiac autotransplantation for primary cardiac tumors: application status and technical points
+Yang Honggang1, Wang Ge2, Xu Wenliu2
+(1. Department of Medical Services, Guangdong Provincial General Hospital of the Chinese People's Armed Police Force, Guangzhou, Guangdong, 510507, China; 2. Department of Cardiovascular Surgery, Zhujiang Hospital, Southern Medical University,
+Guangzhou, Guangdong, 510280, China)
+Abstract: Surgery is the fundamental method for the treatment of primary cardiac tumours. However, due to the inaccessibility of anatomy and the proximity of important structures, it is very difficult to completely resect tumours of the left atrium or left ventricle without damaging the mormal tissues. Cardiac autotransplantation for the rescection of cardiac tumours is carried out by taking out the heartfrom the body, resecting cardiac tumours, and then transplanting the heart back into the body. This article will discuss the present situation and progress ofcardiac autotransplantation, and describe technical points of the operation.
+Key words: Cardiac tumors; Cardiac autotransplantation; Surgery
+1	原发性心脏肿瘤
+1.1	心脏肿瘤流行病学 心脏肿瘤是一种少见的心脏疾 病，发病率为0. 0017%〜0. 03%,可分为原发性肿瘤和继发性 肿瘤。原发性心脏肿瘤更为罕见，其中良性肿瘤约占75%， 近50%为良性心房黏液瘤，其他良性肿瘤为脂肪瘤、乳头状 弹力纤维瘤和横纹肌瘤。恶性肿瘤约占25%，最多的为未分 化肉瘤，其次为血管肉瘤、横纹肌肉瘤、淋巴瘤等［1-3］。
+1.2	心脏肿瘤诊断措施 随着超声影像学的发展，心脏肿 瘤的诊断并不困难。经胸超声心动图由于其便携性、广泛 性、无辐射和低成本的特点，非常适合作为最初的诊断手 段［4］。与超声心动图比较，CMR在心脏肿瘤表征方面的优势 有视野大、空间分辨率高、组织表征好、衰减小、可在任意平 面成像［5］。原发性和继发性心脏肿瘤在超声心动图和CMR上 具有特殊的特点。3D打印技术对于细化了解肿瘤的大小、 位置和毗邻情况显现出极大的优势［6］，见图1。
+1.3	心脏肿瘤临床症状 心脏肿瘤的临床症状取决于肿瘤 的大小和位置，包括①由于心内血流受阻或瓣膜功能受损而 导致的心力衰竭；②肿瘤碎片栓塞；③传导系统浸润导致传
+图1	31）打印显示心脏肿瘤大小位置及毗邻关系
+导异常；④全身症状。化疗和放疗已被使用，但在缓解症状 或延长生存期方面不如手术成功［2］。手术切除是治疗原发 性心脏肿瘤的根本措施。手术研究表明，局部复发往往在转 移性疾病发生前就导致死亡，接受完整切除和辅助化疗的原 发性心脏肉瘤患者的预期寿命是未接受手术的患者的两倍。 显然，在这种情况下，手术的目的应该是完全切除肿瘤以维
+资助项目：广东省医学科学技术研究基金项目（A2017382）
+通讯作者：王戈，E-mail ：573116671@qq. com
+— 192 —
+当代医学 2020年2月第26卷第6期总第557期 Contemporary Medicine，Feb.2020，Vol.26 No.6 Issue No.557
+持正常的心功能［3,7-9］。
+1.4	心脏肿瘤手术 心脏肿瘤手术入路完整切除心脏肿瘤 的成功与否取决于①肿瘤的局部侵袭性;②解剖位置;③肿 瘤的手术可及性［7］。对于原发性心脏肿瘤的切除，有3种可 行的手术入路。第一种方法是外科医生将心脏留在原位，通 过标准的二尖瓣或左心房入路切除左室或左房肿瘤，但手术 后常有局部复发［10-12］。第二种方法是标准的原位心脏移植。 虽然这种方法提供了完全切除的最佳可能性，但除了终生免 疫抑制外，还需要使用一个稀有的供体器官，供体器官可能 会引发一系列并发症，而且供体器官对剩余恶性肿瘤的发展 演变的影响也不得而知［13-15］。第三种方法是自体心脏移植。
+2	自体心脏移植
+2.1 应用现状 心脏自体移植是针对左心系统原发性心脏 肿瘤开发的，目的是建立一种新型的手术入路方法，在解剖 困难的区域完成肿瘤切除和心脏重建，从而消除对供体器官 的需要以及原位心脏移植后所伴随的免疫抑制［16-18］。
+自体心脏移植曾作为早期动物实验的一部分，人类自体 心脏移植术首先应用于治疗Prinzmetal’s心绞痛，由于并 发症和死亡率高而摒弃。1985年Cooley医生首次采用心脏 自体移植术用于原位心脏无法切除左房巨大嗜铬细胞瘤患 者，虽然手术在技术上完成了，但患者因血管神经内分泌肿 瘤而发展成严重的凝血障碍，随后死亡［19］。但是这一最初的 经验为Reardon和他的同事首次成功的自体心脏移植治疗 原发性心脏恶性肿瘤提供了信心。1987年Reardon与其同 事成功完成第1例自体心脏移植术治疗左房原发性恶性肿 瘤［20］。美国贝勒医学院附属卫理公会医院心脏中心乂1 -chael J团队自1998年4月至2013年对34例复杂左房或左 室腔内心脏肿瘤患者实施了心脏自体移植心脏移植+体外肿 瘤切除+心脏重建术，并对肿瘤组织学，手术记录，医院数据， 病理报告，发病率，以及短期和长期死亡率相关数据进行分 析。研究表明尽可能的全切除心脏肿瘤可以提高患者生存 率，而心脏自体移植恰好是完整切除复杂左心系统心脏肿瘤 的一种非常可行有效的技术。该技术有较大可能安全治疗 以往原位心脏肿瘤切除手术后复发的患者，显著提高这一系 列患者的总生存率，获得较低的手术死亡率［21］。韩国国立大 学医学院长垣医院心胸外科报告了一位53岁女性因心脏肿 瘤引起呼吸困难的罕见病例。术前进行评估，心脏肿瘤起源 于左心房后壁（大小约6. 2 cmX4. 2 cmX3. 3 cm）。2007年6 月患者在该院接受心脏自体移植手术（心脏移植、体外肿瘤 切除、心脏重建），成功地完成了复发肿瘤的完全切除，术后 无重大并发症。术后21个月患者身体状况良好，证实心脏 自体移植是一种安全可行的完全切除复杂左心房肿瘤的技 术［22］。2017年我国八一儿童医院周更须教授团队对1例2 岁幼儿成功实施了国内首例也是唯一1例幼儿自体心脏移 植术下心脏肿瘤切除术，同样也取得了满意预后［23］。
+各心脏中心在心脏移植、复杂先天性缺损重建、瓣膜重 建等项目中积累的知识和经验，以及在心肌保护方面的改
+进，促进了心脏自体移植的发展。
+2.2 技术要点 自体心脏移植与标准原位心脏移植在几个 技术细节上有所不同。首先，右心房吻合术必须以双腔方式 进行，以保护冠状窦。第二，与标准的原位心脏移植不同（在 原位心脏移植中，多余的组织可以留在受者体内，多余的组 织可以从供者处获得，以便进行裁剪），自体心脏移植中的心 脏切除必须精确，在切除过程中必须小心保存冠状窦等重要 结构。此外，再植线占用组织和收缩心脏。由于没有多余的 组织可供裁剪，心脏切除和重建变得更加复杂。
+体外循环和自体心脏移植的插管与标准技术略有不同。 远端升主动脉可按常规方式插管进行动脉回流。然而，静脉 插管必须以允许双腔切除和再吻合的方式进行。因此，通 过将心包沿上腔静脉与无名静脉分开来动员上腔静脉。这 使得上腔静脉的暴露和直接插管成为可能，至少有1W的 腔静脉组织留在插管下方进行分离和再吻合。下腔静脉插 管和重建往往是最有问题的。下腔静脉应从膈肌附着处移 动，以使低导管进入前外侧下腔静脉。在套管与右心房之间 留置至少1cm下腔静脉，进行分割重建。当分割时，这个区 域收缩，因此，应在下腔静脉保留尽可能多的组织用于心脏 的再植。
+由于低龄低体质量患儿心脏小、血管细、组织菲薄，手术 操作更为艰难。故对于低龄低体质量的心脏肿瘤患儿实施自 体心脏移植需要强调以下技术细节:①建立体外循环，升主动 脉插管在近头臂干处；上腔静脉插管在上腔静脉与无名静脉 交汇处，保证置管后近端至少留有1 cm长度上腔静脉组织以 便分离和再吻合。下腔静脉必须从膈肌附着部游离以便能从 低位下腔静脉的前侧壁插管。从插管处至右房至少应保留约 1 cm长度下腔静脉组织以供分离和再植。②切除心脏，主动 脉、上下腔静脉分别在上述位置横断，注意避免损伤窦房结； 肺动脉在近肺动脉分叉处横断；左心房的切开是难点，先以直 角钳经卵圆孔探入左心房，在右上肺静脉开口处顶部顶起，以 此为标记切开左心房，后沿此水平分别以另三个肺静脉开口 顶部为标记点，将左心房小心切开，注意缝制标志线标记左上 肺静脉开口位置，以便吻合时避免扭曲。③植入心脏，以切除 时留置的左上肺静脉标记点开始缝合，以左上、左下、右下、右 上肺静脉，以及左上、右上肺静脉为顺序连续缝合，关闭左心 房。之后依次吻合主动脉、下腔静脉，开放主动脉减少阻断时 间。最后吻合上腔静脉及主肺动脉［24］。
+3	结论
+综上所述，自体心脏移植术主要适用于无法常规手术切 除的良性或者恶性心脏肿瘤，巨大左心房施行减容手术治疗 房颤，以及对复杂性先天性心脏病实行修复手术，甚至可以 对左心室破裂进行修补等。该手术方式相对复杂，其困难程 度甚至超过常规心脏移植手术，需要术者具有良好的心脏移 植技术基础以及超声、放射、麻醉、监护、护理等团队的密切 配合，以便迅速建立诊断、明确针对每个患者的个体化治疗 策略，应在有经验的心脏中心开展这项技术。
+193
+当代医学 2020年2月第26卷第6期总第557期 Contemporary Medicine，Feb.2020，Vol.26 No.6 Issue No.557
+参考文献
+[1]李新民，张仁福.原位自体心脏移植治疗原发性心脏恶性肿瘤仃]. 辽宁医学杂志,2004,18(4):208-209.
+[2]刘冀东.自体心脏移植治疗原发性心脏恶性肿瘤仃].国外医 学,心血管疾病分册,2003,30(3):191-192.
+[3]周更须.自体心脏移植切除心脏肿瘤1例J].中华心脏与心 律电子杂志,2017,5(2):128.
+[4]	胡岳秀,熊剑秋,汪露,等.心脏瓣膜置换左心房减容原位自体 心脏移植术患者的护理J].解放军护理杂志，2014, 31(10): 53-54,70.
+[5]	张恒,苗齐,段文利.心外科成功施行一例原位自体心脏移植 手术J].协和医学杂志,2011,2(1):14.
+[6]	Syed T, Hussain, Edgardo Sepulveda, et al. Success -ful re-repeat resection of primary left atrial sar -coma after previous tumor resection and cardiac autotransplant procedures[J]. Ann Thorac Surg, 2016, 102(3):e227-228.
+[7]	张超纪,苗齐,刘兴荣,等.心脏嗜铬细胞瘤的诊断及外科治疗 (附3例报告)J].中国肿瘤临床，2008, 35(16):908-909, 913.
+[8]	宣煜龙,王东进.部分自体心脏移植术治疗巨大左心房患者手 术效果分析J].中国循环杂志,2016, 31 (12):1202-1204.
+[9]	衣涛源.风湿性心脏病同期行二尖瓣、主动脉瓣及三尖瓣置换 临床效果分析仃].中国社区医师,2018, 34 (17):82-83.
+[10]	Scheld HH, Nestle HW, Kling D, et al. Resection of a heart tumor using autotransplantation[J]. Therac-ic and Cardiovascular Surgeon, 1988,36(1):40-43.
+[11]	Novitzky D, Guglin M, Sheffleld C, et al. Cardiac autotransplantation for removal of left atrial hemangioma and a review of the literature[J]. Heart Surgery Forum, 2009,12(5):E279-E84.
+[12]	Shanda HBlackmon, Ashish RPatel, Brian ABruckner, et al. Cardiac Autotransplantation for Malignant or Complex Primary Left-Heart Tumors[J]. Tex Heart Inst J, 2008,35(3):296-300.
+[13]	Hyun Oh Park, Jun Ho Yang, Sung Hwan Kim, et al. Autotransplantation of the Heart for Recurrent Inflammatory Myofibroblastic Tumor[J]. J Korean Med Sci, 2017,32(9):1548-1551.
+[14]	James S Gammie, A Reza Abrishamchian, Bartley P Griffith, et al. Cardiac Autotransplantation and Radical Bi-Atrial Resection for Recurrent Atrial Myxoma[J]. Ann Thorac Surg, 2007,83(4):1545-1547.
+[15]	Fujun Cheng, Zhiyong Yang, Jing Zeng, et al. Anesthesia management of modified ex vivo liver resection and autotransplantation[J]. Ann transplant, 2018,23:274-284.
+[16]	Christina Y Miyake, Pedro J Del Nido, Mark E Alexander, et al. Cardiac tumors and associated arrhythmias in pediatric patients, with observations on surgical therapy for ventricular tachycardia[J].
+J Am Coll Cardiol, 2011,58(18):1903-1909.
+[17]	Wagner S, Hutchisson B, Baird MG, et al. Cardiac explantation and autotransplantation[J]. AORN J,
+1999,70(1):99-100.
+[18]	Conklin LD, Reardon M. Autotransplantation of the heart for primary cardiac malignancy: development and surgical technique[J]. Tex Heart Inst J, 2002,29 (2):105-108.
+[19]	Wu JT, Frazier OH, Nasser MM, et al. A novel surgical approach to cardiac autotransplantation in complex cardiac sarcoma resection[J]. Innovations, 2010,5(5):364-368.
+[20]	Andrushchuk U, Ostrovsky Y, Zharkov V, et al. Surgery for massive malignant tumors of the left atrium - One center's experience[J]. Kardiochirurgia i Torakochirurgia Polska, 2016,13(3):229-235.
+[21]	Dlenc J, Jelenc M, Dimitrovska L, et al. Cardiac autotransplantation and extracellular matrix patch reconstruction for a left atrial sarcoma[J]. J Card Surg, 2017,32(2):95-96.
+[22]	Palaskas N, Thompson K, Gladish G, et al. Evaluation and management of cardiac tumors[J]. Curr Treat Options Cardiovasc Med, 2018,20(4):29.
+[23]	Tomoki Sakata, Mitsuru Nakaya, Masayoshi Otsu, et al. Autologous pericardial patch repair for papillary fibroelastoma on an aortic valve leaflet[J]. Tex Heart Inst J, 2017,44(2):144-146.
+[24]	Yuhang Liu, Ning Wang, Wen Ping, et al. Resectionof a large primary left ventricle tumour by cardiac autotransplantationin a 2-month-old infant: acase report[J]. Eur Heart J, 2019,15(3):13-16.
+194

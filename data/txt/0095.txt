@@ -1,0 +1,73 @@
+﻿,-"
+NeoF-A I(W01y And F0(ct,’(-A Rec’(s>F0c>,’(，M-= 2014M V’A.9, N0.3
+!综述!
+脑死亡及其确认试验
+周罗，徐琳，肖波
+作者单位 中南大学湘雅医院 神经内科 长沙 410008 收稿日期
+2"#4%"2%2‘
+摘要 脑死亡的诊断对于临床治疗"医学伦理"器官捐献和移植等方面有重要意义#多个国家和地区均有相 关的法律和诊断标准#深昏迷"脑干反射消失"自主呼吸停止是脑死亡评估的重要临床表现#许多辅助诊断 检查如经颅多普勒、脑电图、诱发电位、头部＜?血管造影（CTJ、弥散张量成像（8DL、正电子发射断层显 像（PE?等被用于脑死亡诊断的确认试验#本文对脑死亡的概念及相关确认试验的进展作一综述# 关键词 脑死亡；临床诊断；辅助诊断；确认试验
+中图分类号 RH41 文献标识码 A !"# !"#$%&"’（）（（*）+,"!-#"$#",$
+通讯作者 肖波
+;,-’V’*;=.#2‘.c’@
+# 脑死亡概念
+1968年哈佛大学医学院首次提出脑死亡概念， 指出脑死亡的诊断标准包括不可逆深昏迷"自主肌 肉及呼吸运动消失"脑干反射消失"脑电图示脑电 波平直等，一经提出便引起世界广泛关注囚。同年， 日本脑电图协会在本国首例心脏移植病例成功之 后，亦宣布脑死亡是指包括脑干"大脑在内的脑部 功能不可恢复损伤，并于19H4年对严重急性原发 脑损伤提出脑死亡诊断标准，包括：深昏迷，呼吸停 止，双侧瞳孔散大，瞳孔及角膜反射消失，持续性低 血压及等位脑电图等久19H6年英国皇家医学院提 出的脑死亡的诊断标准在深昏迷基础上，进一步将 脑干功能永久丧失作为临床评估的最重要因素久 2"世纪H"年代，我国开始了脑死亡的理论研讨与 临床实践，分别在1986年"1989年"1999年于南 京"上海和武汉制定类似脑死亡诊断标准（草案）， 中华人民共和国国家卫生和计划生育委员会于 2"13年9月颁布新的脑死亡判断标准与技术规范 （成人）#半世纪以来，加拿大"瑞士"我国台湾等多 个国家及地区均制定了脑死亡相关诊断标准及法 律并逐年反复进行修订久脑死亡的诊断标准对于 临床治疗策略"医学伦理"医疗资源分配"减轻经济 负担"器官捐献和移植等方面都有重要意义#
+迄今，脑死亡的定义在世界各国有所差异，目 前仍被广泛接受的是美国神经病学会Amedcan Academy of NeoroA’）=M ANN 于 199_ 年提出的脑 死亡实践诊断标准，其中昏迷（病因明确）"脑干反 射消失"自主呼吸停止被认为是全脑功能不可逆丧 失的3个必要临床表现，各国家和地区的脑死亡诊 断标准大都以此为参考#在Gelb等冈对纽约多个医 院累计1229例成人和82例儿童脑死亡的评估中， 临床评估为脑死亡的病例均未见神经功能恢复#
+脑死亡可作为个体死亡的标志，因此临床医生 对脑死亡的诊断需严格"谨慎，标准化诊断过程包 括:①先决条件（the prerequisites，排除各种可逆性 昏迷原因，如镇静剂"电解质紊乱等；格拉斯哥昏迷
+床评估（the clinical evaluation），是否存在深昏迷、脑 干反射消失、自主呼吸停止等脑功能不可逆丧失的 重要临床表现。③辅助检查（the ancillary testE，多种 辅助检查手段被用于神经重症患者脑死亡的确认 诊断。④病历记录（documentation，记录患者脑死亡 确切时间，并予以复查出71#脑死亡目前在各国各地 区的临床评估除呼吸暂停试验存在差异外，其余临 床评估方式均相似或相同#
+随着当代医学技术迅速发展，对于一些复杂的 神经重症病例，不能仅凭临床经验进行确诊，各种 辅助检查对脑死亡的临床确诊有一定价值#其中包 括：经颅多普勒（transcranial doppler, ?C8、脑电图 （electroencephalo）ram，EEG、诱 发电位（evoked potential、头部 C?血管造影（C? an）io）raphy， C?A、弥散张量成像（diffusion zei）hted imaging, DDL）、正电子发射断层显像（positron emission tomography，PE? 等#
+2 脑死亡的确认试验
+2.1 ?CD
+?CD直接监测是否存在脑循环停止（cerebral circulatory arrest，CCA ，对脑死亡的判定有较高敏 感性和特异性#因其无创"经济"迅速"可重复"不受 药物影响"可在床旁开展等优点，在世界各国被用 于脑死亡判定的确认试验#目前常用210 4Hz脉冲 波多普勒探头对大脑中动脉"椎动脉"颈内动脉以 及基底动脉血流信号进行探测#振荡波"钉子波"无 血流信号3种频谱组合被认为是不可逆CCA的诊 断标准# 4arinoni等网在意大利对_6例脑死亡患者 的检查中，26例在初次?CD的评估中即被确认脑 死亡；监测到震荡波33例，监测到钉子波23例# Brunser等四研究表明TCD对脑死亡诊断的敏感性、 特异性、阳性及阴性率达到100%、96%、96.1%及 100%,肯定了 TCD在脑死亡诊断中的作用。另有研 究显示,TCD对因外伤、蛛网膜下腔出血、脑卒中导 致严重脑功能受损的患者,61%可在2h内得到确
+（C）1994-2021 China量表（Glasgow coma scale, GCS）评分为3分。 "临	诊，在时间效率及可行性上相对于C?A、脑血管造
+神经损伤与功能重建！ 2014年5月！第9卷！第3期
+!"#
+影、核医学造影等有明显优势四# TCD目 前是各国脑死亡诊断中最为广泛用于 CCJ判断的辅助检查，有学者认为在2 次连续评估中，在基底动脉和双侧大脑中 动脉均监测到]种特异的频谱，对CCJ 及脑死亡的诊断有重要意义\#口。但是TCD 亦存在缺点，其结果准确性依赖于检查医 师的临床经验和超声医学专业知识，且监 测窗较少#
+212 aa7
+EEG呈等电位，即显示平坦直线型 （脑电波幅！2 !bB@@或消失频谱是脑 死亡患者特征之一,EEG对深昏迷患者 大脑皮质电生理的监测相对安全#随着科 技发展，各种可移动便携的脑电图仪为脑 死亡的监测提供了条件。在Tavak’Ai等四 对89例临床评估为脑死亡的患者首次进 行2" min时长的EEG检查中，仅有7例 检测到脑电活动,6 S后再次进行EEG检 查，均为等电位脑电，为脑死亡确诊提供 了依据#在Vicenzini等"对脑死亡患者 的观察中，相比于脑血流量评估、脑血管 造影、甚至TCD,EEG首次监测到等位脑 电即可确认脑死亡，缩短了诊断时间#但 对于EEG在脑死亡的诊断，亦有不少学 者持怀疑态度# GFigg等蟀对严重脑功能 受损患者的EEG检查显示，部分经临床 评估为脑死亡的患者出现低幅（$" 2" !V "或#脑电波、睡眠样脑电波以及 $样脑电波，但这些患者最后却均确诊为 脑死亡# EEG并没有直接提供脑干功能 的信息，部分脑干功能尚保留的患者也可 呈现等位脑电；在使用镇静药物、中毒、电 解质平衡或酸碱平衡代谢紊乱等相关疾 病伴发神经系统表现的重症患者中，EEG 结果可靠性低#另外，噪音、电凝、机器震 荡等人为因素也会影响EEG结果，造成 在脑死亡患者EEG出现假阳性脑电活 动#多次重复的确认试验检查延长了脑死 亡诊断时间，给器官移植等医疗途径带来 不便，以至于在一些国家和地区，EEG并 非脑死亡确诊的首选辅助检查\#]m#_#部分 学者在我国上海华山医院应用独立成分 分析 Gndependent component analysiE 的 方法，通过线性转换将EEG各个通道的 信号单独分析，在脑死亡诊断中被证实能
+规模临床验证的#
+21] 诱发电位
+目前各国脑死亡标准普遍认为脑干 功能不可逆丧失是判断脑死亡最重要的 因素#诱发电位通过刺激特定的神经传导 通路，可直接反应脑干功能，同时也不受 镇静剂、代谢紊乱、低体温等因素影响，因 此在脑死亡诊断的确诊试验中具有一定 优势#目前常用于脑死亡的诱发电位检查 有短潜伏体感诱发电位（short Aantency somatosens’Fy evoked potential，SLSEY 和 脑干听觉诱发电位（brainstem aoditory evoked potential, ：JEY # SLSEP 电极和 刺激位点的选择对波形成分有较大影响， 常用的是刺激正中神经的SLSEP，以N9、 N13、P13/P14、N18 和 N2"#P2_ 等波形 代表臂丛、颈髓、延髓下段、延髓楔状核和 皮质感觉区的电位活动。如果N9、N13等 周围神经电位存在，反映高级中枢的 P13/P14、N18和N2"$P2_电位活动消失 则是脑死亡的表现#在排除听觉系统功能 障碍的前提下，在BAEP仅检测到L波， 或各波均消失，可支持脑死亡诊断口H#在 Tacco等国的研究中，将SLSEP和：AEP 联合用于#3"例临床评估为脑死亡患者 的检查，有6例在：AEP检测到V波或 LLL波,4例的SLSEP在P14或N18存在 电位活动，两者联合诊断后，排除7例脑 死亡患者，避免了脑死亡的临床误诊#在 另一项：AEP应用于3"例GCS为3分， 临床评估考虑脑死亡的患者检查中，26 例：AEP支持脑死亡诊断的患者最后均 未恢复,说明：AEP用于脑死亡诊断具有 较高的灵敏度和特异性，阳性预测率达到 100%喙
+214 C?A
+数字减影血管造影（digital S0btraction angiography，8SA 被认为是 脑死亡诊断辅助检查中的$金标准%，在大 脑前循环颈内动脉虹吸段以及后循环枕 骨大孔以上无血流信号，可支持脑死亡诊 断，但8SA耗时较长，技术难度较大，且 费用不菲，不利于临床工作的开展#相对 于传统的血管造影检查,CTA作为一项 非侵入性的检查，对观察脑血管血流灌注 有广阔前景#在Gieke等州的研究中，以
+标准诊断脑死亡,CTA对其诊断的敏感 性达到75.9%# ：erengoer等8对临床评估 为脑死亡的患者行C?A与核医学脑血管 造影并对比，证实C?A在确诊脑死亡上 迅速高效，且无假阴性结果#亦有学者提 出将C?A和C?灌注成像（CT per/usion， C?P 联合用于脑死亡患者的确诊辅助试 验,以此提高诊断的阳性率和特异性四"#
+2.5 8DL
+8DL目前惟一能够检测活体组织内 水分子扩散运动的无创方法，DDI对脑 部缺血缺氧导致的细胞毒性水肿具有较 高敏感性，表观扩散系数（apparent di//usion coe//ecient，A8C 常用于检查超 早期的脑缺血，在一些国家和地区亦用于 脑死亡的辅助诊断。土耳其Selcuk等国的 研究中，22例符合脑死亡临床标准的患 者在8DI上，小脑、顶叶、枕叶、颞叶、额 叶、脑桥、丘脑、基底神经核的灰质和白质 的A8C值较正常组均明显降低，对脑死 亡诊断的特异性、灵敏度和阳性及阴性预 测率均达到100%#德国Luchtmann等约 对18例脑死亡患者的14个脑区行8DI 检查，有2例出现正常生理范围的A8C 值，可能原因为脑损伤的起始时间对 8DI结果影响，出现假正常值，提出8DI 在脑死亡诊断存在一定限制# 8DI目前 在我国脑死亡诊断中的报道非常少见#
+2.6 PET
+PET被认为是核医学发展史上的里 程碑，是目前世界范围最为先进的核医学 影像技术#PET常用的放射示踪剂为F-18 氟代脱氧葡萄糖（FDG，通过示踪剂在糖 代谢过程中在脑部的聚集，反映生命活动 情况#日本4omose等\组于1992年在世 界上首次将PET用于3例深昏迷无自主 呼吸的重症患者头部扫描，在静态和动态 扫描相中均未见F8G聚集，提示支持脑 死亡诊断# 1996年美国MeyeF27报道了将 PET 用 于创伤后闭合性损伤 posttraumatic closed%head inWury 患者，最 终确认脑死亡#比利时于2001年颁布了 PET用于脑死亡诊断的临床指南,肯定了 PET在脑死亡诊断中的作用⑶# Prior等回 在2010年报道在瑞士将PET用于一位 霍奇金淋巴瘤伴纵膈转移患者的脑死亡
+够有效减少混杂因素，但其推广还有待大在CTA静脉相上检测到脑血流终止作为	诊断，为器官捐献和移植创造了条件。但
+!"!
+NeoF-A I(W01y And F0(ct,’(-A Rec’(s>F0c>,’(，M-= 2014M V’A.9, N0.3
+PET费用高，技术难度大，目前只在一些 发达国家有用于脑死亡诊断的报道#
+3 展望
+尽管存在文化"地域以及经济基础各 方面差异，脑死亡因涉及诸多因素，历来 是各国家重症医学的研究热点，随着当代 医学科技的发展，各项辅助确认试验对脑 死亡的诊断提供了可靠的依据#在我国 2"#3年新发布的脑死亡判断标准与技术 规范(成人)中指出：先决条件需排除可逆 性脑死亡；临床评估中深昏迷"脑干反射 消失"自主呼吸激发试验证实呼吸停止3 个要素缺一不可；至少执行SLSEP、EEG 和TCD中的2项确认试验；且在12S后 予复查仍符合脑死亡标准的患者可以支 持脑死亡诊断#我国关于脑死亡的相关条 例也在紧急筹备中#相信在未来，脑死亡 的概念及辅助诊断技术会随医学知识更 新而在世界范围不断进步#
+参考文献
+[1] A definition of irreversible coma. Repoit ’/ >S2 Ad R’c C’@@,>>22 ’/ >S2 R-F5-Fd 4edic-A ScSooA to E;-mine tSe 8efinition of :r-in 8e-tS\l]. lA4AM 19‘gM 2"_X 33H%34".
+\2] T-[e0cSi j. EvoA0tion of criteri- for determin-tion of br-in de-tS in l-p-n \l]. Act-Ne0rocSir pDien9M 199"M 1"_X g2%g4.
+\3] 8LAGN6SLS 6T :RALN 8EATRX St-tement iss0ed b= tSe Ronor-r= Secret-r= of tSe Conference of 4edic-A Ro=-A CoAAe)es -nd tSeir T-c0Aties in tSe Knited jin)dom on 11tS 6ctober 19H‘ \l]. Ann R CoAA S0r) En)AM 19HHM _9X 1H"%1H2.
+\4] RsieS ST. :r-in de-tS ZorAdZideX -ccepted f-ct b0t no )Aob-A consens0s in di-)nostic criteri-\l]. Ne0roAo)=M 2""‘M ‘HX 919. \_] GeAb 8l. Second br-in de-tS e;-min-tion m-= ne)-tiveA= -ffect or)-n don-tion \l]. Ne0roAo)=M 2"11M HHX 1314%131_.
+\‘] leret lS. Evidence%b-sed )0ideAine 0pd-teX 8eterminin) br-in de-tS in -d0AtsX report of tSe P0-Ait= St-nd-rds S0bcommittee of tSe Americ-n Ac-dem= of Ne0roAo)=\l]. Ne0roAo)=M 2"11M H‘X 3"H%3"g.
+\H] Scrip[o P8M Greer 84. An 0pd-te on
+br-in de-tS criteri-X - simpAe -A)oritSm ZitS compAe; +0estions \l]. Ne0roAo)istM 2"11M 1HX 23H%24".
+\g] 4-rinoni 4M AA-ri TM 4-stron-rdi bM et -A. TSe reAev-nce of e-rA= TC8 monitorin) in tSe intensive c-re 0nits for tSe confirmin) of br-in de-tS di-)nosis\l]. Ne0roA SciM 2"11M 32X H3%HH.
+\9] :r0nser AM Roppe AM C-rc-mo 8AM et -A. b-Aid-tion of tr-nscr-ni-A 8oppAer in tSe di-)nosis of br-in de-tS\l]. Rev 4ed CSiAM 2"1"M 13gX 4"‘%412.
+\1"] Lovrencic%R0dW-n AM b0[ovic bM Gopcevic AM et -A. Tr-nscr-ni-A 8oppAer in br-in de-tS confirm-tion in cAinic-A pr-ctice \l]. KAtr-scS-AA 4edM 2"11M32X ‘2%‘‘.
+\11] Se)0r- TM C-AAeW- SM Lrimi- PM et -A. Recommend-tions for tSe 0se of tr-nscr-ni-A 8oppAer 0Atr-sono)r-pS= to determine tSe e;istence of cerebr-A circ0A-tor= -rrest -s di-)nostic s0pport for br-in de-tS \l]. Rev Ne0rosciM 2""9M 2"X 2_1%2_9.
+\12] T-v-[oAi SAM jSod-d-di AM Adimi SARM et -A. EEG -bnorm-Aities in cAinic-AA= di-)nosed br-in de-tS or)-n donors in Lr-ni-n tiss0e b-n[ \l]. Act- 4ed Lr-nM 2"12M _"X __‘%__9.
+\13] bicendini EM Pro SM P0Ait-no PM et -A. C0rrent pr-ctice of br-in de-tS determin-tion -nd 0se of confirm-tor= tests in -n Lt-Ai-n Kniversit= Sospit-AX - report of ‘‘ c-ses \l]. 4inerv-AnestesioAM 2"13M H9X 4g_%491.
+\14] Gri)) 44M jeAA= 4AM CeAesi- GGM et -A. EAectroencepS-Ao)r-pSic -ctivit= -fter br-in de-tS\l]. ArcS Ne0roAM 19gHM 44X 94g%9_4.
+\1_] jomp-nWe ElM Ep[er lLM de Groot NM et -A. 8etermin-tion of br-in de-tS in or)-n don-tionX is EEG re+0ired \l]r Ned TiWdscSr Genees[dM 2"13M 1_HX A‘444.
+\1‘] Rori GM C-o l. SeAectin) EEG components 0sin) time series -n-A=sis in br-in de-tS di-)nosis \l]. Co)n Ne0rod=nM 2"11M _X 311%319.
+\1H] D-n) jM N0-n NM o0 mPM et -A. :enefits of combin-tion of eAectroencepS-Ao)r-pS=M sSort A-tenc= som-tosensor= evo[ed potenti-AsM -nd tr-nscr-ni-A 8oppAer tecSni+0es for confirmin) br-in de-tS \l]. l mSeWi-n) Kniv Sci :M 2""gM 9X 91‘%92".
+\1g] T-cco EM 40n-ri 4M G-AAo TM et -A. RoAe of sSort A-tenc= evo[ed potenti-As in tSe di-)nosis of br-in de-tS \l]. CAin Ne0ropS=sioAM 2""2M 113X 1g__%1g‘‘.
+\19] l-rdim 4M Person 6CM R-poport P:.
+:r-instem -0ditor= evo[ed potenti-As -s -metSod to -ssist tSe di-)nosis of br-in de-tS \l]. Pro TonoM 2""gM 2"X 123%12g.
+\2"] Rie[e AM Re)Ai :M 4-ttAe RPM et -A. Comp0ted tomo)r-pS= -n)io)r-pS= pCTA9 to prove circ0A-tor= -rrest for tSe di-)nosis of br-in de-tS in tSe conte;t of or)-n tr-nspA-nt-tion \l]. SZiss 4ed D[A=M 2"11M 141X Z132‘1.
+\21] :eren)0er C4M 8-vis TEM RoZin)ton lK. :r-in de-tS confirm-tionX comp-rison of comp0ted tomo)r-pSic -n)io)r-pS= ZitS n0cAe-r medicine perf0sion sc-n \l]. l Tr-0m-M 2"1"M ‘gX __3%__9.
+\22] :oS-t=reZicd RM S-Zic[i 4M D-Aec[- AM et -A. Comp0ted tomo)r-pSic -n)io)r-pS= -nd perf0sion in tSe di-)nosis of br-in de-tS \l]. Tr-nspA-nt ProcM 2"1"M 42X 3941%394‘.
+\23] Esc0dero 8M 6tero lM 4-r+0es LM et -A. 8i-)nosin) br-in de-tS b= CT perf0sion -nd m0AtisAice CT -n)io)r-pS= \l]. Ne0rocrit C-reM 2""9M 11X 2‘1%2H1.
+\24] SeAc0[ RM AAb-=r-m SM T0reci EM et -A. 8iff0sion%Zei)Sted im-)in) findin)s in br-in de-tS\l]. Ne0ror-dioAo)=M 2"12M _4X _4H%__4.
+\2_] L0cStm-nn 4M :ern-rdin) lM :e0in) 6M et -A. Controversies of diff0sion Zei)Sted im-)in) in tSe di-)nosis of br-in de-tS \l]. l Ne0roim-)in)M 2"13M 23X 4‘3%4‘g.
+\2‘] 4omose TM NisSi[-Z- lM D-t-n-be TM et -A. CAinic-A -ppAic-tion of 1gT%T8G%PET in p-tients ZitS br-in de-tS \l]. j-[0 L)-[0M 1992M 29X 1139%1142.
+\2H] 4e=er 4A. Ev-A0-tin) br-in de-tS ZitS positron emission tomo)r-pS=X c-se report on d=n-mic im-)in) of 1gT%fA0orodeo;=)A0cose -ctivit= -fter intr-veno0s boA0s inWection \l]. l Ne0roim-)in)M 199‘M ‘X 11H%119.
+\2g] b-nder :TM L-Ao0; PM 4-es AM et -A. G0ideAines for br-in r-dion0cAide im-)in). Perf0sion sin)Ae pSoton comp0ted tomo)r-pS= pSPECT9 0sin) Tc%99m r-diopS-rm-ce0tic-As -nd br-in met-boAism positron emission tomo)r-pS= pPET9 0sin) T%1g fA0orodeo;=)A0cose. TSe :eA)i-n Societ= for N0cAe-r 4edicine \l]. Act- Ne0roA :eA)M 2""1M 1"1X 19‘%2"9.
+\29] Prior l6M 80cSos-A 4AM ScSmidt SM et -A. Absence of resid0-A Rod)[inns dise-se demonstr-ted b= PETBCT in - dece-sed or)-n donor\l]. Tr-nspA LntM 2"1"M 23X 1"1%1"4.

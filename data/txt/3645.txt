@@ -1,0 +1,42 @@
+﻿中华器官移植杂志 2007 年 10 月第 28 卷第 10 期 Chin J Organ Transplant,October 2(X)7,Vol 28,No. 1()
+• 628 •
+细胞是一个十分有效的表面标志.这种观点是否与Tordj-man相矛盾？临床中是应该将NRPT作为免疫反应性的指 征还是作为免疫调节细胞的标记呢？我们认为排斥反应发 生时,Treg的比例应该是减少的，如果NRP-1是Treg的标 志，那么在发生排斥反应的组织中，NRPT阳性细胞在淋巴 细胞中的比例应该减小•本实验首次发现在移植肾发生急 性排斥反应时,NRP-1在组织中淋巴细胞上的表达率明显 低于正常组织，证实了我们的推论。从而也从一个侧面证实 了 NRP-1可作为Treg标志的正确性。
+虽然目前对于NRP-1在免疫调节中的功能了解的还不 是很清楚。但本研究进一步证实了它可作为Treg的表面标 志，这对于区分Treg、初始T细胞和活化的T细胞,对进一 步研究Treg的功能和特点均十分有价值；同时，NRP-1可 作为排斥反应诊断的辅助指标之一，通过了解移植后患者淋 巴细胞上NRP-1的表达情况,我们就可以更准确的了解患 者的免疫状态，以便做出更准确的诊断。
+参考文献
+[1]	Fujisawa H, Takagi S. Hirata T. Growth-associated expres
+sion of a membrane protein, neuropilin* in xenopus optic nerve fibers. Dev Neurosci, 1995,17( 5-6): 343-349.
+[2]	Tordjman R. Lepelletier Y. Lemarchandel V* et al. A neuronal receptor» neuropilin-1 ♦ is essential for the initiation of the primary immune response. Nature Immunol . 2(X)2, 3(5)： 477- 482.
+[3]	Bruder D. Probst-KepperM, Westendorf AM. et al. Neuropi-lin-1 ： a surface marker of regulatory T cells. Eur J Immunol* 2004, 34 (3)： 623-630.
+[4]	Becker PM, Waltenberger J» Yachechko R, et al. Neuropilin-1 regulates vascular endothelial growth factor-mediated endothelial permeability. Circ Res, 2(X)5, 96(12)： 1257-1265.
+[5]	Bachelder RE, Crago A, Chung J« et al. Vascular endothelial growth factor is an autocrine survival factor for neuroptlin-1 expressing breast carcinoma cells. Cancer Research, 2001, 61 (15)： 5736-5740.
+[6]	WlfingC» Rupp F. Neuropilin-1 ： another neuronal molecule in the "immunological synapse". Nature Immunol, 2002, 3(5)： 418-419.
+(收稿日期：2(K)6T)6-21)
+・研究报告•
+研究心脏移植患者服用环抱素A 2小时后的目标血药浓度
+贾一新李岩韩杰张海波陈阳天孟旭
+由于我国心脏移植工作起步较晚,开展数量较少，免疫 抑制方案的经验大部分是从其他器官移植工作中得来。而 且从免疫学角度来说，移植心脏要比移植肝、肾的排斥反应 程度轻微。因此,盲目借鉴其他器官移植的用药经验，可能 对心脏移植患者预后不利.另外，根据遗传药理学的原理, 黄色人种器官移植借鉴其他肤色人种器官移植的经验，也可 能存在这个问题。所以,我们设计了这个实验,以期寻找最 适合黄色人种心脏移植术后服用环加素A(CsA)2 h后的血 药浓度(G*本实验经过了首都医科大学附属北京安贞医 院器官移植伦理委员会批准，并向所有参加实验的患者详细 说明风险并签定书面同意书后实行.
+资料与方法
+1	.患者的一般情况:本组研究的27例心脏移植患者中， 男性16例，女性11例，年龄为25〜5()岁，平均(32.3 士 12. 1)岁，平均体重(52. 4 ±17. 8) kg。心脏移植患者全部采 用CsA +霉酚酸酯(MMF) +泼尼松(Pred)的三联免疫抑 制方案。术后1个月内，按5 mg/kg起始剂量给予CsA 口
+作者单位，“小叱)苜都医科大学附属北京安贞医院心外科
+服，将血药浓度C2控制于().832-0. 998 pmol/L,每例患者 MMF的剂量均为().75 g/d,分2次口服.Pred的用法及撤 离,完全依照本中心已有的经验，术后开始，逐步减量至术后 第3个月，最低剂量再维持3个月，所有患者Pred的使用量 均相同。
+2	.实验分组:心脏移植术后1个月时，将27例患者随机 分为3组，第1组9例，将CsA G控制在().499〜0.666 fimol/L；第 2 组 11 例，将 CsA Q 控制在().666 〜().832 xmol/L；第3组7例，将CsA皂控制在().832〜0. 998 fimol/L。患者服用CsA的剂量根据其G血药浓度进行调 整。患者CsAG的测定方法为在口服CsA 2 h后,抽取静 脉血,以高效液相色谱法(HPLC)进行检测。
+3	.观察项目：第3组中有1例患者因肾功能衰竭停用 CsA并行透析治疗，于心脏移植术后10个月退出实验.其 余患者的随访时间均为1年，分别于心脏移植术后第1、3、 6、9、12个月时，检测患者血压，并采集血液进行甘油三酯、 胆固醇、低密度脂蛋白、血糖、天冬氨酸转氨酶(AST)、丙氨 酸转氨酶(ALT)、尿素氮(BUN)、肌酊(Cr)等指标的检测。 所有患者在每次随诊时均行心肌内心电图、组织多普勒成像 检查,并于心脏移植术后第1个月及第9个月时行心肌心内
+中华器官移植杂志 2007 年 10 月第 28 卷第 10 期 Chin J Organ Transplant,October 20()7, Vol 28,No. 10
+膜活检(EMB),其余时间根据前两项检查结果判断是否需 要立即进行EMB来监测患者排斥反应的情况。实验终止 的条件为患者死亡、发生ISHLT 3级排斥反应或出现严重 药物不良反应。
+4	.统计学方法：本数据统计分析采用SRSS11.0软件 包,结果测定值用平均数士标准差表示，各组内不同时限的 比较及各组间相同时限的比较用t检验,P<0. 05为差异有 统计学意义.	I
+结 果
+1	.血压:每组中各有1例患者于心脏移植术后确诊为 高血压病，随访期间均给予口服血管紧张素"换酶抑制剂 (ACED作降压治疗。比较各组内不同时限及各组间相同时 限的血压，差异无统计学意义(P>0.。5).
+2	.血糖和血脂:所有患者在心脏移植术前均无糖尿病 或高脂血症。第2组有1例患者在心脏移植术后诊断为糖 尿病，须服用降糖药物治疗。第1组1例、第2组1例、第3 组2例患者在心脏移植术后诊断为高脂血症,须服用他汀类 药物治疗.比较各组内不同时限及各组间相同时限的血糖、 甘油三酯、胆固醇、低密度脂蛋白等数据，差异均无统计学意 义(P>().()5)。
+3	.肝、肾功能:第1组2例、第2组3例坪3组2例患 者于心脏移植术后6个月出现非少尿性肾功能床全，第3组 有1例患者出现急性肾功能衰竭而退出实验.比较各组内 不同时限及各组间相同时限的AST, ALT,BUN等数据，差 异均无统计学意义(P>().()5)。各组患者的血Cr浓度在心 脏移植术后均逐步升高，到第12个月时，血Cr浓度达到最 高,其中第3组升高最为显著，第1组始终保持在3个组中 较低的水平。在心脏移植术后第6个月时，患产血Cr浓度 第3组与第2组比较，差异有统计学意义;第1组与第1组 比较，差异有统计学意义()5)。见图1。
+4	.排斥反应:所有患者在每次随访时进行的心肌内心 电图、组织多普勒成像及EMB检查，均未发现ISHLT 3级 及以上的排斥反应。
+讨 论
+大量临床实验已经证明，应用CsAG监测，可以明显降 低心脏移植术后急性排斥反应的发生率，患者对药物的耐受
+• 629 ,
+性更好，副作用更少。而且G是一个已被公认的浓度-时间 曲线(AUCi)的单时点检测指标口因此，我们选用G监 测来作为免疫抑制方案的主要调整依据。CsA个体间的吸 收差异明显，在给药后4 h内吸收差异最大⑶。在心脏移植 术后的1〜2周内，多数患者对CsA的吸收可能会出现明显 变化,随着患者的一般状态、胃肠道运动、饮食等因素的改 善,CsA的吸收会逐步稳定。心脏移植患者约在术后3周达 到吸收平台期.所以我们设计该实验于心脏移植术后1个 月开始。
+目前,CsA Q的目标浓度在各国以及各器官移植中心之 间有所不同。这主要是因为以下几方面的原因：(1)辅助的免 疫抑制药物;(2)存在公认的危险因素(如HLA不匹配、PRA 阳性、再次移植等)“3)患者对药物耐受性的降低;(4)药物的 不良反应.，尤其是肾毒性;(5)心脏移植术后的时间等。在 2(X)5年出版的《G监测临床应用欧洲指南》中介绍，各国各器 官移植中心控制的CsA G目标浓度在().499 -0. 998 pmiil/L 不等，联合应用MMF或Aza应有较高的CsA G目标浓度，而 联合应用西罗莫司或依维莫司则可使CsA G目标浓度降 低⑶。在我国，由于心脏移植工作开展较晚，数量较少，缺乏 严谨、科学的大样本研究，在免疫抑制方案和CsA 6目标浓 度控制方面基本借鉴国外和国内其他器官的移植经验，而在 以往将心脏移植患者术后1年内CsA G目标浓度控制在 ().666〜().998 ；1moi/L，排斥反应发生率虽然降低，但也凸显 了患者药物耐受性和不良反应等问题。有研究表明⑷，过高 的药物浓度未必会减少排斥反应的发生，却会增加不良反应 的发生。亦有研究认为CsA岂低于().499 pmol/L,是免疫抑 制不足、排斥反应发生的预兆。因此，我们设计了本实验，试 图寻找安全有效的CsA G目标浓度。在本实验结果中发现， 中国黄色人种的严重急性排斥反应发生率较低，而药物不良 反应，尤其是肾功能损害发生率极高。这也与我们临床工作 中的数据相符。基于以上研究结果，有必要将中国黄色人种 CsA G目标浓度保持在一个相对较低的水平。本实验显示， 在心脏移植术后1年内，联合应用MMF和Pred的免疫抑制 方案中，将CsA G控制在().499〜().666 pmol/L可能是最适 宜中国黄色人种的目标浓度。
+参考文献
+f 1J Mahalati K, Belitsky P» Sketris L et al. Neoral monitoring by simplified sparse sampling area under the concent rat ion-time curve. Transplantation, 1999.68(1 )：55-62.
+[2]	Levy G. C? monitoring strategy for optimizing cyclosporine Immunosuppression. Bio Drugs.2001,15(5) ：279-290.
+[3]	Vitko S, Tedesco H, Eris J, et al. Everolimus with optimized cyclosporine dosing in renal transplantation recipients：6-month safety and efficacy result of two randomized studies. Am J T ransplant ♦ 2(M)4»4(4) - 626-635.
+[4]	Caforio AL, Tona F, Piaserico S,et al. C2 is superior to Co as predictor of renal toxicity and rejection risk profile in stable heart transplant recipients. Transpl Int,2(X)5,18( 1) ： 116-124.
+(收稿日期

@@ -1,0 +1,48 @@
+﻿中华创伤杂志第7卷第2期
+・83 •
+经颅多普勒超声对脑死亡的观察
+(4例报告及文献复习)
+河南医大附一院神经外科杨波冯祖荫
+摘要 应用经颅多普勒(TCD)超声仪动态观察了 4例临床脑死亡病例演变过程。发现4例均有相似的变 化:首先表现为大脑中动脉血流频谱切迹加深，舒张末期流速值(Vd)进行性下降，脉博指数(PI)增高;继之,Vd 消失,PI继续增高;最后出现舒张期逆向流速，形成特征性“双向TCD”波型，直至TCD信号消失，患者进入临床 脑死亡状态。说明TCD是诊断脑死亡的有用手段。
+关键词经颅多普勒超声脑死亡脑损伤
+脑死亡的诊断目前尚无统一标准，检查 手段有：同位素脑扫描，颈动脉造影，脑电图 和脑诱发电位⑴等，而用经颅多普勒 (Transcranial Doppler,TCD)超声技术观察脑 死亡，国内尚未见报道。我们应用英国Doptek 公司生产的彩色TCD仪加察了 4例临床脑 死亡患者的大脑中动脉(MCA)血流频谱演变 过程，现结合文献复习，报告如下。
+病例报告
+例1,男，40岁。因车祸昏迷3小时入院。 双瞳孔光反应好。GCS 5分。头颅CT无异 常。TCD示:MCA舒张期流速(Vd)下降，重搏 波切迹(DN)加深(图1),脉搏指数(PD略高； 2小时后复查:Vd继续下降,PI增高。3小时 后Vd为零(图2)。4小时后Vd为逆向血流
+(图3)。收缩期流速(Vs)与Vd的时间平均值 (TAM)10cm/so持续半小时后Vs明显降低， TAM为5cm/s。双瞳孔散大，呼吸停止，即行 人工辅助呼吸。又半小时心跳停止,TCD消‘ 失。	,
+例2,男，27岁。头外伤后昏迷1小时入 院。双瞳孔散大,无光反应。GCS 4分。TCD 示:Vs为正向,Vd为逆向,TAM为13cm/s。半 小时后,Vs和Vd均减小,TAM为6cm/s。呼 吸停止时TCD仅见低幅Vs,继之心跳停止。
+例3,男，2岁。跌倒后昏迷半小时入院。
+双瞳孔光反应弱,GCS 5分。Vd消失，半小 时后为逆向血流，1小时后Vd几乎等于正向 的Vs,TAM 4cm/s090分钟后呼吸停止,Vs极 弱，继而心跳停止。
+图1入院时	图2 3小时后	图3 4小时后 ,
+例4,女，4个月。从五楼坠落4小时后入院。	嗜睡，前囱平软。GCS 9分。头颅CT见双额
+• 84 •
+少量硬膜下积液。TCD示Vd略低，余正常。4 小时后前囱张力略高,DN加深。8小时后，前 囱张力明显增高，浅昏迷,Vd明显降低,PI增 高。立即静脉点滴甘露醇40ml,前因张力稍 降,Vd上升,DN变浅,PI下降。因拒绝手术， 上述状况反复4次。24小时后右瞳孔散大，光 反应迟钝。颅压继续增高。第三天，中度昏迷， Vd呈逆向血流，持续存在,TAM为5 cm/s。第 四天,TCD信号消失，呼吸,心跳先后停止。
+讨 论
+颅底大血管血流停止，可预示有脑死亡 可能⑵。脑死亡的原因多为持续性颅内压 (ICP)增高。ICP的变化直接影响脑血流量 (CBF)。虽然TCD不能测量CBF,但可测量脑 血流速度的动态变化。已证实流速与CBF呈 高度相关性⑶。随着ICP增加,达舒张压水平 时，脑血管完全麻痹。ICP进行性升高,终将耗 竭代偿机制，使得舒张的血管塌陷，此时TCD 显示收缩期顺流和舒张早、晚期逆流。ICP增 高时,Vd进行性减慢直至为零。若进一步发 展，Vd可出现逆向血流，甚至只能观察到收 缩初、中期短暂血流，最后全部TCD信号消 失。临床表现出脑死亡征象⑵。本组TCD所见 与国外报道相似。此外,我们曾将颅内压监护 与TCD结合,观察到ICP变化和脑血流速度 改变有某种定量关系，与上述演变过程相一 致。有人报道⑷MCA流速小于10cm/s,正向 Vd缺如，此时脑干反射消失。若TAM为10〜 25cm/s,正向Vd存在，则尚有脑干功能。 Powers指出⑸：当净流速值(正向流速减负向 流速)小于10cm/s,并持续一定时间，则预后 不良，可出现脑死亡，本组4例均如此。当净 流速值大于20cm/s时,则神经功能有恢复可 能。脑血流速度与意识的关系，尚未见论述。 本文例1、4显示:流速减小，意识障碍程度加
+中华创伤杂志第7卷第2期
+深。我们认为，流速减小,CBF亦少，大脑皮层 供血不足，因而意识障碍加深。
+Saunders研究了 ICP与流速的关系⑹。 ICP增高,Vs高尖,DN加深，Vd下降。说明 ICP变化可引起血流频谱的改变。本组4例演 变中均有特征性双向(to -and -fro)TCD波型。 能否将这种双向波作为预示脑死亡的标志， 有待进一步观察。
+PI反映的是血管搏动状态,1CP升高，血 流阻力增大。颅内动脉干的搏动由生理状态 下的弱搏动变为强搏动，类似于外周大动脉 干要克服较大阻力而表现的强搏动，本组的 PI均增大。
+我们观察到用甘露醇降颅压后,TCD示 流速增加。可能除降颅压作用外与甘露醇直 接疏通血流和减少血液的粘滞度等有关。脑 灌注主要在心动周期的舒张期内，而甘露醇 可提高Vd值,显然可改善脑灌注。因此，可在 TCD监测下，采取有效措施，改善并维持脑血 流，以避免脑死亡发生。
+参考文献
+1.	任本，等.脑诱发电位判断脑死亡临床探诗.中华神经外 科杂志 1988；4(1)；36.
+2.	Newell D. W, et al. Evaluation of brain death using transcranial Doppler. Neurosurgery 1989 ；24 ：509.
+3.	Kirkham FJ, et al. Transcranial measurement of blood velocity in the basal cerebal arteries using pulsed Doppler ultrasound ： Velocity as an index of flow. Ultrasound Med Biol 1986j12:15.
+4.	Kirkham FJ, et aL Transcranial pulsed Doppler ultrasound findings in brain stem death. Journal of Neurology f Neurosurgery and Psychiatry 1987 ； 50 ： 1504.
+5.	Powers AD, et al. Transcranial Doppler ultrasonography in the determination of brain death. Neurosurgery 1989 ； 24 ： 884.
+6,	Sannders F. W, et al. Intracranial blood velocity in head injury. Surg Neuro 1988； 29：401.
+Chinese Journal of Traumatology 1991 L 7(2)
+・ 127 •
+major complication, (original article on page 72)
+Key words： Rod-sleeve instrumentation thoracolumbar fracture paraplegia
+Reconstruction for Musculocutaneous Defects in Masseteric Region Following Firearm Wound
+Zhou Xunyin^et aL Kunming Military General Hospital, Kunming
+This study is based on anatomical observation and measurement of sternocleidomastoid muscle and masseteric region on 50 cadavers (totally 100 sides). It provides reliable data for clinical design and empoyment of the sternal end of the sternocleidomastoid muscie for the myocutaneous flap repair of musculocutaneous defects in the masseteric region following firearm wounds. There has been no flap failure except minimal donor site complications in 6 patients undergoing these reconstructions. Advantages of the use of myocutaneous flap over prevoius reconstructive methods are the availsblity of dual blood supples and preservation of both motor and sensory nerve innervatoins. The successful results following these reconstructive operations showed much better restoration of masticatory function and far earlier recovery of skin sensation, (original article on page 77)
+Key words： firearm wound masseteric region defect functional reconstruction
+Stress Ulcer Resulting from Fracture and Its internal Fixation
+Li Minzuo 9 Dept of orthopedics, Eighth Hospital of shanghai
+Ten cases of stress ulcer were seen from 1979 to 1988 after fracture, 7 after serious fracture and 3 after open reduction and internal fixation. Gastrointestinal tract bleeding appeared 2-10 day after injury. Diagnosis was confirmed through gastroscope in 5 cases and exploratomy laparotomy in 2 cases. Erosion and ulcer formation of the gastric mucous membrane was found during operation. Conservative treatment was adopted with success； Partial gastrectomy with selective vagotomy (or additional suture ligation) were done in the 2 other cases with recovery when conservative treatment proved failure. One died. Pathogenesis of stress ulcer is discussed. Endoscopy was recommended for diagnosis. If conservative method proved failure» surgical procedure should be performed for prompt hemostasis, (original article on page 80)
+Key words： stress ulcer fracture
+Evaluation of Brain Death by Using Transcranial Doppler
+Yang Bo, et al. Dept of Neurosurgery, First Affiliated Hospital, Henal Medical Univer city, zhengzhou
+Transcranial doppler (TCD) was used to measure the flow velocities of middle cerebrial artery (MCA) in 4 patients of clinical brain death. The reaults showed that the changes were similar in all the patients studied ； 1) the dierotic notch (DN) was deeper in the spectrum of flow velocities of MCA,end diastolic flow rate (VD) significantly decreased, and the pulastility index (PI) increased ； 2)VD decreased progressively ? 3) all patients showed characteristic to-and-fro TCD pattren with antegrade flow in systole and retrograde flow in diastole ； 4) the pattern totally disappeared when the patients were claimed dead. It is found that TCD is valuable for the determination of brain death, (original article on page 83)
+Key words： transcranial doppler brain death

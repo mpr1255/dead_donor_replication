@@ -1,0 +1,16 @@
+﻿中华器官移植杂志 20()7 年 1()月第 28 卷第 H)期 Chin J Organ Transplant,October 20()7, Vol 28,No. 1()	• 639 •
+•诺华专栏・
+细胞增殖信号传递抑制剂在心脏移植中的应用进展(续)
+三、细胞增殖信号传递抑制剂(PSD在心脏移植中的应用进展
+1.预防和治疗急性排斥反应:器官移植后急性排斥反应是导致移植物功能丧失以及影响长期存活的重 要因索。目前,评价一种免疫抑制剂效果的最主要的指标是看其对急性排斥反应的抑制程度(有效性)及药 物对受者的毒副作用大小(安全性)。西罗莫司作为心脏移植术后免疫抑制方案中的基础用药，急性排斥反 应发生率比硫嘤嚓岭明显降低。为评价西罗莫司作为心脏移植术后免疫抑制方案中基础用药的有效性， Keough等⑷进行了一项随机、开放的临床研究，结果显示:心脏移植术后6个月，小剂量西罗莫司治疗组(3 mg/d)和大剂量西罗莫司治疗组(5 mg/d)急性排斥反应的发生率分别为32. 4 %和32. 8 %，远远低于硫理 嚓吟治疗组的急性排斥反应发生率(56. 8 %)，表明西罗莫司具有强大的抗急性排斥反应作用。另一项研究 显示，西罗莫司还可以逆转传统免疫抑制方案治疗无效的和反复发作的急性排斥反应,具有很强的抗排斥反 应性能⑸，可作为这部分患者免疫抑制方案中的维持用药。Eisen等⑹对依维莫司治疗心脏移植术后急性排 斥反应的有效性和安全性进行了研究。结果显示，移植术后1年、2年和4年，在环抱素A和皮质类固醇治 疗方案的基础上加用1. 5 mg/d或3 mg/d的依维莫司，使急性排斥反应的发生率较加用硫嗖嚓吟明显降低， 而且,对加用依维莫司的患者随访4年中，其主要心血管不良事件和移植物血管病变的发生率都较低,说明 依维莫司对心脏移植排斥反应有良好的控制效果。最近,Vigano等⑺的临床研究结果进一步证实了依维莫 司在抗心脏移植急性排斥反应中的良好效果。依维莫司作为心脏移植后的维持治疗，也有临床报道。 Schweiger等用对4例心脏移植后多次发生急性排斥反应的患者改用依维莫司进行治疗，随访2个月，未发 生排斥反应及明显的毒副作用。Zuckennann⑶用依维莫司替换心脏移植后免疫抑制方案(环抱索A +霉酚 酸酯+皮质类固醇)中的霉酚酸酯，不但急性排斥反应得到逆转,而且可以减少环抱素A及皮质类固醇的用 药剂量，减轻不良反应，说明依维莫司作为心脏移植后的维持治疗是安全和有效的，而且具有良好的耐受性。 但考虑到这两项研究所纳入的病例数较少，随访时间较短,依维莫司对心脏移植维持治疗的可靠性及长期效 果还有待进一步研究。
+2.防治移植心脏血管病(CAV)：移植心脏血管病是一种冠状动脉移植特异性血管病变。心脏移植术后 5年,CAV发病率可达到5() %〔何。CAV是心脏移植术后远期的主要死亡原因，有超过3() %的患者死于 CAV及由其引起的移植心脏功能衰竭口口。由于心脏移植长期存活患者的不断增加,CAV越来越受到临床 医师的重视。CAV的发病是个复杂的多因素过程,导致其发病的相关危险因素可分为免疫相关因素(急性 排斥反应、慢性炎症反应)和非免疫相关因素(高血脂、高血压及糖尿病，巨细胞病毒感染，缺血再灌注损伤， 供者脑死亡等)两大类。由于其病变呈弥/性分布，血管腔内成形术和冠脉搭桥术往往收效甚微。CAV-旦形成，病理改变不可逆转且进展迅速。临床上确诊为严重CAV的患者预后不佳，目前唯一肯定的、有效 的治疗措施是再次进行心脏移植。因此，心脏移植术后只能采取综合措施来预防CAV的发生。
+分考文献
+Keogh A*Richardson M«Ruygrok P.et al. Sirolimus in de novo heart transplantation recipients reduces acute rejection and prevents coronary artery disease at 2 years： a randomized clinical trial. Circulation, 2()04, 110(17):2694-2700.
+[5]	Ankersmit HJ.Roth G«Zuckermann A,et al. Rapamycin as rescue therapy in a patient supported by biventricular assist device to heart transplantation with consecutive ongoing rejectioa Am J Transplant♦ 2()03.3(3)：231-234.
+[6]	Eisen H. Long-term cardiovascular risk in transplantation-insights from the use of everolimus in heart transplantation. Nephrol Dial Transplant* 2006,21 Suppl 3：iii9-iii13.
+[7]	Vigano M,Tuzcu M,Benza R,et al. Prevention of acute rejection and allograft vasculopathy by everolimus in cardiac transplants recipients： a 24-month analysis. J Heart Lung Transplant.20()7.26(6) ：584-592.
+[8]	Schweiger W, Wasler A,Prenner G.et al. Late acute cardiac allograft rejection：new therapeutic options? Transplant Proc*2(X)5♦ 37( 10)： 4528-4531.
+[9]	Zuckermann A. Clinical experience with CerticanCeverolimus)in maintenance heart transplant patients at the Medical University of Vienna. J Heart Lung Transplant ♦ 2005 ♦ 24 Suppl 4：S2()6-209.
+Kobashigawa J A. What is the optimal prophylaxis for treatment of cardiac allograft vasculopathy? Curr Control Trials Cardiovasc Med. 2000,1(3):166-171.
+(未完待续)
+(200032上海，复旦大学附属中山医院心外科杨兆华综述王春生审校)

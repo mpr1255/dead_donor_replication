@@ -1,0 +1,54 @@
+﻿• 262 •
+中华器官移植杂志 2000 年 9 月第 21 卷第 5 期 Chin J Organ Transplant, Sep 2000 VoL21, No5
+•心脏移植
+放宽心脏移植供、受者年龄的可行性研究
+洪丰翁渝国梁红P.Miralem H. Roland
+【摘要】 目的 探讨临床上放宽心脏移植供、受者年龄的可行性。方法 回顾分析989例心脏 移植的临床资料,比较供、受者的年龄对术后受者存活率的影响。结果 供者年龄(大于55岁和小于 55岁比较)对术后受者存活率的影响不显著(P =0. 99),受者年龄(大于60岁和小于60岁比较)对术 后其存活率的影响也不显著(P =0.10);另外，供心冷缺血时间也可适当延长。结论 在严格掌握指 征的前提下,可适当放宽心脏移植供、受者的年龄。
+【关键词】 心脏移植;病人选择；治疗结果;存活率分析
+Feas ible study on expanding sel ection criteria for donor and recipi ent undergoing cardi ac tra nspla ntati on
+HONG Feng 1 WENG Yuguo. LIANG Hong, et al. * Department of Cardiothoracic Surgery The Fi rst Affi l i ated Hospital of Ji' nan University Med ica l College , Guangzhou 51 0630 , China
+【Abstract】 Objective In order to improve the condition of shortage of donor organs for heart transplantation, the p arti al selective cri teri a for potential recipients and do nors could be su it ably broa-dened. Methods The clinical data of 989 cases u nderg oing heart transplanta tion bet w een 1 986 and 1997 w ere studied re trospectively.T he effect s of age of the pat ien ts on the su rvi val of the recipien ts after op erati on w ere compared.Results T here w ere no significant difference in su rvival rate be tw een 5 8 cases w ho received dono r hearts from dono rs with age higher than 55 years and 931 cases who recei ved don or heart s from dono rs w ith age lower than 55 years (P > 0.05 ).Furthermore, there were also no sig nificant d ifferen ce in survi val rate betw een 119 cases of recip ients with age higher than 60 years and 870 cases with age low er than 60 y ears (P <0.05).Conclusions The heart t ransp lan tat ion p rovid es more effectiv e treatment for many end-st age heart di seases due to the selecti ve cri teria fo r po ten t ial recipi ent s and do nors is suitably broaden ed .
+【Key words】	Heart transplantation ;Patient selection ;Treatment outcome;Survival analysi s
+随着供心保存方法的改进、手术技巧的完善和 免疫抑制剂的合理使用,心脏移植患者的存活率得 以不断提高,因此有必要对供、受者的选择标准进行 重新探讨。
+临床资料
+一、受者情况
+以1986 ~ 1997年德国心脏中心所施行的989 例心脏移植患者为研究对象,其中男性811例,女性 178例,年龄> 15岁920例,< 15岁69例,平均44 岁,其中年龄大于60岁者119例。原发疾病为:扩 张型心肌病633例(64.0 %),冠状动脉缺血性心脏 病(终末期)306例(30.9 %),瓣膜病、小儿先天性心
+作者单位:510630 广州,暨南大学医学院附属第一医院胸心外科(洪丰、 梁红);Department of Cardiothoracic and V ascular Surgery, German Heart Insti tSerl湫翁渝国、P.MirdemH. Roland)
+脏病和再次心脏移植者共50例(5.1 %)。糖尿病、 新生儿、通气支持者和需要持续血液滤过或透析的 肾功能衰竭不属禁忌证。
+有179例在等待供心期间心功能衰竭加重,以 循环辅助装置支持过渡。145例采用双心室辅助, 34例采用单心室辅助,最长的循环支持时间为798 d。86例(48.0 %)以后又行心脏移植。
+二、供者情况
+供者均为脑死亡者,年龄4d至69岁，平均(33 ±14)岁。ABO血型与受者相同，供、受者淋巴细胞 毒交叉配合试验阴性。供心冷缺血时间(172 ±2.7) min, 最长为385 min。
+三、移植方法
+受者给予强心、扩血管、利尿及抗感染等治疗。 如病情危重,用大量升压药,配合主动脉球囊反搏,
+c Journal Electronic Publishm
+中华器官移植杂志 2000 年 9 月第 21 卷第 5 期 Chin J Organ Transplant, Sep 2000 Vol 21 No. 5
+263 •
+存时间不超过24 h者，选用循环辅助装置支持过 渡。双心室辅助采用体外型气动隔膜泵 Berlin Heart (Mediport),左室循环辅助采用植入型电动的 N ovacor (B axter )或 TC I (T h ermo Cardiosystems Inc)装置。供心的心肌保护采用3 000 ml Bred-schneider液，于主动脉阻断后按200 ~ 300 ml/min 的速度由主动脉根部灌注。手术参照Lower等」 的标准技术施行。术后免疫抑制治疗采用环孢素 A 、硫唑嘌呤和泼尼松。术后常规置入经改装的房 室顺序型起搏器(DDD),通过心肌内心电图及电讯 遥控监测排斥反应。每日监测心电图,并行超声波 检查,如对诊断有怀疑行心肌活检。
+结 果
+989例患者的存活情况见表1。将供者分为年 龄＞55岁组与京55岁组，以Logrank法进行比较， 两个组受者存活率的差异无显著性(P =0.99),同 法将受者分为年龄＞ 60岁组与X60岁组进行比较， 提示两个组受者存活率的差异也无显著性(P = 0 . 10)。
+表1心脏移植受者的存活率
+^^组~~“	术后不同时间受者的存活率(%)
+~	1年2年3年4年5年6年7年8年9年10年
+供者
+年龄＞55 岁组 58	70	66	62	62	62
+年龄955 岁组 931	81	75	69	63	60	57	55	51	50	50
+受者
+年龄＞60 岁组 119	71	70	62	59	50	45	45	45	45	45
+年龄960 岁组 870	81	76	70	63	60	58	54	52	50	50
+辅助循环过渡组 86	65	62	60	49	49	49	49
+全部病例 989	80	75	69	63	60	56	53	51	50	50
+讨 论
+在开展心脏移植初期,对供、受者的选择制定了 严格的标准,一般要求供者的年龄在40岁以下,最 大不超过55岁，供心缺血时间=＜4 h,受者的年龄不 超过60岁［2］。随着相关技术的不断改进及心脏移 植需求的不断增加,有必要对前期的标准进行重新 评估,包括尽可能地利用供者,放宽对供者的年龄、 供者器官缺血时间及受者年龄的限制等。从本组资 料来看,供者年龄＞55岁者占总数的5.9 %,最大年 龄为69岁，供心缺血时间最长达385 min；受者年龄
+＞ 60岁者占总数的12.0 %,术后患者仍有较好的远 期效果,按供、受者年龄分组进行比较,其差异并无 显著性(表1)。
+在放宽了供、受者的选择标准后,德国心脏中心 有50 %以上的供者是过去所谓的“高危供者”,对此 类供者,除仔细阅读病史,常规行心电图检查外,有 条件时施行超声波检查,甚至行冠状动脉造影,以了 解心脏收缩功能及大小,排除器质性病变。取心时, 用肉眼判断和手指触摸排除供心冠状动脉硬化。对 于可能被忽视的轻微冠状动脉硬化,我们认为对移 植后早、中期患者的存活率无太大影响。在移植后 较晚发生的冠状动脉性心脏病,可按病变轻重作经 皮冠状动脉扩张、放置支架,直至行冠状动脉搭桥手 术。
+自1991年起,心脏移植供、受者的选择出现新 趋势,包括放宽供者年龄的限制［3］、放宽供心缺血 时间的限制［4］、利用刚做过心肺联合移植患者身上 切下的尚未到终末期右心功能衰竭的心脏［5］,甚至 在供心上施行冠状动脉搭桥手术或重复利用一个已 被移植过的心脏［6,7］,这些都能相对缓解供者较少 的状况。
+因此,在严格掌握指征的前提下,适当放宽对心 脏移植供、受者的选择标准,对于扩大供、受者源是 很有意义的。
+参考文献
+1	Low er RR S tofer RC, Shumway N E. Studies on orthotopic homo-t ra nspla nta tio n of t he canine hea rt.Surg Forum , 1961 , 11 : 18- 19.
+2	Fleischer KJ Baumgartner WA. Heart transplantation in edmunds L H : Ca rdia c surgery in the adult .N ew York:The M cG raw-Hill Com panies, 1997. 1409-1449.
+3	Schuller S Warnecke H, Loebe M, et al. Extended donor age in ca rdia c t ransplant at ion.Circulation 1989 80(Suppl 3): 133- 139.
+4	Pflugfelder PW, Singh NR McKenzieFN, et al. Extending cardiac allograft ische m ic t ime a nd dono r age:effect on surv iva l and long-t erm cardiac function.J Hea rt L ung Transpla nt 1991 10 :394-400.
+5	Oaks T E, Aravot D Dennis C, et al. Domino heart transplantation :the papworth experience .J Hea rt L ung Transplant 1994 13:433-437.
+6	Laks H, Gates RN, Ardehali A et al. Orthotopic heart transplantation a nd concurrent coronary by pass.J Hea rt Lung T ransplant 1993 12: 810-815.
+7	PasicM, Gallino A, Carrel T, et al. Brief report： reuse of a transplanted heart.N Engl J Med 1993 328:319-320.
+(收稿日期:2000-01-04)

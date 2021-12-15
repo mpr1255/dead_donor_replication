@@ -1,0 +1,69 @@
+﻿2001;21(6):449-450	第一军医大学学报(J First Mil Med Univ)	-449-
+应用普乐可复、霉酚酸酯与强的松预防心脏移植排斥反应
+邹小明，王武军，张 振(第一军医大学南方医院胸心外科，广东广州510515)
+摘要：目的 评价普乐可复、霉酚酸酯与强的松联合使用预防心脏移植排斥反应的效果及毒副作用。方法 受者为43岁， 终未期扩张型心肌病女性患者，于2000年4月行同种异体原位心脏移植术。术后应用普乐可复、霉酸酚酯与强的松预 防心脏移植排斥反应°结果患者术后13个月无明显排斥反应征象,无感染、肝肾功能损害等严重并发症。药物的副作 用主要表现为胃肠道不适及轻度的骨髓抑制。结论新型免疫抑制剂普乐可复、霉酚酸酯联合强的松预防术后排斥反应 疗效显著，毒副作用少。
+关键词：心脏移植；他罗利姆；霉酚酸；泼尼松;移植物排斥
+中图分类号：R617; R654.2	文献标识码：A	文章编号：1000-2888 (2001) 06-0449-02
+Combined use of prograf, mycophenolate mofetil and prednisone in prevention of acute heart allograft rejection
+ZOU Xiao-ming, WANG Wu-jun, ZHANG Zhen
+(Department of Thoracic Surgery, Nanfang Hospital, First Military Medical University, Guangzhou 510515, China)
+Abstract: Objective To evaluate the efficacy and side-effects of combined use of prograf (FK506, tacrolimus), mycophenolate mofetil (MMF) and prednisone (pred) in the prevention of heart allograft rejection. Method The recipient was a 43-year-old female patient wi比 end-stage dilated myocardiopathy. The donor was male, aged 24 and declared brain death. The recipient received oral prograf with the initial dose of 0.22 mg • kgr1 , d1, MMF 2 g/d and pred 50 mg/d 24 h after heart transplantation. Result The patient have survived more than one year without acute allograft rejection or severe complications such as infections, abnormal liver or renal function. The main side-effects were gastrointestinal disturbances and mild bone marrow suppression. Conclusion New triple immunosuppressive therapy can be effective to prevent acute allograft rejection with tolerable side-efifects and toxicity.
+Key words: heart transplantation; tacrolimus; mycophenolic acid; prednisone; graft rejection
+20世纪90年代是免疫抑制药物和疗法发展活 跃的时期，在临床心脏移植方面的进展主要表现为 免疫抑制的维持和移植物排斥的治疗。新型免疫抑 制剂普乐可复(FK506)、霉酚酸酯(MMF)与甲基强 的松(MP)联合应用在预防心脏移植术后排斥反应、 减少术后并发症方面有较多优点。
+1病人与方法
+1.1	一般资料
+患者，女,43岁。因反复活动后心悸、气促5年余 入院。查体:心尖搏动不明显，心界向双侧扩大。胸片 示心胸比例增大；心脏超声示心腔扩大，左室射血分 数31.3%,短轴缩短率14.9%；心电图示多源性室性 心律失常。术前诊断为扩张性心肌病，心功能W级. (NYHA)。经持续3个多月的强心、利尿、扩血管药物 和吸氧治疗，效果不佳。
+收稿日期：2001-04-20
+作者简介：邹小明(1966-),男，江西南昌人，1995年毕业于第一军医 大学，硕士，主治医师，电话：020-85141114-87240
+1.2	组织配型
+(1)供、受者A、B、O血型均为B型；(2)供、受者 淋巴细胞毒交叉配合试验均在10%以下；(3)供、受 者群体反应性抗体(PRA)<1%；(4)HLA基因配型： HLA-A 1个位点相合,HLA-DR 1个位点相合,DRw2 个位点相合,HLA-DQ 1个位点相合。
+1.3	心脏移植手术
+2000年4月5日行同种异体原位心脏移植手 术，供体为一男性脑死亡患者,24岁。供心保存采用 Standford大学心肌保护液：持续顺行灌注，移植手术 顺利。供心冷缺血时间70min,体外循环转机123 min,主动脉阻断73 min,心-心脏吻合60 min。术后 呼吸机辅助20 h。术后第1天开始进行隔离及严密 监护，术后第2天开始进食全流质,术后第6天下床 活动。隔离治疗1个月。
+1.4	免疫抑制治疗方法
+手术前日9mgFK506分2次口服。术中体外循 环过程中开放升主动脉前予MP 500 mg静脉注射， 术后每8 h MP 500 mg静脉注射，共3 d。口服FK506
+•450•
+第一军医大学学报(J First Mil Med Univ)
+第21卷
+每天 0.22 mg/kg・b.w., 15 d 后每天 0.2 mg/kg-b.w.o 以后根据FK506全血血药浓度调整用量，术后1月 内将血药浓度维持在20-25 jig/L,术后1~3个月内 血药浓度维持在15-20 jig/L,3月以后维持在 10-15 FJLg^o 口服普乐可复的同时，口服MMF2g/d 及 MP50mg/d,2 次 /d。MP 每 3~7 d 减 2.5 mg,l 个 月后减至30 mg/d,2个月后减至20 mg/d,3个月后 减至 10mg/do
+1.5	血药浓度监测方法
+FK506服用后第3天开始分别测定谷值、峰 值，每次抽血2~3 ml后装入含有EDTA的抗凝管 内，采用美国雅培公司的微粒子酶免疫分析法测 定,每周测2次,术后第8周改为每周测1次。
+1.6	排斥反应监测	'
+术后主要应用超声心动图监测移植心脏结构、 功能变化并观察临床表现，推断有无排斥反应。术 后第110天行首次心内膜心肌活检，定期查血常规 和作生化检查。
+■2结果
+心脏移植术后13个月，无明显感染及排斥反 应征象。副作用主要表现为胃肠道反应及骨髓抑 制。术后第3天即出现腹泻，无腹痛、发热等。大便 常规检查均未发现红细胞及白细胞，潜血阴性，大 便培养为正常菌群,厌氧菌及真菌培养均阴性。肠 道菌群分析表明为□度轻度菌群失调，经调整饮 食、停用广谱抗生素、加服培菲康等治疗后3天症 状缓解，大便成形。术后偶发上腹部阵发性绞痛，偶 有大便次数增加，多可自行缓解或服用普鲁苯辛及 黄连素后缓解。
+血常规检查提示轻度骨髓抑制，表现为白细胞 缓慢下降，至心肌活检时降至3.8X10VL；中性粒细 胞记数及分类百分比亦分别下降至2.36x109/l和 61%；淋巴细胞计数在术后第15天达峰值后逐渐下 降至1.05x1 OYml；红细胞及血红蛋白亦呈缓慢下 降，血红蛋白术后第3周降至92 g/L,至第6周复升 至131 g/L后逐渐下降至91 g/L；血小板在术后第3 天达最低值后逐渐上升，于第11天达术前水平，并 保持稳定至今。
+术后第110天行心内膜心肌活检，未见心肌细 胞坏死及血管周围淋巴细胞浸润，电镜检查亦未发 现明显的肌丝断裂、细胞溶解等现象。根据国际心 肺移植协会(ISHLT)于1990年制定的心脏移植排 斥反应分级标准判定为无排斥反应发生。
+3讨论
+普乐可复免疫抑制作用的分子机制是通过与 内源性细胞内受体结合成复合物，抑制细胞质内磷 酸酶神经钙蛋白的活性，阻断IL-2转录，抑制T细 胞活化，从而发挥强大的免疫抑制作用而MMF 通过抑制次黄噤吟核昔-磷酸脱氢酶阻断瞟吟的再 合成，达到选择性阻断T、B细胞增殖，抑制抗体形 成及毒性T细胞产生，但MMF不影响细胞因子的 产生⑵。FK506及MMF在药理作用上分别类似环 胞霉素A(CsA)和硫嚏噤吟(AZA),但免疫抑制作用 更强，单独或联合应用均显示强大的抗排斥反应作 用。Mathieu⑶对14例难治性心脏移植排斥反应和 对CsA不能耐受的患者应用FK506治疗，结果显 示，除1例难治性排斥反应患者死亡外，其余排斥 反应均缓解，排斥反应的发生率从(0.42±0.17)次/ 月降至(0.14±0.09)次/月。有临床试验⑷表明，在 CsA和皮质醇激素的基础上，随机组(兀=289)接受 AZA 治疗(1.5~3 mg・kgT ・b.w. •d-i),治疗组(几=289) 接受MMF治疗(3 000 mg/d),在1年的观察期中， 随机组和治疗组1年死亡率分别为33例(11.4%)和 18例(6.2%)(40.031),需要进行抗排斥治疗者分别 占两组的73.7%和65.7%(40.026)。本例患者随访4 个月时，无活动后心悸、气促等症状，术后第110天 行心内膜活检未发现排斥反应证据。
+FK506常见的副作用包括高血压、血糖代谢紊 乱、肾功能损害、牙龈增生、高血钾、低镁血症等，但 较CsA更少发生高血压及血脂异常，目前还未见有 关其肝功能损害的报道。MMF的最主要副作用是 胃肠道反应，主要是恶心和腹泻，经减少用量后可 缓解;其次是感染，多为病毒和机会致病菌感染。本 例患者在治疗过程中主要副作用表现为胃肠道反 应和骨髓抑制，无感染发生及肝、肾功能损害，也无 高血压、血糖代谢紊乱及电解质紊乱等表现。本例 患者术后出现明显的骨髓抑制，停用无环鸟背后外 周血白细胞仍持续下降,考虑与免疫抑制剂有关。 血红蛋白在术后第3周达到最低值后，于第6周复 升至正常，随后再次下降至较低水平，考虑第一次 降低可能与体外循环后红细胞破坏增加有关，而再 下降则可能与骨髓抑制有关。
+本研究结果显示，FK506的适宜量为0.154).22 mg-kgLd、心脏移植后3个月内每天平均剂量 0.2 mg-kg-'o FK506全血血药浓度术后1个月内维持 在20~25 |xg/L、l个月后维持在15-20 )1如、3个月后 (下转452页)
+•452•
+第一军医大学学报(J First Mil Med Univ)
+第21卷
+在115例患者中，99«Tc-RBC显像诊断为出血者 83例，阳性率为72.2%O在诊断为阳性的83例，其中 6例因麦克尔憩室、右肾上极积水及腹腔血管畸形而 误诊阳性。显像诊断为阴性的32例中，18例经其他 检查明确了出血部位，故检查灵敏度为81.1% (77/95),特异性为70%(14/20)。在急性出血患者中， 该法阳性率为75.0%(12/16),特异性为75.0(9/12)； 在慢性出血患者中，该法阳性率为82.3%(65/79),特 异性为 62.5%(5/8)。
+2.2定位准确率
+83例显像阳性的患者中，显像发现的出血部位与 病变部位相符合者73例，定位准确率为87.9% (73/83)(表 l)o
+表1不同出血部位9911Tc-RBC显像诊断的准确率 Tab.l Diagnostic accuracy of ""Tc-RBC imaging for hemorrhage at different loci			
+Bleeding site '	Cases	Positive cases	Accuracy
+Stomach or duodenum	23	20	86.9%
+Intestine	40	37	92.5%
+Colorectum	17	14	82.4%
+Biliary tract	3	2	66.7%
+Sum	83	73	87.9%
+3讨论
+对消化道出血的诊断J啊'c-RBC显像是一种较 灵敏的方法，常规的纤维内镜检查容易发现食道、结 肠的出血部位，但对于胃、空肠、升结肠、横结肠的出 血部位则不易检出。尤其对于慢性间歇性消化道出 血，内镜及血管造影等检查的应用往往受到限制。而 ""Tc-RBC注入体内后较长时间存留于血液中，可进 行连续多次检查而捕捉到出血病灶。另外，由于胃肠 道血管分布较少，显像时本底较低,一旦有出血灶，核
+素显像容易发现。Gun加rmanE报道在出血速度低到 0.5ml/min时亦可检出，而且灵敏度比血管造影高 31%。本研究结果表明，对急性消化道出血的灵敏度 为89.3%,比对间歇性出血的灵敏度(66.7%)高，可能 因为急性出血的出血频次及出血量比慢性者高所致。
+对出血部位的定位准确率写首次发现异常浓聚 影的位置密切相关。需与胃分泌的游离铸(用新鲜氯 化亚锡标记的红细胞，胃一般不显影)、肾脏排出的铸 及异位肾等进行鉴别。本研究对出血灶的定位准确率 为87.9%,与文献报道的相似⑶。定位不准确可能因 为延迟显像的间隔时间较长，从病灶流出的 Fc-RBC随肠管蠕动而远离出血灶，从而使显像部 位与出血部位不一致。
+消化道出血的诊断也可应用99ltfTcO4-或炒町c-硫化铸胶体，但前者被胃粘膜吸收较多，随后分泌进 入肠管而干扰病灶检出；后者则注射后短时间内在血 中消失，不利于慢性出血的诊断。而且大量胶体积聚 于肝脾，给肝脾附近出血灶的检出带来困难。 砂町c-RBC显像则同时适于急、慢性消化道出血的检 查，能显示出血范围和部位，对临床治疗有一定价值。
+参考文献：
+[1]	Delbeke D, Frexes M. The "finding" Meckel's divertuculum: an unusual scintigraphic presentation [ J]. Clin Nuc) Med, 1992, 17(4):701-6.
+[2]	Gunderman R, Leef J, Ong K, et al. Scintigraphic screening prior to visceral arteriography in acute lower gastrointestinal bleeding [J]. J Nucl Med, 1998, 39(6):1081-5.
+[3]	Nicholson ML, Neoptolemos JP, Sharp JF, et al. Localization of lower gastrointestinal bleeding using in vivo ""Tc labelled red cel] scintigraphy]J]. Br J Surg, 1989, 76(3):738-42.
+(责任编辑:吴锦雅)
+(上接450页)
+维持在10-15 fJig/L为宜。监测血药浓度并调整用药 剂量有助于减少药物不良反应及防治排斥反应。但 FK506与MMF抗排斥反应的远期效果如何，有待继 续观察。
+参考文献：
+[1 ] Hutchinson IV. The mode of action of prograf and its significance for long-term graft survival. New horizons in kidney [J]. Transplantation, 1997,65(1):22-6,
+[2]	LaskowDA, Deierhoi MH, Hudson SH, et al. The incidence of subsequent acute rejection following the treatment of refractory renal allograft rejection with mycophenolate mofetil (RS-61443) [J]. Transplantation, 1994,57(4):640-3.
+[3]	Mathieu P, Carrier M, White M. Conversion of cyclosporine A to tacrolimus following heart transplantation [J]. Can J Cardiol, 1999, 15:1229-32.
+[4]	Kobashigawa J, Miller L, Renlund D, et al. A randomized active-controlled trial of mycophenolate mofetil in heart transplant recipients. Mycophenolate mofetil investigators [J]. Transplantation, 1998,66(4):507-15.

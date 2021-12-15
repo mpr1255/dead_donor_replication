@@ -1,0 +1,110 @@
+﻿安徽卫生职业技术学院学报2018年17卷第4期	.71.
+口。口供体肾移植术后肺部感染的原因分析及护理对策
+卫敏
+【中图分类号】R699.2	【文献标识码】	A 【文章编号】1671-8054 （ 2018 ） 04-0071-03
+【摘要】 目的:探讨心脏死亡器官捐献（DCD）供体肾移植术后肺部感染的原因及护理对策。方法：回顾分析83例DCD供 体肾移植术患者的临床资料，探讨术后并发肺部感染的原因及预防对策。结果：35例术后并发肺部感染，感染的 时间段主要为术后2~6个月；肺部感染主要表现为中重度发热，存在一定程度的肺部啰音、咳痰、咳嗽、呼吸急促、 胸闷、咽部疼痛等症状;主要病原体为革兰阴性杆菌、病毒、真菌；术后并发肺部感染的主要原因为血透时间、术后 尿量、急性排斥、手术时间、术前腹水、术前NEU值、糖尿病。结论：DCD供体肾移植术后并发肺部感染的原因复 杂，及时检查和诊断并结合患者的实际情况合理用药，提供有效的护理措施，这些是改善预后的关键。
+【关键词】	心脏死亡器官捐献 肾移植术 肺部感染 对策
+对于接受心脏死亡器官捐献（DCD）供体肾 移植术治疗的患者来讲，术后出现致病菌感染的 概率较高，而肺部感染则是肾移植术后发生率较 高的一种并发症，肺部感染的发病比较隐匿，病情 危重，进展快速，种类繁多，是导致患者术后死亡 的一个主要原因，临床病死率大约为70%[1]。所以 分析和探讨DCD供体肾移植术后并发肺部感染的 原因，并制定有效的预防对策对于保证患者的生 命安全非常重要。
+1资料与方法
+1.1	一般资料选择我院2015年1月-2017年 12月收治的接受DCD供体肾移植术治疗的患者 83例，术后35例患者发生肺部感染,设为观察组； 48例患者未发生肺部感染，设为对照组。
+1.2	方法对肾移植术后发生肺部感染再次入 院治疗的患者的发病时间、基本资料、临床体征、 临床症状、病原学检查和影像学检查结果进行记 录和分析，同时回顾性分析未发生肺部感染患者 的临床资料。纳入标准：白细胞显著下降或急剧上 升;肺部存在干湿性啰音;存在呼吸困难、咽痛、咳 痰、咳嗽等典型呼吸系统症状;胸部影像学检查结 果发现存在间质性改变或阴影；同时排除其他肺 部疾病。
+1.3	统计学分析选择SPSS软件来分析和统计 本实验相关数据，计数资料选择卡方检验，计量资 料则选择t检验，以PV 0.05为差异有统计学意义。 2结果
+2.1	发病时间观察肾移植术后并发肺部感染 的时间段主要为术后2~6个月，见表1。
+2.2	临床体征和症状观察肺部感染主要表现 为中重度发热，存在一定程度的肺部啰音、咳痰、
+作者单位：安徽医科大学第一附属医院泌尿外科安徽合肥230022
+2018-05-17收稿，2018-06-25 修回
+咳嗽、呼吸急促、胸闷、咽部疼痛等症状。见表2。
+表1肾移植术后并发肺部感染的时间段观察
+发病时间（月）	n	百分比（%）
+V 2	2	5.7
+2~3	11	31.4
+4~6	10	28.6
+7~12	7	20.0
+> 12	5	14.3
+合计	35	100.0
+表2临床体征和症状观察
+临床体征和症状	n	百分比（％）
+发热（p）		
+36.3七〜38.0七	5	14.3
+38.1P~39.0P	21	60.0
+> 39.0P	9	25.7
+咽部疼痛	5	14.3
+干咳无痰	11	31.4
+咳痰	5	14.3
+胸闷	22	62.9
+呼吸困难	7	20.0
+肺部啰音	8	22.9
+呼吸音粗	13	37.1
+2.3	病原体分布情况观察 全部35例患者中，共 30例患者感染病原体，包括13例病毒，8例革兰阴 性菌，3例革兰阳性菌,4例真菌，1例混合细菌，1 例结核分枝杆菌。
+2.4	并发肺部感染的原因分析DCD供体肾移 植术后并发肺部感染的因素主要为血透时间、术 后尿量、急性排斥、手术时间、术前腹水、术前中性 粒细胞（NEU）值、糖尿病，对照组与观察组的上 述各项指标比较差异有统计学意义（PV0.05）， 见表3、表4。
+表3并发肺部感染的相关因素观察（X±s）
+相关因素	观察组（n=35）对照组（n=48）	t P
+年龄（岁）	43.37±5.26	44.12±3.25	0.8011 >0.05
+中性粒细胞（％） 73.39±11.34	66.31±9.66 3.0633 < 0.05
+手术时间（min）290.34±99.33 223.12± 96.34 3.0984 < 0.05 血红蛋白（g/L）91.24±15.34	89.63±13.56 0.5053 >0.05
+术后尿量（mL） 46.33± 4.17	105.87±13.55 25.1066 < 0.05
+肌酐（件mol/L） 134.54±17.58 89.23±15.38 12.4758 < 0.05 血透时间（h） 123.24±15.77 93.44±13.27 9.3283 V 0.05
+・72・
+护理学研究
+表4并发肺部感染的相关因素观察
+相关因素
+性别
+吸烟
+糖尿病
+术前腹水
+术后急性排斥
+术中输血
+男女是否是否是否是否是否
+69321450 7 4 1 11211221CC221
+3599 5 3801753
+229354841413
+观察组 (n=35)
+对照组 (n=48)
+X2	P
+0.0006 > 0.05
+16.9158 v 0.05
+4.4719 v 0.05
+23.1083 v 0.05
+7.0143 v 0.05
+9.8697 v 0.05
+3讨论
+器官短缺不但是影响我国器官移植事业发 展的主要因素，同时也是国内外器官移植从业人 员面临的一个严峻挑战［2］。现阶段器官供体来源 主要包括心脏死亡供体、脑死亡供体以及活体器 官捐献等。我国因为还缺乏脑死亡法，所以DCD就 成为了我国解决器官移植供体缺乏的主要手段之 一，也是器官来源的组成部分之一［3］。随着外科技 术逐渐完善，肾移植技术在新型免疫抑制剂的应 用则能让肾移植患者的存活率显著提高，让其生 存时间显著延长，而感染则是影响肾移植术患者 术后长期存活的主要因素，而肺部感染则是病死 率最高的一种感染类型［4］。所以对DCD供体肾移 植术后病房肺部感染的原因进行分析和探讨，并 制定有效的预防对策对于，改善患者预后,保证患 者的生命安全非常重要。
+3.1 DCD供体肾移植术后并发肺部感染的原因 分析经单因素分析可知，DCD供体肾移植术后 并发肺部感染的因素主要为血透时间、术后尿量、 急性排斥、手术时间、术前腹水、术前NEU值、糖 尿病等。DCD供体肾移植术后并发肺部感染的原 因：①慢性肾衰竭是接受肾移植手术治疗的主要 人群，疾病会严重损伤患者的身心健康，降低其抵 抗力和生理机能［5］。肾病会显著降低血红蛋白和血 细胞数，并严重损伤身体的主要脏器，进而导致肺 部感染。②对于接受DCD供体肾移植术治疗的患 者来讲，为了对术后排斥反应进行有效预防和控 制，常常在手术前后给予免疫抑制剂和激素治疗, 进而对患者的细胞免疫和体液免疫功能造成影 响，容易导致病原体感染。除此之外免疫抑制剂还 会对粒细胞生理功能造成破坏，让白细胞杀菌能 力降低，进而导致感染。术后常常给予导管留置， 容易导致真菌和细菌侵袭，进而引起医院感染［6］。 本研究中，肾移植术后并发肺部感染的时间段主要 为术后2~6个月。术后1个月内所发生的感染主要 是因为真菌或细菌所导致的，气管插管和引流管的
+放置时间等与感染的发生有直接关系。术后2~6个 月、超过6个月所发生的感染则主要是因为病毒 所导致的［7］。细菌和病毒则是导致肺部感染的主 要病原体，细菌主要为革兰阴性菌，而病毒则主要 为巨细胞病毒；全部35例患者中，共有30例患者 感染病原体，包括13例病毒，8例革兰阴性菌，3例 革兰阳性菌，4例真菌，1例混合细菌，1例结核分 枝杆菌。肺部感染主要表现为中重度发热，存在一 定程度的肺部啰音、咳痰、咳嗽、呼吸急促、胸闷、 咽部疼痛等症状。
+3.2预防术后肺部感染的护理措施根据DCD 供体肾移植术后并发肺部感染的原因，应制定以 下对策来对肺部感染进行预防:①为DCD供体肾 移植术患者提供有效的护理干预，对其不良生活 习惯进行改善，加强营养支持，让其体质显著增 强。②适当减少免疫抑制剂和激素的用量,减少免 疫抑制剂的用量可能会引起急性排斥，排斥和感 染之间存在比较密切的联系，临床中应对两者的 矛盾进行合理处理。③如果尿毒症患者出现腹水 则会让肺部感染的发生率增加，因此应加强透析、 营养支持和术后利尿等，进而来对肺部感染进行 预防。④术前应加强体格检查，进而来对感染进行 有效预防。
+总之，导致DCD供体肾移植术后并发肺部感 染的原因较复杂，临床应结合患者实际情况合理 用药，存在典型临床表现时，应及时检查和诊治, 并进行有效的护理干预,让临床治愈率显著提高。
+参考文献
+［1］明英姿，叶启发邵明杰等心脏死亡供者肾移植 48例临床分析［J］.中南大学学报:医学版,2012,37(6):598 ~605.
+［2］刘岩峰，李军，黄珈雯，等.肾移植术后配伍他克 莫司时血霉酚酸浓度测定的有限检样法研究［J］.中 华器官移植杂志,2012,33(2): 101~104.
+［3］余爱荣，辛华雯吴笑春，等.肾移植术后肺部感染 患者的药学监护［J］.中国药师,2012,15(9): 1304~ 1306. ［4］潘晓东白永恒，张岩，等.肾移植受者巨细胞病毒隐 性感染的筛查方法及应用因医学研究杂志,2012,41(9): 55~57.
+［5］尚文俊，许力.肾移植术后肺部混合感染临床特 点分析［J］.河南医学研究,2017,26(15):2756.
+［6］王春娜，逯学梅.肾移植术后肺部感染的临床分 析［J］.中国现代药物应用,2015,9(22): 156~158.
+［7］许桂军.肾移植术后肺部感染23例影响因素分析 ［J］.中国乡村医药,2014,21(6):35~36.
+(下转第112页)
+•112•
+医学基础与药学研究
+in 2008-2012 [J]. Neuro Oncol, 2015,17(4):1〜62.
+[5] Ichimura K et al.1p36 is a preferential target of chromosome 1 deletions in astrocytic tumours and honmezygously deleted in a subset of glioblastomas [J]. Neurol India,2017,65(1):113〜120.
+[6] Chan AK, Pang JC, Chung NY, et al. Loss of CIC and FUBP1 expressions are potential markers of shorter time to recurrence in oligodendroglial tumors [J]. Mod Pathol,2014(27):332〜342.
+[7 ] Wesseling P, van den Bent M, Perry A. Oligodendroglioma: pathology, molecular mechanisms and markers [J].Acta Neuropathol,2015(129): 809~827. [8] Li J, Miao N, Liu M, et al. Clinical significance of chromosome 1 p/19 q loss of heterozygosity and Sox17 expression in oligodendrogliomas[J]. International journal of clinical and experimental pathology, 2014, 7(12):8609〜8615.
+[9]	Cancer Genome Atlas Research Network, Brat DJ, Verhaak RG, et al. Comprehensive, integrative genomic analysis of diffuse lower-grade gliomas [J]. N Engl J Med, 2015(372):2481〜2498.
+[10]	Van den Bent MJ. Practice changing mature results of RTOG study 9802: another positive PCV trial makes adjuvant chemotherapy part of standard
+of care in low-grade glioma [J].Neuro Oncol, 2014(16):1570〜1574.
+[11]	Shih HA, Sherman JC, Nachtigall LB, et al. Proton therapy for low-grade gliomas: results from a prospective trial [J]. Cancer, 2015(121): 1712~1719.
+[12]	Buckner JC, Shaw EG, Pugh SL, et al. Radiation plus procarbazine, CCNU, and vincristine in low-grade glioma [J].N Engl J Med,2016(374):1344〜1355.
+[13]	Jaeckle K, Vogelbaum M, Ballman K, et al. CODEL (Alliance-N0577; EORTC-26081/22086; NRG-1071 ;NCIC-CEC-2): phase E randomized study of RT vs.RT+TMZ vs.TMZ for newly diagnosed 1p/19q-codeleted anaplastic oligodendroglial tumors.Analysis of patients treated on the original protocol design [J]. Neurology,2016,86(suppl 16):abstr PL02.005.
+[14]	Shih HA, Sherman JC, Nachtigall LB, et al. Proton therapy for low-grade gliomas: results from a prospective trial [J]. Cancer, 2015(121): 1712~1719.
+[15]	Verma V, Shah C, Rwigema JC, et al. Cost-comparativeness of proton versus photon therapy [J]. Chin Clin Oncol, 2016(5):56.
+[16]	Verma V, Mishra MV, Mehta MP. A systematic review of the cost and cost-effectiveness studies of proton radiotherapy[J].Cancer, 2016(122): 1483~1501.
+Update in diagnosis and treatment of oligodendroglioma
+I.Grade 2013 of Dalian Medical University,Dalian 116000, Liaoning
+CHENG Kun1, CHENG Xian-ping2
+Abstract： Oligodendrocytes tumor is a low-grade primary brain and central nervous tumors,has a certain of molecular biology and clincal pathology characteristics; oligodendrocytes diagnosis,clinical staging and the postoperative and adjuvant therapy cure is accoding to tumor molecular biological characteristics.
+Key Words： Oligodendrocytes; Molecular biological characteristics	/(编审：刘付平 施仲赋)
+(上接第72页)
+Analysis on the risk factors and countermeasures of lung infections in renal transplant patients from donation after cardiac death
+The First Affiliated Hospital of Anhui Medical University, Hefei 230022, Anhui
+WEI Min
+Abstract:Objective:To analyze the risk factors and countermeasures of lung infections in renal transplant patients from donation after cardiac death (DCD).Methods:The clinical data of 83 cases of renal transplant patients from DCD were retrospectively analyzed. The causes of postoperative pulmonary infection and its prevention measures were discussed. Results: There were 35 patients with pulmonary infection after renal transplant, the time of infection was mainly concentrated in 2~6 months after operation. The main clinical manifestations of pulmonary infection was severe fever, and accompanied by a certain degree of lung rales, cough, sputum, shortness of breath, chest tightness, throat pain and other symptoms, its main pathogens included gram-negative bacilli, viruses, and fungi.The main risk factors of postoperative pulmonary infection include hemodialysis time,postoperative urine volume, acute rejection, operative time, preoperative ascites, preoperative NEU values and diabetes. Conclusion:The risk factors of preoperative pulmonary infections in renal transplant patients from DCD are complex. The timely examination and diagnosis and rational administration according to the actual situation and Provide effective nursing measures of the patients is the key to improve the prognosis.
+Key Words: Donation after cardiac death;Renal transplant; Pulmonary infection;Countermeasures
+(编审：刘付平施仲赋)

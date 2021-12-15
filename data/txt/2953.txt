@@ -1,0 +1,138 @@
+﻿中华神经创伤夕卜科电子杂志 202" — 4 月 第 6 卷第 2 期 Chin J Neurotrauma Surg (Electronic Edition), Apr. 2020, VoL6, No.2	，EC •
+・临床研究•
+急性神经重症患者7天内进展为脑死亡的 预测评分
+徐桂兴C刘华2于萍C郑东华D
+【摘要】目的 构建急性神经重症患者在7 8内进展为脑死亡的预测评分，为此类患者的临 床决策(姑息治疗或器官捐献)提供指导(方法前瞻性纳入中山大学附属第一医院神经外科和 重症医学科自2017年5月至2019年4月收治的急性神经重症患者,动态记录评估患者脑损伤的 相关参数，依据入院时间将患者分为2组，训练集(2017年5月至2018年4月)和验证集(2018年5 月至2019年4月)(在训练集中，以严重脑损伤(GCS<8分)发生后7 8,作为分组因素;通过单因素 和多因素分析组间差异，筛选与急性神经重症患者在7 8内进展为脑死亡的相关因素，并进行Cox 回归统计分析，构建曲线下面积(AUC)；构建神经学预测评分，并在验证集中验证评分效能(结果 纳入研究的患者231例，其中139例进入训练集,92例进入验证集(在训练集中，经单因素和多因 素分析显示：气管插管行机械通气(ORr4.87,95%CI：1.36〜17.35)、对光反射消失(OR=4.86,95%CI： 1.75〜33.92)、咳嗽反射消失(ORr4.43,95%CI：1.97〜20.21)和中线结构移位！5 mm(OR=3.82,95%CI： 1.05〜12.32)是患者7 8内进展为脑死亡独立危险因素(在验证集中，结果一致(基于相关因素构建 的预测评分，其对于7 8内进展为脑死亡预测的AUC值为0.84(进一步对评分进行分层，其中4〜6分 对7 8内进展为脑死亡的阳性预测率为85.7%,而0〜3分对7 8内不进展为脑死亡的阴性预测率为 74.3%0结论基于脑损伤评估参数构建的神经学评分，可预测急性神经重症患者进展为脑死亡 的时间，结果有待外部数据验证。
+【关键词】 脑损伤；神经重症；脑死亡；预测
+Predictive score for progression to brain death within 7 d in acute neurocritical patients Xu Guixing1) Liu Hu吐 Yu Pin’, Zheng Donghua5.	(Department of Neurosurgery) the First Affiliated
+Hospital of Sun Yat-Sen University, Guangzhou 510080) China; 2Department of Pediatric, the First Affiliated Hospital of Sun Yat-Sen University, Guangzhou 510080) China; ^Department of Critical Medicine, the First Affiliated Hospital of Sun Yat-Sen University, Guangzhou 510080, China Corresponding author: Zheng Donghua, Email: xguix2009@163.com
+[Abstract] Objective To buil8 a pre8ictive score of progression to brain 8eath within 7 8 in acute neurocritical patients, which was use8 to gui8e clinical 8ecision-making (palliative treatment or organ 8onation) of such patients. Methods From May 2017 to April 2019, acute neurocritical patient a8mitte8 in the Department of Neurosurgery an8 Critical Me8icine of the First Affiliate8 Hospital of Sun Yat-Sen University were prospectively enrolle8, the relate8 factor of brain injury in those patients were 8ynamically recor8. Accor8ing to the time of a8mission, the patients were 8ivi8e8 into two parts: training set (from May 2017 to April 2018) an8 vali8ation set (from May 2018 to April 2019). In the training set, 7 8 after the occurrence of severe brain injury (GCS<8) was taken as the grouping factor; the univariate an8 multivariate analysis were use8 to screen the factors relate8 to the progression to brain 8eath within 7 8, an8 the Cox regression was use8 to buil8 area un8er curve (AUC) curve; a neurology pre8ictive score was built, an8 its performance was teste8 in the vali8ation set. Results Two hun8re8 an8 thirty -one patients were inclu8e8 in the stu8y, 139 patients entere8 the training set an8 92 entere8 the
+D0I:10.3877/cma.j.issn.2095-9141.2020.02.004
+基金项目：广东省医学科研基金(A2019118)
+作者单位：510080广州，中山大学附属第一医院神经外科1；儿科2:重症医学科3
+通信作者:郑东华，Email ：xguix2009@163.com
+, D!,
+中华神经创伤外科电子杂,2020年 4 . 第 6 卷第 2 期 Chin J N+,-.t-a,ma Surg (El+ctr.nic Editi.n), Apr. 2"2", V.6.6, N..2
+Q06’80/’.( R+/= M( /&+ /-0’(’(3 R+/: /&+ ,(’Q0-’0/+ 0(8 1,6/’Q0-’0/+ 0(06SR’R R&.T+8U 1+7&0(’706 Q+(/’60/’.( Ti/& +(d./ra7&+a6 i(/,Va/i.( 4WL X4.DE: HGO CMU @.F6!@E.FG): 6i3&/ r+Y6+Z aVR+(7+ 4WL X4.D6 #HGO CMU @.EG!FF.H2): 7.,3& r+Y6+Z aVR+(7+ 4WLX4.4F: HGO CMU @.HE!20.2@) a(d mid6i(+ R&iY/ !G mm 4WL XF.D2: HGO CMU @.0G!@2.F2) T+r+ r+6a/+d Ti/& <r.3r+RRi.( /. Vrai( d+a/& Ti/&i( E d. M( /&+ Qa6ida/i.( R+/: /&+ r+R,6/R ar+ 7.(RiR/+(/ Ti/& /&+ /rai(i(3 R+/. A R7.r+ TaR V,i6/ VaR+d .( /&.R+ r+6a/+d Ya7/.rR: a(d /&+ A[C .Y R7.r+ TaR 0.D4. \,r/&+r 3radi(3 .Y R7.r+: /&+ <.Ri/iQ+ <r+di7/iQ+ ra/+ 4<r.3r+RRi(3 /. Vrai( d+a/& Ti/&i( E d) .Y 4!6 <.i(/R TaR DG.EO : T&i6+ /&+ (+3a/iQ+ <r+di7/iQ+ ra/+ 4(./ <r.3r+RRi(3 /. Vrai( d+a/&) .Y 0!F <.i(/R TaR E4.FO. !"#$%&’(") J&+ (+,r.6.3i7a6 R7.r+ VaR+d .( Vrai( i(],rS aRR+RRm+(/ 7a( <r+di7/ /&+ <r.3r+RRi.( /. Vrai( d+a/& i( a7,/+ (+,r.7ri/i7a6 <a/i+(/R: V,/ /&+ r+R,6/R (++d Y,r/&+r +Z/+r(a6 Qa6ida/i.(.
+**+, -"./’+ Brain injury; Neurocri/ical_ Brain death; Prediction
+目前中国已颁布‘'脑死亡判定标C与操作规 范”，并在部分临床实践中应用?I：1相关研究显示，急 性神经重症患者（GCS＜8分且持续时间＜72 h&易进 展为脑死亡，因此脑死亡发生的预测对于此类患3 临床决策的制定尤为重要陷。中国脑死亡判定指南 仅是对脑死亡做事实判定，对其发生不具备预测性$ 国外少量文献报道神经重症患3进展为脑死亡的预 测，但仅是从神经学体检参数，如角膜反射、瞳孔对 光反射等，预测准确性不高艮4A$国内关于脑死亡预测 的报道较少。中；大学附属第一医院自2015年开始 实施脑死亡判定，在神经学体检参数的基础上引1 神经影像学参数和自主呼吸评估，初步构建针对急 性神经重症患3进展为脑死亡的预测评分，现报道 如下。
+IJKDE
+一、研究对象
+前瞻性收集中；大学附属第一医院神经外科和 重症医学科自2017年5月至201H年4月收治的急 性神经重症患者的相关临床资料。按照1院时间顺 序，将纳1患3分为2组，训练集%2017年5月至 2018年4月）和验证集（2018年5月至201H年4月&$
+二、纳入与排除标准
+纳入标C ：（1）年龄I1岁；（2）急性神经重症患 3：GCS＜8分且持续时间＜72 h?羽；（3）严重脑损伤明 确：头颅CJ或KLM证实；（4）病程＜2周$排除标准: （1&严重脑损伤发生时间不明确3； （2&神经影像资 料缺失者或失访3 ； （3）因无法完成自主呼吸激发试 验，无法判定为脑死亡3 ； （4）存在身体其他部位损 伤病或严重基础病3$
+三、研究方法
+动态记录患3的生命体征、神经系统体检、实验 室检验和影像学检查等相关参数，直至患3达到脑
+死亡判定标C。依照“脑死亡判定标准与操作规范" 和便于脑死亡概念普及的原则，本中心首选脑电和 脑血流评估作为确认检查方2,对存在脑死亡判定 限制因素（如去骨瓣减压）的患3，进一步行正中神 经诱发电位检查，以确保脑死亡判定的准确性。
+依据BCS评分表，对纳1患3每日进行2次评 分（每12 h 一次），并同步记录患3该时段的检验和 检查数据。检验数据来自于日常的血常规、急诊生 化、血气分析和肝肾功能等，标本的获取和检验遵循 医院流程；检查数据来自于患3救治过程中的头颅 CJ或KLM检查$当BCS评分为3分时，启动脑死亡 评估的确认检查（脑电、脑血流和诱发电位）和自主 呼吸激发试验（自主呼吸状况评估），并继续记录患 3的检验和检查结果，直到脑死亡判定完成。
+依据国外相关研究［3,4］和本中心先期研究［5,6］， 训练集主要纳1神经体检、 神经影像和 自 主呼吸评 估三方因素，分析与急性神经重症患378内进展 为脑死亡的相关因素，并构建神经学预测评分，在验 证集中验证评分效能$
+四、严重脑损伤观察的时间起点和诊断方式
+观察时间起点：以BCS开始＜8分作为严重脑
+损伤开始发生的起点。诊断方式（以BCS＜8分时或 前后48 h内的头颅CT或KLM来评估脑损伤类型 和程9$
+五、观察指标及评分标准
+神经体检指标（角膜反射、对光反射、头眼反射、 前庭眼反射、咳嗽反射；反射存在评0分，消失评1 分$影像评估指标（环池外形、中线移位、脑室外形、 漩涡征和脑室内出血；形态正常评0分，形态异常依 据其程9评 1N2 分$ 自主呼吸评估指标：自主呼吸 平稳,-0分；自主呼吸异常,-1分；C氧＞95%，气 管插管行机械通气，评2分$
+六、统计学分析
+采用SPSS23.0软件进行统计学分析，在训练集
+中华神经创伤外科电子杂志 2"2" — 4 月 第 6 卷第 2 期 Chin J Neurotrauma 2u-3 (Electronic Edition), Apr. 2"2", Vol.6, No.2
+・83 -
+中，依据分组因素，通过单因素和多因素分析组间差 异，筛选与患者7 d内进展为脑死亡相关的因素，并 构建评分；在验证集中对评分效能进行验证。最终 进行Cox回归统计分析,构建曲线下面积(area under curve,AUC)曲线。以"<0.05为差异具有统计学 意义。
+结果
+一、一般资料
+依据纳入与排除标准，最终入组231例患者，其 中男性163例，女性68例；年龄范围2~65岁，年龄 (45.21 ±17.63)岁；其中创伤性颅脑损伤116例、自 发性脑出血94例、脑积水8例和颅内肿瘤13例。高 血压者64例，糖尿病者18例，甲亢者2例。患者的 年龄、性别、诊断和基础疾病与7 d内进展为脑死亡 无相关性(">0.05)(表1)。
+表1纳入研究患者的一般资料
+因素	资料	7d内进展为脑死亡的 OR(95%CI)	"值
+年龄(岁)	45.2±17.6	0.99(0.98〜1.01)	0.548
+性别(男)	163(70.6%)	0.67(0.28L1.59)	0.362
+诊断			
+创伤性颅脑外伤	116(50.2%)	1.24 (0.46L3.39)	0.668
+自发性脑出血	94(40.69% )	1.01 (0.99L1.02)	0.882
+脑积水	8(3.46%)	2.25(0.25L20.28)	0.473
+颅内肿瘤	13(5.63%)	2.55(0.23L21.18)	0.506
+基础疾病			
+高血压	64(24.7%)	1.53(0.28L10.31)	0.742
+糖尿病	18(7.8%)	2.41(0.33L18.23)	0.676
+甲亢	2(0.9% )	0.87(0.25L12.56)	0.465
+二、7 d内进展为脑死亡的单因素分析
+单因素分析显示，自主呼吸异常、对光反射消 失、咳嗽反射消失、瞳孔不等大或散大、角膜反射消 失、疼痛反应消失、环池变窄或消失和中线结构与急 性神经重症患者7 d内进展为脑死亡相关，脑室内 出血、漩涡征与急性神经重症患者7 d内进展为脑 死亡不相关(表2)。
+表2急性神经重症患者7 d内进展为脑死亡影响因素的 单因素分析[例(%)]
+预测因素	7 d进展为 脑死亡	OR(95%CI)	"值
+自主呼吸			
+自主呼吸异常但血氧>95%	17 (12.23 )	3.89(1.73L24.34)	0.031
+气管插管行机械通气	93(66.91)	4.33(1.26L23.18)	0.005
+对光反射消失	118(84.89)	6.86(1.65L29.52)	0.011
+咳嗽反射消失	111(79.86)	5.18(1.35L20.21)	0.005
+瞳孔不等大或散大	122(87.77)	6.08(1.62L15.94)	0.014
+角膜反射消失	123 (88.49 )	6.19(0.68L13.76)	0.009
+疼痛反应消失	128 (92.09 )	6.31(0.97L11.05)	0.006
+环池变窄或消失	126 (90.65 )	6.02(1.52L20.77)	0.007
+脑室内出血	15 (10.79 )	1.77(1.24L5.49 )	0.563
+旋涡征	12(8.63)	1.19(0.46L3.02 )	0.723
+中线结构			
+移位＜5 mm	69(49.64)	4.22(1.45L12.32)	0.019
+移位！5 mm	62(44.60)	4.89(1.71L14.34)	0.008
+三、7 d内进展为脑死亡的多因素分析
+训练集多因素分析显示，气管插管行机械通气、 对光反射消失、咳嗽反射消失和中线结构移位！ 5 mm是患者7 d内进展为脑死亡的危险因素，且验 证集结果与训练集结果一致(表3)。基于影响因素
+表3急性神经重症患者7 d内进展为脑死亡影响因素的多因素分析[例(%)]
+预测因素	训练集5=139)			验证集(！=92)		
+	7d进展为脑死亡	OR(95%CI)	"值	7d进展为脑死亡	OR(95%CI)	"值
+气管插管行机械通气	93(66.91 )	4.87(1.36L17.35 )	0.015	60(65.22)	4.13(1.51L17.34)	0.022
+对光反射消失	118(84.89)	4.86(1.75L33.92)	0.016	80(86.96)	4.93(1.53L33.52)	0.012
+瞳孔不等大或散大	122(87.77)	0.97(0.56L11.78)	0.092	79(85.87)	0.86(0.46L12.72)	0.071
+角膜反射消失	123(88.49 )	0.95(0.53L12.69)	0.067	81 (88.04)	0.81 (0.39L11.43 )	0.058
+疼痛反应消失	128(92.09 )	0.84(0.49L12.81)	0.069	83(90.22)	0.73(0.35L18.81)	0.069
+环池变窄或消失	126(90.65 )	0.85(0.47L16.53 )	0.059	85 (92.39 )	0.91 (0.47L18.35 )	0.056
+咳嗽反射消失	111(79.86)	4.43(1.97L20.21)	0.024	70(76.09)	4.48(1.48L20.65)	0.020
+中线结构移位!5 mm	62(44.60)	3.82(1.05L12.32)	0.030	38 (41.30)	3.42(1.02L12.52)	0.031
+) A#)
+中华神经创伤外科电子杂,2020年 4 . 第 6 卷第 2 期 Chin J N+,-.t-a,ma Surg (El+ctr.nic Editi.n), Apr. 2"2", V.6.6, N..2
+>zJE$-2!L 4"#x&m ? d uRGjb: RE$J A@C lj 0.A4!) B"$ RiS&>zJE $-2}+2M# 2!&ROj3J’*+bRt -2[&N $ -2j 4C6 2Jj3 B26 O#B0A O o ? d uRGjb:R# O4C62&?duRGj b:RJQME$Ij AD.?E% -2j 0CF 2Jj 3 B0DO#?AOo?d uqRGjb:R#O 0CF 2 & ? d uPRGjb:RJMME$Ij ?4.FE$
+表!神经学预测评分
+参数	分级	评分
+	自主呼吸平稳	0
+自主呼吸	自主呼吸异常但血氧＞95%	B
+	气管插管行机械通气	2
+对光反射	存在	0
+	消失	B
+咳嗽反射	存在	0
+	消失	B
+	无移位	0
+中线结构	移位"5 mm	B
+	移 位!5 mm	2
+图"基于脑损伤评估参数构建的神经学评分的曲线下面积
+MH
+急性神经重症患3 ,病情重且进展迅速，如不及 时、准确地进行脑损伤程度判定和救治，易进展为脑 死亡艮4H。由于结构和功能不同，脑不同部位对缺血缺 氧的耐受能力不同，因此，“脑死亡”是一个沿着“时 间轴”逐步发生的过程，这就是可预测脑死亡发生的 理论基7,而脑死亡发生的预测建立在脑损伤评估 基础之上〔?也$基于此，本研究构建了包含神经学体 检&神经影像和自主呼吸三类参数的脑死亡发生预 测评分$
+近二十多年来，神经学体检一直是神经重症患者 继发性脑损伤的重要监测手段曳颅内压（intracranial
+pressure JCP）增高导致脑干受压引起的瞳孔对光反 射异常和自主呼吸异常，是病情恶化的早期临床表 aGBBH$既往研究显示脑损伤患3继发的神经系统异 常与预后显著相关，其中单侧瞳孔对光反射消失的 死亡率为30%~50%,双侧瞳孔对光反射消失的死亡 率超过L0%GFH$本研究结果显示双侧瞳孔对光反射 消失与7 8内进展为脑死亡相关,与其相似$咳嗽反 射中枢位于脑干的孤束核内及其周围，毗邻呼吸中 枢GB2H$研究表明，咳嗽和呼吸具有相同的运动神经 ）， lm 咳嗽反射与 自 主呼吸在%"结构上关系） EGBFH$ Sharshar等GB4H针对72例神经重症患者的研究 表明早期评估脑干反射有助于脑死亡发生的预测, 并显示咳嗽反射消失与自主呼吸停止具有一致性$ 本研究结果显示咳嗽反射消失和自主呼吸异常与7 8 内进展为脑死亡相关，与上述结果相似。多因素分析 显示，气管插管行机械通气&对光反射消失&咳嗽反 射消失是患3 7 8内进展为脑死亡的独立危险因 素$基于此，本文引1针对性的自主呼吸和脑干功能 评估参数用于脑死亡发生预测，初步研究显示瞳孔 对光反射消失& 咳嗽反射消失和 自 主呼吸异常对脑 死亡的发生具有预测性$
+镇静剂和神经!肌肉阻滞剂的使用，1降低神经 学体检和自主呼吸评估的准确性，因此本研究引入 神经影像学评估。目前，基于头颅CT构建的评估系 统， 如 Narsha66 分类系统和 O.tter8am 评分系统，是 利用与ICP增高相关的客观指标，如环池状态、中线 结构和脑室内出血等，提供更客观的预后评估指 标GB5：B6H 0环池位于在中脑外侧连接四叠体池和脚间 池，是脑脊液循环的必经之路$ Serpadei等GB7HV究证 实神经重症患者因环池变窄或消失，引起脑脊液循 环障碍，导致ICP持续增高，直接影响患3预后。在 本研究中，90.7%患3存在环池变窄或消失，未体现 出对于早期预测脑死亡的意义$脑中线部位分布着 许多重要的结构（如脑干、丘脑等），发挥着重要的功 能$ 中线:位是神经重症患3常（的影像学表现$ Quattrocchi等GBAH针对75例神经重症患者的研究显 示中线移位程度可作为脑损伤预后的有效指标$相 关研究进一步显示,中线移位！4 mm可预测患3预 后不5，而中线移位!5 mm 可预测神经重症患3死 亡陷$本研究显示，中线移位与神经重症患者在7 8 内进展为脑死亡相关，且中线移位!5 mm 是患3 7 8 内进展为脑死亡的独立危险因素，与上述结果一致。
+本研究尚存在不足之处，尽管制定了‘1与排 除标C,但由于本文为单中心研究，不可避免地存在
+中华神经创伤夕卜科电子杂,2"2"年 4 .第 6 卷第 2 期 ％&’( J N+,-0t-0,ia S,rg (Electronic Edition), A<-= 2"2"： >.6=6： N.=2	)G5)
+j3./eJ,L! c7e8|j3?cJ67C 病和身体其他部位损伤，会影响预测评分的适用性"
+综上所述!在神经学体检# P主呼吸和神经影 像用于脑损伤程度评估的基础上，本研究进一步 将其应用于脑死亡发生的预测，初步构建的神经 学预测评分，可为急性神经重症患3的临床决策 !*,Y"
+&’()
+?@A	国家卫生健康委员会脑损伤质控评价中心.中国儿童脑死亡
+判定标准与操作规范?JA.中华儿科杂志：2。19： 57(5)： 331-335.
+?2A	国家卫生健康委员会脑损伤质控评价中心: 中华:学会神经
+病学分会神经重症协作组：中国医师协会神经内科医师分会 神经重症专业委员会.中国成人脑死亡判定标准与操作规范 (第二版)[J].中华医学杂志：2019： 99(17):1288-1292.
+?3A Hi-Ic&in3 J= %.10 0Kt+- 0c,t+ &+08 inL,-M ?JA= NtIc& ;-Ot+P6 Qnt: 2"17： 114(18)E 313-32".
+?4A	*M01 RE： ;. ST： T,n3 2U： +t 06. H.,- Ic.-+ <-+8ictI +0-6M
+.,tc.1+ in <0ti+ntI 0Kt+- t-0,10tic P-0in inL,-M?JA. *+,-.c-it %0-+： 2"17： 26(2)E 225-231.
+?5A V, W： W,. X： Yi0n3 Z： +t 06. [-+8icti.n .K <.t+nti06 K.- .-30n
+8.n0ti.n 0Kt+- ci-c,60t.-M 8+0t& in n+,-.c-itic06 <0ti+ntI ?JA. J T+0-t Y,n3 R-0nI<60nt： 2"18： 37(3)E 358-364.
+?6A T+ V： V, W： Yi0n3 Z： +t 06. *.1.3-01 K.- <-+8ictin3 ti1+ t.
+8+0t& 0Kt+- \it&8-0\06 .K 6iK+-I,It0inin3 t-+0t1+nt in <0ti+ntI \it& 8+]0It0tin3 n+,-.6.3ic06 inL,-M ?JA. ;1 J R-0nI<60nt： 2"15： 15 (8)E 2136-2142.
+?7A J.t& %： H+-P+-t ;. I,P0-0c&n.i8 &+1.--&03+ 0n8 iI.60t+8 P-0inIt+1 8+0t&?JA. H.-tIc&- *+,-.6 [IMc&i0t-： 2"16： 84 (6)E 377384.
+[8] Peacock 2T： Tomlinson AD. Multimodal n+u-omonito-ing in n+,-.c-itic06 c0-+?JA. ;;%* ;8] %-it %0-+： 2"18： 29(2)E 183-194.
+?9A ToneMPul 2： To S_： Yind %J： et al. >alidation oK t&e c-aI& model in t&e <-ediction oK 18-mont& mo-talitM and unKa]o-aPle
+outcome in Ie]e-e t-aumatic P-ain inLu-M -e‘ui-in3 decom<-eIIi]e c-aniectomM?JA. J *eu-oIu-3： 2"14： 12"(5)E 1131 -1137.
+?1"A Tala-i TJ： Hak&a-ian E： _ouIa]i *： et al. T&e -otte-dam Ico-in3 IMItem can Pe uIed aI an inde<endent Kacto- Ko- <-edictin3 t-aumatic P-ain inLu-M outcomeI ?JA. Zo-ld *eu-oIu-3： 2"16： 87E 195-199.
+?11A P-aIad WY. Qnt-ac-anial <-eIIu-e monito-in3 in t-aumatic P-ain inLu-M?JA. Zo-ld *eu-oIu-3： 2"17： 1""E 7"2-7"3.
+?12A TaLi A： Simu-a 2： a&i U. A model oK t&e cent-al -e3ulato-M IMItem Ko- cou3& -eKleb?JA. ciol P&a-m cull： 2"13： 36(4)E 5"1 -5"8.
+?13A colIe- D%： Poliacek Q： JakuI J： et al. *eu-o3eneIiI oK cou3&： ot&e- ai-\aM deKenIi]e Pe&a]io-I and P-eat&in3E a &ola-c&ical IMItemd?JA. JeI<i- P&MIiol *eu-oPiol： 2""6： 152(3)E 255-265.
+?14A 2&a-I&a- T： Po-c&e- J： 2iami 2： et al. c-ainItem -eI<onIeI can <-edict deat& and deli-ium in Iedated <atientI in intenIi]e ca-e unit?JA. %-it %a-e _ed： 2"11： 39(8)E 196"-1967.
+?15A _aaI AQ： Tukkel&o]en %Z： _a-I&all YH： et al. P-ediction oK outcome in t-aumatic P-ain inLu-M \it& com<uted tomo3-a<&ic c&a-acte-iIticIE a com<a-iIon Pet\een t&e com<uted tomo3-a<&ic claIIiKication and comPinationI oK com<uted tomo3-a<&ic <-edicto-I ?JA. *eu-oIu-3e-M： 2""5： 57 (6)E 1173-1182e diIcuIIion 1173-1182.
+?16A Tuan3 UT： Den3 UT： Yee T%： et al. Jotte-dam com<uted tomo3-a<&M Ico-e aI a <-o3noIticato- in &ead-inLu-ed <atientI unde-3oin3 decom<-eIIi]e c-aniectomM?JA. *eu-oIu-3e-M： 2"12： 71 (1)E 8"-85.
+?17A 2e-]adei H： *aIi _T： Wiuliani W： et al. %t <-o3noItic Kacto-I in acute IuPdu-al &aematomaIE t&e ]alue oK t&e $\o-It% %T Ican?JA. c- J *eu-oIu-3： 2"""： 14(2)E 11"-116.
+?18A fuatt-occ&i Sc： P-aIad P： ZillitI *T： et al. fuantiKication oK midline I&iKt aI a <-edicto- oK <oo- outcome Kollo\in3 &ead inLu-M ?JA. 2u-3 *eu-ol： 1991： 35(3)E 183-188.
+?19A Uan3 Z2： Yi f： Yi J： et al. DeKinin3 t&e o<timal midline I&iKt t&-eI&old to <-edict <oo- outcome in <atientI \it& Iu<-atento-ial I<ontaneouI int-ace-eP-al &emo--&a3e ?JA. *eu-oc-it %a-e： 2"18： 28(3)E 314-321.
+&?@ A 期’2"2"-"1-16( (本文编辑:闫晋利)
+opq： r3： st： w. e.%&Oxyz 7 {|}$~G!"+#$%E?Jg%DA. 23%&45)*6789： 2"2"： 6(2)E "81-"85.

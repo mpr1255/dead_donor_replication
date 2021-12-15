@@ -1,0 +1,83 @@
+﻿第11卷 第2期
+2020年3月
+器官移植 Organ Transplantation
+Vol. 11 No. 2
+Mar. 2020
+•述评•
+前进中的肺移植事业
+胡春晓 李小杉 卫栋 陈静瑜
+我国肺移植发展现状及未来
+【摘要】 肺移植作为四大器官移植之一，近年来发展迅速。随着国家卫生健康委员会肺移植质量管理与控 制中心的成立、《肺移植技术管理规范》及《肺移植标准流程和技术规范》的制定等一系列措施的实施，我国肺 移植的质量和数量均呈稳步上升。建立和完善科学的肺移植技术临床应用质量控制指标，制定肺移植标准流程和 技术规范，加强肺移植规范化培训基地的管理，打造多学科联合协作的肺移植团队，构建完备的肺移植数据库， 将为进一步推进我国肺移植的发展提供保障。
+【关键词】	肺移植；绿色通道；快速康复；质量控制；团队建设；数据挖掘；标准流程；技术规范
+【中图分类号】R617, R563【文献标志码】A【文章编号】1674-7445( 2020)02-0005-04
+The development of lung transplantation: current situation and future of lung transplantation in China Hu Chunxiao, Li Xiaoshan, Wei Dong, Chen Jingyu. Wuxi People's Hospital Affiliated to Nanjing Medical University, National Quality Management and Control Center for Lung Transplantation, National Lung Transplantation Data Center, Wuxi 214023, China
+Corresponding author: Hu Chunxiao, Email: huchunxiao91211@163.com
+【Abstract 】 As one of the four major types of organ transplantation, lung transplantation has been developed rapidly in recent years. With the establishment of Quality Management and Control Center for Lung Transplantation of National Health Commission, the formulation of Technical Management Specifications for Lung Transplantation and Standard Procedures and Technical Specifications for Lung Transplantation and the implementation of a series of measures, the quality and quantity of lung transplantation have been steadily increased in China. It will provide a guarantee for further promoting the development of lung transplantation in China by the establishment and improvement of scientific quality control parameters for clinical application of lung transplantation technology, the formulation of standard procedures and technical specifications for lung transplantation, strengthening the management of standardized training bases for lung transplantation, building up a multidisciplinary lung transplantation team and constructing a complete lung transplantation database.
+【Key words] Lung transplantation; Green channel; Rapid recovery; Quality control; Team building; Data mining; Standard process; Technical specification
+作者简介：胡春晓，主任医师，硕士研究生导师，江苏省“333工程”培养对象，江苏省卫生 拔尖人才。现任无锡市人民医院移植管理办公室副主任。兼任国家肺移植质量管理与控制中心办 公室主任兼专家委员会秘书、国家肺移植数据中心办公室副主任、中华医学会器官移植学分会肺 移植学组委员兼秘书、全国肺移植联盟副秘书长、江苏省医学会器官移植分会捐献学组委员、江 苏省医学会麻醉学分会老年学组委员、江苏省医师协会器官移植分会委员兼总干事等学术职务。 主要研究方向为器官功能保护、体外膜肺氧合（ECMO）在肺移植围手术期的应用管理、肺移植 数据质量管理及信息化应用。主持或参与国家和省部级以上课题5项。获得中华医学科技奖三等 奖2项、江苏省科技进步奖三等奖2项、江苏省医学科技奖二等奖1项、无锡市政府科技奖腾飞
+奖1项、江苏省医学新技术引进一等奖1项、江苏省医学新技术引进二等奖3项。
+DOI: 10.3969/j.issn.1674-7445.2020.02.005
+基金项目：江苏省科教强卫项目3。区。82016003）；无锡市卫生计生委重大项目（2201801）
+作者单位：214023 江苏无锡,南京医科大学附属无锡人民医院 国家肺移植质量管理与控制中心 国家肺移植数据中心
+通信作者：胡春晓，Email ： huchunxiao91211@163.com
+第2期
+胡春晓等．前进中的肺移植事业——我国肺移植发展现状及未来
+・205・
+近年来，我国肺移植快速发展，一系列肺移植管 理规范、技术指南相继出台，不仅手术量快速上升， 肺移植质量也逐渐接近国际水平。但我国肺移植业发 展仍然面临着诸多困难与挑战，需要肺移植工作者遵 循“传承、发展、规范、创新”的理念砥砺前行，以 促进我国肺移植同质化、全面化和长足化发展。
+1	肺移植体系的建设
+1.1	肺移植质量管理体系的建设
+国家卫生健康委员会（原国家卫生和计划生育 委员会）于2016年成立了国家肺移植质量管理与控 制中心（国家质控中心），牵头负责全国范围内的肺 移植医疗质量管理与控制工作。2018年国家质控中 心组建了国家质控中心肺移植专家委员会，并制定了 《肺移植技术管理规范》，详细规定了医疗机构专科 能力及硬件条件等基本要求，并对医护人员的职业资 质、专业能力、手术技术、病房管理、随访能力、生 存分析等技术管理能力作了详细规定。2019年，国 家质控中心根据国家卫生健康委员会要求修订了《肺 移植技术临床应用质量控制指标》，可更加科学地评 估供肺的使用情况、移植手术及时性、移植术医疗水 平、术后并发症、受者术后肺功能改善及术后生存 情况。
+1.2	肺移植数据注册系统的建设
+2007年国务院颁布了《人体器官移植条例》， 明确规定器官移植医疗机构负有向卫生主管部门上报 移植数据的义务［1］。2010年原国家卫生部建立了国 家肺移植数据中心，明确了中心的技术管理地位和工 作职责（卫医管评价便函〔2010〕 51号），对肺移 植数据的报送录入、报送方式、报送时间和报送管理 进行了规定；并对国务院卫生行政部门、省级卫生行 政部门、国家肺移植数据中心和各移植医院在肺移植 数据网络直报过程中的职责进行了分工（卫办医管发 〔2010〕 105号）［2］。2019年国家卫生健康委员会制 定了《人体捐献器官获取与分配管理规定》，对移植 数据的上报、管理及使用进行规范［3-4］。中国肺移植 注册系统（China Lung Transplantation Registry ）是目 前国内唯一的肺移植受者数据科学登记系统，全面及 时地收集了供者信息及受者术前、手术、术后、随访 信息。通过对中国大陆的肺移植情况进行动态、科学 地分析，为国家监管部门制定移植相关政策、法规提 供依据。2019年，新版肺移植注册系统在保证数据
+上报的及时性、准确性和完整性的基础上，进一步优 化了注册条目，已处于试运行阶段。
+1.3	肺移植技术规范的制定
+在中华医学会器官移植学分会及国家质控中心肺 移植专家委员会的指导下，制定了适宜于我国国情的 肺移植流程和技术规范、专家共识。已完成的《中国 肺移植供体标准及获取转运指南》对供肺标准、维护 策略和获取、转运流程进行了详细说明［5］。2019年， 国家质控中心围绕构建“依据诊疗流程、分阶段质 控”的全程化肺移植临床质量控制体系工作目标，出 台了一系列的规范指南。《中国肺移植受者选择与术 前评估技术规范（2019版）》对肺移植适应证和禁 忌证、时机的选择、受者术前评估和术前检查等进行 了详细的规定［6］；《中国肺移植供肺获取与保护技术 规范（2019版）》对理想供者、可接受供者标准、 供肺维护策略和供肺获取作了详细规定；《中国肺移 植术操作规范（2019版）》对供肺植入术、活体肺 叶移植术和再次肺移植术进行了详细的规定［7］；《肺 移植围手术期体外膜肺氧合应用指南（2019版）》 对术前 体外膜 肺氧合（extracorporeal membrane oxygenation, ECMO ）桥接治疗、术中ECMO应用和 术后ECMO应用进行了详细规定［8］；《中国肺移植 术后并发症诊疗和随访技术规范（2019版）》对胸 腔内出血、气道吻合口并发症、血管吻合口狭窄、 感染、原发性移植物失功（primary graft dysfunction， PGD）等多种并发症的诊疗进行了规范，并对术后并 发症随访进行了规定；《中国肺移植免疫抑制治疗及 排斥反应诊疗规范（2019版）》对免疫抑制剂应用 原则、免疫抑制方案和排斥反应的诊断和处理进行了 规范。
+2	我国肺移植发展现状
+近年来我国肺移植快速发展，移植数量逐年上 升。目前全国具有肺移植资质的医疗机构已达44个， 覆盖全国21个省（自治区、直辖市），地理分布范 围主要集中在东部和华北地区。截止至2019年12月 31日，中国肺移植注册系统显示已登记的肺移植例 数超过1 500例；2015年至2019年各年度开展肺移 植手术分别为147、204、299、403、489例。2019年， 有23个中心开展了肺移植手术，9个中心年肺移植 手术量超过10例。手术数量居前3位的中心分别为 无锡市人民医院、中日友好医院和广州医科大学附属
+•206。
+器官移植
+第11卷
+第一医院。其中无锡市人民医院单中心手术例数达到 149例，继续跻身全球肺移植中心前3位。2018年成 立的“中国肺移植联盟”，在国家质控中心和中华医 学会器官移植学分会的指导下，联袂多学科、多团队 搭建肺移植工作平台，相继成立了联盟下属的内科、 麻醉和护理学组，为今后肺移植多团队协作以及同质 化发展提供了保障。
+2.1	我国肺移植现状分析
+我国肺移植受者特征主要为高龄、术前身体机能 差、并发症多，诸多患者直到呼吸机依赖才要求实施 肺移植术，甚至有些患者使用ECMO辅助支持等待 肺移植［9］。2015年至2018年我国肺移植受者年龄为 （55±13）岁，60岁以上受者比例显著高于国际心 肺移植协会（International Society for Heart and Lung Transplantation, ISHLT）报道的数据［10］。受者原发病 中以特发性间质性肺炎、慢性阻塞性肺疾病及非特发 性间质性肺炎和肺尘埃沉着病（尘肺病）为主，尤其 是尘肺病患者在我国肺移植受者占据的比例显著高于 ISHLT报道数据。手术方式上，单、双肺移植分别占 总量的57.6%和42.4%，单肺移植多于双肺移植。在 器官转运绿色通道支持下，随着各地区开展肺移植医 院的不断增加，供肺中位冷缺血时间呈逐年下降趋势。 术后感染、急性排斥反应、肾功能不全、PGD、糖尿病、 支气管胸膜瘘及支气管吻合口病变是我国肺移植受者 术后最主要的早期并发症。与ISHLT报道数据相比较， 我国肺移植受者术后早期感染和急性排斥反应的发生 率更高，但PGD和多器官功能衰竭的发生率相对较低。 在住院时间上，64.0%的肺移植受者住院时间N29 d。 随着围手术期管理水平的不断提高，在康复科、营养 科等相关学科的协作下，诸多肺移植中心2019年的 肺移植受者在术后2周内已能康复出院。双肺移植受 者术后围手术期（＜30 d）、1年及3年生存率分别为 78.5%、64.5%和48.9%，单肺移植受者相应生存率 分别为83.0%、69.9%和46.8%，单肺移植受者近期 生存率优于双肺移植受者。但与ISHLT报道数据相比， 仍存在一定差距。
+2019年儿童肺移植取得较大进展。无锡市人民 医院相继完成3例11岁、8岁、7岁儿童肺移植手术。 受者均在术后2~3周内快速康复［11］。心脏修补联合 双肺肺移植治疗终末期妊娠肺动脉高压、心肺联合移 植、肺叶移植等手术的开展，也进一步促进了我国肺 移植业的发展。
+2.2	存在的问题
+我国肺移植在发展过程中还存在一些需要解决的 问题。
+2.2.1 肺移植的发展不均衡 全国44家具有肺移植资 质的移植中心地域分布差异较大，其中重庆、江西、 山西、河北、贵州、青海、宁夏等省尚未有取得肺移 植资质的医疗机构。2019年，44家中心中只有23家 中心上报了1例及以上的手术信息，其中手术量超过 10例的医院仅有9家。诸多中心取得资质后甚至1例 肺移植也未开展，已开展过肺移植手术的医院中许多 不具备独立开展手术的能力。
+2.2.2 多学科团队协作机制尚未建立 我国肺移植发展 至今，外科手术已比较成熟，外科手术环节也并非制 约我国肺移植发展的瓶颈。肺移植术后要想取得较好 的效果，需要内科、胸外科、护理、重症监护、康复 和麻醉等专业的完美配合和协作［12］。目前我国大多 数肺移植中心的团队建设还未完成从胸外科为主到多 学科团队协作机制的过渡；尽管一些移植中心工作中 有其他专业医师参与，但分工及参与程度远不如国外 精细［13-14］。因此，我国肺移植如果能逐步构建多学科 团队协作机制，其移植数量及质量均将进一步提升。
+2.2.3 肺移植数据注册工作有待进一步加强 国家肺移 植数据中心成立后，肺移植数据注册工作逐步规范， 但数据上报的及时性、准确性和完整性尚不理想，尤 其是供者、受者术前数据、术后随访数据大量缺失， 严重限制了数据的有效利用［15］。因此，应发挥国家 质控中心肺移植专家委员会的专业优势，进一步完 善我国肺移植注册系统，优化注册条目。在数据管理 上，要建立健全适合肺移植专业学科特点的数据注 册制度、核查制度及考核标准。要有效改善目前我国 肺移植专业循证医学证据严重不足的现状，进一步挖 掘数据资源，为相关指南及专家共识的制定提供数据 支持［16］。
+3	小 结
+我国肺移植已进入快速发展阶段，年度肺移植数 量增长率位于四大器官移植之首，部分肺移植中心的 移植水平已达到或接近国际先进水平。但我国肺移植 还存在发展不均衡、多学科团队协作机制尚未建立、 供肺利用率较低和移植数据利用率低等问题。因此， 应把握我国器官捐献事业蓬勃发展的历史机遇，努力 构建适合我国国情的肺移植质量控制体系，完善数据
+第2期
+胡春晓等．前进中的肺移植事业——我国肺移植发展现状及未来
+・207・
+登记系统、挖掘数据资源，在保持我国肺移植数量快 速上升的同时，同步促进肺移植质量的提升，使各肺 移植中心同质化提高。
+参考文献：
+[1]中华人民共和国国务院.人体器官移植条例[A/OL]. (2007-03-31).http://www.gov.cn/zwgk/2007-04/06/ content_574120.htm.
+[2]	卫生部办公厅关于加强人体器官移植数据网络直报
+管理的通知[A/OL] .(2010-06-24). http://www.nhc.gov. cn/zwgk/wtwj/201304/d43ba2c1bfb74615a2c10bed0207 3d49.shtml.
+[3]	国家卫生健康委员会.国家卫生健康委关于印发人体 捐献器官获取与分配管理规定的通知[A/OL].(2019-01-28). http://www.nhc.gov.cn/yzygj/pqt/201901/e43b5d 9bf87446c4a4a32da01c1e6aad.shtml.
+[4]	国家卫生健康委员会.《人体捐献器官获取与分配管
+理规定》解读[A/OL] .(2019-01-28).http://www.nhc. gov.cn/yzygj/pqt/201901/11de145eb7dc41e3bc40e8d866 c1af52.shtml.
+[5]	中华医学会器官移植学分会,国家肺移植质量管理与 控制中心.中国肺移植供体标准及获取转运指南[J]. 器官移植,2018,9(5):325-333. DOI:10.3969/j.issn. 16747445.2018.05.001.
+Branch of Organ Transplantation of Chinese Medical Association, National Quality Management and Control Center for Lung Transplantation. Guideline on the standard of lung transplantation donors and the acquisition and transshipment in China[J]. Organ Transplant, 2018,9(5):325-333. DOI:10.3969/j.issn. 16747445.2018.05.001.
+[6]	中华医学会器官移植学分会.中国肺移植受者选择与
+术前评估技术规范(2019版)[J/CD].中华移植杂志(电 子版),2019,13(2):81-86.DOI:10.3877/cmaj.issn. 1674-3903.2019.02.001.
+Branch of Organ Transplantation of Chinese Medical Association. Technical specifications for selection and preoperative evaluation of lung transplant recipients in China(2019 edition)[J/CD]. Chin J Transplant(Electr Edit),2019,13(2):81-86.DOI:10.3877/cma.j.issn.1674-3903. 2019.02.001.
+[7]	中华医学会器官移植学分会.中国肺移植术操作规范
+(2019版)[J/CD].中华移植杂志(电子版),2019,13(2): 91-93. DOI:10.3877/cma.j.issn.1674-3903.2019.02.003.
+Branch of Organ Transplantation of Chinese Medical Association. Operation standard of lung transplantation
+in China(2019 edition)[J/CD]. Chin J Transplant(Electr Edit), 2019,13(2):91-93. DOI:10.3877/cma.j.issn. 16743903.2019.02.003.
+[8]	中华医学会器官移植学分会,国家肺移植质量管理 与控制中心.肺移植围手术期体外膜肺氧合应用 指 南(2019 版)[J].器 官移植,2019,10(4):402-409. DOI:10.3969/j.issn.1674-7445.2019.04.009.
+Branch of Organ Transplantation of Chinese Medical Association, National Quality Management and Control Center for Lung Transplantation. Guideline on the application of extracorporeal membrane oxygenation during the perioperative period of lung transplantation (2019 edition)[J]. Organ Transplant,2019,10(4):402-409. DOI:10.3969/j.issn.1674-7445.2019.04.009.
+[9]	HU CX, CHEN WH, HE JX, et al. Lung transplantation in China between 2015 and 2018[J]. Chin Med J (Engl), 2019,	132(23):2783-2789. DOI: 10.1097/
+CM9.0000000000000543.
+[10]	International Society for Heart and Lung Transplantation. International Thoracic Organ Transplant (TTX) Registry Data Slides[EB/OL]. [2020-01-31]. https://ishltregistries. org/registries/slides.asp.
+[11]我国成功开展首例10岁以下儿童肺移植手术[N/OL]. (2019-11-04).http://www.js.xinhuanet.com/2019-11/04/ c_1125190615.htm.
+[12]	ADEGUNSOYE A, STREK ME, GARRITY E, et al. Comprehensive care of the lung transplant patient[J]. Chest, 2017,152(1):150-164. DOI:10.1016/j.chest.2016.10.001.
+[13]	KIM SY, JEONG SJ, LEE JG, et al. Critical care after lung transplantation[J]. Acute Crit Care, 2018, 33(4):206-215. DOI: 10.4266/acc.2018.00360.
+[14]	VAN RAEMDONCK D, KESHAVJEE S, LEVVEY B, et al. Donation after circulatory death in lung transplantation-five-year follow-up from ISHLT Registry[J]. J Heart Lung Transplant, 2019, 38(12):1235-1245. DOI: 10.1016/j.healun.2019.09.007.
+[15]	国家卫生健康委员会. 2017年国家医疗服务与质量安 全报告[M].北京:科学技术文献出版社,2018.
+[16]	李小杉，钱共旬,蔡永锋，等.中国肺脏移植数据质 量控制体系的构建[J].器官移植,2018,9(6):409-413. DOI:10.3969/j.issn.1674-7445.2018.06.002.
+LI XS, QIAN GT, CAI YF, et al. The construction of quality control system for lung transplantation data in China[J]. Organ Transplant, 2018,9(6):409-413. DOI:10.3969/j.issn.1674-7445.2018.06.002.
+(收稿日期：2020-02-03) (本文编辑：邬加佳 吴秋玲)

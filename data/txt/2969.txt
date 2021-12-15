@@ -1,0 +1,68 @@
+﻿第32卷第6期
+2011年12月
+Vol. 32 No. 6
+Dec. , 2011
+同济大学学报(医学版)
+JOURNAL OF TONGJI UNIVERSITY(MEDICAL SCIENCE)
+doi ： 10.3969/j. issnl008 - 0392.2011.06.025
+Thl7&Treg细胞在肺移植后OB的研究进展
+王建刚 综述，周晓慧，范慧敏 审校
+(同济大学附属东方医院心外科，龙海200120)
+【摘要】肺移植是终末期肺病唯一有效的治疗方式，移植后慢性排斥反应主要表现为闭塞性细支气管炎 (obliterative bronchiolitis,OB) ,OB是导致肺移植患者长期存活率较低的主要原因，其5年存活率仅有30% ~ 40%。目前临床对OB的治疗效果不佳，因此寻找一种新的治疗策略具有重要的临床意义，然而OB的发生机制至 今仍不清楚，探索OB的危险因素与发病机制为防治新策略的研究奠定重要的基础。Thl7&Treg细胞以及相互作 用与OB的发生发展存在着密切的联系，Thl7&Treg细胞是CD4+T细胞的两个亚群，以分泌IL-17为特征的Thl7 细胞参与一系列炎症反应、自身免疫性疾病以及移植排斥反应的发生发展，而Treg细胞对移植排斥、自身免疫性 疾病筝具有重要的调节功能。本文就这一方面的研究进展做一简要综述。
+【关键词】Thl7细胞；自身免疫；白介素-17；慢性排斥
+【中图分类号】R56【文献标志码】A【文章编号】1008 - 0392(2011)06 - 0109 - 04
+Thl7 and Treg cells in obliterative bronchiolitis after lung transplantation
+WANG Jian-gang, ZHOU Xiao-hui, FAN Hui-min
+(Dept, of Cardiovascular Surgery, East Hospital, Tongji University, Shanghai 200120, China)
+[Abstract ] Lung transplantation is a therapeutic modality for end-stage pulmonary diseases. The 5-year survival rate after lung transplantation is only 30% ~40% , which is significantly lower than most other solid organ transplants because of the chronic rejection, known as obliterative bronchiolitis (OB). The mechanism of OB is unclear, so it is worthwhile to explore the risk factors and pathogenesis of OB, which will facilitate the new therapeutic and prevention strategies. Recent researches have identified that Thl7 and Treg cells play important roles in the development of OB. Thl7 and Treg cells are the subsets of CD4 +T helper cells. Thl7 cells are involved in the development and progression of inflammation, autoimmune diseases and transplant rejection. In contrast, Treg cells have anti-inflammatory properties and can cause quiescence of autoimmune diseases and prolongation of transplant survival. In this paper we review the recent advances of Thl7/IL-17 and Treg in obliterative bronchiolitis after lung transplantation.
+[Key words] Thl7； autoimmune disease； interleukin-17； chronic rejection
+收稿日期：2011 -01 -26 .
+基金项目：国家自然科学基金(81070073 )；上海市科委(09411962200)；浦东新区卫生系统优秀青年医学人才培养计划(PWRq2010 -06)；浦东新区卫生系统重点学科项目(PKzxkq2010-01)
+作者简介：王建刚(1984—)，男,硕士研究生.E-mail： iamanchor@ 163. com 通信作者：范慧敏.E-mail: frankfan64@ hotmail. com
+• 109 ・
+•综 述•
+同济大学学报（医学版）
+第32卷
+肺移植是终末期肺病唯一有效的治疗方式,移 植后慢性排斥反应所致的闭塞性细支气管炎 （obliterative bronchiolitis,OB），临床上又称闭塞性 细支气管炎综合征（bronchiolitis obliterans syndrome ,BOS）是导致肺移植后患者长期存活率低的主 要原因⑴，其5年存活率仅有30% -40%。由于肺 与外界直接相通，其免疫系统更为复杂与其他实质 器官移植相比，肺移植术后免疫排斥反应更为严重。 目前，临床应用环抱菌素A和硫嗖嚓吟等免疫抑制 药物对控制急性移植排斥反应有一定效果，但对 0B的疗效不佳。因此寻找一种新的治疗策略具有 重要的临床意义，然而0B的发生机制至今仍不清 楚，探索0B的危险因素与发病机制为防治新策略 的研究奠定重要的基础。
+1闭塞性细支气管炎的危险因素及发病机制
+闭塞性细支气管炎是肺移植后一年到几年内发 生的慢性排斥反应,以小气道进行性纤维化为特征, 导致肺通气的持续下降。目前，临床应用环抱菌素A 和硫嘤瞟吟等免疫抑制药物对控制急性移植排斥反 应有一定效果，但对OB的疗效不佳。肺移植后0B 发生的根本机制还没有完全清楚，但是多数证据显 示,源于对移植肺组织适应性免疫反应所致的自身免 疫介导的损伤是0B发生的一个主要的危险因素⑴。 移植物MHC-I、U类分子分别被受体CD8 + T细胞和 CD4+T细胞识别,启动细胞免疫应答，特异性杀伤 移植物实质细胞。CD4 +T细胞间接识别MHC分子 反应在0B患者中更为显著。肺移植后CD4 + T细 胞和CD8 + T细胞在急性排斥期浸润到肺内，产生 IFN-7等细胞因子发生以Thl细胞介导的免疫反应, 增加了 0B发生的危险⑶。而另一部分浸入到肺组 织的CD4 + T细胞表达具有调节性T细胞表型的 FoxP3,可能抑制Thl细胞,减轻移植排斥反应。在自 身免疫反应中,T细胞介导对胶原V的自身免疫可能 是OB发生的一个非常重要的危险因素⑷。另外，急 性排斥反应可能是0B发生发展的重要危险因素 之'o
+除了上述的免疫因素外,非免疫因素,如各种感 染、缺血再灌注性损伤、胃食管反流性疾病6向可能 都是闭塞性细支气管炎发生的危险因素。众多OB 危险因素的研究表明，免疫因素和非免疫因素可能 • 110 •
+共同诱导和促进0B的发生发展。
+2	Thl7细胞及与OB的关系
+Thl7细胞是近年来发现的一种新的CD4 + T细 胞，具有依赖TGF-p和IL-6而以IL-17为主要效应 因子的新型辅助性T细胞。IL-17细胞不产生IFN-7 和其他细胞因子,但却受IFN-7和IL-4的抑制。 IL-17已被证明在炎症反应⑺和自身免疫性疾病的发 生发展中起着重要的作用。另外,1-17在急性排斥 反应中起着重要的作用,肺移植后患者支气管灌洗液 中的IL-17明显升高。由于™7细胞产生大量的 IL-17A,因此绝大多数Thl7细胞介导的效应都是通 过IL-17A而产生的。IL-17A是IL-17家族的代表性 细胞因子，该家族包括IL-17A、B、C、D、E、F等6个 成员，其中7A和IL-17F有着相似的功能，可以 作用于多种细胞类型来诱导产生细胞因子（包括 TNFJL-lp,IL-6, GM-CSF），趋化因子（CXCL1、 CXCL8、CXCL10）和金属蛋白酶⑻。除了特征性 IL-17外,Thl7同时还可以分泌其他多种细胞因子 如IL-21.IL-22等。其中IL-21在人自身免疫疾病 发展中也起着加重疾病发展的作用⑶。炎症性肠 病（IBD）患者体内IL-21的表达明显升高。IL-23 是IL-12家族成员之一，不参与Thl7细胞最初分化 过程,而是作用于已分化的Thl7细胞，起到稳定和 维持Thl7特性的作用。移植后OB患者的支气管 灌洗液中IL-23的表达明显增多。抗IL-23抗体在 同种异体气管移植中能够抑制排斥反应和闭塞性支 气管炎的发生［皿o Park等对EAE动物模型的研究 发现：清除或中和IFN-7和（或）IL-12的功能，并 不能预防或减轻疾病的进展。而IL-23的缺失降低 了体内Thl7细胞的比例,延缓了疾病的进程口L 这说明Thl7细胞缺失可以使EAE的发病受到抑 制，从而认识到Thl7细胞而不是经典的Thl细胞 在此环境中诱导自身免疫病的发生。同样,经典的 胶原诱导的关节炎实验也证明了这点。正常情况下 V型胶原在成熟的胶原纤维中被主要胶原覆盖，当 缺血再灌注损伤或气道重塑时会破坏纤维结构使V 型胶原暴露，从而启动T细胞介导的免疫反应1⑶, 这种V型胶原特异性淋巴细胞能产生IL-17和 IL-23,而IL-17和IL-23是与闭塞性细支气管炎密 切相关的细胞因子。V型胶原相关的肺疾病与局
+第6期
+王建刚 等：Thl7&Treg细胞在肺移植后0B的研究进展
+部的IL-17的表达有关。这种细胞免疫反应受IL-17A,TNF,IL-1的调节，而不是IFN-丁。可见，对 Thl7细胞及其如何在免疫反应中发挥作用的研究 将可能提供预防和治疗闭塞性支气管炎的新 方向。
+3	Treg细胞及与OB的关系
+Treg细胞对机体免疫耐受和免疫稳定状态的 维持是必不可少的,FoxP3是其特征性的转录因子。 Treg细胞与效应性T细胞的平衡可有效的预防自 身免疫疾病的发生BL近来研究发现Treg细胞对 移植后闭塞性细支气管炎的发生有抑制作用4]O
+自身免疫和同种免疫一旦启动就很难被抑制， 其原因之一可能是移植后Treg细胞受损或缺失。 在肺移植的患者Treg细胞的下降与0B的发生有 某种必然的联系。随着V型胶原被发现为肺移植 后自身免疫的抗原,一种新的促进Treg的方法是经 口服免疫耐受。Wilkes等用动物模型验证移植前口 服V型胶原是否诱导移植物耐受以降低排斥反应。 结果显示与对照组相比接受口服V型胶原个体的 移植肺支气管灌洗液中多形核细胞和淋巴细胞明显 减少;另一个实验是，模型受体鼠先喂服大剂量V 型胶原，后接受MHC-I类分子不匹配同种移植物， 结果相对于对照组可以有效预防OB发生〔⑴。动 物研究表明V型胶原的经口服耐受的诱导与Treg 相关[⑹。从肺移植患者分离出的V型胶原反应T 细胞能够产生IL-10和调节性细胞的表型，这些细 胞能够抑制自身反应性T细胞增值和分泌IFN-7o 闭塞性细支气管炎的患者与产生IL-10的T细胞克 隆的频率下降有关。除了移植使Treg细胞下降或 受抑制外，感染，急性排斥反应或其他损害都可能抑 制Treg的功能或者使其转化为其他的效应性细胞。 有研究表明抗CD28超抗能够通过优先活化和扩增 CD4+CD8 + Treg细胞抑制自身免疫。且应用抗 CD28超抗体扩增的Treg进行过继输注，可发挥明 显的免疫抑制效应。抗CD28超抗体可能通过扩增 或者诱导体内的Treg细胞的产生预防OB的发生 (范慧敏，未发表数据)。
+4	Treg细胞和Thl7细胞相互作用
+在不同细胞因子作用下,Naive辅助性T细胞
+即可分化为™7细胞，也可分化为Treg细胞。在 TGF-B和IL/存在的情况下，诱导Thl7的分化； TGF-p和IL-2诱导Treg细胞的产生。
+Treg细胞和Thl7细胞的分化都依赖TGF-p, 低浓度的TGF-p和IL-6的协同作用能诱导Thl7 细胞转化因子RORyt的产生,活化初始T细胞分化 为促炎的Thl7细胞;而高浓度的TGF-p能够上调 Treg细胞转录因子Foxp3的表达分化为抗炎的 Treg细胞口7]洪中IL-6起着关键的调节作用,L6 等促炎症细胞因子的过度表达通过影响初始T细 胞的分化格局，增加Thl7细胞分化，破坏Treg/ TM7平衡，导致一系列炎症反应损伤机体口8】。 Romagnani等证明，抑制Thl7的产生可以促进Treg 细胞的发育,从而有效的抑制自身免疫疾病的发生。 在存在促炎症细胞因子的环境中,TGF-B诱导表达 的Foxp3水平大大下降而ROR7t的表达水平升高， 从而促进Thl7细胞的分化。虽然近年来对Treg细 胞和Thl7的研究取得了一些进展，但还需要更深入 地了解Treg细胞与Thl7/ IL-17的相互关系,以及 其在自身免疫性疾病中的作用。
+5展 望
+肺是一个涉及到粘膜防御和气体交换的复杂器 官,与其他实质性器官相比,具有独特的免疫体系0 闭塞性支气管炎的动物试验以及临床研究表明免疫 损伤和非免疫损伤启动了一系列连锁的免疫反应， 涉及炎症细胞，上皮细胞,内皮细胞,T淋巴细胞，巨 噬细胞等,它们相互作用构成一个复杂的免疫网络。 经过研究虽然对其已有了一定的了解，但是要全面 认识0B的发病机理还需进一步努力探索。Treg/ Thl7在OB的发生中起着重要作用,随着深入的研 究有望能够促进改善治疗策略，提高肺移植后长期 生存率。
+【参考文献】
+[1 ] Christie JD, Edwards LB, Kucheryavaya AY, et al. The Registry of the International Society for Heart and Lung Transplantation ： twenty-seventh offcial adult lung and heart-lung transplant report-2010 [ J]. J Heart Lung Transplant, 2010 , 29(10) ： 1105 - 1118.
+• 111 •
+同济大学学报（医学版）
+第32卷
+[2 ] Iwata T, Philipovskiy A, Fisher AJ, et al. Anti-type V collagen humoral immunity in lung transplant primary graft dysfunction [ J]. Immunology, 2008,181 ( 8 )： 5738-5747.
+[3 ] Bharat A, Narayanan K, Street T, et al. Early post transplant inflammation prohiotes the development of all immunity and chronic human lung allograft rejection [J]. Transplantation, 2007, 83(4) ： 150 - 158.
+[4 ] Burlingham WJ, Love RB, Jankowska-Gan E, et al. IL-17-dependent cellular immunity to collagen type V predisposes to obliterative bronchiolitis in human lung transplants [J]. Clin Invest, 2007, 117(11) ： 3498 - 3506.
+[5 ] Jiang Xinguo, Khan MA, Tian Wen, et al. Adenovirus-mediated HIF-la gene transfer promotes repair of mouse airway allograft microvasculature and attenuates chronic rejection [J]. J Clin Invest, 2011, 121 (6)： 2336 -2349.
+[6 ] Parada 1J1T, Alba A, Sepulveda C. Bronchiolitis obliterans syndrome development in lung transplantation patients [J]. Transplant Proc, 2010, 42(1) ： 331 -332.
+[7 ] Peck A,Mellins ED. Precarious balance： Thl7 cells in host defense [J], Infect Immun, 2010, 78(1)： 32-38.
+[8 ] Pappu R, Ramirez-Carrozzi V, Ota N, et al. The IL-17 family cytokines in immunity and disease [J]. Clin Immunol,2010,30(2) ： 185-195.
+[9 ] Niu X, He D, Zhang X, et al. IL-21 regulates Thl7 cells in rheumatoid arthritis[ J]. Hum Immunol, 2010, 71(4)： 334-341.
+[10]	Cao H, Lan Q, Shi Q, et al. Anti-IL-23 antibody blockade of IL-23/IL-17 pathway attenuates airway obliteration in rat orthotropic tracheal transplantation [J]. Int Immunopharmacol ,2010,16(10) ： 1878 - 1705.
+[11 ] Morishima N, Mizoguchi I, Takeda K, et al. TGF-beta is necessary for induction of IL-23R and Thl7 differentiation by IL-6 and IL-23 [ J ]. Biochem Biophys Res Commun, 2009, 386( 1) ： 105 - 110.
+[12]	Braun RK, Martin A, Shah S, et al. Inhibition of bleomycin-induced pulmonary fibrosis through pretreatment with collagen type V〔 J ]. Heart Lung Transplant,2010,29(8)： 873 -888.
+[13]	Deng S, Xi Y, Wang H, et al. Regulatory effect of vasoactive intestinal peptide on the balance of Treg and Thl7 in collagen-induced arthritis [J]. Cell Immunol, 2010, 265(2)： 105-110.
+[14]	Mamessier E, Lorec AM, Thomas P, et al. T regulatory cells in stable posttransplant bronchiolitis obliterans syndrome [ J ]. Transplantation, 2007, 84 (7)： 908-916.
+[15]	Meloni F, Cascina A, Nfiserere S, et al. Peripheral CD4( +) CD25( + ) TREG cell counts and the response to extracorporeal photojtaesis in lung transplant recipients [J]. Transplant Proc, 2007, 39( 1) ： 213 -217.
+[16]	Velosa AP, Teodoro WR, dos Anjos DM, et al. Collagen V-induced nasal tolerance downregulates pulmonary collagen mRNA gene and TGF-beta expression in experimental systemic sclerosis [J]. Respir Res, 2010, 11(1)： 1465 - 9921.
+[17 ]	Ben well RK, Lee DR. Essential and synergistic roles
+of IL-1 and IL-6 in human Thl7 differentiation directed by TLR ligand-activated dendritic cells [ J ]. Clin Immunol, 2010, 134(2) ： 178-187.
+[18]史乾，曹浩，范慧敏，等.Treg/Thl7平衡的改变在大 鼠原位气管移植急性排斥发生中的作用[J].同济大 学学报：医学版,2010,31(3)： 14-18.
+• 112 •

@@ -1,0 +1,181 @@
+﻿中华移植杂志(电子版)2019 年 2 月第 13 卷第 1 期 Chin J Transplant ( Electronic Edition)，February 2019，Vol. 13，No. 1	" 1 "
+•诊疔规范•
+中国心脏移植受者术前评估与准备 技术规范(2019版)
+中华医学会器官移植学分会
+【摘要】由于供心资源稀缺，必须对心脏移植候选者进行严格选择，仔细衡量风险 和获益，评估其是否适合接受心脏移植。入选心脏移植等待名单的候选者需进行全面的 术前评估，最大限度改善心功能和各器官功能状态；同时，接受详细的术前检查，以确保 心脏以外器官功能可耐受心脏移植手术及术后免疫抑制治疗。为了进一步规范心脏移 植受者选择以及术前评估和准备，中华医学会器官移植学分会组织心脏移植专家，总结相 关国内外最新进展，结合国际指南和临床实践，从心脏移植适应证、禁忌证、移植候选者筛 选和评估以及术前检查和准备等方面，制订中国心脏移植受者术前评估与准备技术规范 (2019 版)。
+【关键词】 心脏移植；适应证；禁忌证；机械循环辅助；受者筛选；术前评估；危险因素; 心肺运动试验
+制订心脏移植受者选择标准，旨在将珍贵的供 心资源用于能够获益最大的个体，以期心脏移植术 后受者生存时间长于接受其他治疗方案的患者。为 了明确手术适应证和禁忌证、手术时机等关键问题, 心脏移植受者术前评估必不可少。
+1心脏移植适应证和禁忌证
+心脏移植总的适应证是终末期心脏病。在临床 实践中，部分禁忌证在特殊个案中已被成功打破,因 此心脏移植适应证和禁忌证标准有所重叠。国际指 南建议由心血管内科、心脏外科、影像科、移植科、分 子生物遗传学等相关学科专家组成技术委员会仔细 衡量风险和获益后，决定候选者是否适宜进行心脏 移植A
+D0I： 10. 3877/cma. j. issn. 1674-3903.2019. 01.001
+通信作者：宋云虎(中国医学科学院阜外医院，Email： heartcenter_song@ hotmail. com)；董念国(华中科技大学同济医学院 附属协和医院，Email： dongnianguo@hotmail.com)
+1.1心脏移植适应证12(见表1 )
+表1心脏移植适应证
+绝对适应证
+(1)血流动力学恶化
+(2)难以治疗的心源性休克
+(3)依赖静脉血管活性药物维持器官灌注
+(4)	PeakVO2 <10 mL - kg-1  minT，出现无氧代谢
+(5)严重缺血导致持续发生的活动受限，且CABG和PCI无法 解决
+(6)反复发作恶性心律失常，所有治疗方法均难以终止或避免 复发
+相对适应证
+(1)活动严重受限，PeakVO2 11 〜14 mL , kgT , min-1 或 W 55%预计值
+(2)不稳定型心绞痛反复发作，不适合给予其他干预治疗
+(3)反复发生非服药依从性不好所致的体液平衡紊乱或肾功能 不全
+注：PeakVO2.峰值摄氧量；CABG.冠状动脉旁路移植术；PCI. 经皮冠状动脉介入手术
+" 2 '	中华移植杂志(电子版)2019 年 2 月第 13 卷第 1 期 Chin J Transplant ( Electronic Edition)，February 2019，Vol. 13，No.l
+1-2心脏移植禁忌证见表2)
+表2心脏移植禁忌证
+绝对禁忌证
+(1)合并系统性疾病，预计生存期＜2年，包括活动性/近期发现 的实体器官/血液系统恶性肿瘤
+(2)累及多系统的活动性红斑狼疮、结节病或淀粉样变性
+(3)不可逆的肾或肝功能不全且无法行联合移植
+(4)临床症状严重且未能进行血管再通的脑血管疾病
+(5)严重阻塞性肺疾病，FEV1 ＜1 L
+(6)不可逆的肺动脉高压
+肺动脉收缩压＞ 60 mmHg
+平均跨肺动脉压力梯度＞ 15 mmHg 肺血管阻力＞6 Wood单位
+相对禁忌证
+(1)年龄＞72岁
+(2)任何活动性感染(VAD导致的器械相关性感染除外)
+(3)活动性消化性溃疡
+(4)严重糖尿病并发神经病变、肾病和视网膜病等
+(5)严重的外周和中枢血管疾病
+不能外科手术/介入治疗的外周血管疾病 有症状的颈动脉狭窄
+未矫正的＞6 cm的腹主动脉瘤
+(6)病理性肥胖(体质指数＞ 35 k&/m2 )或者恶液质(体质指数＜ 18 kg/m?)
+(7)不可逆的血清肌酎＞2.5 mg/dL或肌酎清除率＜25 mL/min (心肾联合移植除外)
+(8)总胆红素＞2.5 mg/dL，血清转氨酶超过正常值3倍以上， 未服用华法林的情况下INR＞1.5
+(9)严重肺功能不全，FEV1 ＜40%预计值
+(10)6~8周内发生的肺梗死
+(11)难以控制的高血压
+(12)严重不可逆的神经或神经肌肉疾病
+(13)活动性情感疾病/精神状态不稳定
+(14)6个月内有药物、烟草或酒精滥用史
+(15)100 d内有肝素诱导的血小板减少史
+注：FEV1.第一秒用力呼气容积；VAD.心室辅助装置；INR. 国际标准化比值；1 mmHg^O. 133 kPa
+(1)高龄 国外一项研究观察15例年龄＞ 70岁的心脏移植受者,发现高龄受者1、4年生存率 与年轻受者差异无统计学意义(93. 3%和88. 3% , 73.5%和69.1%)⑸。此外,有数据表明高龄受者 较少发生排斥反应，可能与其免疫功能退化有关。 因此，近年来接受心脏移植的高龄受者呈逐渐增加 趋势。国际心肺移植协会(The International Society of Heart and Lung Transplantation, ISHLT )注册数据 显示，＜60岁、60 ~69岁和＞70岁的心脏移植受者 术后生存情况差异无统计学意义;然而，部分单中心
+研究指出，受者年龄与心脏移植术后死亡率呈正相 关⑹。目前认为，年龄0 72岁者可以考虑心脏移 植;年龄＞72岁者经谨慎评估，特殊情况下也可以 考虑，但应尽量匹配高龄供者供心。
+(2)肥胖肥胖患者接受心脏直视手术后并发 症发病率和死亡风险较高,体现在其创伤修复能力 弱，感染、下肢血栓形成和肺部并发症发生风险增 加。虽然ISHLT注册数据显示，体质量并不是影响 心脏移植受者术后5年生存率的危险因素，但体质 指数(body mass index, BMI) ＞35 kg/ma者,通常 移植前等待时间更长，找到合适供者的难度更大， 同时一些单中心研究指出这类受者术后并发症更 多⑺。总体来说，移植前BMI＞30 kg/m?似乎与 移植后不良预后相关；因此，肥胖患者在列入移植 候选者名单前应强制减轻体质量，力求达到BMI ＜ 30 kg/m2。
+(3)移植前肿瘤病史既往有通过手术切除、 放疗和化疗等方法治愈或缓解的肿瘤患者接受心脏 移植的报道。移植前有肿瘤病史者需个体化对待， 与肿瘤科专家合作,通过肿瘤类型、对药物治疗的反 应以及排除转移的检查进行肿瘤复发风险分层评 估,复发风险较低者可以考虑心脏移植。肿瘤治愈 或缓解距离心脏移植手术的时间间隔根据上述因素 而定，并无特定的观察时间。
+(4)糖尿病已有合并靶器官损害的糖尿病患 者成功接受心脏移植并获得良好预后的报道。然 而,ISHLT注册数据显示，即使经严格筛选的糖尿病 患者进行心脏移植，其术后1、5年死亡率仍较高 (20% ~40%)；中国医学科学院阜外医院(以下简 称阜外医院)数据也显示，合并糖尿病的受者与无 糖尿病受者心脏移植5年后生存曲线有分离趋势。 目前，如何评估合并靶器官损害的糖尿病患者是否 适合接受心脏移植，还缺乏明确的推荐意见。糖尿 病合并自主神经功能障碍的患者和无症状性低血糖 患者需要特别关注。此外，独立的视网膜病变并非 心脏移植禁忌证，但对合并增殖性视网膜病变的患 者应谨慎。
+(5)肾功能不全由于血清肌肝动态变化，部 分移植中心提出的血清肌酎＞2 mg/dL或肌酎清除 率＜50 mL/min时心脏移植存在不能接受的风险这 一观点尚无定论。目前，美国2/3的移植中心认为 血清肌肝＞3 mg/dL为心脏移植绝对禁忌证⑻；德 国则有43%的移植中心将血清肌酎＞5 mg/dL的不 可逆性肾功能不全视为绝对禁忌证[9]o对于血清
+中华移植杂志(电子版)2019 年 2 月第 13 卷第 1 期 Chin J Transplant ( Electronic Edition)，February 2019，Vol. 13，No. 1	• 3	•
+肌肝升高或肾小球滤过率下降者,需进行肾脏超声、 尿蛋白定量和肾血管性疾病等诊断性检查进一步 评估。
+（6）周围血管疾病1996年，德国64%的心脏 移植中心将严重脑血管或外周血管损伤视为心脏移 植绝对禁忌证，但同时强调对临床症状严重程度 （Fontaine分级"出级）的评估1应，提出可以考虑同 步血管外科手术。美国器官共享联合网络注册数据 显示，合并有症状的外周血管疾病的心脏移植受者 术后1、5和10年生存率低于无外周血管疾病的受 者，有30%的心脏移植中心将无症状外周血管疾病 视为心脏移植绝对禁忌证[II]O ISHLT指南建议无 法完全恢复或再血管化的外周血管疾病应视为心脏 移植相对禁忌证。
+1.3急诊心脏移植
+急诊心脏移植是指当心脏移植候选者出现危及 生命的急性心功能失代偿、药物等一般手段难以治 疗时，紧急进行的心脏移植。根据病情严重程度通 常将受者分为两类：（1）严重的心源性休克,正性肌 力药物迅速加量仍不能维持血压和器官灌注，表现 为乳酸进行性升高、酸中毒进行性加重；（2）多器官 功能进行性下降,在正性肌力药物支持下肾功能仍 不断恶化、容量平衡难以维持，或不能耐受正性肌力 药物。这两类受者接受急诊心脏移植术后短期死亡 率均较择期心脏移植受者明显升高术后院内 死亡率分别为42%和29% ）,但出院后中长期生存 率无明显差异。
+1.4 机械循环辅助（mechanical circulatory support, MCS）过渡至心脏移植
+由于供者因素的限制，即使是急诊心脏移植，平 均等待供心时间也需要约5天，在此期间可先应用 MCS进行支持治疗，待病情得到一定程度的控制、 供心匹配成功后，再接受心脏移植。MCS主要包 括主动脉内球囊反搏、心室辅助装置（ventricular assist device, VAD ）、体外膜肺氧合（extracorporeal membrane oxygenation,ECMO）和全人工心脏。国际 范围内，心脏移植总例数近50%为MCS过渡”。 国内首个自主研发的第3代磁悬浮式可植入式 VAD,通过国家创新医疗器械特别审批，已在阜外医 院和华中科技大学同济医学院附属协和医院进行临 床应用并成功救治危重患者，其中2例机械循环辅 助注册登记系统心功能衰竭分级1级的患者（合并 心源性休克,应用短期辅助装置并极度依赖血管活 性药物），分别在MCS 193 d和156 d后成功接受心
+脏移植。
+MCS过渡至心脏移植的受者与无需MCS过渡 的受者术后早期及中长期生存率相似。阜外医院 7例ECMO过渡至首次心脏移植的受者中6例长期 存活。然而国外研究显示，ECM。过渡至心脏移植 的成功率显著低于VAD,等待供心期间使用ECMO 的心脏移植受者1年总体生存率为52%，过渡失败 的危险因素包括:受者年龄＞50岁，既往ECMO应 用史，序贯器官衰竭评分＞1。分a1。因此,对准备 使用ECMO过渡至心脏移植的受者,术前应谨慎评 估。ECMO成功过渡至心脏移植的受者术后1年生 存率可提高至70%，虽然仍低于无需ECMO过渡的 受者，但差距主要产生于术后6个月内，6个月后生 存情况相似〔⑸。
+虽然部分存在多种可逆或可治疗合并症（包括 肿瘤、肥胖、肾功能不全和药物治疗可能逆转的肺动 脉高压）的患者，心脏移植术前可尝试MCS过渡，但 国际指南对上述适应证的推荐级别均为n b印。对 于左心衰竭合并肺动脉高压的患者，可予MCS同时 联用西地那非、米力农等靶向药物，但目前疗效证据 不足。少数经优化药物治疗仍无法维持心力衰竭症 状平稳，同时合并原发恶性肿瘤需要时间进行放、化 疗或观察,无法立即入选心脏移植等待名单的患者， 也可能从MCS中受益。肥胖患者等待供心时间较 长，在此期间心功能恶化往往需要MCS,可以给其 创造减轻体质量的时间,但需要告知肥胖患者一旦 选择MCS过渡,感染并发症和心脏重复手术都将增 加移植手术风险。应用MCS能否改善肾功能尚存 在争议，研究显示部分严重肾功能不全需要短暂肾 脏替代治疗或透析的患者，植入MCS后肾功能得到 改善，且心脏移植后可以维持正常肾功能状态。然 而,需要提醒的是,大多数合并严重肾功能不全的患 者植入MCS后死亡率仍较高,多数患者未成功过渡 至心脏移植。
+2心脏移植受者术前评估
+评估心力衰竭患者是否适合进行心脏移植是一 个十分复杂的过程，需综合考虑心力衰竭预后、一般 情况、既往病史、多器官功能和社会心理因素等多个 方面。入选心脏移植等待名单的候选者,应在术前 严格限水、利尿以期降低肺动脉压，同时给予控制血 糖、抗感染和营养支持等多种支持治疗，最大限度改 善心功能及各器官功能状态，这对减少围手术期并 发症的发生、提高术后生存率至关重要。
+, 4 • 中华移植杂志(电子版)2019 年 2 月第 13 卷第 1 期 Chin J Transplant ( Electronic Edition) , February 2019 , Vol. 13 , No. 1
+2.1	心脏移植候选者筛选流程［⑹⑹（见图1）
+无法耐受B受体阻滞剂的患者，以 PeakVO2 <14 mL - min1 • kg"为临界 值；服用B受体阻滞剂的患者，以 PeakVO2 12 mL • min” ♦ k/为临界值
+暂缓进入移植等待名单 PeakVO2>15 mL • min1 - kg1
+SHFM预测1年生存率>90% HFSS低危
+进入移植等待名单*
+PeakVO2<10 mL - min1 - kg1
+SHFM预测1年生存率<80% HFSS中高危
+注：PeakVO2.峰值摄氧量；HFSS.心力衰竭生存评分；SHFM.西雅图心力衰竭模型；* SHFM预测1年生存率<80%或HFSS中至高风 险应被视为合理的移植切入点
+图1心脏移植候选者筛选流程
+2.2	心脏移植受者评估流程［回现（见图2）
+心力衰竭改善
+作律其无 更山 疗 复件常洽 反恶失他效
+规范治疗
+内科转诊
+
+注：CABG.冠状动脉旁路移植术；PCI.经皮冠状动脉介入手术
+图2心脏移植受者评估流程
+中华移植杂志(电子版)2019 年 2 月第 13 卷第 1 期 Chin J Transplant ( Electronic Edition)，February 2019，Vol. 13，No. 1	" 5 ,
+2.3	危险因素评估口 可（见表3）
+表3心脏移植受者术前危险因素评估
+危险因素	增加风险级别
+未经治疗的活动性感染	+ + +
+目前使用抗生素控制的感染	+ +
+目前已治愈的感染	+
+有明确靶器官损害的糖尿病	+ +〜+ + +
+严重的有症状的脑血管疾病	+ + +
+轻至中度有症状的脑血管疾病	+
+严重的有症状的外周血管疾病	+ + +
+轻至中度无症状的外周血管疾病	+
+活动性消化道出血	+ + +
+已治疗的消化性溃疡	+
+近期发生的憩室炎	+ +
+慢性活动性肝炎	+ +〜+ + +
+慢性丙型肝炎，病毒载量低且肝穿刺活检良性	+
+近期诊断的恶性肿瘤	+ + +
+既往恶性肿瘤病史	+
+心肌浸润性疾病	+ + +
+炎性心肌疾病	+ +
+不可逆的严重肝病	+ + +
+中度肝功能不全，与心源性淤血关系不明确	+ +
+肝酶轻度升高，可能与心源性淤血相关	+
+不可逆肺病，FEV1<1 L或FVC<50%预计值	+ + +
+不可逆肺病,FEV1 W 1.5L或FVC<65%预计值	+ +
+轻/中度肺病，FEV1>1.5 L或FVC>65%预计值	+
+近期肺梗塞	+ +
+未控制的情感性为主的精神障碍或精神分裂	+ + +
+已控制的情感性为主的精神障碍或精神分裂	+ +
+人格障碍	+ +
+吸烟	+ +
+活动期未解决的药物滥用	+ + +
+近期解决的药物滥用	+ +
+依从性差	+ + +
+中度肥胖（120%〜140%理想体质量或体质指数 30 〜35 kg/m?）	+〜+ +
+骨质疏松症	+〜+ +
+缺少社会支持	+〜+ +
+注：FEV1.第一秒用力呼气容积;FVC.用力肺活量
+3心脏移植受者术前检查
+移植给受者生理及代谢带来巨大改变,免疫抑 制剂不良反应可能引起某些器官的严重损害，因此 受者必须接受详细的术前检查，确保心脏以外器官 功能状况正常，或虽有损害但可经过治疗纠正,能够 耐受心脏移植手术及术后免疫抑制治疗。
+3.1	实验室检查
+（1）常规检查血常规、尿常规、大便常规及潜 血、凝血功能、肝功能、肾功能（肌肝清除率）、尿蛋 白测定和血脂分析。对肾功能受损的患者尽可能予 以纠正,并做好术后连续肾脏替代疗法或透析的
+准备。
+（2）糖代谢相关检查空腹血糖、糖耐量试验 和尿糖检测。对于空腹血糖正常但体型肥胖或有糖 尿病家族史的患者应行糖耐量试验。隐性糖尿病患 者可能仅在糖负荷较大时才出现糖代谢异常，术前 明确诊断可避免术后血糖大幅度波动，并提前制订 针对性营养支持方案。
+（3）病原学检查 病毒学检查包括HBV、HCV、 CMV、EB病毒、单纯疱疹病毒和HIV抗体检测，细 菌及寄生虫检查包括组织胞浆菌、弓形虫、梅毒螺旋 体、曲霉、耶氏肺抱子菌和皮炎芽生菌等，鼻腔、口 腔、咽部以及尿液、痰液、皮肤和血液细菌涂片、培养 甚至药敏试验。
+3.2	免疫学检查
+所有移植候选者均需进行群体反应性抗体 （panel reactive antibody, PRA）筛查，PRA > 10% 时需 进一步检查。受者需进行抗HLA特异性抗体检测 （包括抗HLA-A、B、Cw、DR和DQ抗体），该检测可 在各移植中心进行，也可集中在一个地区认证的 HLA检测实验室进行。目前，尚缺乏国际统一标 准,每个移植中心需各自确定抗HLA抗体的安全范 围，避免排斥反应风险。高致敏候选者在接受脱敏 治疗时应定期检测抗HLA抗体，非高致敏候选者应 每6个月检测1次。接受输血的候选者,应在输血 后2~4周内再次检测抗HLA抗体。对于感染后或 正在接受MCS的受者，抗HLA抗体检测频率尚无 统一意见。
+心脏移植供者选择上，首先要与受者ABO血型 相容,再进行HLA配型，其中最重要的位点为A、B 和DR。但鉴于心脏移植供心缺血时间的限制，且 HLA配型匹配程度并不影响移植心脏早期存活，因 此国际指南不要求心脏移植术前常规进行HLA配 型。高致敏受者有条件时可以进行虚拟交叉配型， 以扩大供心来源；同时，回顾供受者交叉配型结果可 以作为制订免疫抑制方案的参考。
+PRA和淋巴细胞毒交叉配合试验主要用来测 定受者体内是否有针对供者抗原的抗体。PRA强 阳性则发生超急性排斥反应的概率增高，属于移植 禁忌证;淋巴细胞毒交叉配合试验中，淋巴细胞溶解 率>20%为阳性，属于移植禁忌证。因PRA水平过 高,导致找到匹配供者的可能性很小或无法匹配时， 可以采取脱敏治疗。脱敏治疗措施包括静脉输注免 疫球蛋白、血浆置换（单独或合并使用）和利妥昔单 抗,少数经选择的病例可行脾切除。脱敏治疗的有
+■ 6 • 中华移植杂志(电子版)2019 年 2 月第 13 卷第 1 期 Chin J Transplant ( Electronic Edition)，February 2019，Vol. 13，No. 1
+效性及对心脏移植预后的影响仍需大型随机对照临 床试验进一步评估。
+3.3	多器官系统检查
+（1）常规检查12导联心电图、超声（心脏、肝 胆胰脾、双肾、颈动脉、肾动脉和下肢动脉）、胸 部X线片及肺部CT、心脏MRI和肺功能测定。冠 心病和恶性肿瘤患者应行正电子发射计算机断层显 像,终末期冠心病患者应行发射型计算机断层扫描。 对于超声检查发现的肝脏良性病变，如较小的肝血 管瘤、肝囊肿等，只要不影响肝功能和手术安全，就 不被视为心脏移植禁忌证。较小的肾结石等肾脏良 性病变,只要不影响肾功能,可以待心脏移植术后再 决定是否根治。特殊患者必要时可行消化道造影及 纤维内镜检查。
+（2）心肺运动试验建议不存在心肺运动试验 禁忌证的候选者,采用该试验进行心脏移植入选评 估,但不建议仅以PeakVO2作为入选依据。极量心 肺运动量定义为在最佳药物治疗下呼吸交换率 （respiratory exchange ratio, RER） Ml. 05 ,并且达到 无氧阈。对于不能耐受B受体阻滞剂的患者，以 PeakVO2 ＜14 mL - kg_1 - min -1 为入选标准，对于 使用1种B受体阻滞剂的患者，以PeakVO2 W 12 mL - kg-1 - min-1为入选标准；接受心脏再同 步治疗的患者也参照以上推荐。对于年轻患者（＜ 50岁）和女性患者，可以考虑联合使用其他替代标 准和PeakVO2作为入选标准,例如PeakVO2 近50% 预计值。采用次极量运动方案（RER＜1.05）进行 试验的患者，也可将二氧化碳通气当量＞35作为 移植入选标准。对于肥胖患者（BMI＞30 k&/m2）, 可以考虑使用去脂体质量校正PeakVO2 ＜ 19 mL - kg_1 - min-1作为评估预后的最优阈值⑶。 无心肺运动试验设施的移植中心，可以进行六分钟 步行试验，测定患者6 mm内在平直走廊里尽可能 快速步行的距离，＜300 m为重度受限,300 ~375 m 为中度受限，＞375 - 450 m为轻度受限，＞450 m正常。
+（3 ）心脏专科检查 右心导管（或Swan- Ganz 漂浮导管）检查，主要了解肺动脉压、肺血管阻力 （pulmonary vascular resistance, PVR）等指标，存在右 心导管检查禁忌证的患者可以参考超声心动图估测 的肺动脉压。已进入移植等待名单的成人患者，尤 其是存在可逆性肺动脉高压或心功能衰竭症状恶化 的患者应每3~6个月接受1次右心导管检查。肺 动脉收缩压二 50 mmHg （ 1 mmHg =0. 133 kPa,下 同）和平均跨肺动脉压力梯度-15 mmHg或PVR ＞
+3 Wood单位的患者，应给予血管扩张药物保证动脉 收缩压＞85 mmHg,如果治疗效果不佳则应持续血 流动力学监测,PVR常在给予利尿、强心、血管活性 药物和吸入一氧化氮等治疗后24 ~48 h下降122、 如果药物治疗无法稳定血流动力学状态，且MCS不 能有效降低左心负荷，可以认为肺动脉高压不可逆。 需要注意的是，左心辅助装置植入后，为确定肺动脉 高压是否可逆，再次血流动力学评估应间隔3 ~ 6个月。不建议儿童受者定期行右心导管监测。
+执笔：黄洁（中国医学科学院阜外医院）；李飞（华 中科技大学同济医学院附属协和医院）
+主审专家：胡盛寿（中国医学科学院阜外医院）
+审稿专家（按姓氏拼音排序）：安琪（四川大学华西医 院）；陈军（华中科技大学同济医学院附属同济医 院）；陈良万（福建医科大学附属协和医院）；陈鑫 （南京市第一医院）；程亮（空军军医大学西京医 院）；董念国（华中科技大学同济医学院附属协和医 院）；韩杰（首都医科大学附属北京安贞医院）；韩林 （海军军医大学附属长海医院）；黄洁（中国医学科 学院阜外医院）；黄劲松（广东省人民医院）；黄克力 （四川省人民医院）;贾一新（首都医科大学附属北 京安贞医院）；孔祥荣（天津市第一中心医院）； 李建明（中南大学湘雅二医院）；梁毅（中山市人民 医院）；刘金平（华中科技大学同济医学院附属协和 医院）；刘天起（山东千佛山医院）；马量（浙江大学 医学院附属第一医院）；宋云虎（中国医学科学院阜 外医院）；田海（哈尔滨医科大学附属第二医院）；王 辉山（沈阳军区总医院）；王珏（温州医科大学附属 第一医院）；王志维（武汉大学人民医院）；魏翔（华 中科技大学同济医学院附属同济医院）；吴智勇（武 汉大学人民医院）；谢少波（广州医科大学附属第一 医院）；徐忠能（昆明市第一人民医院）；杨斌（郑州 市第七人民医院）；杨守国（复旦大学附属中山医 院）；殷胜利（中山大学附属第一医院）；郑哲（中国 医学科学院阜外医院）；庄建（广东省人民医院）
+参考文献
+1	Jessup M, Drazner MH, Book W, et al. 2017 ACC/AHA/HFSA/ ISHLT/ACP advanced training statement on advanced heart failure and transplant cardiology （Revision on the ACCF/AHA/ACP/HFSA/ ISHLT 2010 clinical competence statement on management of patients with advanced heart failure and cardiac transplant） : a report of the ACC Competency Management Committee [ J ]. J Am Coll Cardiol, 2017,69（24） ：2977-3001.
+2	Mehra MR, Kobashigawa J, Starling R, et al. Listing criteria for
+中华移植杂志(电子版)2019 年 2 月第 13 卷第 1 期 Chin J Transplant ( Electronic Edition)，February 2019，Vol. 13，No. 1	" 7 ,
+heart transplantation: International Society for Heart and Lung Transplantation guidelines for the care of cardiac transplant candidates-2006 [ J]. J Heart Lung Transplant, 2006 ,25 (9 )： 10241042.
+3	Mehra MR, Canter CE, Hannan MM, et al. The 2016 International Society for Heart Lung Transplantation listing criteria for heart transplantation： A 10-year update [ J]. J Heart Lung Transplant, 2016,35(1) ：l-23.
+4	Francis GS, Greenberg BH, Hsu DT, et al. ACCE/AH^/ACP/ HFS"ISHLT 2010 clinical competence statement on management of patients with advanced heart failure and cardiac transplant: a report of the ACCF/AHA/ACP Task Force on Clinical Competence and Training[ J]. Circulation, 2010,122(6) ：644-672.
+5	Barge- Caballero E, Segovia- Cubero J, Almenar- Bonet L, et al. Preoperative INTERMACS profiles determine postoperative outcomes in critically ill patients undergoing emergency heart transplantation : analysis of the Spanish National Heart Transplant Registry [ J]. Circ Heart Fail, 2013,6(4) ：763-772.
+6	Khush KK, Cherikh WS, Chambers DC, et al. The International Thoracic Organ Transplant Registry of the International Society fbr Heart and Lung Transplantation:	Thirty- fifth	Adult Heart
+Transplantation Report-2018 ； Focus Theme： Multiorgan Transplantation[ J]. J Heart Lung Transplant, 2018,37 (10 ) ： 11551168.
+7	Russo MJ, Hong KN, Davies RR, et al. The effect of body mass index on survival following heart transplantation : do outcomes support consensus guidelines? [J]. Ann Surg, 2010,251(1) ：144-152.
+8	Costanzo MR, Dipchand A, Starling R, et al. The International Society of Heart and Lung Transplantation Guidelines for the care of heart transplant recipients [ J]. J Heart Lung Transplant, 2010,29 (8):914-956.
+9	Kotloff RM, Blosser S, Fulda GJ, et al. Management of the potential organ donor in the ICU: Society of Critical Care Medicine/American College of Chest Physicians/ Association of Organ Procurement Organization Consensus Statement[ J]. Crit Care Med , 2015 ,43 (6 )： 1291-1325.
+10	Lund LH, Edwards LB , Kucheryavaya AY, et al. The Registry of the International Society for Heart and Lung Transplantation: Thirty-second Official Adult Heart Transplantation Report- 2015 ； Focus Theme： Early Graft Failure [ J] - J Heart Lung Transplant, 2015,34 (10) ：1244-1254.
+11	Silva Enciso J, Kato TS, Jin Z, et al. E任ect of peripheral vascular disease on mortality in cardiac transplant recipients (from the United Network of Organ Sharing Database) [ J]. Am J Cardiol, 2014,114
+12	Chung JC, Tsai PR, Chou NK, et al. Extracorporeal membrane oxygenation bridge to adult heart transplantation [ J ]. Clin Transplant, 2010,24(3) ：375-380.
+13	Jasseron C, Lebreton G, Cantrelle C, et al. Impact of heart transplantation on survival in patients on venoarterial extracorporeal membrane oxygenation at listing in France [ J]. Transplantation, 2016,100(9) ：1979-1987.
+14	Marasco SF, Lo C, Murphy D, et al. Extracorporeal life support bridge to ventricular assist device: the double bridge strategy [ J ]. Artif Organs, 2016,40(1) ：100-106.
+15	Ross HJ, Law Y, Book WM, et al. Transplantation and mechanical circulatory support in congenital heart disease: A scientific statement from the American Heart Association [ J]. Circulation, 2016, 133(8)：802-820.
+16	Hu XJ, Dong NG, Liu JP, et al. Status on heart transplantation in China [ J]. Chin Med J ( Engl) , 2015,128(23) ：3238-3242.
+17	Mancini D, Lietz K. Selection of cardiac transplantation candidates in 2010[J]. Circulation, 2010,122(2) ：173-183
+18	Yancy CW, Jessup M, Bozkurt B, et al. 2017 ACC/AHA/HFSA focused update of the 2013 ACCE/AHA guideline for the management of heart failure: a report of the American College of Cardiology/ American Heart Association Task Force on Clinical Practice Guidelines and the Heart Failure Society of America[ J]. J Am Coll Cardiol, 2017,70(6) ：776-803.
+19	Riccio C Coordinator, Gulizia MM Face Fesc Coordinator, Colivicchi F Face Fesc Coordinator, et al. ANMCO/GICR-IACPR/SICI-GISE Consensus Document ： the clinical management of chronic ischaemic cardiomyopathy[ J]. Eur Heart J Suppl, 2017,19 ( Suppl D) ： D163D189.
+20	Authors/Task Force members, Elliott PM, Anastasakis A, et al. 2014 ESC Guidelines on diagnosis and management of hypertrophic cardiomyopathy ： the Task Force for the Diagnosis and Management of Hypertrophic Cardiomyopathy of the European Society of Cardiology (ESC)[ J]. Eur Heart J, 2014,35(39) ：2733-2779.
+21	LiF, Cai J, Sun YF, et al. Pediatric heart transplantation： report from a single center in China[ J]. Chin Med J ( Engl) , 2015,128 (17)：2290-2294.
+22	Lee SJ, Kim KH, Hong SK, et al. Evaluation of a heart transplant candidate[ J]. Curr Cardiol Rep, 2017,19(12) ： 133.
+(收稿日期：2019-01-17)
+(本文编辑:鲍夏茜)
+中华医学会器官移植学分会.中国心脏移植受者术前评估与准备技术规范(2019版)[J/CD].中华移植杂志：电子版, 2019,13(1):1-7.

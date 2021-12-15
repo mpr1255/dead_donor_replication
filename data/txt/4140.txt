@@ -1,0 +1,69 @@
+﻿《实用器官移植电子杂志》2019 年 7 月第 7 卷第 4 期 Prac J Organ Transplant (Electronic Version), July 2019, Vol.7, No.4
+-317・
+.综述.
+肺移植术后治疗的研究进展
+邓淑坤，龚燕华，周仲华，袁鹏（无锡市人民医院康复医学科,江苏 无锡 214023）
+肺移植是目前临床治疗终末期肺病的唯一有效 方式［1］,肺移植术后存活率在实体器官移植中最低。 根据国际心肺移植协会2015年的报告,全球已完 成51 440多例肺移植手术,肺移植术后3个月、1年、 3年、5年和10年的存活率分别为89％、80％、 65％、54％和31％［2］。由于免疫抑制剂的应用, 肺移植受体长期处于免疫抑制状态,且肺移植的免 疫抑制剂维持剂量为所有器官移植中最高,有感 染风险。供肺去神经支配、纤毛运动减弱、咳嗽 反射减弱,受体术前基础情况差、营养不良,术后 置入较多管道,这些因素均使受体死亡率增加［3］。 查阅近年来文献发现,关于肺移植术后的干预治疗 较片面单一,缺乏全面系统的论述。因此,本文通 过总结肺移植术后的治疗方法,以指导受体康复治 疗、提高受体的生存率及生存质量。
+1	肺移植术后药物治疗
+肺移植术后的药物治疗最为常见,主要包括免 疫抑制剂、预防性抗感染药物以及其他相关药物。
+肺移植术后免疫抑制的诱导和维持可防止肺 同种异体移植物的急、慢性排斥反应,常规使用 糖皮质激素（ 激素）+钙调磷酸酶抑制剂〔环孢 素 A （ cyclosporin A, CsA ）或他克莫司（tacrolimus, Tac ）〕+核苷酸阻断剂〔（霉酚酸酯（mycophenolate mofetil, MMF）或硫唑嘌呤）〕三联疗法维持R 对于不能耐受钙调磷酸酶抑制剂的受体,雷帕霉 素抑制剂西罗莫司和依维莫司可作为潜在替代药 物，。Strueber等⑹通过对190例肺移植受体进行 依维莫司+ CsA +激素（依维莫司组）以及MMF + CsA +激素（对照组）两种不同免疫抑制方案进 行对比,发现依维莫司组闭塞性细支气管炎综合 征的发生率明显低于对照组。Gullestad等⑺发现 依维莫司有助于维持肾小球滤过率的稳定。然而,
+DOI：10.3969/j.issn.2095-5332.2019.04.019
+基金项目：南京医科大学科技发展基金项目（NMUB2018359）
+通讯作者:袁鹏，Email ：yuanpeng_1993@163.com
+雷帕霉素抑制剂会导致肺毒性及静脉血栓栓塞, Ahya等⑻指出西罗莫司会增加静脉血栓栓塞症的 发生率。也有学者对肺移植受体进行CsA + MMF + 激素（CsA组）以及Tac + MMF +激素（Tac组） 两种不同免疫抑制方案比较，随访3年后发现Tac 组的闭塞性细支气管炎综合征发生率显著降低, 但两组间急性排斥反应发生率及存活率无显著性差 异 但是在移植术后的随访中，Tac和CsA都与肾 功能衰竭有关,因此在轻度急性肾损伤的受体中, 建议在密切监测下将药物水平保持在治疗范围的下 限,而严重或持续性肾功能不全的受体则需要暂停 药物［9-10］。
+肺移植受体容易继发感染并发症,术后通常需 要预防性使用抗感染药物［11］。肺移植受体患细菌 感染、病毒感染（巨细胞病毒）和真菌感染（曲 霉菌和念珠菌属）的风险极大,其中细菌性肺炎 最常见。甲氧苄氨嘧啶-磺胺甲恶唑（TMP-SMX） 或氨苯砜可以预防肺移植受体的肺囊虫肺炎［12］。 但TMP-SMX可能导致电解质异常、血液恶液质、 皮肤病学反应和肝坏死，对不能耐受TMP-SMX副 作用或磺胺过敏的受体,可将氨苯砜作为替代品 进行预防性治疗［13］。缬更昔洛韦可预防巨细胞病毒 感染，根据血清学状态可持续治疗6 ~12个月口4〕， 但是缬更昔洛韦具有肾毒性和致畸性。雾化两性霉 素B用于预防真菌感染，包括呼吸道无曲霉菌定 植的肺移植受体［15］,而伏立康唑主要用于已知真 菌定植的受体，两性霉素B具有肾毒性、可导致 致电解质异常,伏立康唑与心律失常、肝毒性和 肾毒性有关［16］。值得注意的是,在肺移植受体中 这类抗真菌药物可能与其他常用药物有显著相互 作用，例如伏立康唑可能会增加Tac的血药浓度， 并可能会降低CsA的代谢1⑺，因此，使用伏立康 唑等进行抗感染治疗时必须监测免疫抑制剂的血药 浓度。
+肺移植受体术后也包括其他药物的干预治疗。 Moreno等口81在肺移植术开始时至48 h给予受体
+•318・
+《实用器官移植电子杂志》2019 年 7 月第 7 卷第 4 期 Prac J Organ Transplant (Electronic Version), July 2019, Vol.7, No.4
+持续吸入一氧化氮，于12 h、24 h分别采集受体的 外周动脉血及肺灌洗液,检测发现吸入一氧化氮的 受体白介素-6、8水平以及原发性移植物功能障 碍发生率明显低于对照组。Hartwig等1口指出采用 兔抗胸腺细胞球蛋白诱导疗法可降低肺移植受体的 急性排斥反应发生率。也有研究采用此方法治疗肺 移植术后并发慢性移植物失功的受体,发现其可有 效延缓30%慢性移植物失功受体的排斥反应进程, 并建议应在早期即开始应用［20］。
+2	肺移植手术治疗
+肺移植手术干预文献甚少。国内仅有1篇, 通过对肺减容手术、单肺移植术、双肺移植术3种 不同手术方式治疗终末期肺气肿的临床疗效进行 对比发现,肺移植术(单肺、双肺)患者肺功能、 血气分析指标、6 min步行距离均显著优于肺减容 患者,说明相对于传统的肺减容手术,肺移植术 能更有效的提升患者心肺耐力,改善术后生活质 量12口。Lin等〔22〕对60例双肺移植患者移植再灌 注前进行下肢3个循环的远程缺血调理(remote ischemic conditioning, RIC ),发现 RIC 虽然可降低 缺血再灌注损伤,却不能降低急性排斥反应及原发 性移植物功能障碍的发生率。
+3	肺移植术后康复治疗
+随着促进术后恢复(enhanced recovery after surgery, ERAS)理念的深入，肺康复已成为肺移植术后管 理的重要部分，2013年美国胸科学会(American Thoracic Society, ATS )和欧洲呼吸学会(European R espiratory Society, ERS )给出了肺康复的定义: 肺康复是一种基于对患者全面评估并量身定制的综 合干预措施,其包括但不限于运动训练、教育和行 为改变,旨在提高患者生理心理状况,并促使患者 长期坚持促进健康的活动［23-24］。相关文献均表明 肺移植术后康复干预可以显著提升患者运动耐力, 提高生存质量。Fuller等〔25〕通过对肺移植术后受 体进行7 周及14周的康复干预对比发现,术后半 年时康复组的受体六分钟步行距离、股四头肌肌力、 腘绳肌肌力及生活质量较基线均有明显提高。研究 发现通过对肺移植术后3d的受体进行胸部物理治 疗及高频率胸壁振荡，对比显示两组的Borg评分 及呼气峰流速无显著差异,但高频率胸壁振荡组受 体的SPOJFiO?更优、疼痛评分更低、且患者治疗 接受度更高〔26-27〕。另有文献表明,全身振动训练 也可以提升受体的心肺耐力,提高生活质量〔28-29〕。
+4	肺移植术后护理
+肺移植术后护理在传统的护理基础上,引入平 板电脑教育,与传统教育相比,免疫抑制剂的浓 度水平变异率小,不良事件发生率更低〔30〕,通过 药物自我处置程式训练,患者的服药依从性更高, 能更好地维护移植肺功能〔31〕,通过计算机贝叶斯 分流与护士分流研究对比,发现两组患者肺功能和 生存质量没有明显差异〔32〕。总之,借助受体自身 智能设备终端反馈、专科护理、自我护理、认知行 为干预、家庭肺功能监测及等措施,使受体可以 尽早发现机体异常并且尽早就医,减少住院次数、 降低并发症发生率、提升生存质量,同时可以节省 护理人员人力投入,提高工作效率〔32-33〕。
+5	肺移植术后疼痛治疗
+研究发现通过对肺移植术后受体进行单侧或双 侧罗哌卡因胸椎椎旁导管神经阻滞,监测患者疼 痛评分、阿片类药物使用情况及不良事件发生率, 发现胸椎椎旁导管神经阻滞可以显著降低患者疼痛 评分,镇痛效果良好〔34〕。
+6	小 结
+通过总结肺移植术后综合医疗干预的最新国内 外研究,发现肺移植术后干预手段种类多样,包括 药物、手术方式、康复干预、护理干预等多方面, 各种干预手段可有效降低受体术后并发症发生率、 提高受体的生存质量。
+参考文献
+〔	1〕 Adamali HI,Judge EP,Healy D,et al. International collaboration： a retrospective study examining the survival of Irish citizens following lung transplantation in both the UK and Ireland〔J〕 . BMJ Open, 2012, 2(2)： e000605.
+〔	2〕 Lund LH,Edwards LB,Kucheryavaya AY,et al. The registry of the international society for heart and lung transplantation： thirty-second official adult heart transplantation report— 2015,focus theme：early graft failure〔J〕 . J Heart Lung Transplant,2015, 34(10)：1244-1254.
+〔	3〕 Dorgan DJ,Hadjiliadis D. Lung transplantation in patients with cystic fibrosis： special focus to infection and comorbidities〔J〕 . Expert Rev Respir Med,2014,8(3)： 315-326.
+〔	4〕 Yusen RD,Edwards LB,Kucheryavaya AY,et al. The registry of the international society for heart and lung transplantation： thirty-second official adult lung and heart-lung transplantation report— 2015；focus theme： early graft failure〔J〕 . J Heart Lung Transplant, 2015, 34(10)： 1264-1277.
+〔	5〕 Formica RN Jr,Lorber KM,Friedman AL, et al. The evolving experience using everolimus in clinical transplantation〔J〕 . Transplant Proc,2004,36(2 Suppl)： 495s-499s.
+〔	6〕 Strueber M,Warnecke G,Fuge J, et al. Everolimus versus mycophenolate mofetil de novo after lung transplantation： A prospective, randomized, open-label trial〔J〕 . Am J Transplant,
+《实用器官移植电子杂志》2019 年 7 月第 7 卷第 4 期 Prac J Organ Transplant (Electronic Version), July 2019, Vol.7, No.4
+-319・
+2016， 16(11)： 3171-3180.
+[	7] Gullestad L,Eiskjaer H,Gustafsson F, et al. Long-term outcomes of thoracic transplant recipients following conversion to everolimus with reduced calcineurin inhibitor in a multicenter, open-label, randomized trial[J] . Transpl Int, 2016, 29(7)： 819-829.
+[	8] Ahya VN,McShane PJ,Baz MA, et al. Increased risk of venous thromboembolism with a sirolimus-based immunosuppression regimen in lung transplantation[J] . J Heart Lung Transplant, 2011, 30(2)： 175-181.
+[	9] Arora S,Gude E,Sigurdardottir V, et al. Improvement in renal function after everolimus introduction and calcineurin inhibitor reduction in maintenance thoracic transplant recipients： the significance of baseline glomerular filtration rate[J] . J Heart Lung Transplant, 2012,31(3)： 259-265.
+[10]	Treede H,Glanville AR,Klepetko W, et al. Tacrolimus and cyclosporine have differential effects on the risk of development of bronchiolitis obliterans syndrome： results of a prospective, randomized international trial in lung transplantation[J] . J Heart Lung Transplant, 2012, 31(8)： 797-804.
+[11]	Zaas AK,Alexander BD. New developments in the diagnosis and treatment of infections in lung transplant recipients[J] . Respir Care Clin N Am,2004,10(4)： 531-547.
+[12]	Hatt K,Kinback NC,Shah A , et al. A review of lung transplantation and its implications for the acute inpatient rehabilitation team[J] . Pm r, 2017, 9(3)： 294-305.
+[13]	Vos R,Vanaudenaerde BM,Verleden SE, et al. A randomised controlled trial of azithromycin to prevent chronic rejection after lung transplantation[J] . Eur Respir J, 2011, 37(1)： 164-172.
+[14]	Finlen Copeland CA,Davis WA,Snyder LD, et al. Long-term efficacy and safety of 12 months of valganciclovir prophylaxis compared with 3 months after lung transplantation： a singlecenter, long-term follow-up analysis from a randomized, controlled cytomegalovirus prevention trial[J] . J Heart Lung Transplant,2011,30(9)： 990-996.
+[15]	Husain S,Capitano B,Corcoran T, et al. Intrapulmonary disposition of amphotericin B after aerosolized delivery of amphotericin B lipid complex( Abelcet；ABLC) in lung transplant recipients[J] . Transplantation,2010,90(11)： 1215-1219.
+[16]	Monforte V,Roman A,Gavalda J, et al. Nebulized amphotericin B prophylaxis for Aspergillus infection in lung transplantation： study of risk factors[J] . J Heart Lung Transplant,2001,20(12)： 1274-1281.
+[17]	Enderby CY,Heckman MG,Thomas CS, et al. Tacrolimus dosage requirements in lung transplant recipients receiving antifungal prophylaxis with voriconazole followed by itraconazole： a preliminary prospective study[J] . Clin Transplant,2014,28(8)： 911-915.
+[18]	Moreno I,Mir A,Vicente R,et al. Analysis of interleukin-6 and interleukin-8 in lung transplantation： correlation with nitric oxide administration[J] . Transplant Proc, 2008, 40(9)：3082-3084.
+[19]	Hartwig MG,Snyder LD,Appel JZ 3rd, et al. Rabbit antithymocyte globulin induction therapy does not prolong survival after lung transplantation[J] . J Heart Lung Transplant,2008, 27(5)： 547-553.
+[20]	Izhakian S,Wasser WG,Fox BD, et al. Effectiveness of rabbit
+antithymocyte globulin in chronic lung allograft dysfunction[J] . Transplant Proc, 2016, 48(6)： 2152-2156.
+[21]	陈颖,陈静瑜,王振兴.肺移植与肺减容术治疗终末期肺气肿 的疗效分析[J].中国胸心血管外科临床杂志,2012,19(2)： 141-144.
+[22]	Lin E,Snell GI,Levvey BJ, et al. Safety, feasibility, and effect of remote ischemic conditioning in patients undergoing lung transplantation[J] . J Heart Lung Transplant,2014,33(11)： 1139-1148.
+[23]	Spruit MA,Singh SJ,Garvey C, et al. An official American Thoracic Society/European Respiratory Society statement： key concepts and advances in pulmonary rehabilitation[J] . Am J Respir Crit Care Med,2013,188(8)： e13-64.
+[24]	苗青，韩艳波,张金凤.《ATS/ERS共识:肺康复要点与进展》 中肺康复运动处方解读[J].实用心脑肺血管病杂志,2017, 25(1)：1-3.
+[25]	Fuller LM,Button B,Tarrant B, et al. Longer versus shorter duration of supervised rehabilitation after lung transplantation： A randomized trial[J] . Arch Phys Med Rehabil,2017,98(2)： 220-226.e3.
+[26]	Esguerra-Gonzales A,Ilagan-Honorio M,Kehoe P,et al. Effect of high-frequency chest wall oscillation versus chest physiotherapy on lung function after lung transplant[J] . Appl Nurs Res,2014, 27(1)： 59-66.
+[27]	Esguerra-Gonzalez A,Ilagan-Honorio M,Fraschilla S, et al. CNE article： pain after lung transplant： high-frequency chest wall oscillation vs chest physiotherapy[J] . Am J Crit Care,2013, 22(2)： 115-124.
+[28]	Gloeckl R,Heinzelmann I,Seeberg S, et al. Effects of complementary whole-body vibration training in patients after lung transplantation： A randomized, controlled trial[J] . J Heart Lung Transplant,2015,34(11)： 1455-1461.
+[29]	王朴, 雒晓甜, 张驰, 等. 全身振动训练对心肺功能影响的研 究进展[J].中国康复医学杂志，2017,32(1)： 117-120.
+[30]	Suhling H,Rademacher J,Zinowsky I,et al. Conventional vs. tablet computer-based patient education following lung transplantation--a randomized controlled trial[J] . PLoS One, 2014, 9(6)： e90828.
+[31]	曹晓东,朱亭立,黄云娟,等.药物自我处置程式训练对肺移植 术后病人服药依从性、肺功能和社会功能的影响[J ].护理研 究,2014,28(34)：4295-4298.
+[32]	Finkelstein SM, Lindgren BR, Robiner W,et al. A randomized controlled trial comparing health and quality of life of lung transplant recipients following nurse and computer-based triage utilizing home spirometry monitoring[J] . Telemed J E Health, 2013,19(12)：897-903.
+[33]	DeVito Dabbs A,Song MK,Myers BA, et al. A randomized controlled trial of a mobile health intervention to promote selfmanagement after lung transplantation[J] . Am J Transplant, 2016,16(7)：2172-2180.
+[34]	Hutchins J,Apostolidou I,Shumway S,et al. Paravertebral catheter use for postoperative pain control in patients after lung transplant surgery： A prospective observational study[J] . J Cardiothorac Vasc Anesth,2017,31(1)：142-146..
+(收稿日期：2018-08-15)
+邓淑坤，龚燕华，周仲华，袁鹏.肺移植术后治疗的研究进展[J/CD].实用器官移植电子杂志,2019,7(4):317-319.

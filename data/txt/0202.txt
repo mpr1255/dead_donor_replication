@@ -1,0 +1,62 @@
+﻿中华医学杂志 2007 年 10 月 9 日第 87 卷第 37 期 Natl Med J China, October 9,2007 , Vol 87, No. 37
+• 2657 •
+,基础研究,
+细胞间黏附分子1与血管细胞黏附分子1在心脏移植 慢性排斥反应中的表达及意义
+赵鑫 宋光民徐巨林 王绪键 宋惠民 曲迅
+【摘要】目的 研究细胞间黏附分子l(ICAM-l)与血管细胞黏附分子l(VCAM-l)在心脏移植 慢性排斥反应中的表达及作用。方法采用供体脾细胞(SPC)和环磷酰胺(CP)预处理移植受体，然 后行异位心脏移植术，免疫组织化学检测移植心脏中VCAM-1和ICAM-1的表达。结果SPC和CP 预处理后，移植心脏中ICAM-1、VCAM-1的表达水平明显减低，而ICAM-1和VCAM-1在急性排斥反 应和环抱素A(CsA)治疗组中的表达明显增强(均尸＜0.05)。急性排斥反应与CsA治疗组比较差异 无统计学意义。结论ICAM-1和VCAM-1的表达水平与心脏移植排斥反应的程度密切相关。
+【关键词】心脏移植；胞间黏附分子1;血管细胞黏附分子1;移植物排斥；大鼠
+Expression of intercellular adhesion molecule-1 and vascular cell adhesion molecule in cardiac allografts and significance thereof ： experiment with rats ZHAO Xin, SONG Guang-min, XU Ju-lin, WANG Xu-jiant SONG Hui-min, QU Xun. Department of Cardiovascular Surgery, Qilu Hospital, Shandong University f Jinan 250012 , China
+Corresponding author ： SONG Guan-min, Email ： songgm@ sdu. edu. cn
+[Abstract] Objective To investigate the expression of intercellular adhesion molecule-1 (ICAM+ 1) and vascular cell adhesion molecule-1 ( VCAM-1) in allograft with chronic rejection ( CR) after heart transplantation. Methods Seventy-two SD rats receiving transplantation of the heats of 71 Wistar rats were divided into 4 equal groups ： Group A, undergoing heterotopic cervical heart transplantation (transplanted with donor's heart subcutaneously at the neck) and receiving none intervention, and with the transplanted hearts taken out 3 d after transplantation to the end of CR; Group B, injected intravenously with the splenocytes (SPCs) of the donors on day 0, injected with cyclophomide ( CP) on d2, transplanted with the donor hearts on dl5, with the transplanted hearts taken out 15 - 120 days after transplantation ； Group C, transplanted with the donorzs heart and injected intraperitoneally with cyclosporine A ( Cs A) 10 mg/kg every other day for 8 -10 times, and with the transplanted hearts taken out 60 d after transplantation to the end of CR ； and Group D, injected intravenously with the SPCs of the donors on day 0, injected with CP on d2, transplanted with the donor hearts on dl5, with the transplanted hearts taken out 150 - 420 days after transplantation. Immunohistochemical method was used to detect the expression of ICAM-1 and VCAM-1 in the allografts. Results The cardiac allograft survival time of Group B was the longest. Less ICAM-1 and VCAM-1 expression and lymphocyte infiltration were observed in SPC and CP-pretreated group. Reversely, protein expression levels of ICAM-1 and VCAM-1 were both high and significant lymphocyte infiltration was seen in Groups B and D. There was no significant difference in the expression of ICAM-1 and VCAM-1 between Groups A and C ( P > 0. 05 ). Conclusion The expression levels of ICAM-1 and VCAM-1 are associated with the occurrence and development of rejection and have positive correlation with the severity of graft rejection. Determination of ICAM-1 and VCAM-1 can predict the function of allograft and provide evidence for early diagnosis and prevention of CR.
+[Key words ]	Heart transplantation ； Intercellular adhesion molecule-1 ； Vascular cell adhesion
+molecule-1 ； Graft rejection ； Rats
+细胞间黏附分子 1 ( intercellular adhesion molecule-1, ICAM-1 )及血管细胞黏附分子1 (vascular cell adhesion molecule-1 , VCAM-1 )与同种
+基金项目：国家自然科学基金资助项目(31050131 )；山东省优 秀中青年科学家科研奖励基金资助项0 (02BS093)
+作者单位：250012济南，山东大学齐鲁医院心血管外科
+通讯作者：宋光民，Email ： songgm@ sdu. edu. cn
+异体器官移植排斥反应联系密切,但与慢性排斥反 应(chronic rejection,CR)的关系还不十分明确。本 研究采用供体脾细胞(splenocyte, SPC )和环磷酰胺 (cyclophosphamide)预处理移植受体,诱导受体对移 植物的免疫耐受，通过对同种异体移植心脏组织中 ICAM-1和VCAM-1表达状况的检测,探讨二者表达 水平与移植心脏CR的关系。
+■ 2658 -
+中华医学杂志2007 年 10 月 9 日第 87 卷第 37 期 Natl Med J China, October 9,2007,Vol 87, No. 37
+一、材料与方法
+1	.实验动物和试剂:健康近交系封闭群Wistar 大鼠为供体,SD大鼠为受体，各72只，体重180 ~ 250 g,雌雄不限。分别购于山东省实验动物中心和 山东大学医学院实验动物中心。兔抗大鼠ICAM-1 单克隆抗体、兔抗大鼠VCAM-1单克隆抗体和免疫 组化染色试剂盒均购自武汉博士德生物工程有限 公司。
+2	.受体鼠的预处理和心脏移植术:将制备好的 供体脾细胞（splenocyte,SPC）5 ~ 10 x W 个自 SD 大鼠的尾静脉内注入（d°）,第2天注入环磷酰胺， 雌性50 mg/kg,雄性80 mg/kg。采用颈部心脏移植 模型⑴，将供心的无名动脉和肺动脉分别与受体的 右颈总动脉和右颈外静脉行套管法连接，将供心移 植于受体的右侧颈部皮下。
+3	.实验分组:A组（急性排斥反应组），供、受体 均未用任何干预措施。B组,＜1。：5「（：；＜12：环磷酰胺； （I-:心脏移植术。术后15 ~ 120 d取下移植心脏。C 组［环抱素A （ cyclosporine A, CsA ）组］，供、受体术 前未做任何预处理，手术当日开始用CsA 10 mg/kg, 每2dl次，共8 ~ 10次，腹腔内注入。D组，d。： SPC；d2：环磷酰胺；&5：心脏移植术。术后150 ~ 420 d取下移植心脏。B、D两组均为免疫耐受组,A 组在术后3 d至排斥终末、C组在术后60 d至排斥 终末时取下移植心脏⑵O
+4	.标本的采集与组织制片:为了更好地将A组 与B组、C组与D组进行对比分析,B组受体被较早 处死,B、D两组在取移植心脏时受体仍然存活，移 植心脏仍在跳动。取下的移植心脏均放入质量浓度 为10%的甲醛溶液内浸泡固定。将移植心脏沿心 室长轴的水平面切开以便观察冠状动脉的断面，石 蜡包埋切片，采用HE、VG及Masson染色，同时做免 疫组织化学检测,光镜观察,诊断标准参照国际心脏
+移植学会（ISHT）的心脏免疫排斥病理工作分类 法⑶，存在以内膜增厚为特征的血管病即可诊断 CR⑷。
+5	.免疫组化染色步骤:采用免疫组化SABC法 检测：（1）将石蜡切片脱蜡、水化，阻断内源性过氧 化物酶。（2）热修复抗原:将切片浸入0.01 mol/L 枸椽酸盐缓冲液（PH6.0）,微波炉加热至沸腾后断 电，间隔5~10 min后，反复1 ~2次,冷却后磷酸盐 缓冲液（PBS）冲洗。（3）5%山羊血清封闭。（4）加 一抗4 tt过夜。一抗分别为兔抗大鼠ICAM-1单克 隆抗体（1： 200）、兔抗大鼠VCAM-1单克隆抗体 （1： 100）。（5）用PBS冲洗后加生物素化山羊抗兔二 抗,37 tle孵育10 ~ 15 min。（6）PBS冲洗后加链酶 亲和素-生物素-过氧化物酶复合物,37七孵育10 ~ 15 mino（7）PBS冲洗后镜下控制DAB显色。（8）蒸 储水洗涤，苏木素复染，脱水后封片。
+6	.图像分析定量研究：OLYMPUS-IX81电动倒 置显微镜下摄取图像。ICAM-1和VCAM-1的表达 采用Image Pro Plus 5. 0图像分析软件400倍光镜 下计数每张切片单位视野内的积分光密度（I0D）。 每张切片随机选取10个视野，取其平均值。
+7	.统计学方法:应用SPSS13.0软件分析。各 组间进行单因素方差分析后行q检验。
+二、结果
+1.移植心脏组织病理学改变:Masson染色的组 织切片上,胶原纤维被染成绿色，肌纤维染成红色。 根据胶原纤维含量的不同，将排斥反应的程度分为 3级,即轻度:纤维化范围＜1/3；中度:纤维化范围 占心肌的1/3 ~ 2/3；重度:纤维化范围＞2/3⑵。A 组平均存活时间为（7.2 ±2.4）d,镜下观察移植心 肌间质内可见大量细胞浸润，存在局限或大片坏死 灶,各级冠状动脉内膜出现明显的增生，外膜炎性细 胞浸润，中外层玻璃样变性。C组移植心脏的平均
+图1 ICAM-1在A组移植心脏中的表达，心肌纤维化明显，肌纤维排列紊乱，可见心肌纤维及间质广泛黄染DAB x200图2 VCAM-1在C组移植心脏血管壁中的表达，心肌纤维化明显，肌纤维排列紊乱,可见心肌纤维、间质广泛黄染,血管壁高密度黄染, DAB x200图3 ICAM-1在B组移植心脏中的表达，心肌纤维排列基本正常，几乎无黄染DAB x 400图4 VCAM-1在D组 移植心脏心肌中的表达，心肌纤维化轻度,肌纤维排列基本正常，未见明显黄染区DAB x 400
+中华医学杂志 2007 年 10 月 9 日第 87 卷第 37 期 Natl Med J China, October 9,2007, Vol 87, No. 37
+■ 2659 -
+存活时间为（110 ±73）d,镜下观察细胞外基质 （ECM）成分占多数，心肌纤维化严重。B、D两组镜 下移植心脏大体结构基本正常，有时可见近似三级 淋巴结的局限淋巴细胞团⑸，冠状动脉主干及各级 分支动脉内膜不同程度增厚呈向心性狭窄。排斥反 应的程度A组较B组、C组较D组均严重⑵。
+2.移植心脏ICAM-1,VCAM-l的表达:二者的 表达状况基本相似，各组移植心脏的心肌细胞、血管 内皮细胞及周围间质均可见表达,VCAM-1的表达 部位以血管壁及血管周围间质为主。在A、C两组 中二者表达明显且广泛（图1,2）,B、D组二者表达 散在且微弱（图3,4）。将各组的表达情况进行比较 表明，二者变化趋势基本一致:A组与B、D组比较 差异均有统计学意义,C组与B、D组比较差异也有 统计学意义;而A组与C组,B组与D组比较差异 均无统计学意义（表1）。
+表1 ICAM-1、VCAM-1在各组移植心脏组织中的
+量化表达10口值（X107）			
+组别	鼠数	ICAM-1	VCAM-1
+A组	9	1.38±0. 64	1.32 ±0.66
+B组	9	0. 35 ±0. 28	0. 30 ±0. 23
+C组	9	0. 83 ±0.71	1.25 ±0. 99
+D组	9	0. 32 ±0. 28	0. 59 ±0. 17
+产值		5.476	6.698
+产值		0.002	0.001
+注：ICAM-1、VCAM-1的表达程度分级：IOD<0.4 X10,为低度， >0.8 X107 为高度，（0.4 ~0. 8） X107 为中度
+三、讨论
+移植物CR的特点为移植物纤维化和血管病 变，是不可逆的病理过程⑹，其发病机制中黏附分 子起着重要作用。ICAM-1和VCAM-1是细胞间及 细胞与ECM间相互作用的信号分子,参与免疫介导 的连锁反应。ICAM-1的表达谱极广，其配体是淋巴 细胞功能相关抗原-1 （ lymphocyte function-associated antigen-1, LFA-1）O ICAM-1 在移植心脏中与 LFA-1 识别后，可通过细胞间的黏附作用协调抗原依赖性 T淋巴细胞的运输和激活。VCAM-1主要在内皮细 胞、树突状细胞和巨噬细胞上表达,与其配基很晚期 抗原 4 （very late antigen/, VLA4）结合作为激活 T 细胞的第二信使⑺。当效应T细胞激活后即可发 挥其细胞毒作用并释放大量炎性介质、细胞因子 等⑻，参与免疫识别、趋化、黏附及侵入等环节，破 坏心肌细胞、血管内皮细胞，启动平滑肌的病理性修 复,促进内膜和平滑肌的增生。移植心肌局部 ICAM-1和VCAM-1的强烈上调可能与细胞上配受
+体间相互作用的正反馈调节有关⑼。如此局部炎 症可持续发展，从而导致移植心脏的纤维化和血管 硬化。
+虽有研究表明ICAM-1和VCAM-1与急性排斥 反应有一定的关系皿〕，但在CR中的作用尚待研 究。本实验采用CsA、供体脾细胞和环磷酰胺等治 疗移植受体，建立了不同排斥反应的大鼠同种异体 心脏移植的动物模型,在我们前期研究工作的基础 上，对移植心脏组织的ICAM-1和VCAM-1的表达 情况进行分析，结果证实ICAM-1和VCAM-1在各 移植组中均呈阳性表达,其表达程度与移植心肌纤 维化和移植心脏血管病的病变程度密切相关， ICAM-1和VCAM-1的表达贯穿于整个排斥反应的 过程之中。通过测定受体移植心脏中ICAM-1和 VCAM-1的表达水平可以预测移植心肌纤维化和移 植心脏血管病的病变程度,从而为CR的早期诊断、 预防和治疗提供理论基础和依据。至于黏附分子和 排斥反应确切的因果关系，还需要进一步的探讨。
+参考文献
+[1]宋光民，宋惠民，李德才，等.套管法建立大鼠颈部心脏移 植.中华器官移植杂志，2000, 21:218-219.
+[2]杨长征，宋光民，徐巨林，等.大鼠移植心脏心肌纤维化的实 验研究.中华胸心血管外科杂志，2001, 17；294-295.
+[3]	Billingham ME, Cary NRB, Hammond ME, et al. A working formulation for the standardization of nomenclature in the diagnosis of heart and lung rejection. J Heart Lung Transplant, 1990, 9： 587-593.
+[4]	Chalasani G, Li Q, Konieczny B, et al. The allograft defines the type of rejection ( acute versus chronic ) in the the face of an established elector immune response. J Immunol, 2004, 172： 7813-7820.
+[5]	Baddoura FK, Nasr IW, Wrobel B, et al. Lymphoid neogenesis in murine cardiac allografts undergoing chronic rejection. Am J Transplant, 2005, 5；510-516.
+[6]	Mitchell RN. Allograft arteriopathy： pathogenesis update. Cardiovasc Pathol, 2004, 13 ：33-40.
+[7]	Kurkijarvi R, Jalkanen S, Isoniemi H, et al. Vascular adhesion protein-1 ( VAP-1) mediates lymphocyte-endothelial interactions in chronic kidney rejection. Eur J Immunol, 2001,31 ：2876-2884.
+[8]	Hribova P, Kotsch K, Brabcova I, et al. Cytokines and chemokine gene expression in human kidney transplantation. Transplant Proc, 2005, 37 ：760-763.
+[9]	Alam AKMS, Florey 0, Weber M, et al. Knockdown of mouse VCAM-1 by vector-based siRNA. Transpl Immunol, 2006, 16 ： 185-193.
+[10]	Rothman A, Mann D, Behling CA, et al. Increased expression of endoarterial vascular cell adhesion molecule-1 mRNA in an experimental model of lung transplant rejection ： diagnosis by pulmonary arterial biopsy. Transplantation, 2003, 75 ：960-965.
+（收稿日期：2007S-31）
+（本文编辑：吕小东）

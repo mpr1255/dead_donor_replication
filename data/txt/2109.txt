@@ -1,0 +1,117 @@
+﻿18	•论 著•
+May 2019, Vol.17, No.13
+Guide of China Medicine
+脑死亡器官捐献者合并感染的回顾性分析
+林正豪 李金秀 黄 佳 庞麒麟 宋海辉 王 智* （深圳市第三人民医院重症医学科，广东 深圳 518112）
+【摘要】目的总结脑死亡器官捐献者感染发生部位，病原菌种类，耐药性以及外周血T淋巴细胞亚群的变化，为控制供体感染提供依据。
+方法 回顾性分析深圳市第三人民医院重症医学科2016年5月至2018年12月完成的31例脑死亡器官捐献者与感染相关的临床资料，其 中20例作为观察组，对照组为同期住院20例轻型颅脑损伤（GCS 14~15分）患者，比较两组在发病1周内外周血T淋巴细胞亚群的差异。
+结果 31例供者中27例合并感染，发生率为87.1%），感染部位以下呼吸道最常见，占96.3%，两个及以上部位发生感染7例，占25.9%， 共检出病原菌35株，其中革兰阴性菌28株，占80%，革兰阳性菌4株，占11.4%，真菌3株，占8.6%，多重耐药菌14株，占40.0%。
+与对照组相比，观察组CD,，CD/CDs下降，CDs上升，差异有统计学意义。结论脑死亡器官捐献者感染发生率高，下呼吸道为最常见 感染部位，革兰阴性菌以及多重耐药菌检出率高，免疫功能降低可能是感染的易发因素之一。
+【关键词】脑死亡；器官捐献；感染；T淋巴细胞
+中图分类号：R74	文献标识码：B	文章编号：1671-8194 （2019） 13-0018-03
+Retrospective Analysis of Organ Donors After Brain Death Complicated with Infection
+LIN Zheng-hao, LI Jin-xiu, HUANG Jia, PANG Qi-lin, SONG Hai-hui, WANG Zhi
+(Department of Critical Care Medicine, the Third People's Hospital of Shenzhen, Shenzhen 518112, China)
+[Abstract] Objective To summarize infection site, pathogen species, drug resistance and changes of peripheral blood T lymphocyte subsets in cases of donation after brain death. To provide evidence for infection control of organ donors. Methods The infection-related clinical data of 31 cases of donation after brain death completed in the intensive care department of the Third People's Hospital of Shenzhen from May 2016 to December 2018 were retrospectively analyzed. Among them, 20 cases were treated as the observation group, and the control group was 20 cases of mild craniocerebral injury (GCS 14-15 points) patients hospitalized at the same time, and the difference of peripheral blood T lymphocyte subsets between the two groups within 1 week after the onset was compared. Results There were 27 cases of these 31 donators with infection is 87.1%. The most common infection site was lower respiratory tract 96.3%. In 7 cases with two or more infection sites, accounting for 25.9%. 35 strains of pathogenic bacteria were detected. There were 28 strains of gram-negative bacteria, accounting for 80%, 4 strains of gram-positive bacteria, accounting for 11.4%, 3 fungal strains, accounting for 8.6%. 14 multi-resistant bacteria strains, accounting for 40.0%.Compared with the control group, CD4, CD4/CD8 decreased and CD8 increased in the observation group, and the difference was statistically significant. Conclusion The infection rate of organ donors after brain death is high. The lower respiratory tract is the most common infection site. The detection rate of gram-negative bacteria and multi-drug resistant bacteria is high, and the reduced immune function may be one of the risk factors for infection.
+[Key words] Brain death; Organ donation; Infection; T lymphocyte
+脑死亡是颅脑损伤最危险阶段，潜在供体在器官捐献之前多数经 受手术、气管插管、深静脉置管、留着导尿管等有创操作，往往接受 多种抗生素治疗，诱使病原耐药性增强，且急性期外周血T淋巴细胞 存在变化［1］，故此类患者发生感染的机会增加［2］。为维护供体器官功能 积累经验，更有效控制供体感染，本研究回顾性分析31例脑死亡器官 捐献者与感染相关的临床资料，报道如下。
+1资料与方法
+1.1	一般资料：2016年5月至2018年12月本院完成31例脑死亡器官捐献 者的器官功能维护及获取。所有病例均按照《脑死亡判定标准与技术 规范（成人质控版）》［3］进行判定。本31例捐献者中男性23例，女性 8例，平均年龄（38.3±5.1）岁。病因：颅内出血13例，颅脑外伤10 例，缺血缺氧性脑病8例。
+1.2	方法
+1.2.1 病原鉴定及耐药检测：采集供者的痰液、血液、脑脊液、尿液 等标本，遵照《临床检验操作规程》第4版进行标本的分离和培养。
+采用近14全自动细菌鉴定仪（美国BD公司生产）进行菌株鉴定及药 物敏感试验。
+*通讯作者：E-mail:guangwangzhi88@163.com
+1.2.2外周血T淋巴细胞亚群检测：三色荧光标记单克隆抗体及FACS Calibur型流式细胞仪为美国BD公司生产。31例供者中20例在发病1周 内检测外周血T淋巴细胞亚群，作为观察组，对照组选择同期住院20例 轻型颅脑损伤（GCS 14-15分）患者，同样在发病1周内检测外周血T淋 巴细胞亚群。比较两组急性期外周血T淋巴细胞亚群的差异。
+1.2.3 统计学方法：描述性统计分析供体感染部位、病原分布，计数 资料采用频数（n）及率（％）表示。计量资料以均数土标准差（-土 s）表示，采用t检验，尸＜0.05表示差异有统计学意义。
+2结果
+2.1 感染发生部位：31供者中27例合并感染，发生率87.1%，感染部位 包括下呼吸道，血流，颅内，泌尿系，以下呼吸道最常见，其中两个 及以上部位发生感染7例（占26%）。见表1。
+表1 31例供者感染发生部位及构成比
+部位	例数	构成比（%）
+下呼吸道	26	96.3
+血流	4	14.8
+颅内	3	11.1
+泌尿系	1	3.7
+2.2 病原菌分布：所送检标本中共检出35株病原菌，其中革兰阴性 菌28株，占80%，革兰阳性菌4株，占11.4%，真菌3株，占8.6%（表
+中国医药指南
+2019 年 5 月第 17 卷 第 13 期
+•论 著•	19
+2)。多重耐药菌14株，占40.0%(表3)。多重耐药菌参照国际专家 建议判断[4]。
+表2 31例供者病原菌分布及构成比
+病原菌	株数	构成比(%)
+革兰阴性菌	28	80.0
+肺炎克雷伯菌	7	20.0
+鲍曼不动杆菌	5	14.3
+铜绿假单胞菌	5	14.3
+嗜麦芽窄食单胞菌	4	11.4
+大肠埃希菌	2	5.7
+伯克霍尔德菌	2	5.7
+粘质沙雷氏菌	1	2.9
+产酸克雷伯氏菌	1	2.9
+弗芳地枸橼酸杆菌	1	2.9
+革兰阳性菌	4	11.4
+金黄色葡萄球菌	3	8.6
+表皮葡萄球菌	1	2.9
+真菌	3	8.6
+白假丝酵母菌	2	5.7
+光滑假丝酵母菌	1	2.9
+表3 31例供者多重耐药菌及构成比
+多重耐药菌	株数	构成比(%)
+鲍曼不动杆菌	3	8.6
+肺炎克雷伯菌	3	5.7
+嗜麦芽窄食单胞菌	2	
+表皮葡萄球菌	1	2.9
+金黄色葡萄球菌	1	
+铜绿假单胞菌	1	2.9
+伯克霍尔德菌	1	2.9
+粘质沙雷氏菌	1	2.9
+产酸克雷伯氏菌	1	2.9
+弗芳地枸橼酸杆菌	1	2.9
+表皮葡萄球菌	1	2.9
+2.3外周血T淋巴细胞亚群变化:	与对照组相比，	观察组CD4, CD4/
+CD.下降，CD.上升，差异有统计	学意义，见表4。	
+表4两组患者T淋巴细胞亚群变化比较(-土s)
+组别	例数	CD4	CD8	CD4/CD8
+观察组	20	32.33±3.66	34.15±4.12	1.02±0.34
+对照组	20	55.64±6.81	26.71±3.55	2.12±0.41
+t	-	9.44	8.01	8.56
+P	-	<0.01	<0.05	<0.01
+3讨论
+供体感染是器官移植面临的突出问题之一。众所周知，脑死亡后缺 乏咳嗽、排痰功能，免疫力低下，缺乏正常饮食，肠道菌群易位，应用 皮质激素，接受多种侵袭性操作，家属治疗不积极等，导致这类患者 易患各种感染。本研究31例患者中，27例发生感染，感染部位包括下呼 吸道，血流，颅内，泌尿系，以下呼吸道最多，占96.3%。尽管有研究 表明，如供体感染为社区获得性感染，则不影响受体器官功能及远期预 后[5]。但本研究感染发生率高达87.1%，着实令人担忧。2015年以后， 公民逝世后自愿捐献器官已是我过器官移植的唯一来源，由于器官供需 矛盾突出，有时不得不扩大器官来源，采用具有潜在感染的风险的供体 器官。实体器官移植后感染的病原途径多种多样，供者来源便是其中之 一，且日益引起业内关注。不管是肝移植还是肾移植，供者来源的感染 有着更高的移植器官失功率和病死率[6-7]。为尽可能减少供者来源细菌感 染发生，围术期需采取有效的感染防护措施，包括适当使用抗生素。
+本研究检出的35株病原菌中革兰阴性菌28株，占80%，多重耐药 菌14株，占40.0%，更应该考虑医院获得性感染可能[8-9]。脑死亡器官 捐献者，通常收住在重症监护病房，接受机械通气，有时需要血管 活性药物维持循环稳定，甚至存在心肺复苏史，使用过广谱抗生素
+等，这些均是诱发多重耐药菌的高危因素[10]，接受携带有多重耐药 革兰阴性菌供体器官的受体，其存活率降低[11]，有报道病死率可高达 33%[10]。多重耐药菌引起的供体来源感染，常规抗菌治疗方案效果不 佳，往往需要根据细菌培养药物敏感试验结果联合使用抗生素[12-13]。 对供体多重耐药菌的筛查，早期发现携带病原，及早针对多重耐药菌 预防性使用抗生素[14]等，以保障器官移植安全。
+T淋巴细胞按其表面标志物可分为若干亚群，抗人T淋巴细胞单 克隆抗体发主要分为CD4、CD8亚群，CD4细胞包括辅助型，诱导型， CD8细胞包括抑制型，细胞毒型，亚群之间的协调均衡，对维持正常 的免疫调节和免疫应答至关重要。T淋巴细胞亚群的测定是检测机体 细胞免疫功能的重要指标。当CD4细胞减少，CD8细胞升高和CDJCD8 比值减小时，表明细胞免疫功能障碍。重型颅脑损伤后机体处于免疫 抑制状态[9]，与脑水肿，神经内分泌免疫调节网络失衡有关。本研究 观察组相较于对照组，CD4细胞减少，CDJCD8比值减小，CD8细胞 升高，表明脑死亡患者细胞免疫功能明显受损，易发生感染。适当的 免疫干预，提高机体的细胞免疫功能，可能是防治脑死亡器官捐献者 感染的有效途径之一[15]。总之，脑死亡器官捐献者感染发生率高，下 呼吸道为最常见感染部位，革兰阴性菌以及多重耐药菌检出率高，且 免疫功能降低。为了更好的保证供体质量和受体安全，有效扩大捐献 池，在供体器官功能维护期间需要制定强有力的感染防控措施。 参考文献
+[1]	Sotosek Tokmadzic V,Laskarin G.Expression of cytolytic proteinperforin in peripheral blood lymphocytes in severe traumatic brain injured patients[J].Injury,2012,43(5):624-631.
+[2]	Suwal S,Karki S,Mandal D,et al.Computed tomographic evaluation of craniocerebral trauma in Dhulikhel Hospitol [J].Katmand Univ Med J (KUMJ),2017,15(57):71-74.
+[3]	国家卫生和计划生育委员会脑损伤质控评价中心.脑死亡判定标 准与技术规范(成人质控版)J].中国现代神经疾病杂志,2015,15 (12):935-939.
+[4]李春辉,吴安华.多重耐药菌暂行标准定义——国际专家建议J]. 中国感染控制杂志,2014,13(1):62-64.
+[5]	Kubak BM,Gregson AL,Pegues DA,et al.Use of hearts transplanted from donors with severesepsis and infectious deaths [J].Heart Lung Transplant,2009,28(3):260-265.
+[6]	Ye QF,Zhou W,Wan QQ.Donor-derived infections among Chinese donation after cardiac death liver recipients[J] World J Gastroenterol, 2017,23(31):5809-5816.
+[7]	Wan Q,Liu H,Ye S,et al.Confirmed transmission of bacterial or fungal infection to kidney transplant recipients from donated after cardiac death donors in China: a single-center analysis[J]. Med Sci Monit,2017,23:3770-3779.
+[8]王燕萍，陈晓丹,罗桂英，等.ICU多重耐药菌医院内感染情况调查 J].中国热带医学,2014,14(7):899-902.
+[9]	金龙,都鹏飞.446例住院患者医院内多重耐药菌感染监测结果及 分析 J].安徽医学,2015,36(7):797-780.
+[10]	Lewis JD,Sifri CD.Multidrug-Resistant Bacterial Donor-Derived Infections in Solid Organ Transplantation[J].Curr Infect Dis Rep, 2016,18(6):18.
+[11]	Van Duin D,Van Delden C.Multi drug-resistant gram-negative bacteria infections in solid organ transplantation [J].Am J Transplant, 2013,13(Supp14):31-41.
+20	•论 著•
+May 2019, Vol.17, No.13
+Guide of China Medicine
+综合康复护理对精神分裂症患者的临床价值
+张 峰	侯玉玲*
+(山东省淄博市精神卫生中心，山东 淄博 255100)
+【摘要】目的 探讨综合康复护理对精神分裂症患者的临床价值。方法 将2016年1月至2017年1月90例住院精神分裂症患者根据随机 信封法分为综合康复组和对照组，各45例。综合康复组给予综合康复护理，对照组采用常规护理干预。从焦虑、精神病性症状、护理 满意度、遵医行为进行评定。结果干预后综合康复组治疗效果、护理满意度、遵医行为评分均高于对照组(P < 0.05)；焦虑、精神病 性症状评分均低于对照组 P < 0.05)。结论综合康复护理可提高患者遵医行为，改善其精神症状，促进其康复，提升护理满意度，具 有较好的临床价值。
+【关键词】综合康复护理；精神分裂症；临床应用
+中图分类号：R473.74；R749.3	文献标识码：B	文章编号：1671-8194 (2019) 13-0020-02
+Clinical Application of Comprehensive Rehabilitation Nursing to Schizophrenic Patients
+ZHANG Feng, HOU Yu-ling
+(Zibo City Mental Health Center, Zibo 255100, China)
+[Abstract] Objective To explore the clinical value of comprehensive rehabilitation nursing for patients with schizophrenia. Methods 90 patients with schizophrenia in January 2016 - January 2017 were divided into a comprehensive rehabilitation group and a control group according to the random envelope method, with 45 cases in each group. The comprehensive rehabilitation group was given comprehensive rehabilitation nursing, and the control group was treated with routine nursing intervention. It was evaluated from anxiety, psychosis, nursing satisfaction and compliance. Results After treatment, the treatment effect, nursing satisfaction and compliance behavior of the com-prehensive rehabilitation group were all higher than those of the control group (P<0.05), and the scores of anxiety and psychotic symptoms were all lower than those of the control group (P<0.05). Conclusion Comprehensive rehabilitation nursing can improve patients' compliance behavior, improve their mental symptoms, promote their rehabilitation and improve their satisfaction degree, which has good clinical value.
+[Key words] Comprehensive rehabilitation nursing; Schizophrenia patients; Clinical application research
+精神分裂症是常见精神疾病，以行为异常、社会功能缺损、思维 障碍等为主要表现，需采取有效的护理措施。综合康复护理是一种新 型护理方式，是将多种护理措施用于疾病康复过程护理中，以从整体 上加速病情康复，改善患者身心状态，提高患者生活质量的一种护理 方法[1]。本研究分析了综合康复护理对精神分裂症患者的临床价值， 报道如下。
+1资料与方法
+1.1 一般资料：将2016年1月至2017年1月90例住院精神分裂症患者作 为对象根据随机信封法分组，各有45例。综合康复组男23例，女22 例；年龄21~45岁，平均(36.11±2.14)岁。受教育程度小学6例， 初中10例，高中16例，大学13例。发病时间1年-6年，平均(2.55± 0.34)年。对照组男24例，女21例；年龄21~46岁，平均(36.12± 2.91)岁。受教育程度小学7例，初中10例，高中16例，大学12例。发 病时间1~6年，平均(2.56±0.31)年。两组患者在年龄、性别、受教 育程度、发病时间上比较差异均无统计学意义(尸＞0.05)。
+*通讯作者：E-mail：313341336@qq.com
+[12] 吴佳晋,应亮,李大伟,等.肾移植供体来源耐药肺炎克雷伯杆菌感 染13例救治经验J].实用器官移植电子杂志,2018,6(1):9-12.
+[13] 陈小松,韩龙志,钱永兵,等.供体来源碳青霉烯酶类耐药肺炎克雷 伯杆菌感染—一肝肾移植的差异J].实用器官移植电子杂志, 2018,6(1):45-48.
+[14] Bishara J,Goldberg E,Lev S,et al.The utilization of solid organs
+1.2 方法：对照组采用常规护理干预，包括遵医嘱服药治疗、常规巡 视、一般健康教育。综合康复组除给予常规护理外，再进行下列康复 护理。①心理康复护理：多数精神分裂症患者意志活动减少，失去治 愈和生活信心，情绪低落，生活态度消极，需通过音乐疗法、与患者 聊天、鼓励患者阅读和参加社交活动等方式改善其心理状态，并通过 介绍成功康复案例提高其治疗信心。鼓励家属多给予患者理解、关怀 和支持，使其感受到亲情的温暖。②认知康复护理。首先与患者、家 属之间建立良好护患关系，通过发放图文并茂的健康宣教材料，介绍 精神分裂症相关知识、自我护理要点，提高患者及家属的认知和配合 度，提高依从性，使其明确各项康复训练的目的和意义，并积极主动 参与其中。③行为康复护理。针对患者的操作性行为(如穿脱衣、洗 涮、进食、书写、阅读、保持个人床单元卫生清洁、定期洗澡等生活 能力训练)，以口头表扬、物质奖励等形式鼓励患者的进步，从而提 高患者的生活自理能力。与此同时，合理指导患者参与集体娱乐活 动，逐渐有计划的安排，带有提高学习和竞技性质的参与性内容， 如团体游戏、工娱疗作业、体操运动、唱卡拉OK、电影乐曲欣赏、 球类、扑克牌比赛等，每周2次，每次50 min，由接受过培训的护师
+for transplantation in the setting of infection with multidrugresistant organisms: an expert opinion[J].Clin Transplant, 2012,26(6): 811-815.
+[15] Zanetti M,Castiglioni P,Ingulli E.Principles of memory CD8 T-cells generation in relation to protective immunity[J].Adv Exp Med Biol,2010,684:108-125.

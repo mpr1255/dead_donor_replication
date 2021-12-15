@@ -1,0 +1,37 @@
+﻿•318・
+《实用器官移植电子杂志》2020 年 7 月第 8 卷第 4 期 Prac J Organ Transplant (Electronic Version), July 2020, Vol.8, No.4
+.综述.
+体外膜肺氧合在心脏移植围术期的应用
+陈洪磊（天津市第一中心医院心血管外科,天津 300192）
+心脏移植目前是晚期心力衰竭患者最佳的治 疗手段［1］。由于供体短缺及病情的急速进展,部 分心衰患者需要以体外膜肺氧合（extracorporeal membrane oxygenation, ECMO ）作为心脏移植的过 渡，为其提供等待的机会。尽管ECMO最初主要 用于提供呼吸支持,很快就显现出其作为致命的 心力衰竭患者循环支持的优势。近年来,氧合器、 泵和管路技术的改进迅速扩大了 ECMO的使用范 围⑵。随着以ECMO作为心脏支持方式的经验增 加,使其在不同的患者群体,包括急性心肌梗死 后心源性休克（cardiogenic shock, CS ）、心脏手术 后无法从体外循环脱离、需要ECMO作为心脏移 植过渡、以及心脏移植后原发性移植物功能障碍 （primary graft dysfunction, PGD ）的患者。此外， ECMO也应用于儿童心脏移植手术前的桥接治疗。 1心脏移植前应用ECMO
+每年接受心脏移植的患者超过4 500例,在心 脏移植前接受机械循环支持移植受者的比例逐年 增加。一般来说,在临床和血流动力学迅速恶化 的患者中，左心室辅助装置（left ventricular assist devices, LVAD）常被用作心脏移植的桥梁，使得 患者在病情稳定下来并进行心脏移植。而ECMO 支持的患者比例很小,只有1.2%的心脏移植受者 在移植前行ECMO辅助，。然而，当患者无法耐 受LVAD时（例如存在LVAD使用的解剖禁忌证）， ECMO常用于血流动力学衰竭或严重的双心室功能 障碍的患者。在心脏移植术前应用ECMO,其结 局不同的中心略有差异351。Chung等3描述了 70例接受ECMO的成人患者，其目的是过渡到心脏 移植,31例患者（44%）成功等到移植手术。研究 发现，年龄＞50岁、ECMO前心肺复苏、ECMO 时序贯性器官衰竭评估得分〉10分是桥接失败的 显著独立预测因子。在一项源自法国国家注册中心 的回顾性分析中“I 80例急重症患者接受了 VA-
+DOI：10.3969/j.issn.2095-5332.2020.04.022
+通讯作者:陈洪磊，Email: 13752526921@163.com
+ECMO作为连接心脏移植的桥接治疗，与866例在 移植前没有ECMO支持的患者进行了比较。与无需 ECMO支持的患者（75.5% ）相比，接受ECMO的 患者的1年总体生存率较低（52.2%）, VA-ECMO 组的1年生存率为70%,对照组为81%。该研 究的作者总结,即使移植后的存活率低于未使用 VA-ECMO的患者，移植也能为VA-ECMO组的患 者提供生存益处。这些研究结果提示，ECMO支持 的患者其预后会更差一些。
+研究发现术前应用ECMO和其他短期辅助装 置是心脏移植手术的危险因素之一［61。在美国, 主要使用心室辅助装置（ventricular assist devices, VAD）作为心脏移植的桥梁，当然在心脏移植前 仍有少数情况下优先使用ECMO,这些情况包括 左室肥厚、严重的双心室功能障碍、先天性心脏 病或难治性室性心律失常。在这些患者中，ECMO 往往被选择性地用作桥接治疗。若干研究已经证 实了 ECMO的安全性，它可以保证患者在平稳的 状态下接受心脏移植［7-91。另有报道,终末期心力 衰竭的儿童是移植前接受ECMO的最大群体。由 于其复杂的解剖变异，限制了 LVAD在先天性心 脏病患儿中的使用［101。16%的儿童心脏移植受者 在等待移植时接受ECMO支持。有强有力的证据 表明,这种有创性血流动力学支持增加了等待移 植的儿童死亡风险。接受ECMO支持的儿童在等 待心脏移植死亡的风险是不需要ECMO且在心脏 移植前没有机械通气的儿童的2倍""。Dipchand 等［121研究发现,若儿童患者心脏移植术前应用 ECMO则预后不良。心脏移植时ECMO辅助的儿童 患者（3年:64%）,与在移植时使用心室辅助装置 （3年：84%）或不使用ECMO/心室辅助装置者 （3年：85% ； P v 0.0001）相比，生存率更差。年 龄V 1岁的ECMO移植患者生存率最差。
+2心脏移植后应用ECMO
+心脏移植后PGD是心脏移植术后危及生命的 并发症，其发病率为3% ~ 30%⑴。移植供者年 龄、器官缺血时间、机械循环支持（包括右心室辅
+《实用器官移植电子杂志》2020 年 7 月第 8 卷第 4 期 Prac J Organ Transplant (Electronic Version), July 2020, Vol.8, No.4 ^319^
+助装置）和受体的先天性因素似乎与PGD的发生 有关。最近，一份关于心脏移植后PGD的共识指 出，若术后患者需要ECMO支持以维持器官灌注， 则定义为重度PGD1⑴。尽管ECMO由于易于植入 和在长时间体外循环后提供氧合的能力而受到青 睐，但ECMO的使用与出血风险的增加和左室负 荷不足相关,并且在年幼患者中存在心内血栓形成 的风险114-151。在法国一家大型医疗中心的PGD患 者中,36例（67%）脱离辅助装置,27例（50%） 接受ECMO支持的患者出院（21例）。总体条件生 存率1年为73%,5年为66%。研究者认为ECMO 支持是治疗心脏移植术后早期严重移植物衰竭的可 靠方法。此外，接受ECMO治疗的患者与未接受 治疗的PGD患者具有相同的1年生存率。
+Takeda等1⑹对心脏移植后需要机械支持的 PGD患者进行了分析。在研究期间接受心脏移植 的597例患者中，44例（7.4%）出现严重的PGD。 在移植后24 h行VAD辅助者17例，VA-ECMO支 持者27例。接受VAD的患者需要更长的支持时间， 出血需要再次探查胸腔及肾功能衰竭需要术后肾 替代治疗发生率偏高。VAD患者和VA-ECMO患 者的住院病死率分别为41%和19%。10例（59%） 患者撤离VAD支持，24例（89%）患者在移植物 功能恢复后撤除VA-ECMO支持。VAD组和VA-ECMO 组移植后3年生存率分别为41%和66%, 由此得出结论：对于重度PGD, VA-ECMO的支 持比VAD有更好的临床效果。与ECMO对其他原 因的CS的支持相比，ECMO对PGD或其他原因导 致的同种异体移植失败患者的支持似乎有更好的 预后。研究发现，与其他所有病因需要ECMO支 持的患者（69.1%）相比,因心脏移植失败而需要 ECMO的患者病死率更低（51.6%）。尽管ECMO 可以提供足够的支持,但它有局限性,包括左室后 负荷增加、支持时间有限、血栓栓塞和血管并发症 的风险。如果没有恢复，ECMO可能是不够的，可 能需要其他更积极的策略,如双心室支持,包括持 久的VAD或全人工心脏。目前缺乏证据支持使用 这些更激进的替代方案，但应根据患者的临床情况 和中心的经验来选择治疗手段。
+ECMO的最新进展增加了对其在心力衰竭患者 的应用的考虑，将其作为心脏移植的桥梁和心脏移 植术后PGD心脏功能的重要支持。进一步的研究
+有助于了解ECMO在心脏移植中的最佳作用。
+参考文献
+[ 1]	LUND L H， EDWARDS L B， KUCHERYAVAYA AY， et al. The registry of the international society for heart and lung transplantation： thirty-second official adult heart transplantation report--2015； focus theme： early graft failure[J] . J Heart Lung Transplant，2015，34(10)：1244-1254.
+[ 2]	KIRKLIN J K， NAFTEL D C， PAGANI F D， et al. Sixth INTERMACS annual report： a 10，000-patient database[J] . J Heart Lung Transplant，2014，33(6)：555-564.
+[ 3]	CHUNG J C， TSAI P R， CHOU N K， et al. Extracorporeal membrane oxygenation bridge to adult heart transplantation[J] . Clin Transplant，2010，24(3)：375-380.
+[ 4]	JASSERON C， LEBRETON G， CANTRELLE C， et al. Impact of heart transplantation on survival in patients on venoarterial extracorporeal membrane oxygenation at listing in france[J] . Transplantation，2016，100(9)：1979-1987.
+[5 ]	ROUSSE N, JUTHIER F, PINION C, et al. ECMO as a bridge to decision： Recovery， VAD， or heart transplantation?[J] . Int J Cardiol,2015,187：620-627.
+[ 6]	KILIC A, ALLEN J G, ARNAOUTAKIS G J, et al. Adult-derived index for mortality prediction after cardiac transplantation( IMPACT) risk score predicts short-term mortality after pediatric heart transplantation[J] . Ann Thorac Surg,2012,93(4)：1228-1235.
+[ 7]	MARASCO S F, LO C, MURPHY D, et al. Extracorporeal life support bridge to ventricular assist device： the double bridge strategy[J] . Artif Organs,2016,40(1)：100-106.
+[ 8]	SHAH P, SMITH S, HAFT J W, et al. Clinical outcomes of advanced heart failure patients with cardiogenic shock treated with temporary circulatory support before durable LVAD implant[J] . ASAIO J, 2016,62(1)：20-27.
+[ 9]	GRIMM J C, SCIORTINO C M, MAGRUDER J T, et al. Outcomes in patients bridged with univentricular and biventricular devices in the modern era of heart transplantation[J] . Ann Thorac Surg, 2016,102(1)：102-108.
+[10]	DIPCHAND A I, ROSSANO J W, EDWARDS L B, et al. The registry of the international society for heart and lung transplantation： eighteenth official pediatric heart transplantation report--2015； focus theme： early graft failure[J] . J Heart Lung Transplant,2015,34(10)：1233-1243.
+[11]	ALMOND C S, THIAGARAJAN R R, PIERCEY G E, et al. Waiting list mortality among children listed for heart transplantation in the United States[J] . Circulation,2009,119(5)：717-727.
+[12]	DIPCHAND A I,MAHLE W T,TRESLER M,et al. Extracorporeal membrane oxygenation as a bridge to pediatric heart transplantation effect on post-listing and post-transplantationoutcomes[J] . Circ Heart Fail,2015,8(5)：960-969.
+[13]	KOBASHIGAWA J, ZUCKERMANN A, MACDONALD P, et al. Report from a consensus conference on primary graft dysfunction after cardiac transplantation[J] . J Heart Lung Transplant,2014, 33(4)：327-340.
+[14]	TANAKA D, HIROSE H, CAVAROCCHI N, et al. The impact of vascular complications on survival of patients on venoarterial extrcorporeal membrane oxygenation[J] . Ann Thorac Surg,2016, 101(5)：1729-1734.
+[15]	WILLIAMS B, BERNSTEIN W. Review of venoarterial extracorporeal membrane oxygenation and development of intracardiac thrombosis in adult cardiothoracic patients[J] . J Extra Corpor Technol,2016,48(4)：162-167.
+[16]	TAKEDA K, LI B, GARAN A R, et al. Improved outcomes from extracorporeal membrane oxygenation versus ventricular assist device temporary support of primary graft dysfunction in heart transplant[J] . J Heart Lung Transplant,2017,36(6)：650-656.
+(收稿日期：2020-03-30)
+陈洪磊.体外膜肺氧合在心脏移植围术期的应用[J/CD].实用器官移植电子杂志,2020,8（4）: 318-319.

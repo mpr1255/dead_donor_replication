@@ -1,0 +1,66 @@
+﻿中华器官移植杂志2000年7月第21卷第4期 ChinJOrganTransplant,July 2000, Vol.21, No.4
+• 237 •
+・心脏移植,
+同种异体原位心脏移植(附6例报道)
+孙晨光 夏求明 李咏梅 姚志发 陈子道
+【摘要】 目的 探讨心脏移植术过程中术式,心肌保护,术后并发症等相关问题。方法 对6例 实施原位心脏移植患者的临床资料进行分析、总结,得出相关数据,经统计学处理。结果 6例患者 中，移植方法采用标准法4例，双腔法1例，全心脏法1例。供心平均热缺血时间为(105±18)min ，冷缺血时间为(49±14.7)min。存活时间分别为8年、7年、5年、35年、2年、05年。结论 充分的 术前准备,适当的术式选择,良好的心肌保护,术后右心衰竭的预防与治疗是心脏移植成功的关键。
+【关键词】 心脏移植；同种异体
+Orthotopic homologous heart transplantation： a report of 6 cases SUN Chenguang, XIA Qiuming, LI Yongmei, et al - Department of Cardiac Surgery, The Second Affiliated Hospital of Harbin Medical University, Harbin, China
+【Abstract】 Objectives T o study t he surgical procedures,myocardial protection and postoperative complication in heart transplantation．Methods T he clinical data of 6cases of ort hotopic homologous heart transplantation were analyz ed and summarized．Results All the 6 patients were male with the mean age 42 y ears old．T he st andard technique,doubie cavit y method and total heart method were performed on 4 cases ,1 case and 1 cases respectively ．The heat ischemic time of the donor heart was （10．5±1．8）min and cold ischemic time w as （49±14．7）min．T he survival time of the 6 cases was 8 years,7 years,5 years, 3．5 years,2 y ears and 0．5 years respect iv ely ． Conclusions The success of heart transplantation was cont ribut ed to the f ully preoperative preparation,suitable operativ e procedures,better m yocardial protection and prevention and treatment of right heart f ailure in the early stage of postoperation．
+【Key words】 Heart t ransplantation；Hom olgous transplantation
+原位心脏移植术是治疗终末期心脏病最有效的 方法之一。它所涉及的学科和领域是多方面的,鉴 于我国开展这方面的工作和研究比较晚,现将我们 近几年的临床体会做一简单的总结,以助于同行借 鉴,共同促进我国心脏移植的发展。
+临床资料
+自1992年以来,我科成功的完成了6例心脏移 植术。6例均为男性，年龄在31〜57岁，平均42 岁。6例受者中有2例为克山病,4例为扩张性心肌 病，术前心功能均为N级(NYHA)，均有不同程度的 心律失常,受者与供者间的淋巴毒试验分别为6％、 18％、10％、9％、10％、5％。
+受者在全麻、气管插管下,采取正中切口,按3
+mg/kg肝素进行抗凝(ACT>400 s),建立体外循
+1例，但经相应处理,6例受者均已治愈，康复出院。
+作者单位：150086 哈尔滨医科大学第二临床医学院心外科
+环,待供者心脏送到后,将受者心脏切除。置供心于 受者心包腔内,供心的逆灌管与体外循环温血逆灌 系统联接。吻合开始时即进行逆行灌注,逆灌压力 在40〜60 mm Hg,逆灌流量在40〜80 ml/min。逆 灌停搏液来自体外循环内的自身氧合血,只需加入 相应剂量的氯化钾,首次逆灌液中保持较高的钾浓 度(21. 2-26. 3 mmol/L),以保持心脏完全停搏于 舒张期。随后逆灌液中的钾浓度逐渐降低,在主动 脉开放前的逆灌液中不加钾。逆灌液的温度随体外 循环机内血液温度的变化而升降,无需对逆灌液作 特别的升温和降温处理。6例患者中,第1、2、4、6 例移植方法采用标准法,第3例用全心脏法,第5例 用双腔法。心脏移植各期所用的时间详见表1。
+6例受者移植后,出现右心功能不全1例,急性 右心衰竭2例,术后高血压1例,术后左肺下叶多发
+• 238 •
+中华器官移植杂志 2000 年 7 月第 21 卷第 4 期 Chin J Organ Transplant, July 2000, Vol.21, No.4
+	表1	心脏移植术各操作进程所用时间(min)			
+例	供心热缺血供心冷缺血		逆行灌注	心脏吻合 体外循环	
+号	时间	时间	时间	时间	时间
+1	11	42	92	90	163
+2	12	36	80	65	185
+3	12	66	77	77	174
+4	9	46	84	85	180
+5	10	46	89	82	178
+6	16	42	—	81	171
+在术后长期随访中，用标准法心脏移植的4例 受者中有2例出现轻度的房室瓣膜返流,而用全心 脏法和双腔法心脏移植的受者则无瓣膜返流现象。 所有的病例心功能均恢复到I级，均已返回原有的 工作岗位,从事正常的工作。到目前为止,6例受者 的存活时间分别为8年、7年、5年、3.5年、2年、0.5 年。
+讨 论
+一、术前准备
+尽管我国心脏移植工作已有近十年的发展,但 终未形成规模,接受心脏移植的受者除了心脏病本 身达到终末期,心功能恶化导致周身脏器也受到不 同程度的损害,因此术前改善心功能,维护相应的脏 器功能非常重要,但往往这样的患者通过内科的系 统治疗,心功能改善并不明显,因而如何改善患者术 前的心功能状态成为一个重要的问题。国外往往应 用人工心脏做为心脏移植的桥梁,但人工心脏价格 昂贵,不易被我国患者接受,因而我们采用球囊反 搏,辅助左心功能,如患者以右心衰竭为主,则采用 离心泵技术,经过一段时间的调整后,随着患者心功 能的改善,相应的器官功能也得到一定的改善,从而 可明显减少术后并发症,提高手术成功率。另外,如 患者术前肾功能有一定的损害,我们在选用免疫抑 制剂时，不用环孢素A，避免术后发生肾功能衰竭。
+二、心脏移植术后急性右心衰竭
+急性右心衰竭是心脏移植术后常见并发症之 一,也是心脏移植术的高危因素之一。其产生的原 因是多方面的,主要与供心的缺血性损害和供心无 法耐受受者原有的肺动脉高压有关,其中肺动脉高 压更为重要。由此可见,在进行心脏移植前对受者
+作肺动脉压力测定是十分必要的、通常情况下,如存活 肺小动脉阻力小于2. 5 Wood单位，术后急性右心衰 竭的发生率为3%左右。如肺小动脉阻力大于2.5
+Wood单位，首先应进行肺血管的降压试验，以判定 肺血管病变的可逆程度,降压试验后如肺小动脉阻 力小于2. 5 Wood单位，术后急性右心衰竭的发生率 为6.9%左右，如肺小动脉阻力仍大于2.5 Wood单 位,术后急性右心衰竭的发生率高达41.6％左 右［1］。用于降压试验的药物以往多用硝普钠和硝 酸甘油,近几年越来越多的中心开始采用一些选择 性作用于肺血管的药物，如前列腺素E1、米力农和 吸入性一氧化氮等［2-4］。其原因是由于心脏移植的 受体术前血流动力学多处于不稳定的状态,应用选 择性肺血管的药物尽可能的减少药物对体循环的影 响,有助于更准确的判定肺血管的病变程度,对预防 心脏移植术后急性右心衰竭具有十分重要的意义。
+我国从90年代才在临床上开展心脏移植的工 作,无论从人们的观念上,还是客观实际情况上,均 处于萌芽状态。因此心脏移植的受者病情都十分严 重,术前多存在一定程度的肺动脉高压,术后急性右 心功能衰竭的发生率较高。我院的6例心脏移植 中,有3例出现不同程度的急性右心功能衰竭,经 联合应用治疗右心功能衰竭的各种方法,使患者转 危为安。由此可见,在我国应重点研究治疗术后急 性右心功能衰竭的方案。
+三、手术方法的改进与选择
+同种异体原位心脏移植的手术方法有3种,即 标准法原位心脏移植、全心脏法原位心脏移植、双腔 法原位心脏移植。目前,多数医疗中心仍采用标准 法原位心脏移植,但从90年代开始也有一些中心采 用全心脏法原位心脏移植和双腔法原位心脏移植。 这3种手术方法的区别在于供者心脏与受者心脏血 管保留部分相吻合部位的不同。在我们的6例心脏 移植病例中有4例采用标准法,全心脏法原位心脏 移植和双腔法原位心脏移植各1例。通过对上述病 例的远期随访,我们发现采用标准法的病例术后心 电图表现为2个P波，超声心动图显示心房形状不 规则,心房较大伴有轻度的房室瓣关闭不全。而全 心脏法原位心脏移植和双腔法原位心脏移植的病例 只有1个P波，心房大小正常，无房室瓣关闭不全。
+从目前的研究看,尽管后两种手术方法是在标 准法的基础上加以改进的,但尚无确切的证据证实 哪一种手术方法更有助于受者心功能的恢复和长期
+。
+四、供心的心肌保护
+供心心肌保护的好坏直接影响心脏移植术的效
+中华器官移植杂志 2000 年 7 月第 21 卷第 4 期 Chin J Organ Transplant, July 2000, Vol.21, No.4
+果。现有的心肌保护方法仍受时间的限制，所以保 存供心的安全时间在4〜6 h,最好不超过3h。已有 资料证实,随着供心保护时间的延长,术后供心的心 功能呈不同程度的下降,受体3个月的生存率也明 显下降。由此可见,缩短心肌缺血时间是至关重要 的。
+我院在动物试验和临床应用的基础上,将温血 逆行灌注的方法引用到心脏移植术中,使供心在整 个手术移植过程期间即已得到氧合血的供应,从而 缩短了供心的心肌缺血时间,经术中、术后近期、术 后远期的观察与研究,已证实这种心肌保护方法的 可靠性。
+参考文献
+1	S rimivas M ,Robert LK ,Barry FU ,et al．Preoerative pulm o nary hemodynamics and early mortality after ort hotopic cardiac t ransplan-
+• 239 •
+tation：the pitt sburgh eqperiemce．Am Heart J,1993,126：896-904．
+2	Iberer F ,Wasler A,T scheliseeingg K ,et al．P rost aglandin E1-in-duced moderation of elevated pulmonary vascular resistance．Survival on w aiting list and result s of orthotopic heart transplanatation．J Heart Lung T ransplant ,1993,12：173-178．
+3	Mark JS ,Barbara AC ,Robert K ,et al．Hemodynamic eff ect s of inhaled nit ric oxide in heart failure,Jam Coll Crdiol,1994,24：982-988．
+4	Michael M G,Joshua M H,Ev anl,et al．Ef f ect of bolus milrinone on hemodynamic v ariables and pulmonary vascular resistance in patient s with sev ere left ventricular dysfunction：Arapid test for reversibility of pulmonary hypertention．J Am Coll Cardiol,1996,28：1775-1880．
+5	Dreyfus G ,Jebra V A,Mihailueanue S ,et al．T oyal orthotopic heart transplantation,an alternative to t he st andard technipue．Ann T ho-rac Surg,1991,52：1181-1184．
+6	Deleuz e P H,Benvenuti C ,Mazzucotelli JP ,et al ．Orthotopic cardiac t ransplantation with direct cav al anastomosis：is it the optimal procesure．J T ho rac Cardiovasc Surg,1995,109：731-737．
+(收稿日期：2000-04-07)
+•消息•
+中华医学会系列杂志对来稿中统计学处理的有关要求
+1．统计研究设计：应交代统计研 究设计的名称和主要做法。如调查设计 （分为前瞻性、回顾性还是横断面调查研 究）,实验研究（应交代具体的设计类 型,如自身配对设计、成组设计、交叉设 计、析因设计、正交设计等）,临床试验 设计（应交代属于第几期临床试验,采 用了何种盲法措施等）；主要做法应围 绕4个基本原则（重复、随机、对照、均 衡）概要说明,尤其要交代如何控制重 要非试验因素的干扰和影响。
+2.资料的表达与描述：用-土 s表 达近似服从正态分布的定量资料，用M （Qr）表达呈偏态分布的定量资料；用统 计表时,要合理安排纵横标目,并将数 据的含义表达清楚；用统计图时,所用 统计图的类型应与资料性质相匹配,并
+使数轴上刻度值的标法符合数学原则； 用相对数时,分母不宜小于20,要注意 区分百分率与百分比。
+3．统计分析方法的选择：对于定 量资料,应根据所采用的设计类型、资 料年具备的条件和分析目的,选用合适 的统计分析方法，不应盲目套用t检验 和单因素方差分析；对于定性资料,应 根据所采用的设计类型、定性变量的性 质和频数所具备的条件以及分析目的, 选用合适的统计分析方法,不应盲目套 用X2检验。对于回归分析，应结合专 业知识和散布图,选用合适的回归类 型,不应盲目套用简单直线回归分析, 对具有重复实验数据验回归分析资料, 不应简单化处理；对于多因素、多指标 资料,要在一元分析的基础上,尽可能
+运用多元统计分析方法,以便对因素之 间的交互作用和多指标之间的内在联系 作出全面、合理的解释和评价。
+4.统计结果的解释和表达：当P< 0.05或（P<0.01）时，应说对比组之间 的差别具有显著性（或非常显著性）的意 义,而不应说对比组之间具有显著性 （或非常显著性）的差别；应写明所用统 计分析方法的具体名称（如：成组设计 资料的t检验、两因素析因设计资料的 方差分析、多个均数之间两两比较的 q 检验等），统计量的具体值（如：t = 3.45, X2 = 4.68, f = 6.79等）,应尽可 能列出具体的P值（如：P = 0.023 8）； 当涉及到总体参数（如总体均数、总体率 等）时,在给出显著性检验结果的同时, 再给出95％置信区间。

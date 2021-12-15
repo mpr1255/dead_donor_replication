@@ -1,0 +1,93 @@
+﻿• 2618 ■	中华医学杂志 2007 年 10 月 9 日第 87 卷第 37 期 Natl Med J China, October 9 ,2007 , Vol 87, No. 37
+・临床研究•
+肺动脉高压对同种原位心脏移植患者 移植后早期血流动力学的影响
+刘明政王剑辉杜娟黄洁李立环
+【摘要】目的分析研究心脏移植患者术前不同程度的肺动脉高压对患者移植后早期血流动 力学指标、超声心功能检查、围术期并发症和死亡率的影响。方法 回顾总结2004年6月至2006年 12月，阜外心血管病医院连续做的67例同种原位心脏移植手术患者。根据术前肺血管阻力将患者 分为3组：I组无肺动脉高压、肺血管阻力等于或低于2. 5 Wood单位15例；II组轻到中度肺动脉高 压、肺血管阻力大于2. 5 Wood小于5. 0 Wood单位42例；II组严重的肺动脉高压、肺血管阻力等于或 大于5.0 Wood单位10例。连续监测并记录麻醉前、术后即刻、12、24及48 h的CVP、MPAP、C。、 SvO”PAWP等指标；停体外循环后、术后第1、3、7 dj个月、3个月经超声测定左室舒张末径 (LVEDD)、左室射血分数(EF)及二、三尖瓣的返流情况等;术后详细记录各种并发症、治疗情况及术 后30d的死亡率。结果 本研究患者均完成心脏移植手术,3组患者无手术死亡(术后30 d内)。m 组患者的术前EF值与I组比较,P<0.05；3组患者的体外循环阻断时间、供体心脏热缺血、冷缺血时 间无明显差别；m组患者的体外循环时间明显长于I组、n组p<o.05,术后带管时间in组与i组比 较,P <0.05。3组间麻醉前MPAP、PVR,尸<0.05,111组患者麻醉前。明显低于I组、PCWP明显高 于I组P <0. 05； ID组术后各时间点MPAP.PVR明显低于麻醉前、特别是术后48 h,P <0. 05,但仍表 现为肺动脉压升高。术后并发急性肾功能衰竭3例(II组1例、HI组2例)、急性右心衰竭6例(I组 1例、n组2例、DI组3例)。超声检查除HI组2例患者术后早期显示三尖瓣中量返流外，未发现明显 的心脏扩大、收缩功能降低等异常情况。结论术前严重肺动脉高压患者心脏移植后早期肺动脉压 力明显降低，但术后易发生急性右心衰竭等并发症，经积极的强心、利尿等治疗措施恢复良好。供体 心脏的保护、围术期特别是术中及术后早期右心功能的维护、抗感染及排异反应的监测等是保证手术 成功的关键。
+【关键词】 心脏移植；高血压，肺性；围手术期；血液动力学；回顾性研究
+Impact of pulmonary hypertension on early hemodynamics after orthotopic heart transplantation LIU Ming-zheng, WANG Jian-hui, DU Juan, HUANG ]ie, LI Li-huan. Department of Anesthesiology, Cardiovascular Institute & Fuwai Hospital, Peking Union Medical College & Chinese Academy of Medical Sciences, Beijing 100037, China
+Corresponding author - LIU Ming-zheng, Email ： liumzh29@ hotmail. com
+[Abstract] Objective To determine the influence of noiTnal pulmonary artery pressure, and mild to moderate and severe pulmonary hypertension on the early hemodynamics, morbidity, and mortality after orthotopic heart transplantations. Methods Sixty-seven heart disease patients, 54 males and 13 females, aged (46. 4 ± 14. 6) , including ischemic heart diseases ( n = 16 ) , myocardiopathy ( n = 43 ) , and other heart diseases (n = 8) , undereent orthotopic heart transplantation. Before and after transplantation routine right heart catheterization was conducted. According to the preoperative pulmonary arterial pressure the patients were divided into 3 groups ： Group I ( n = 15 ) without pulmonary hypertension ( PH) with the pulmonary vascular resistance ( PVR) W2. 5 Wood's units ； Group H ( n = 42) with mild to moderate PH with the PVR between 2. 5 and 5. 0 Wood's units; and Group M (n = 10) with severe PH with the PVR? 5. 0 Wood's units. Heart rate (HR) , mean artery pressure (MAP) , central venous pressure ( CVP) , mean pulmonary artery pressure ( MPAP) , pulmonary artery wedge pressure ( PAWP) , PVR, cardiac output index ( CI) , and mixed venous oxygen saturation ( Sv02 ) were measured preoperatively, immediately and 12, 24, and 48 hours postoperatively. 1, 3, and 7 days, and 1 and 3 months post-operatively echocardiography was conducted to measure the left ventricular end-diastolic diameter ( LVEDD) , left
+作者单位：1OOO37北京，中国协和医科大学中国医学科学院阜外心血管病医院麻醉科 通讯作者：刘明政.Email ： liumzh29 @ hotmail. com
+中华医学杂志 2007 年 10 月 9 日第 87 卷第 37 期 Natl Med J China, October 9 ,2007 , Vol 87 , No. 37
+■ 2619 •
+ventricular ejection fraction (EF) , mitral valvular regurgitation ( MVR) , and tricuspid valvular regurgitation (TVR). Postoperative complications and mortality were recorded. Results The 30-day mortality was zero in all 3 groups. The cardiovascular support used for weaning CPB and postoperative period included dopamine, ephedrine and isoproterenol. In addition, nitroglycerin, NO and iloprost were administered for pulmonary arteiy vasodilation if the pulmonary artery pressure was higher than 45 mm Hg. The EF value of Group HI was significantly lower compared with group ( P < 0. 05 ). Before the heart transplantation, 52 patients (86% ) had mild to severe PH, of which 10 patients (27% ) had severe PH. The patients of Group HI had longer CPB time and tracheal intubation time in comparison with the patients of Group I ( P <0. 05). Postoperatively 6 patients, 1 in Group I , 2 in Group 口，and 3 in Group HI, had acute right ventricular failure and 3 patients, 1 in Group H and 2 in Group JU , had renal failure. Basiliximab, cyclosporine A, mycophenolate mofetil, and methylprednisolone were administered for immunosuppressive treatment peri operatively. Conclusion The patients with severe PH pre-operatively have significantly lower pulmonary resistance and pressure, and have more complications, such as acute right heart failure, posl-operatively. Active treatment with cardiac stimulant and diuretics is helpful. Smooth anesthetic induction and maintenance, peri-operative stable hemodynamic managements, especially the protection of right ventricle function for the first 2 weeks after the transplantation, myocardial protection of donor heart, and immunosuppressive regimen all play important roles for successive heart transplantation.
+[Key words ] Heart transplantation ； Hypertension, pulmonary ； Intraoperative period ； Hemodynamics ； Retrospective studies
+心脏移植目前已成为治疗各种原因所致的终末 期心衰患者的有效手段之一。终末期心衰患者因各 种原因通常都伴有不同程度的肺动脉高压、肺血管 阻力升高;心脏移植患者移植前严重的肺动脉高压 可能导致移植后供体心脏急性右心衰竭，是影响心 脏移植患者近期成活率的主要原因。心脏移植前受 体肺血管阻力达到多少可明显增加术后并发症和死 亡率目前尚无准确定论,各研究间存在差别口处。目 前,全世界大多数医疗中心心脏移植受体选择的标 准之一是肺血管阻力低于4 ~6 Wood单位。本研究 分析患者移植前不同程度的肺动脉高压对移植后早 期血流动力学、超声心功能检查、围术期并发症和死 亡率的影响。
+对象与方法
+一■、对象
+阜外心血管病医院自2004年6月至2006年12 月连续施行的同种原位心脏移植手术67例，男54 例、女13例；年龄13 ~64岁，平均（46.4 ±14. 6）岁。 病种包括缺血性心脏病16例、心肌病43例、其他心 脏病8例。根据术前肺动脉漂浮导管所测的肺血管 阻力分为3组：I组15例,无肺动脉高压、肺血管阻 力等于或低于2. 5 Wood单位；II组42例，轻到中度 肺动脉高压、肺血管阻力大于2. 5 Wood但小于5. 0 wood单位；m组io例，严重肺动脉高压、肺血管阻 力等于或大于5. 0 Wood单位。3组患者的一般情 况见表1。
+二、方法
+患者入手术室后面罩吸氧,监测五导联心电图、 脉搏血氧饱和度,2%利多卡因局麻下行槎动脉、颈 内静脉及锁骨下静脉穿刺，放置Swan-Ganz导管及 三腔中心静脉导管。3组患者的麻醉、体外循环方 法、外科术式及术后监护措施等无明显差别。所有 患者围手术期常规应用多巴胺、硝酸甘油。体外循 环后肺动脉收缩压高于45 mm Hg应用NO和/或前 列环素。连续监测并记录麻醉前、手术结束到恢复 室（ICU）即刻、术后12 h、24 h及48 h的中心静脉 压（CVP）、肺动脉收缩压（sPAP）、舒张压（dPAP）、 肺动脉楔压（PAWP）、心排血量（CO）及混合静脉血 氧饱和度（SvO?）。停体外循环后、回恢复室第1 d 及术后第3 d、第7 d、l个月、3个月经超声测定左室 舒张末径（LVEDD）、左室射血分数（EF）及二、三尖 瓣的返流情况等。手术后详细记录X线胸片、血常 规、肌酊、尿素氮等生化指标。根据患者具体情况术 后应用抗生素5 ~7 d,并口服抗真菌和抗病毒药物。 术后在隔离监护室1 ~2周后逐渐过渡至清洁病房。 所有患者的免疫抑制方案采用巴利昔单抗 （Basiliximab ）、环胞霉素 A、霉酚酸酯 （Mycophenolate Mofetil）和皮质激素四联方案，根据 患者的具体情况随时调整上述药物的剂量。
+供体均为脑死亡，与受体ABO血型相同、体重 差异±20%。供体既往无心血管疾病或其他重要脏 器病史，符合美国器官分享联合网络（ONOS）的选 择标准。供体心脏采用HTK液单次灌注、低温保 存。供体心脏缺血时间、移植患者体外循环时间、手 术后气管插管时间等见表2。
+• 2620 •
+中华医学杂志 2007 年 10 月 9 日第 87 卷第 37 期 Natl Med J China, October 9 ,2007 , Vol 87 , No. 37
+表1患者一般情况
+组别例数 组别（例）	男例 (	女创_ (	年龄 （岁）	NYHA分级（例）	口口	LVEDD (mm)	原发病（例）	
+				m	iv		晚期缺血性 心脏病	晚期	其他 心肌病	心脏病
+I组 15	13	2	43 ±16	7	6(H 级 2)	0.27 ±0.12	72 ±13	6	7	2
+n组 42	34	8	45 ±13	25	17	0.22 + 1.00	73 ±14	7	33	2
+DI组 10	7	3	49 ±11	4	6	18.4±0. 70a	71 ±15	3	3	4
+注:NYHA：纽约心功能分级；EF：左室射血分数；LVEDD：左室舒张末径；a： I组比较P<0.05							
+			表2	3组患者供心缺血、体外循环等时间			
+组别		例数	供心热缺血	供心冷缺血	升主动脉阻断	体外循环	术后机械呼吸
+			时间（min）	时间（min）	时间（min）	时间（min）	时间（h）
+I组		15	5.2±2.1	190 ±79	69 ±14	163 ±28	24 ±6
+II组		42	5.4 ±1.6	182 ±67	63 ±12	154 ±31	26 ±9
+DI组		10	5.1 +3.3	189 ±71	66 ±15	188 ±47 ab	37 ±28a
+注:a与I组比较,P <0.05 ；b与n组比较,p <0.05
+统计学处理:采用SPSS 10.0统计软件包进行 统计学处理。计量资料以均数士标准差（无土 S）表 示，组间及组内比较采用成组t检验,P <0.05为差 异有统计学意义。
+结 果
+患者均成功完成心脏移植手术。3例患者术前 出现心源性休克,2例安装左心辅助装置、1例行 ECMO循环支持，过渡到心脏移植。体外循环前所 有患者血液动力学指标均维持在可接受水平。术后
+30 d内无死亡。术后并发急性肾功能衰竭3例（n 组1例、HI组2例）、急性右心衰竭6例（I组1例、 n组2例、ni组3例）、肺部感染7例（I组1例、n 组3例、ID组3例），经积极的持续肾脏替代治疗 （CRRT）、强心、利尿、抗感染等治疗措施顺利恢复。 超声心动各时间点所测LVEDD、EF及二尖瓣返流 等3组患者间无明显差别。HI组患者2例术后第 1、3、7 d超声显示三尖瓣中量返流，1个月复查为 少~中量返流。3组患者各时间点血流动力学指标 及统计学比较结果见表3。
+表3 3组患者各时间点血流动力学指标
+组别	HR	MAP	CVP	MPAP	PAWP	CI	PVR	SvO2
+I组								
+麻醉前	81 ±12	82 ±13	9.3 土2.4	16.1 ±8.7	13.5+2.1	1.9 ±0.8	2.3 ±0.8	58 ±11
+术后即刻	108 ±llb	88 ±11	7.2±3.8	21.4 ±6.2b	11.8+2.2	3.0 ±0.68	2.6 ±0.6	76±10b
+12 h	107 ±12b	87 ±12	7.0±2.7	19.7 ±4.7	10.2+3.6	3.3 ±0.7b	2.7 ±1.9	67 ±11
+24 h	98 ±13	84 ±11	6.1 ±2.7	19.2±6.3	9.8 ±1.7b	3.5 ±0.7b	2.4±0.6	75 土 12b
+48 h	94 ±12	81 ±11	9.0 ±1.6	22.0 ±6.0	9.9 ±1.9b	4.4 ±0.2b	1.8 ±0.4	81 ±15b
+II组								
+麻醉前	80 ±11	81 ± 9	9.4±1.8	29.2±7.7a	14. 1 ±1.1	1.7 ±0.4	3.7 ±0.6a	62 ± 5
+术后即刻	106 ±9b	86 ± 8	7.3 ±2.4	25.0±4.8a	11.3 ±1.2	3.1 ±0.5b	2.9±0.7b	74 ± 6b
+12 h	106±14b	90 ± 9	7.3 ±1.8	27.6±2.3a	9.9 ±1.4b	2.8±0.7b	2.8±1. 1	70 ± 6b
+24 h	101 ±9b	86 ± 9	7.0 ±1.9	23.4 ±5.7b	9.7 ±0.9b	3.2±0.4b	2.9 ±0.5	71 ± 7b
+48 h	93 ±7	83 ± 7	8.0±l.l	19.9±4.4b	10.8 土 12	3.2 土0.7b	2.2±0.3b	77 ± 7b
+况组								
+麻醉前	88 ±16	78 ±15	13.0±2.7	33. 1 ±15fl	18.4±3.3a	1.5 ±0.7fl	5.4 土 2. 4，	59 ±17
+术后即刻	112±16	92 ± 14b	8.6 土2. 8.	29.1 ±14a	12.3 ±3.4b	2.6±l.lb	3.6 ±1.6ab	68 ±15b
+12 h	106±17b	92±15b	7.8±2.5b	28. 2 土 15ab	14.0 土3. 88b	2.6 土0®	4.1 土 1.5.	70 ± 14b
+24 h	106±llab	78 ±14	9.9 ±4.3fl	27.3 ±12^	13. 2 土 3.4曲	2.2 土0.8曲	3.6 ±1. 1^	68 ±16b
+48 h	103 ±14小	83 ±13	10.4 ±3.4	24.7 ±llb	10.9 ±3.2b	3.3 土0.8ab	3.0 ±0.98b	69 ±13b
+注:HR：心率（次/min）； MAP：平均动脉压（mm Hg） ; CVP：中心静脉压（mm Hg） ； MPAP：平均肺动脉压（mm Hg） ； PAWP：肺动脉楔压 （mm Hg） ;CI：心指数（L/min/n?） ；PVR：肺血管阻力（dyn* sec/cn?） ；Sv（）2：混合静脉血氧饱和度（％）;"与I组比较,P <0.05”与麻醉前比 较,P<0.05
+中华医学杂志 2007 年 10 月 9 日第 87 卷第 37 期 Natl Med J China, October 9,2007, Vol 87, No. 37
+• 2621 •
+讨 论
+虽然心脏移植已成为治疗终末期心脏病有效的 外科手段，但仍是心脏外科的高风险手术。急性右 心衰竭、感染、急性排异等是导致术后早期死亡的主 要原因。本研究中心肌病占64. 2% （43例/67例）， 包括扩张性心肌病、肥厚性心肌病和致心律失常性 心肌病等;冠心病占23. 9% （16例/67例）；其他心 脏病包括风湿性心脏病、心脏肿瘤等占1L9% （8例/67例）0与国际心肺移植协会资料比较必, 本组冠心病所占比例较低（23. 9%比45%）,而各种 原因的心肌病所占比例偏高（64. 2%比45% ）；可能 也是本组患者存在严重肺动脉高压的比例高于国际 心肺移植协会资料的原因之一。本组重度肺动脉高 压患者术前EF、CI明显低于无肺动脉高压组、 PAWP明显高于无肺动脉高压组，表明肺动脉高压 患者术前心功能较差。高肺血管阻力是心脏移植手 术的禁忌证，是移植术后急性右心衰竭的最主要原 因。本研究86%的患者术前存在肺动脉高压、肺血 管阻力在2.5 ~7.4 Wood单位之间,严重的肺动脉 高压、肺血管阻力大于或等于5 Wood单位为27%。 术前严重的肺动脉高压、高肺血管阻力组的患者总 的体外循环时间、术后带气管插管时间明显长于其 他两组;体外循环时间长主要是由于供体心脏复跳 后肺动脉压较高，导致供体心脏右心室难以承受较 高的后负荷、右心功能受损，要求循环辅助的时间较 长。有文献报道⑸，供体心脏通常难以承受超过50 mm Hg的右心后负荷，当肺动脉收缩压超过55 ~60 mm Hg时往往会导致急性右心衰竭；同时,供体心 脏在适当的肺血管扩张剂治疗前提下,右心室需2 周左右才逐渐适应受体的肺血管阻力⑹。术后带 管时间长导致术后早期的并发症较多，尤其是肺部 并发症、特别是肺感染的发生率较高,使肺血管阻力 的进一步增加，加剧或诱发急性右心衰竭的发生。 本研究发现术前存在肺动脉高压的患者术后共有5 例发生急性右心衰竭，发生率为9. 6%，而术前存在 严重的肺动脉高压患者术后共有3例发生急性右心 衰竭，发生率为30%。有文献报道⑺，心脏移植术 后约19%的早期死亡是由于急性右心衰竭；因此, 术前仔细的肺血管阻力可逆性评价、术后早期特别 是术后最初2周右心功能的维护至关重要。
+终末期心衰患者常伴有肺动脉压升高、肺血管 阻力增加，对于肺血管阻力严重增加（＞6 Wood单
+血管阻力可逆性与否的判断具有重要意义⑶"，常用 的肺血管扩张剂包括NO、硝酸甘油、前列腺素E1、 前列环素、内皮素受体拮抗剂（Bosentan）等。有研 究报道，肺血管阻力明显增加不适于原位心脏移 植手术的患者，应用前列腺素匕短期治疗肺血管阻 力明显减低,进而行原位心脏移植治疗，其发生急性 右心衰竭的趋势无明显增加、1年死亡率较没有肺 动脉高压的患者轻度增加，但统计学无明显差别。 由于多方面的原因，本研究未对肺动脉高压患者进 行严格的肺血管阻力可逆性检查判断;同时,严重肺 动脉高压患者的病例数较少，可能是导致其发生急 性右心衰竭的比例明显升高的主要原因。
+心脏移植患者无论术前有无肺动脉高压，体外 循环后及术后早期均可表现肺动脉压升高，主要由 于体外循环后机体炎性介质释放所致的肺血管痉 挛、体外循环期间各种微栓沉积于肺血管床、术后肺 不张、感染等，对于供体心脏有明显的影响，可能导 致急性右心衰竭,应积极处理，包括过度通气,应用 硝酸甘油、硝普钠、多巴酚丁胺、异丙肾、N0、前列腺 素E1或前列环素I②等。本研究体外循环后及术 后早期，对于肺动脉收缩压高于45 mm Hg的患者 （I组1例、n组4例、出组6例）在静脉给予硝酸 甘油、吸入NO的基础上加用前列环素类药物伊洛 前列腺素（Iloprost）,初步的临床观察效果良好。伊 洛前列腺素是新的扩血管药物,可通过血小板受体 激活腺甘酸环化酶,增加细胞内环磷腺昔水平，影响 磷脂酶活性和细胞内钙浓度，进而降低周围血管阻 力、肺血管阻力及动脉压,使心率、心输出量及肾血 流量增加，其增加细胞内环磷腺昔的作用是前列环 素的10倍”⑵。本研究发现术后即刻至24 h所有 患者均表现肺血管阻力轻度到中度升高、特别是术 前无肺血管阻力升高组的患者;术前肺血管阻力严 重升高组的患者,术后肺血管阻力较术前明显降低， 但各时间点均表现为轻到中度的高肺血管阻力，表 明术前严重肺血管阻力升高的患者多数为可逆性， 以动力性成份为主,对肺血管扩张剂的综合治疗反 应良好。有文献报道⑹，心脏移植前肺动脉高压的 患者移植后两周左右肺动脉压升高的动力性成份明 显降低。Delgado等⑴对112例同种原位心脏移植 患者回顾性研究发现，心脏移植后肺循环的血流动 力学状态主要依赖于移植前肺动脉压的水平，移植 前肺动脉高压的患者心脏移植后1年左右肺动脉压 逐渐降低。
+■ 2622 •
+中华医学杂志 2007 年 10 月 9 I [第 87 卷第 37 期 Natl Med J China, October 9 ,2007, Vol 87, No. 37
+科医师常规进行超声心动检查，除HI组2例患者术 后第1、3、7 d超声显示三尖瓣中量返流，术后1个 月复查为少到中量返流外，其余所有患者均未发现 明显的心脏扩大、心肌功能受损等异常情况。6例 急性右心衰竭的患者，超声检查左室射血分数均在 45% ~65%之间，其术后早期的肺血管阻力均在 3 ~5 Wood单位之间，经积极的强心、扩血管等治疗 措施恢复良好。
+本研究供体与受者ABO血型相同，体重为受体 体重的80% ~ 120%范围内，常规检测受体淋巴细 胞群体反应抗体（PRA）和淋巴细胞毒交叉反应，检 测供体、受体人类白细胞抗原（HLA）分型。供体心 脏的保护是心脏移植成功的关键，供体心脏缺血时 间的增加会导致术后炎症反应程度的增加，增加机 体排异反应的发生，进而导致术后早期供心衰竭。 本研究所有供体心脏均采用HTK液保护，均为一次 灌注,4七冰箱保存,术中不再另行灌注;3组患者的 供心缺血时间无明显差别,术后各时间点心指数、超 声检查等指标表明供心功能恢复良好，初步的结果 显示HTK保护液的心肌细胞保护效果良好。
+同种原位心脏移植手术是治疗终末期心脏病患 者的有效手段之一;供体心脏的保护、围手术期特别 是术中及术后早期右心功能的维护、抗感染及排异 反应的监测等是保证手术成功的关键。
+参考文献
+[1 ] Delgado JF, Gomez-Sanchez MA, Calzacki CS, et al. Impact of mild pulmonary hypertension on mortality and pulmonary artery pressure profile alter heart transplantation. J Heart Lung Transplant, 2001,20 ： 942-948.
+[2] Klotz S, Deng MC, Hanafy D, et al. Reversible pulmonary
+hypertension in heart transplant candidates-pretransplant evaluation and outcome after orthotopic heart transplantation. Eur J Heart Fail. 2003, 5： 645-653.
+[3J Hertz Ml, Mohacsi PJ, Taylor DO, et al. The registry of the international society for beart and lung transplantation ： introduction to the twentieth annual report- 2003. J Heart Lung Transplant, 2003 , 22 ： 610-671.
+[4] Taylor DO, Edwards LB, Boucek MM, et al. Registiy of the Inteniational Society for Heart and Lung Transplantation ： twenty-second official adult heart transplant report-2005. J Heart Lung Transplant, 2005, 24 ； 945-955.
+[5] Costared-Hackle A, Schroeder JS, Folwer MB. The influence of preoperative pat沁nt characteristics on early and late survival following cardiac transplantation. Circulation, 1991,84 ( Suppl 3) ：329-337.
+[6 ] Chang P, Longenecker JC, Wang NY, et al. Mild vs severe pnlmonar}' hypertension before heart transplantation ： different effects on posttransplantation pulmonary hypertension and mortality. J Heart Lung Transplant, 2005, 24 ： 998-1006.
+[7 ] Braun S, Schrotter H, Schmeisser A, et al. Evaluation of pulmonaiy vascular response to inhaled iloprost in heart transplant candidates with pulmonary venous hypertension. International J Cardiol. 2007, 31： 67-72.
+[8] Peter-Villa F, Cuppoletti A, Rosse] V, et al. Initial experience with bosentan therapy in patients considered ineligible for heart transplantation because of severe pulmonary hypertension. Clin Transplant 2006, 20 ： 239-244.
+[9 ] Mahajian A, Shabanie A, Varshney SM, et aL Inhaled nitric in the preoperative evaluation of pulmonary hypertension in heart transplant candidates. J Carcliothorac Vase Anesth. 2007, 21 ： 5156.
+[10] Scheldt W, Costard-jaeckle A, Stempfle HU, et al. Prostaglandin El test in heart failure-associated pulmonary hypertension enables transplantation ： the PROPHET study. J Heart Lung Transplant. 2006, 25： 10704076.
+[11 J Angela R, Thomas P, Johannes K, et al. Inhaled nitric oxide reduces pulmonary vascular resistance more than prostaglandin El during heart transplantation. Anesth Analg, 2000, 90： 523-530.
+[12] Hai RM, Cliinco JE, Mazer CD. Treatment of pulmonary hypertension with selective pulmonary vasodilators. Cun Opin Anaesth, 2006, 19： 88-95.
+(收稿 H 期:20073-20)
+(本文编辑：高健)
+第十一次中华医学会糖尿病分会全国学术会议征文通知
+由中华医学会和中华医学会糖尿病分会主办的第十一 次中华医学会糖尿病分会全国学术会议将于2007年11月 15-18 日在浙江杭州举行。会议将安排专题知识更新讲座 和专题学术交流，专题知识更新讲座将就糖尿病的热点、难 点专题、最新进展等邀请国内外知名专家进行全面深入的探 诗，专题学术交流将就国内外糖尿病的科研成果、临床诊疔 进展等进行交流。预计今年将有超过2000人参加。会议鼓 励从事糖尿病科学研究、临床治疗、护理、预防等相关领域的 工作者参加，参会人员不仅能够从高质量的知识更新讲座与 学术交流中获益，还可以获得国家1类继续教育学分8分。
+中华医学会糖尿病分会邀请从事糖尿病基础和临床研 究、临床诊疗、临床营养、预防、护理、药物研发等领域的专业 工作者踊跃投稿，要求如下：（1）尚未在国内外刊物上发表 的或尚未在其他同类学术会议上宣读的科研成果。（2）以 论文摘要的形式投稿，字数限制在800字以内，摘要按题目、 作者、单位、邮编、口的、材料与方法、结果和结论的格式书 写。要求内容科学性强、重点突出、数据可靠、结论恰当、文 字通顺精炼。联系方式：会议的专门网站为http：//WWW. ehinamed. com. en/cds2007 ,会议的所有最新进展和重要信息 都通过网站公布。请登录网站，了解会议进展。

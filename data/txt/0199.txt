@@ -1,0 +1,171 @@
+﻿医药导报$&$&年!&月第%"卷第!&期
+!!’!%!
+!用药指南!
+他克莫司血药浓度及相关基因多态性与心脏移植术后
+新发糖尿病的相关性P
+张敏!，$，蔡杰%，张菁%，袁拥华$，韩勇!，周红!
+（1.华中科技大学同济医学院附属协和医院药剂科，武汉430022；2.重庆医科大学附属儿童医院药学部,儿童发 育疾病研究教育部重点实验室，国家儿童健康与疾病临床医学研究中心，儿童发育重大疾病国家国际科技合作基 地，儿科学重庆市重点实验室，重庆4&&&14; 3A华中科技大学同济医学院附属协和医院心血管外科，武汉 43&&22）
+摘要目的探讨他克莫司血药浓度及相关基因多态性与心脏移植术后新发糖尿病（NLDAT）的相关性％方法 拟纳入移植术前无糖尿病的心脏移植受者％收集患者资料并检测rs2237895、rs5215、rs2276706和rs8450四个单核苷 酸多态性（SNPs）位点％根据美国糖尿病协会（ADA）诊断标准判断KLDAT%采用多元logistic回归分析他克莫司血药浓 度对KLDAT的影响，并建立KLDAT风险预测模型％结果 共纳入101例心脏移植受者，其中KLDAT 31例（30.7%） & KLDAT组他克莫司剂量校正浓度（C0/ ；）显著高于非KLDAT组（139.3比96.0, = = 0.025） &他克莫司！0/ ； # 110 ig ! c］;1/ （eg ! kg;1 ! =；1） LM = 4.52, 95% CQ （1.63, 12.53），== 0.004］、年龄 # 45 岁 LM = 4.99, 95% CQ （1.65, 15.10）,= = 0.005］和体质量指数（GHJ） #25 kg ・（ c2）；1 LM =3.70,95% CQ（1.38,9.93）, = = 0.009］是 KLDAT 的独立危险 因素。在KLDAT风险预测模型中加入他克莫司C0/；#110 ng ! c］;1/ （cg • kg;1 • =；1）使风险预测模型的AURLC提高 到0.7## （=a 0. 001） &结论 他克莫司 C0 /;［# 110 Ig ! c］;1/（ cg ! kg;1 ! =;1 ）］年龄（ # 45 岁） 和 GHJ #25 kg • （c2）;1］是KLDAT发生的独立危险因素％基于以上危险因素建立的KLDAT风险预测模型具有较好的预测 效能，可便捷地初步筛选出心脏移植术后KLDAT的高危人群，以便及时干预,预防KLDAT的发生％
+关键词他克莫司；血药浓度;心脏移植;移植术后新发糖尿病
+中图分类号9979.5； 9617	文献标识码A	文章编号1004-0781 （2020）10-1413-06	鸳第岑:修
+!"# 10.3870/j.issn.10044781.2020.10.018	开放科学（资源服务）标识码（O$#D）	二足
+Associations of Tacrolimus Trough Concentrations and Genetic Polymor,hisms with New "(/5- !’*B5-5/ *0-51 Q5*1- :1*(/,&*(-*-’.(
+ZWANG Min1，，CAI Jie3，ZWANG Jing3，YUAN Yonghua1，WAN hong1，ZHOU Wong1 ( 1. Department *f =0&->&%.，D$#*$ ?*+(#)&"，B*$76# C1/#%&" C*""171，?4&H0*$7 D$#A1-+#). *, F%#1$%1 &$/ B1%0$*"*7.，840&$ 430022，C0#$&; 2E ;ep&rtme$t *, =0&rm&%.，C#$#+tr. *, 2/4%&t#*$ Ie. <&@*r&t*r. *, C0#"/ ;eAe"*pme$t &$/ ;#+*r/er+，U&t#*$&" C"#$#%&" Me+e&r%0 Ce$ter ,*r C0#"/ ?e&"t0 &$/ ;#+*r/er+，C0#$& Q$ter$&t#*$&" F%#e$%e &$/ Be%0$*"*7. C**per&t#*$ 5&+e *, C0#"/ ;eAe"*pme$t &$/ Cr#t#%&" ;#+*r/er+，C0#"/re$ )+ ?*+p#t&" *, C0*$7P#$7 Ce/#%&" D$#Aer+#t.，C0*$7P#$7 Ie. <&@*r&t*r. *, =e/#&tr#%+，C0*$7P#$7 400014，C0#$& ; 3E ;ep&rtme$t *, C&r/#*A&+%4"&r F4r7er.，D$#*$ ?*+p#t&"，B*$76# Ce/#%&" C*""e7e，?4&H0*$7 D$#Aer+#t. *, F%#e$%e &$/ Be%0$*"*7.，840&$ 430022，C0#$&)
+A9$T;A%T "BRectiGe To inYeStigate the aSSo-iationS >etFeen ta-ro,icuS trough -on-entrationS an= geneti-4o,<cor4hiScS an= neF onSet =ia>eteS aUter tranS4,antation ( KLDAT ) acong heart re-i4ientS. Jethods Weart re-i4ientS Fithout =ia>eteS >eUore tranS4,antation Fere e,igi>,e Uor the 4reSent Stu=<. C,ini-a, =ata Fere -o,,e-te= an= Uour Sing,e nu-,eoti=e 4o,<cor4hiScS ( 3KPS) oU rS2237895，rS5215，rS2276706 an= rS8450 Fere genot<4e=. KLDAT FaS =iagnoSe= a--or=ing to the -riteria oU the Aceri-an Dia>eteS ASSo-iation ( ADA ) . The eUUe-t oU ta-ro,icuS trough -on-entrationS on KLDAT Fere ana,<?e= uSing cu,tiYariate ,ogiSti- regreSSion an= KLDAT riSk 4re=i-tiYe co=e,S Fere >ui,t. ;esu&ts A tota, oU 101 heart re-i4ientS Fere -onSe-utiYe,< enro,,e=，31 ( 30.7%) Fere =iagnoSe= Fith KLDAT.The =oSe.a=juSte= ta-ro,icuS trough -on-entration( C0 /;) FaS SigniUi-ant,< higher in the KLDAT grou4 than the non.KLDAT grou4 ( ce=ian C0 /; 139.3 YS. 96.0，= = 0. 025) . Ta-ro,icuS C0 /;#110 ng!c];1 /( cg!kg;1 !=;1) [LM =4.52，95ZCQ ( 1.63，12.53)，==0.004]，age#45 <earS[LM =4.99，95ZCQ ( 1.65，15.10)，==0.005]an= GMJ#25 kg)( c2) ;1[LM = 3.70，95ZCQ( 1.38，9.93)，==0.009] Fere riSk Ua-torS oU KLDAT.
+《The ar2a un=2rtID。re-eiYer o4erating -hara-teriSti- -urYe(,AU9LC) J 出2 co=el in 4re=i-ting the KLDAT risk in-reaSe= to ： 0.788 (=a0.001) when tacrolicus Co /D # 110 ng • c] / (cg • kg ' • d ) was added into predictive model. Conclusion
+!!’!’!
+W2T*,= BU H2=0-0I2 bB,A%" KBA!& L-1B>2T $&$&
+O*-TB,0CVS !& E; [#!!& IX ! C];! E ( CX ! /X;! ! =;! ) ]， *X2 ( #’( <2*TS) *I= GHJ[# $( /X ) ( C$ ) ;!] F2T2 0I=242I=2I1 T0S/ U*-1BTS BU KLM7OA OD2 CB=2, >V0,1 F01D 1D2S2 T0S/ U*-1BTS SDBF2= * XBB= *>0,01< 0I 4T2=0-10IX 1D2 T0S/ BU KLM7OA HBT2BY2T，1D2 CB=2, -BV,= 2*S0,< 0=2I10U< 1D2 D0XD.T0S/ T2-0402I1S BU KLM7O *U12T D2*T1 1T*IS4,*I1*10BI，FD0-D FBV,= *,,BF CBT2 10C2,< 4T2Y2I10Y2 0I12TY2I10BIS 1B >2 C*=2A
+<6= >";!$ O*-TB,0CVS; OTBVXD -BI-2I1T*10BIS; W2*T1 1T*IS4,*I1*10BI; K2F BIS21 =0*>212S *U12T 1T*IS4,*I1*10BI
+移植术后新发糖尿病( new onSet diabeteS after transplantation, NLDAO)是指患者移植前无糖尿病，移 植术后发生的糖尿病,是器官移植术后常见的并发 症[1]%国际心肺移植学会( international so-iet< of Deart and lung transplantation, ISHLO)报告显示，心脏移植术 后1 年内 NLD7O 发病率为23.0%,5 年上升至 37% 02 % NLDAO不仅可导致移植排斥反应、移植物功 能减退或丧失,同时也与移植术后的严重感染和早期 心血管并发症的发生相关,最终影响患者的长期生存, 而且是移植术后的独立致死因素01.3 % NLDAO与性 别、年龄、体质量指数( bod< mass indeZ,BMJ) &丙肝感 染、糖尿病家族史、低镁血症和基因易感性等因素相 关13.5 %移植术后免疫抑制剂的使用也与NLDAO的 发生密切相关%目前,器官移植术后常用&钙调磷酸 酶抑制剂(calcineurininhibitors, CNJs,主要是环孢素和 他克莫司)+霉酚酸制剂(mycophenolic acid, MPA) +糖 皮质激素(glucocorticosteroids, GCs) #的三联免疫抑制 治疗方案,其中，MPA对血糖几乎无影响，移植术后由 于大剂量GCs引起的短暂血糖升高可随着GCs剂量 的递减恢复至正常水平06 %因此，CNJs成为三联免疫 治疗方案中引起NLDAO的主要药物％由于环孢素肝 肾毒性大,目前临床主要采用他克莫司进行治疗%然 而，他克莫司浓度与NLDAO的关系至今仍不明确％ 因此,笔者在本研究探究他克莫司血药浓度与心脏移 植术后NLDAO的关系，旨在为降低他克莫司相关 NLDAO发生风险提供参考％ ? 资料与方法
+?.? 研究对象 连续纳入2016年6月1日(2018年 10月31日于华中科技大学同济医学院附属协和医院
+$&!";&:;&% 修回日期 $&!";!&;!%
+P国家自然科学基金资助项目(8170353&)
+张敏( !""%;)，女，重庆人，在读硕士，研究方
+学% L9)JM: &&&&.&&&3.$5!".3(!l，8.C*0,:
+收稿日期
+基金项目 作者简介
+向: 临 床 药
+18883368312@ 163.-om%
+通信作者 韩勇( 1978-),男,山东日照人,主任药师,硕
+士，研究方向：药物精准治疗。 LRCID：&&&&-&0&3-0708-5329,电
+话: 027- 85726983,E.mail: ZDDan<onx@ Do1mail. -om%
+通信作者 周红( 1989-),女,四川西昌人,主管药师,硕
+士研究方向.治疗药物监测％ LRCID：O。。。.®。3』。72-2652,电 话：&27-853517。3, E-mail：whzh_?hou@ hust.edu.cn%
+接受心脏移植手术的患者%纳入标准: #年龄# !# 岁; $接受首次心脏移植手术; %门诊随访时间# !$ 个月; &自愿参与本次研究的患者%排除标准: #心脏 移植术前有糖尿病史，降糖药用药史，空腹血糖# 7.0 mmol ! ];!，血红蛋白(71-) # 6.5%患者；②接受 联合移植的患者，如心肝联合移植，心肺联合移植等% 本研究已获得华中科技大学同济医学院伦理委员会批 准，患者签署知情同意书%
+?.@ 资料收集 人口统计学资料和临床资料通过查阅 电子病历收集%详细记录患者的以下信息:性别"年龄" BMJ、移植术前诊断、血压、血脂、吸烟史、低镁血症血清 镁离子(Mx$f)水平<0.74 mmol ! ]；1] 7、合并他汀类药 物、总胆红素、血清肌酐、他克莫司剂量和浓度、血糖和降 糖方案。肌酐清除率的计算采用Co-k-roft_Gault公式:肌 酐清除率q (140-年龄)X体质量X0.85 (女性)w(72x血清 肌酐) [#]%本实验他克莫司浓度为达治疗窗时的浓度，并 计算剂量校正浓度( 1D2 =oS2.a=+VS12= 1a-rol0mVS 1roVXD -oi-2i1ral0oi, !0E；)以排除给药剂量、患者体质量等因素 对血药浓度影响通& % !。/；q血药谷浓度/(剂量•体质 量;1) [( IX!m];1) E( mX! /X;1 ! =;1) ]$
+?.A 免疫抑制方案 所有移植受者均接受三联免疫抑 制治疗，包括他克莫司、吗替麦考酚酯和GCs%他克莫 司(商品名:普乐可复，日本安斯泰来制药有限公司，进 口药品注册证号:W20090692,规格:每粒0.5,1 mg),起 始剂量按0.06~0.08 mg • /x-1 • d-1 (每间隔12 D给药1 次)给药,根据血药浓度监测结果进行剂量调整%吗替 麦考酚酯(商品名:骁悉,上海罗氏制药有限公司,进口 药品注册证号:W20040552,规格:每粒0.25 g),按每次 1 x，q12h,初始剂量给药，根据患者耐受性和移植排斥 反应发生情况进行剂量调整%醋酸泼尼松(武汉远大制 药集团有限公司，批准文号：国药准字W42021886,规 格:每片5 mg),按1 mg • /x-1 • d-1(bid)的起始剂量给 药,随后逐渐减量，维持剂量为10 mx • d-1 %
+医药导报$&$&年!&月第%"卷第!&期
+!!’!(!
+( S0IX,2 IV-,2B10=2 4B,<CBT4D0SCS，3KQS ) 位点[’，!&]: ts2237895、ts52!5、ts2275705 和 ts845&% 3NPs 采用飞 行质谱法进行基因分型(北京六合华大基因科技有限 公司) $所有样品一式三份进行分析，并包括阴性和 阳性对照以确保结果的真实性%
+?AM 诊断标准及随访 根据美国糖尿病协会 ( 7C2T0-*I M0*>212S 7SSB-0*10BI，7M7 ) 的诊断标准， NLDAT定义为移植术后(#!个月)出现以下一种或 多种情况:①至少2次空腹血糖#7.0 mmol ! ];1 ；②至 少2次随机血糖# !!.! mmol ! ];1;③正在接受饮食控 制或降糖药物治疗”" %诊断NLD7O应在移植术后至 少!个月，以排除因移植术早期病情不稳定、大剂量使 用GCs以及感染等引起的短暂性高血糖口 %
+1.6统计学方法 采用3P33 19.0版统计软件进行数 据统计分析。符合正态分布的计量资料以均数m标准 差表示，两组间均数比较使用成组设计资料的)检验; 不符合正态分布的计量资料以中位数(四分位数间 距)表示，两组间比较使用Wilcoxon秩和检验％计数 资料以频数或百分比表示，采用"2检验进行两组间比 较％用X$分析进行Wardy.Weinberx平衡检验％所有因 素先进行单因素分析，为避免重要变量的遗漏，将单因 素分析中=<0.20的协变量纳入多因素loxistic回归分 析,逐步向前回归分析与NLD7O的独立危险因素，并 估算各相关因素的LM值及其95%置信区间(!Q)$绘 制9L)曲线并计算9L)曲线下面积( aTea VI=eT 9L) cVTYe， AURLC)以评价NLD7O预测模型的效能％所 有检验双侧=值,=<&.&5表示差异有统计学意义。
+@ 结果
+@.? 患者一般情况 本研究共纳入心脏移植受者!&!
+例，其中 NLD7O 3! 例( 3&. 7%) $随访中位时间 455 =，四分位数间距( 95，785) =，NLD7O 3个月，5个 月和!年发病率分别为24.8%，25.7%和29.7% %患者 基本资料见表!, NLD7O组患者年龄()=-2.47,== 0.&15)和 GHJ () = - 2A 09, = = &. 043)显著高于非 NLD7O组％其余各项指标组间比较差异无统计学意 义( =‘0.05) $
+2.2他克莫司血药浓度与NLD7O的关系 结果见图 !% NLD7O组他克莫司！&/；显著高于非NLD7O组 (中位浓度 139.3 和 96.0,= = 0.025, Wilcoxon 8 检验 统计量= !898.0) $
+2.A基因型与NLD7O的关系 基因位点、最小等位基 因频率( minor allele frequency, MAF)和 War=y-Weinberx 平衡检验结果表2%四个位点的基因型分布均符合 War=y-WeinberX平衡定律(=>0.05)$本次研究人群的 四个3NPs位点的M7F与已报道的东亚人群的M7F相 近％在研究的4个3NPs位点中，仅N91J2 ts2275705基 因型与NLD7O相关，携带G等位基因的患者发生 NLD7O的比例显著高于携带7等位基因患者(37.1% 和15.1%,"2 =4.45,==0.038),结果见表3%
+2.L NLD7O的影响因素及风险预测模型为进一步 考察NLD7O的影响因素，本研究先对所有因素进行 单因素分析，再对=<0.20的因素进行多因素loxistic 回归分析%单因素分析结果显示移植时年龄#45岁、 GMJ #25 /x ) (m$) 1、高血压、高脂血症、他克莫司
+!0/；# 110 nx ! m]-1/ (mx ! /x-1 ! =-1)]和 N91J2 基因型的=<0.20%将以上变量纳入多因素loxistic回 归模型,结果显示他克莫司!0/; # 110 nx ! m];1 / ( mx!/x;1 !=;1) [LM =4.52,95Z!Q ( 1.53,12.53),==
+表? 两组患者基本资料比较
+Tab.1 Comparison of baseline data between -wo groups of patients	3m+
+组别	例数	男性 例%	移植时年龄/ 岁	GMJ/ [/x)( m2 ) ;1]	移植前诊断				高血压
+					扩张型心肌病		缺血性心肌病	其他	例%
+					例	%	例%	例%	
+nodao 组	31	25	80.5	49.8m10.2	24.8m5.0	20	54.5	4	12.9	7	22.5	8	25.8
+非nodao组	70	54	77.1	43.8m13.5	22.5m3.5	44	52.9	11	15.7	13	18.5	8	11.4
+)/"2		0.15	;2.47	;2.09			;2.85		3.33
+=		0.798	0.015	0.043			0.723		0.082
+组别	高脂血症		吸烟史	低镁血症	合并他汀类药物		总胆红素/( )mol!];1)		肌酐清除率/ ( m]!min;1 )	
+	例	%	例%	例%	例	%	中位数	四分位数	中位数	四分位数
+nodao组	11	35.5	15	48.4	22	71.0	20	54.5	13.5	10.7 [ 23.7	78.0	57.0 [ 100.3
+非nodao组	14	20.0	29	41.4	51	72.9	45	55.7	15.2	10.8 [ 22.4	71.1	57.5 [ 98.2
+)/"2		2.77	0.42	0.04	3.33		;0.22		;0.28
+(C)=	"S3	0524	L0。0	LO®	0.940								http://www &、42% et	
+!!’!5!
+W2T*,= BU H2=0-0I2 bB,A%" KBA!& L-1B>2T $&$&
+&.&04］、年龄#45 岁 LM = 4.99,95%CQ(L65,5a!&), == &.&05］和 BMJ#25 /x)(c$)；1 LM = 3a70,95%CQ(1.38, 9a9%), = = &.&&9］是NLDAT的独立危险因素(表4)$基 于以上危险因素构建出2个NLDAT的临床预测模型, 并绘制出临床预测模型的9L)曲线(图2)$风险预测 模型!纳入移植时年龄#45岁和BMJ#25 kg)(c2)；1 两种危险因素,AURLC为0.738(=<&.&&1)；风险预测模 型2在风险预测模型1的基础上纳入他克莫司!& E; # 110 Ix ! mL；1/( eg ! kg;1 ! =；1), AURLC 提高到 0.788 ( =a&.&&1) $
+2、(LB •bouwa/sK辄周坦
+图1他克莫司血药浓度与N"!+：的关系
+Fig.? The correlation between -he -rough)o()e(-ia-io( .0 -*)1.&’D8/ *(3 N"!+:
+表2 $NI/位点的分布
+:ab.2 :he 3i/-rib8-ion o0 $NI/ geno-2,e/
+基因	3NQ	突变位点	=值 ( Wg8)	MA6
+_)Np1	TS2237895	A>),T	0.842	0.302
+_)NN11	TS5215	)>T	0.323	0.376
+N91J2	TS2276706	G>A	0.117	0.238
+)9T)2	TS8450	G>A	0.154	0.243
+基因	野生型	基因型 杂合型	突变型	MA6 (东亚)
+_)Np1	50	41	10	0.330
+_)NN11	17	42	42	0.338
+N91J2	46	24	31	0.205
+)9T)2	61	31	9	0.285
+A 讨论
+他克莫司血药浓度与NLDAT的关系尚存争议，本 文探究他克莫司血药浓度与心脏移植术后NLD7O的
+表A L个SNPs位点与NODAT的关系
+:ab.A :he )orre&a-ion be-ween N"!+: an3 L $NI/
+基因	基因型	NLDAT组 ( $=31)	非NLDAT组 ( $ = 70)	=值
+_)Np1	))	2( 20.0)	8( 80.0)	0.720
+	AA+A)	29( 31.9)	62( 68.1)	
+_)NN11	TT	13( 31.0)	29( 69.0)	1.000
+	))+)T	18( 30.5)	41( 69.5)	
+N91J2	AA	5( 16.1)	26( 83.9)	0.038
+	GG+GA	26( 37.1)	44( 62.9)	
+)9T)2	AA	4( 44.4)	5( 55.5)	0.451
+	GG+GA	27( 29.3)	65( 70.6)	
+表L N"!+：的独立危险因素
+:*BC L #35(-’0’)*-’.( .0 ’(35,5(35(- 1’/[ 0*)-.1/ .0
+N"!+:
+变量	单因素 =值	多因素	
+		LM ( 95%!Q)	=值
+移植时年龄#45岁	0.005	4.99( 1.65,15.10)	0.004
+BMJ#25 kx)( C2);1	0.027	3.70( 1.38,9.93)	0.009
+高血压	0.082		
+高脂血症	0.133		
+他克莫司!0/;#110 Ix!CL;1 /	0.005	4.52( 1.63,12.53)	0.004
+( Cx!kx;1!=;1)			
+N91I2GG+GA	0.038		
+
+图2 N"!+：风险预测模型的；"%曲线
+F’EC @	;5)5’G51 .,51*-’(E )4*1*)-51’/-’) )81G5 0.1 -45
+D.35& -. ,153’)- N"!+: 1’/[
+目前，很多研究关注用于判断NLD7O发生风险的他克 莫司血药浓度值，但尚未得出一致结论% D)73O8D7］ 等［!$］研究发现他克莫司的致糖尿病作用是剂量依赖
+关系，结果显示NLDAT患者他克莫司浓度显著高于非血性的,浓度高于!& IX ! C］;何增加糖尿病的风险。而 NLD7O患者，这与国内外的相关研究结果一致皿三% 另一项研究发现浓度>!5 Ix・mL；!是新发糖尿病的危
+医药导报$&$&年!&月第%"卷第!&期
+!!’!:!
+险因素U5 %本文使用他克莫司！&/；排除给药剂量、 患者体质量等因素对浓度的影响，首次报道他克莫司 !& /; # !!& IX ! C];! 42T CX ! /X;! ! =;!可显著增加 NLDAT发生的风险。
+除了他克莫司血药浓度，本文还发现NLD7O的其 他危险因素有患者的年龄( # ’( 岁) 和 GHJ #25 /x)(c$)；!! $ _JH等同对391例心脏移植受者 的研究也表明年龄＞45岁可增加NLD7O发生的风险% 3W7W等口:研究发现，从21岁开始，移植受者的年龄每 增加10岁,NLDAT的风险增加29\% NLD7O的风险随 着年龄增长而增加，可能与年龄增长导致胰岛*细胞的 功能逐渐减退相关口4，# % GHJ#25 /x)(c$)；1是心脏 移植术后NLD7O发生的另一个危险因素，这与国外相 关研究结果一致[2]%同时，已经有研究证实包括控制体 质量在内的生活方式干预能够有效治疗NLDAT119 %高 GHJ导致NLDAT的机制可能与肥胖导致2型糖尿病的 机制类似[20 %值得注意的是，本文进一步评估他克莫司 血药浓度对NLDAT的风险预测能力，结果发现,他克莫 司!0 /;[#110 Ix ! C];1 /( Cx ! /x;1 ! =;1) 可显著改 善NLDAT风险预测模型的预测效能。
+N91J2基因型在单因素分析中与NLDAT相关，但 多因素loxistic回归分析结果未得出一致结论。 N91J2 编码的PXR是调节他克莫司代谢酶(如CYP3A4和 CYP3A5)表达的关键转录因子021 ,其可能通过影响他 克莫司血药浓度而在单因素分析结果中表现为与 NLDAT相关。 KCNQ1和KCNJ11均为2型糖尿病的 易感基因，两者也被发现与NLDAT相关"23 % CRTC2 调节糖代谢并且与肾移植术后NLDAT的发生相 关024 %然而，本研究结果显示 _)NQ1Ts223:#95、 KCNJ11rs5215和CRTC2rs8450位点的基因多态性与 心脏移植术后NLDAT无关，可能的原因是样本量较 小，因此，未来需要更大样本的研究进一步探讨基因多 态性与NLDAT的关系％
+综上所述，他克莫司 !0/;0# 110 Ix ! C];1 / ( Cx! /x;1 !=;1 ) &年 龄 ( # 45 岁) 和 GHJ #25 /x)(c2)；1]是心脏移植术后发生NLDAT的独立 危险因素％基于以上危险因素建立的NLDAT风险预测 模型具有较好的预测能力%该模型中3个危险因素均为 易收集的临床资料,可便捷初步筛选出NLDAT高危人群, 以便及时干预%本研究样本量小，需要开展更大样本的研 究验证当前结果%在未来，需开展前瞻性、大样本、多中心 的研究以探讨更多与NLDAT相关的因素％
+C2,,itVs iI 4*ti2Its FitD sB,i= Brx*I tr*Is4,*Its0J A N*t 92Y 8I=B-riIB,，2019，15( 3) : 1:2;188A
+2 CEHI) H G, NUNDALL N, GREENFIELD J 9 et	aL
+H*I*x2C2It str*t2xi2s UBr 4Bsttr*Is4,*It =i*>2t2s C2,,itVs aUt2r D2art traIs4,aItatiBI: a r2Yi2F0J A J TraIs4,aIt,2018, 2018: 1025893A
+03	_IH W J,JUNG 3 W,_IH J J,2t a,A N2F.BIs2t =ia>2t2s
+C2,,itVs aUt2r D2art traIs4,aItatiBI.iI-i=2I-2,ris/ Ua-tBrs aI= iC4a-t BI -,iIi-a, BVt-BC20J A )ir- J,201:,81 ( 5 ) : 805; 814A
+’ 张敏,韩勇，袁拥华,等.移植术后新发糖尿病的研究进展 J A中华器官移植杂志,2019,40(8):504；507A
+(	赵慧佳,李玲，陈彬尧,等.移植术后糖尿病的发病因素分
+析J].中华器官移植杂志,2018, 39(3)：187-191A
+05] )WA__E9A W A,_NLgLE9 g ),DEbA9APALLI Y,2t a,A 92,atiBIsDi4 >2tF22I iI4ati2It D<42rx,<-2Cia aI= iIsV,iI tr2atC2It aUt2r /i=I2< traIs4,aItatiBI aI= UVtVr2 I2F BIs2t =ia>2t2s C2,,itVs0J]A ),iI J AC 3B- N24DrB,,2010,5 ( 9) : 1559;1575A
+07] WUANG J g,FAHU9E L,LI Y,2t a,A W<4BCaxI2s2Cia aI= tD2 ris/ BU I2F.BIs2t =ia>2t2s C2,,itVs aUt2r /i=I2< traIs4,aItatiBI0J]AJ AC 3B- N24DrB,,2015,27 ( 5) : 1793 ; 1800A
+08] )L)_)9LFT D g,GAULT H WAPr2=i-tiBI BU -r2atiIiI2 -,2araI-2 UrBC s2rVC -r2atiIiI20J]A N24DrBI,1975,15( 1) : 31;41A
+09] GIJ3EN b,HITAL 3,bAN 3)WAI_ 9 W,2t a,A Ax2 aI= )YP3A5 x2IBt<42 aUU2-t ta-rB,iCVs =BsiIx r2iVir2C2Its aUt2r traIs4,aIt iI 42=iatri- D2art r2-i4i2Its0J]A J W2art LVIx TraIs4,aIt,2011,30( 12) : 1352; 1359A
+10	周红，张菁，伍三兰，等a)YP3A4/5、PLR基因多态性与中
+国成年心脏移植受者他克莫司血药浓度相关性的研究
+N A中国药学杂志,2017,52(19)：1710-1714A
+11]	3WARIF A,WE)_ING H,DE bRIE3 A P,2t a,APrB-22.
+=iIxs UrBC aI iIt2rIatiBIa, -BIs2IsVs C22tiIx BI 4BsttraIs4,aItatiBI =ia>2t2s C2,,itVs: r2-BCC2I=atiBIs aI= UVtVr2 =ir2-tiBIs0J]AAC J TraIs4,aIt,2014,14 ( 9) : 1992; 2000A
+12]	)A3TEDAL H,3_LGLUND ),AXEL3LN ),2t a,A 3t2rBi=. Ur22 iCCVIBsV44r2ssiBI FitD ,BF.=Bs2 ta-rB,iCVs is saU2 aI= sixIiUi-aIt,< r2=V-2s tD2 iI-i=2I-2 BU I2F.BIs2t =ia>2t2s C2,,itVs UB,,BFiIx ,iY2r traIs4,aItatiBI 0J ]A 3-aI= J GastrB2It2rB,,2018,53( 5) : 741;747A
+13]	RLDRIGL E,PINERA ),)L3 H A D,2t a,A EYB,VtiBI BU ta-rB,iCVs >,BB= ,2Y2,s aI= -BI-2ItratiBI.=Bs2 ratiBs iI 4ati2Its FDB =2Y2,B4 I2F BIs2t =ia>2t2s C2,,itVs aUt2r
+2)1994-2020 China	Journal Electronic Publishing Ho/0se2XlranS4lantation 用 A TraiS41 1* 2005 18(10)・
+1 JENSSEN T, HARTMANN AAPost-transplant	diabetes	1152—1157A
+!!’!#!
+W2T*,= BU H2=0-0I2 bB,A%" KBA!& L-1B>2T $&$&
+!4]	陆萌，李青，翁盼，等.中国人群与年龄相关的重要激素自
+然变化趋势研究Na中华内分泌代谢杂志，2018, 34 ( :) : (((;(5$A
+1(]	仲妍,宋九林,李明，等A低谷浓度他克莫司对活体肝移植
+术后糖尿病发病风险的影响Na四川大学学报(医学 版)，2&!:，4#( 5) : "(3;"(5A
+!5]	H783 G M，_khQ893 M，H833J78K O，21 *,AQBS11T*IS.
+4,*I1*10BI =0*>212S C2,,01VS 0I 6_.(&5.1T2*12= T2I*, 1T*IS4,*I1 T2-0402I1S: *I*,<S0S BU 0I-0=2I-2 *I= T0S/ U*-1BTS [N] AOT*IS4,*I1*10BI，2&&!，:2( !&) : !5((;!55!A
+!：	SHAH O, KAS9AVI 7, HUANG 8, 21 aL Risk U*-1bts Ubt
+=2Y2,B4C2I1 BU I2F.BIS21 =0*>212S C2,,01VS *U12T /0=I2< 1TaIS4,aI1a1iBI[N] A OTaIS4,aI1a1iBI，2&&5，#2 ( !2 ) : !5:3 ; !5:5A
+!#]	]JU h，SHJ S，GU j，21 a,A JC4aiT2= aV1B4DaXi- UVI-1iBI iI
+Ta1 iS,21S Fi1D aXiIX[N] AAX2 ( MBT=T)，2&!3，3(( () : !(3! ; !(44A
+!"]	SHA9J6 A，HLL98 9，GAGLL]A KAJIU,V2I-2 BU ,iU2S1<,2
+CB=iUi-a1iBI iI T2Ia, 1TaIS4,aI1 T2-i4i2I1S Fi1D 4BS14TaI=ia, D<42TX,<-2Cia[N] AOTaIS4,aI1a1iBI，2&&#，#(( 3) : 3(3; 3(#A
+2&]	KAHN S 8，HU]] 9 ]，UOjS)HN8JM89 K HA H2-DaIi.
+SCS ,iIkiIX B>2Si1< 1B iISV,iI T2SiS1aI-2 aI= 1<42 2 =ia>212S [N] ANa1VT2，2&&5，444( :!2!) : #4&; #45A
+2!]	]J N ]，]JU S，6U p，21 a,A JI12Ta-1iY2 2UU2-1S BU )hQ3A4，
+)hQ3A(，HM9! aI= N9!J2 4B,<CBT4DiSCS BI 1Ta-TB,iCVS 1TBVXD -BI-2I1Ta1iBIS iI 2aT,< 4BS1T2Ia, 1TaIS4,aI1 T2-i4i2I1S [N] AQDaTCa-BX2IBCi-S，2&!(，!5( !2) : !3((; !35(A
+22]	OAbJ9A G，)LOL 8，MxAj)L9O8 )，21 a,A K)Np! X2I2
+YaTiaI1S aI= TiSk BU I2F.BIS21 =ia>212S iI 1a-TB,iCVS.1T2a12= T2Ia,.1TaIS4,aI12= 4a1i2I1S [N] A ),iI OTaIS4,aI1，2&!!，2( ( 3) : 2#4;2"!A
+23]	QA9bJjJ j，AjA9QJ9A N，KLHAN ]，21 a,A ASSB-ia1iBI
+>21F22I 823K YaTiaI1 iI K)NN!! X2I2 aI= I2F.BIS21 =ia>212S aU12T ,iY2T 1TaIS4,aI1a1iBI[N] A HB, GiB, 924，2&!4， 4!( ") : 5&53;5&5"A
+24]	pUO8JN8H ]，GL)HUM Q h，GL]SHAhAN M，	21 a,A
+)9O)2 4B,<CBT4DiSC aS a TiSk Ua-1BT UBT 1D2 iI-i=2I-2 BU C21a>B,i- S<I=TBC2 iI 4a1i2I1S Fi1D SB,i= BTXaI 1TaIS4,aI1a1iBI[N] A QDaTCa-BX2IBCi-S N，2&!:，!: ( ! ) : 5" ; :(A
+粒细胞缺乏与非粒细胞缺乏恶性肿瘤及血液病患者 临床分离菌的分布及耐药性特点比较P
+潘祺琦!，梅亚宁2，胡静!，王建3，罗璨!，孟玲!
+(南京医科大学第一附属医院1.药学部;2.检验学部;3.肿瘤科,南京210035)
+摘 要 目的 了解中性粒细胞缺乏(粒缺)与非粒细胞缺乏(非粒缺)恶性肿瘤及血液病患者感染病原菌的分布 及耐药性特点%方法 对2015年:月1日(201:年#月31日于南京医科大学第一附属医院血液科"肿瘤科住院恶性 肿瘤及血液病粒缺与非粒缺患者的临床分离株进行分析，所分离的菌株采用API鉴定系统或bJTEK.2 Compact全自动 细菌鉴定仪进行细菌鉴定，采用bJTEK.2 Compact全自动细菌鉴定仪或纸片扩散法进行药敏试验，用SPSS23.0版软件进 行数据统计%结果 粒缺与非粒缺患者的送检标本分别分离出细菌1(4株和30#株%粒缺与非粒缺患者革兰阴性菌" 革兰阳性菌均分别占79.9%, 19.5% %粒缺患者血液标本分离铜绿假单胞菌所占比例显著高于非粒缺患者(17.0%比 5.6% ,P<0.05),其痰液标本中各菌株检出率与非粒缺患者差异无统计学意义(=>0.05) &粒缺患者耐甲氧西林金黄色葡 萄球菌(H9SA)及耐甲氧西林凝固酶阴性葡萄球菌(H9CNS)检出率与非粒缺患者差异无统计学意义(均=>0.05) &两 组均未检出万古霉素、利奈唑胺耐药的革兰阳性菌％粒缺患者耐碳青霉烯肠杆菌科细菌(C9E)的检出率与非粒缺患者 比较差异无统计学意义(22.7%比10.3% ,P<0.05),而粒缺患者不发酵糖革兰阴性杆菌检出率与非粒缺患者比较差异无 统计学意义( 35.#%比24.#%,=>0.05) &结论 该院粒缺和非粒缺感染患者病原菌的分布和耐药情况与国内外报道不 尽相同,临床应根据本地区、医院病原菌的分布和耐药性特点来选择恰当、有效的经验性抗感染治疗药物%
+关键词 中性粒细胞缺乏;非粒细胞缺乏;感染;病原菌;细菌耐药
+中图分类号 9730; 9959	文献标识码 A 文章编号 1004;07#1( 2020) 10;141#;07
+!"# 10.3#70 E +.iSSI.1004.07#1.2020.10.019	开放科学(资源服务)标识码( "$#!)

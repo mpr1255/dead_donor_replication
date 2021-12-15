@@ -1,0 +1,159 @@
+﻿第11卷 第1期
+2020年1月
+Vol. 11 No. 1
+Jan. 2020
+器官移植
+Organ Transplantation
+•论著•
+公民对脑死亡标准立法态度的现状调查
+李小杉 缪俊艳 胡迪 钱共旬
+【摘要】 目的调查公民对脑死亡的认知及脑死亡标准立法的态度。方法采用方便抽样法选取1 500名 门诊就诊患者或陪同人员为研究对象，进行问卷调查。采用Epidata 3.02软件双人双机录入问卷，采用单因素 和多因素Logistic回归模型分析影响调查对象支持脑死亡立法的因素。结果1 433名有效调查对象中，84.65% (1 213/1 433)听说过脑死亡，其中24.32%(295/1 213)认为脑死亡是合理的死亡判定标准，支持、反对脑 死亡立法的比例分别为49.79% ( 604/1 213)和17.31 %(210/1 213)。男性[比值比(OR)=1.3, 95%可信区 间(CI)1.0~1.6]、文化程度大专或本科以上学历者(OR =1.5, 95% CI 1.1~1.9)、亲友从事过器官捐献工作者 (OR=3.3, 95%CI 1.1~10.3)、参加过器官捐献公益活动者(OR =3.1, 95%CI 1.6~6.0)和认为脑死亡是合理的 死亡判定标准者(OR=2.0，95%C11.5~2.6)更倾向于支持脑死亡立法，是影响脑死亡立法的独立影响因素(均 为P<0.05兀结论 公民对脑死亡的认知程度及对脑死亡标准立法的支持程度均较低，应加强脑死亡的相关宣传， 增强立法民意基础。
+【关键词】	脑死亡；器官捐献；器官移植；脑死亡标准；立法；公民逝世后器官捐献；脑-心双死亡器官捐献；
+心脏死亡器官捐献
+【中图分类号】R617, D901【文献标志码】A【文章编号】1674-7445(2020)01-0014-06
+Investigation of current status of citizen's attitude to legislation of brain death criteria Li Xiaoshan*, Miao Junyan, Hu Di, Qian Gongtao. *Department of Medical Affairs, Organ Donation and Transplant Management Office, Wuxi People's Hospital, Affiliated to Nanjing Medical University, Wuxi 214023, China
+Corresponding author: Qian Gongtao, Email: qiangongtao@sina.com
+【Abstract】 Objective To investigate the citizen's attitude towards the cognition of brain death and the legislation of brain death criteria. Methods A questionnaire survey was performed in 1 500 outpatients or accompanying personnel by the convenient sampling method. The questionnaire data were independently recorded by two professionals using the Epidata 3.02 software. The factors influencing the citizen's support of the legislation of brain death were analyzed by univariate and multivariate Logistic regression models. Results Among 1 433 eligible respondents, 84.65% (1 213/1 433) of them knew brain death, and 24.32% (295/1 213) considered brain death as a reasonable criterion for death. The proportion of respondents who supported and opposed the legislation of brain death was 49.79% (604/1 213) and 17.31% (210/1 213). Male [odds ratio (OR )=1.3, 95% confidence interval (CI) 1.0-1.6], those with junior college degree or above at educational level (OR =1.5, 95% C11.1-1.9), those whose relatives and friends were engaged in organ donation (OR=3.3, 95% C11.1-10.3), those who participated in public welfare activities of organ donation (OR =3.1, 95% CI 1.6-6.0) and those who regarded brain death as a reasonable criterion for death (OR=2.0, 95% CI 1.5-2.6) were more inclined to support the
+DOI: 10.3969/j.issn.1674-7445.2020.01.014
+基金项目：中国人体器官捐献专项研究课题（CODMP2017016）
+作者单位：214023无锡，南京医科大学附属无锡人民医院医务处器官捐献与移植管理办公室（李小杉、钱共匐）；南通大学公共卫 生学院（缪俊艳、胡迪）
+作者简介：李小杉，男，1987年生，博士，助理研究员，研究方向为器官捐献与器官移植质量管理，Email: sclxs87@163.com
+通信作者：钱共匐，男，1983年生，硕士，助理研究员，研究方向为器官捐献与器官移植质量管理，Email: qiangongtao@sina.com
+・88 ・
+器官移植
+第11卷
+legislation of brain death, which were the independent influencing factors of the legislation of brain death (all P <0.05). Conclusions Citizens have relatively low cognition and support of the legislation of brain death criteria. Relevant propaganda on brain death should be widely carried out to strengthen the citizen basis for the legislation.
+【Key words] Brain death; Organ donation; Organ transplantation; Brain death criterion; Legislation; Donation after citizen's death; Donation after brain death followed by cardiac death; Donation after cardiac death
+我国于2015年成功实现了公民逝世后器官捐 献的转型，器官捐献事业取得了巨大成就。截止至 2019年5月5日，我国已累计实现捐献23 574例， 捐献器官67 277个，志愿登记人数达1 257 049人［1］。 为了建立公平、公正、阳光、透明的公民器官捐献与 移植体系，推动我国公民逝世后器官捐献与移植事业 的健康发展，我国全面构建了国家层面的器官捐献与 移植法律框架［2］，同时创造性地提出了具有中国特色 的公民逝世后器官捐献判定标准，即中国一类（C- I, 国际标准化脑死亡器官捐献）、中国二类（C-n, 国际标准化心脏死亡器官捐献）和中国三类（C-出， 中国过渡时期脑-心双死亡器官捐献）［3］。但目前我 国并未对脑死亡标准进行立法确认,因此在公民逝世 后器官捐献过程中存在诸多法律风险,尤其是对工伤、 涉及保险的意外伤害等器官捐献案例,存在较大法律 风险,严重影响了捐献器官的质量和利用效率。此外, 由于未对脑死亡标准立法,目前存在较为严重的过度 医疗现象,造成大量的医疗资源浪费［4］。近年来,诸 多医学专家和法律学者呼吁对脑死亡标准进行立法确 认［5-6］。但目前关于我国普通公民对脑死亡的认知及 对脑死亡立法相关态度的研究鲜见报道［7］。据此,本 研究旨在了解公民对脑死亡的认知及立法的态度,并 探索影响公民支持脑死亡标准立法的因素,为进一步 提升脑死亡标准立法的民意基础提供理论依据。
+1	资料与方法
+1.1	调查对象
+采用方便抽样法于2018年7月对无锡市人民医 院门诊就诊患者或陪同人员进行问卷调查。纳入标 准：（1）年龄N18岁；（2）能自己填写问卷或在 调查员的帮助下能清楚回答问卷条目。所有研究对象 均口头知情同意问卷调查。
+1.2	调查方法及质量控制
+调查在无锡市人民医院器官捐献与移植管理办公 室的统一组织下开展,由来自南通大学大学生暑期社
+会实践的医学生担任调查员。调查前召开专题会议, 并对调查员进行统一培训,明确调查方法和指标解 释。现场调查时由调查员向就诊、候诊的患者或陪同 者分发问卷,并对问卷条目进行详细解释。被调查者 自行匿名现场填写问卷或由调查员辅助填写问卷后审 核、回收,回收问卷时若有缺项及时请调查对象补全。 每位调查员每日完成20份问卷调查,调查共历时 3周。本研究共发放问卷1 500份,最终回收有效问 卷1 443份,有效率为96.2%。
+1.3	调查问卷
+问卷包括2个部分：（1）一般情况,了解被调 查者的性别、年龄、民族、婚姻状况、是否为独生子女、 文化程度、有否宗教信仰、月收入、家庭所在地等；
+（2）脑死亡知晓及脑死亡立法态度,包括亲友是否 从事过器官捐献工作或捐献过器官、亲友是否接受过 器官移植、是否参加过器官捐献公益活动、是否听说 过脑死亡、是否认为脑死亡是合理的死亡判定标准、 是否支持脑死亡标准立法以及支持或反对的原因。
+1.4	统计学方法
+采用Epidata 3.02软件双人双机录入问卷，采用 SPSS 20.0软件进行统计学分析。对于非正态分布的 计量资料,采用中位数（下四分位数,上四分位数） 表示。采用Logistic回归分析法进行单因素分析。采 用逐步Logistic回归模型进行多因素分析。所有检验 均为双侧，P<0.05为差异有统计学意义。
+2	结 果
+2.1	一般情况
+1 433名被调查对象的一般情况如下：性别,男 765名（53.38%）,女668名（46.62%）；中位年龄 29（22,38）岁；民族,汉族1 414名（98.67%）, 少数民族19名（1.33%）；婚姻状况,未婚612名 （42.71%）,已婚788名（54.99%）,其他33名（2.30%）； 是否为独生子女,是718名（50.10%）,否715名 （49.90%）；文化程度,小学以下31名（2.16%）,
+第1期
+李小杉等．公民对脑死亡标准立法态度的现状调查
+•89・
+初中169名（11.79%），高中或中专327名（22.82%）， 大专或本科以上906名（63.22%）；有否宗教信仰， 有255名（17.79%），无1 178名（82.21%）；月收入， <3 000元229名（15.98%），3 000~9 999元982名
+（68.53%）, =s10 000 元 222 名（15.49%）；家庭所 在地，城镇828名（57.78%），农村605名（42.22%）。
+2.2	知晓脑死亡及对脑死亡立法态度情况
+被调查者知晓脑死亡及对脑死亡立法态度如 下：亲友是否从事过器官捐献相关工作,是23名 （1.61%）,否1 410名（98.39%）；亲友是否捐献 过器官,是27名（1.88%）,否1 406名（98.12%）； 亲友是否接受过器官移植,是64名（4.47%）,否 1 369名（95.53%）；是否参加过器官捐献的相关公 益活动,是63名（4.40%）,否1 370名（95.60%）。 是否听说过脑死亡,是1 213名（84.65%）,否220名
+（15.35%）。在1 213名听说过脑死亡的对象中, 295名（24.32%）认为脑死亡是合理的死亡判定标准, 而537名（44.27%）和87名（7.17%）分别认为脑-心 双死亡和心脏死亡是合理的死亡判定标准,另有 294名（24.24%）表示不清楚。
+1 213名听说过脑死亡的对象中,支持脑死亡标 准立法604名（49.79%）,反对210名（17.31%）, 无所谓399名（32.89%）。支持者的理由主要包括：
+（1）脑死亡标准在医学界已被广泛使用,应以法律 进行确认（50.17%）；（2）脑死亡标准立法是实 施脑死亡标准的法律依据（48.18%）；（3）脑死亡 标准有利于医疗卫生资源的合理利用,避免过度医 疗（46.03%）。此外,在支持者中,32.78%认为脑 死亡标准立法可为器官移植开辟广阔前景,29.14% 认为有助于相关法律的准确实施,26.49%认为有助 于我国急救事业的发展,17.71%认为可避免移植科 医师受刑事追诉的风险。反对者的理由以脑死亡判 定操作复杂不易实施（44.76%）、面临伦理道德的 挑战（38.57%）、与传统观念相违背（35.71%）和 对判定脑死亡的医师的职业道德和专业水平不信任
+（33.33%）为主；此外,在反对者中,31.90%认为 脑死亡标准立法与器官捐献具有明显关系,死亡标准 不应以器官捐献为出发点,12.86%认为与风俗习惯 不符合,11.90%认为与宗教信仰的教义相抵触,其 他10.00%。
+2.3	支持脑死亡立法的影响因素分析
+对1 213名听说过脑死亡的对象进行单因素分析
+表明,男性、文化程度大专或本科以上学历、亲友从 事过器官捐献工作、参加过器官捐献公益活动、认为 脑死亡是合理的死亡判定标准是脑死亡标准立法的影 响因素，差异均有统计学意义（均为P<0.05,表1）。 对1 213名听说过脑死亡对象进行多因素Logistic回 归模型分析显示：男性［比值比（odds ratio, OR）= 1.3，95% 可信区间（confidence interval，CI）1.0~1.6］、 文化程度大专或本科以上学历（OR =1.5, 95%CI 1.1〜1.9）、亲友从事过器官捐献工作者（OR=3.3, 95%CI 1.1~10.3）、参加过器官捐献公益活动者 （OR=3.1,95%CI 1.6~6.0）和认为脑死亡是合理的 死亡判定标准者（OR=2.0, 95%CI 1.5〜2.6）更倾向 于支持脑死亡立法,是脑死亡标准立法的独立影响因 素（表2）。
+3	讨 论
+目前我国公民对脑死亡相关知识的认知程度较 低［8］,甚至医学院校的师生及医务工作者所掌握的脑 死亡知识水平也与其职业属性并不相称［9-10］。尽管此 次研究并未让调查对象陈述脑死亡的概念,但仅从 有15.4%的被调查对象从未听说过脑死亡也可反映 出我国公民对脑死亡的认知程度并不高。此外,只有 24.3%的被调查对象赞成使用脑死亡作为死亡判定标 准也表明,我国公民对脑死亡的认可程度并不高。杨 春华等［11］对879例脑死亡患者家属调查发现通过概 念解释后,家属认可脑死亡作为死亡判定标准的比例 由解释前的极低水平（0%）上升至98.6%。这表明提 高公民关于脑死亡相关知识的认知水平,可促进其对 脑死亡作为死亡判定标准的认可。
+脑死亡标准在许多国家已被立法确认（如芬兰、 德国、罗马尼亚、美国、新加坡、印度等）或得到了 法律认可（如比利时、英国、新西兰、南非、奥地利、 韩国、泰国等）［12］。但目前关于我国公民对脑死亡立 法态度的研究还鲜见报道。本次基于普通民众调查显 示,49.8%的被调查对象支持脑死亡立法,表明我国 脑死亡立法的民意基础还有待进一步提高。宋儒亮 等［13］于2005年对医师、药剂师和公务人员进行调查 显示,92%的被调查对象表示有必要进行脑死亡立法。 两次调查的差异可能是由于调查的群体职业代表性不 同所致。医务人员和公务人员一般对医学、法律知识 具有更充分的了解,此次研究也发现文化程度较高的 研究对象更倾向于支持脑死亡立法。需要注意的是,
+・90・
+器官移植
+第11卷
+表 1 在听说过脑死亡的调查对象中影响支持脑死亡立法因素的单因素分析
+Table 1 The univariate analysis of the influence factors of supporting brain death legislation among subjects who heard of brain death [ n (%)]
+变量	n	听说过脑死亡人数 [n (%)]	脑死亡立法支持率 [n (%)]	P值	OR (95% CI)
+年龄	1 213				
+< 30岁		643(53.01)	322(50.08)	0.834	1.0 (0.8~1.3)
+♦ 30岁		570(46.99)	282(49.47)		1.0
+性别	1 213				
+男		650 (53.59)	345 (53.08)	0.014	1.3 (1.1~1.7)
+女		563 (46.41 )	259 (46.00)		1.0
+民族	1 213				
+汉族		1 196 ( 98.60 )	596 (49.83 )	0.820	1.1 (0.4~2.9)
+少数民族		17 (1.4)	8 (47.06)		1.0
+婚姻	1 213				
+未婚		517 (42.62)	263 (50.87)	0.411	1.4 (0.6~3.0)
+已婚		668 (55.07)	329 (49.25 )	0.508	1.3 (0.6~2.8)
+其他		28 (2.31 )	12 (42.86)		1.0
+独生子女	1 213				
+是		623 (51.36)	319 (51.20)	0.313	1.1 (0.9~1.4)
+否		590 (48.64)	285 (48.31 )		1.0
+文化程度	1 213				
+高中或中专以下		398 (32.81 )	170 (42.71 )	0.001	1.0
+大专或本科以上		815 (67.19)	434 (53.25 )		1.5 (1.2~1.9)
+宗教信仰	1 213				
+有		195 ( 16.08)	97 (49.74)	0.988	1.0
+否		1 018 (83.92)	507 (49.80)		1.0 (0.7~1.4)
+月收入	1 213				
+< 5 000 元		486 (40.07)	226 (46.50)	0.061	1.0
+♦ 5 000 元		727 (59.93 )	378 (51.99)		1.2 (1.0~1.6)
+家庭所在地	1 213				
+城镇		749 (61.75 )	384 (51.27)	0.192	1.2 (0.9~1.5)
+农村		464 (38.25 )	220 (47.41 )		1.0
+亲友从事过器官捐献工作	1 213				
+是		20 ( 1.65 )	16 (80.00)	0.012	4.1 (1.4~12.4)
+否		1 193 (98.35 )	588 (49.29)		1.0
+亲友捐献过器官	1 213				
+是		23 ( 1.90)	13 (56.52)	0.516	1.3 (0.6~3.0)
+否		1 190 (98.10)	591 (49.66)		1.0
+亲人接受过器官移植	1 213				
+是		57 (4.70)	28 (49.12)	0.917	1.0
+否		1 156 (95.30)	576 (49.83 )		1.0 (0.6~1.8)
+参加过器官捐献公益活动	1 213				
+是		54 (4.45 )	41 (75.93 )	<0.001	3.3 (1.8~6.3)
+否		1 159 ( 95.55 )	563 (48.58)		1.0
+认为脑死亡是合理的死亡判定标准	1 213				
+是		295 (24.32)	185 (62.71 )	<0.001	2.0 (1.5~2.6)
+否		918 (75.68)	419 (45.64)		1.0
+第1期
+李小杉等．公民对脑死亡标准立法态度的现状调查
+・91・
+表2在听说过脑死亡的调查对象中影响支持脑死亡立法因素的多因素Logistic回归分析
+Table 2 The multivariate Logistic regression analysis of the influence factors of supporting brain death legislation among subjects who heard of brain death
+变量	P值	S工值	Wald /2 值	P值	OR (95%CI)
+男性	0.25	0.12	4.57	0.033	1.3(1.0~1.6)
+文化程度大专或本科以上	0.37	0.13	8.82	0.003	1.5(1.1~1.9)
+亲友从事过器官捐献工作	1.20	0.58	4.32	0.038	3.3(1.1~10.3)
+参加过器官捐献公益活动	1.14	0.33	11.96	0.001	3.1(1.6~6.0)
+认为脑死亡是合理的死亡判定标准	0.67	0.14	23.23	<0.001	2.0(1.5~2.6)
+有较高比例（32.9%）的研究对象对脑死亡立法并未 表示明确的反对，这提示对该部分人群进行有针对性 的知识普及或许可取得较好效果。近年来，我国器官 捐献事业飞速发展，全国已累计培训了2 000多名专 职器官捐献协调员以及不计其数的兼职工作人员［14］， 各级红十字会、医疗机构及公益机构每年举行大量的 器官捐献公益活动。此次研究显示亲友从事过器官捐 献工作及参加过器官捐献公益活动的被调查对象对脑 死亡立法持更积极的支持态度，证明这些举措对器官 捐献、移植以及脑死亡等医学知识的传播起到了重要 作用。认为脑死亡是合理的死亡判定标准的被调查对 象更倾向于脑死亡立法，再次说明了公众对脑死亡概 念的认同是其支持立法的前提。
+由反对立法的理由可见，在脑死亡相关知识普及 中应着重对脑死亡判定的可行性、专业性和公正性进 行宣传，从专业角度减少公众对脑死亡判定的疑虑。 需要注意的是，较多反对者认为脑死亡立法与器官捐 献的利益关系明显。因此，应对器官捐献事业的公益 性和重要性进一步普及，并着重对脑死亡立法与器官 捐献、移植事业之间的关系进行重点宣教［7,15］。此外， 多年以来，心肺死亡标准在普通民众意识中已经“根 深蒂固”，且我国民族众多、宗教习俗各异［16］，脑 死亡观念的推广可能是一个长期不懈的过程。
+此次研究表明我国公民对脑死亡的认知程度及 对脑死亡标准立法的支持程度均较低，应普及脑死亡 相关知识、加大相关公益活动的开展、提升公民对脑 死亡标准的认可程度，以增加脑死亡标准立法的民意 基础。
+参考文献：
+［1］ 中国人体器官捐献管理中心.捐献完成登记捐献志愿 登记［EB/OL］. ［2019-05-30］. http://www.rcsccod.cn/.
+［2］黄洁夫，叶改发.建立中国模式的公民器官捐献体系, 为人民群众提供高质量的器官移植医疗服务［J］.武汉
+大学学报(医学版),2017,38(6):861-865. DOI:10.14188/ j.1671-8852.2017.06.001.
+HUANG JF, YE QF. Establishing the Chinese model of organ donation and transplant system to provide high level ethical transplant service for the Chinese people[J]. Med J Wuhan Univ,2017,38(6):861-865. DOI:10.14188/ j.1671-8852.2017.06.001.
+[3] 中华医学会器官移植学分会.中国公民逝世后器官捐 献流程和规范(2019版)[J].器官移植,2019,10(2):122-127. DOI:10.3969/j.issn.1674-7445.2019.02.003.
+Branch of Organ Transplantation of Chinese Medical Association. Process and specification of Chinese donation after citizen's death (2019 edition) [J]. Organ Transplant,2019,10(2):122-127.	DOI:10.3969/
+j.issn.1674-7445.2019.02.003.
+[5]	中国人体器官捐献管理中心.2018两会观察：遗体 和人体器官捐献议题再获关注[EB/OL]. [2018-03-19].https://www.codac.org.cn/news/newsinformation/ 20180319/696800.htm.
+[6]	蔡昱.对我国脑死亡的立法形式、立法内容及判断程 序的建议[J].中国医学伦理学,2019,32(2):187-194. DOI:10.12026/j.issn.1001-8565.2019.02.11.
+CAI Y. Suggestions on the legislative form, legislative content and judgment procedure of brain death in China[J]. Chin Med Ethics,2019,32(2):187-194. DOI:10.12026/j.issn.1001-8565.2019.02.11.
+[7]	王霖婧,郏将希,王璐璐,等.不同人群对脑死亡认识
+及立法可行性调查报告[J].医学信息,2019,32(10):133-135. DOI:10.3969/j.issn.1006-1959.2019.10.044.
+WANG LJ, JIA JX, WANG LL, et al. Report on the understanding of brain death and legislative feasibility of
+・92・
+器官移植
+第11卷
+different populations[J]. Med Inform,2019,32(10): 133135. DOI:10.3969/j.issn.1006-1959.2019.10.044.
+[8]	ZHANG H, ZHENG J, LIU W, et al. Investigation and strategic
+analysis of public willingness and attitudes toward organ donation in east China[J]. Transplant Proc, 2015,47(8):2419-2424. DOI: 10.1016/j.transproceed.2015.09.011.
+[9]	HU D, HUANG H. Knowledge, attitudes, and willingness
+toward organ donation among health professionals in China[J].	Transplantation, 2015,99(7):1379-1385.
+DOI:10.1097/TP.0000000000000798.
+[10]	张立民,张玉平,郭亚雄,等.临床医学本科生对脑死 亡认识的调查与分析J].河北北方学院学报(自然科 学版),2017,33(10):58-60.DOI:10.3969/j.issn.1673-1492. 2017.10.019.
+ZHANG LM, ZHANG YP, GUO YX, et al. Investigation and analysis of cognition for brain death in undergraduates majoring in clinical medicine[J]. J Hebei North Univ (Nat Sci Edition), 2017,33(10):58-60. DOI:10.3969/ j.issn.1673-1492.2017.10.019.
+[11]	杨春华,陈雪霞,陈丽,等.重症监护病房脑死亡后器 官捐献认知调查J].中华医学杂志,2014,94(20):1570-1572. DOI:10.3760/cma.j.issn.0376-2491.2014.20.013.
+YANG CH, CHEN XX, CHEN L, et al. Intensive care unit survey of cognition status of donation after brain death[J]. Natl Med J China,2014,94(20):1570-1572. DOI:10.3760/cma.j.issn.0376-2491.2014.20.013.
+[12]李长兵，许晓娟.论我国刑法中的死亡标准[J].江西 社会科学,2012,(8):132-136. DOI:10.3969/j.issn.1004-518X.2012.08.026.
+LI CB, XU XJ. Discussion on the standard of death in
+China criminal law[J]. Jiangxi Soc Sci, 2012,(8):132-136. DOI:10.3969/j.issn.1004-518X.2012.08.026.
+[13]宋儒亮，崔小花,高霏,等.脑死亡与器官移植立法课堂 调查问卷分析J].中国循证医学杂志,2009,9(12):1296-1301.DOI:10.3969/j.issn.1672-2531.2009.12.014.
+SONG RL, CUI XH, GAO Z, et al. Classroom questionnaire of brain death and organ transplant legislation[J]. Chin J Evid Based Med,2009,9(12):1296-1301. DOI:10.3969/ j.issn.1672-2531.2009.12.014.
+[14]	新浪网.器官捐献协调员,这个岗位你听过吗？全 国2200多名 [EB/OL].[2019-05-01]. https://k.sina.cn/ article_2900118455_macdc4bb703300g53x.html?vt=4& pos=91&from=news&subch=onews.
+[15]	张平,贺光社,王慧鹏,等.从2起案例看脑死亡立法 的现实需求J].中国医学伦理学,2016,29(3):452-454. DOI:10.12026/j.issn.1001-8565.2016.03.26.
+ZHANG P, HE GS, WANG HP, et al. The realistic requirement of brain death legislation from 2 cases[J]. Chin Med Ethics,2016,29(3):452-454. DOI:10.12026/ j.issn.1001-8565.2016.03.26.
+[16]	杨颖,黄海,邱鸿钟.中国传统文化和观念对器官捐献 意愿的影响分析J].中国组织工程研究,2014,18(5):803-808.DOI:10.3969/j.issn.2095-4344.2014.05.025.
+YANG Y, HUANG H, QIU HZ. Influence of traditional Chinese culture and ideas on organ donation[J]. Chin J Tissue Eng Res, 2014,18(5):803-808. DOI:10.3969/ j.issn.2095-4344.2014.05.025.
+(收稿日期：2019-10-09) (本文编辑：王维苹 吴秋玲)

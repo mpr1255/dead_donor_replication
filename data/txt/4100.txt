@@ -1,0 +1,116 @@
+﻿浙江医学!"#$年第%#卷第&期
+•综 述
+心脏死亡器官捐献供肝肝移植
+术后胆道并发症发生的原因及 诊治策略
+丁松明 陈徐亮 郑树森 李启勇
+%摘要& 肝移植是治疗进行性不可逆晚期肝病!肝癌!肝门部胆管癌及一些代谢性疾病的重要手段，已在全球广泛应用"虽然我 国的肝移植起步较晚，但近!"年来，得益于现代外科技术的发展和新型免疫抑制剂的应用，我国的肝移植现已跻身于国际先进行列" 但是，供肝的短缺限制了我国肝移植事业的进一步发展"从!"#7年#月#日起，我国已全面禁止使用死囚器官作为移植供体来源"供 肝量与受体需求间的“鸿沟”已日益明显"为解决这一世界性难题，心脏死亡器官捐献（DCD）已成为现阶段供肝的主要来源之一"然 而，据报道CCC肝移植术后患者胆道并发症的发生率要高于脑死亡器官捐献（DBC肝移植术后，胆道并发症又是导致移植肝失败 并最终导致患者死亡的主要原因之一"为了提升CCC肝移植的疗效,有必要深入了解CCC肝移植术后胆道并发症的发生机制及诊 治策略"
+%关键词& CCC供肝胆管狭窄胆道病变内镜治疗介入治疗
+随着我国肝移植事业的进一步发展，心脏死亡器官 捐献的需求越来越大，如何提高心脏死亡器官捐献（!"! #$%&"’ $（%）* +$*!&$, !-$%.，/0/）供肝患者的生存率及改 善他们的生活质量成为当前热点，而/0/供肝患者术 后发生的胆道并发症成为了影响患者预后的主要因素 之一"本文旨在讲述/0/供肝肝移植术后胆道并发症 发生的原因，及其诊断!治疗策略，为预防胆道并发症的 发生和提高肝移植患者生存率提供帮助，从而推动肝移 植事业继续前行"
+# DCD定义与分类
+121 /0/定义 /0/指公民在心跳呼吸停止!器官处 于无血供状态后进行的器官捐献314，以往也称无心跳器 官捐献"
+125 /0/分类 1667年0$89:&;;9等354将/0/分为/可 控制类型0和/不可控制类型0，前者指有计划地撤除生 命支持设备，供者呼吸循环停止后开始获取器官；后者 指心肺复苏失败后开始获取器官，心脏骤停在不可控制 的情况下发生或者供者在前往医院的途中死亡"目前， 国际上通常采用Maast*&,ht分类标准叫分类| :入院前
+DOI：10.12056/j.issn.1006-2785.2019.41.8.2018-3275
+作者单位：310000 树兰（杭州）医院肝胆胰外科
+通信作者:李启勇，E-m ail：qyongj@shulan.com
+死亡者，有明确的死亡时间，热缺血时间未知，属于/不 可控制类型0分类II :心肺复苏失败者，供者在心脏骤 停时接受了心肺复苏，但复苏失败，热缺血时间已知，属 于“不可控制类型0分类III ：为有计划地撤除支持治疗 后等待心脏骤停的濒死者，未达到脑干死亡标准的即将 死亡者，热缺血时间已知且有限，属于/可控制类型0；分 类IV：确认脑死亡患者发生心脏骤停，某些情况下患者 已经同意捐献，正在等待器官获取人员到达，热缺血时 间已知，可能有限，属于/不可控制类型0"为了适应我国 国情，5>11年中国人体器官移植技术临床应用委员会公 布了“中国标准，，叫中国一类（0@ |）,即脑死亡器官捐献 （Aonation after brain death，DB/ 案例；中国二类（0@ II），即DCD案例，包括Maastricht标准分类中的I ~IV 类案例；中国三类（C-IID，中国过渡时期脑-心双死亡标 准器官捐献（donation aGter brain death awaiting cardiac death, DBC/，与Maastricht标准的V类相似，属可控类 型，符合脑死亡诊断标准"目前C@I最符合中国国情"
+2 DCD肝移植术后胆道并发症
+DCD肝移植术后胆道并发症的发生率为25%~ 60%,而DBD肝移植术后胆道并发症的发生率为10%~ 30%371"胆道并发症包括吻合性并发症（anastomotic complications,A0 及非吻合性并发症（non-anastomotic coLM;ications,POC "
+! Q?0!
+浙江医学!"#$年第%#卷第&期
+!"# $% 包括吻合口漏及吻合口狭窄"吻合口漏及吻 合口狭窄的主要危险因素有：外科技术不熟练，胆管重 建方式不理想等&’（"娴熟的外科技术是肝移植顺利完成 的前提和保障"外科技术不过关所造成的灾难往往是毁 灭性的，甚至可能远超过疾病本身"随着胆管吻合技术 的提高，特别是显微外科技术的发展，外科技术性的胆 管吻合口漏及吻合口狭窄已不再是胆道并发症的主要 原因"胆管重建方式主要包括胆总管）胆总管吻合术以 及胆总管）空肠*+,-）./）0吻合"胆总管）胆总管吻合 术是最常用的胆管重建术式，具体吻合方式包括端端吻 合及侧侧吻合，连续吻合及间断吻合，后壁连续前壁间 断吻合，此术式操作简便，并且保留了胆总管括约肌!胰 腺管括约肌!壶腹括约肌的功能，符合解剖和生理；胆总 管）空肠*+,-）./）0吻合常被用于供受体胆管直径不 匹配!受体既往有胆道疾病和小儿的肝移植术&1（"文献报 道胆总管）胆总管端端吻合后胆道狭窄的发生率明显高 于胆总管）空肠*+,-）./）0吻合术后&2（"因此，当胆总管 直径较细时，应避免采用端端吻合，以免造成吻合口狭 窄"吻合口漏的位置可以位于吻合口，也可以位于3管 造瘘口甚或胆囊管开口"常见于肝移植术后#个月内或 3管拔除之后"3管的使用是胆漏发生的另一重要危险 因素&’（，因此4%4肝移植中3管的使用需慎重"
+!5! 6$% 4%4肝移植术后6$%主要指的是非吻合 性胆道狭窄及缺血型胆道病变（789:.;79<=>?. @7A7BC> A.! 87+/， D3EF）"
+!"!"G 非吻合性胆道狭窄 指肝移植术后非吻合技术 性的胆道狭窄，常有多处或弥漫性的胆道病变，可累及 吻合口"主要危险因素有：动脉并发症如肝动脉狭窄及 肝动脉血栓等&H（" I+/.C,等&J（统计发现,非吻合性胆道狭 窄患者中,50%伴有肝动脉血栓形成;Dacha等&##（对102 例肝移植受体进行回顾性研究，结果发现肝动脉狭窄组 非吻合性胆道狭窄的发生率明显高于对照组"严重的非 吻合性胆道狭窄见于早期肝动脉血栓形成的患者，胆道 缺血造成胆管上皮细胞坏死脱落，聚集形成胆管铸型， 胆道造影可见多个充盈缺损"肝动脉狭窄引起的非吻合 性胆道狭窄的影像学表现类似于原发性硬化性胆管炎， 可见多个节段性狭窄继而扩张，胆管内可见胆泥及胆石" 25252 D3EF 指的是肝移植术后移植肝非吻合技术性 的弥漫性的胆管树的破坏，不伴有肝动脉血栓和（或）肝 动脉狭窄. DCD肝移植术后DTBL的发生率为16%~ 29%,而DBD肝移植术后DTBL的发生率为3%~17%&#21。
+DTEL的发生机制可能有：
+2.2.2.1 缺血/再灌注损伤 Gschemia/repecfusi+n 7/R,C>S D*D D*D是DCD供肝在经历热缺血和冷缺血后必然
+经历的病理生理过程.胆总管仅由动脉供血（其中60% ~70%来自胃十二指肠动脉,30%~40%来自肝左右动脉 的交通支）,不像肝实质既接受肝动脉供血,又接受门静 脉供血"因此,对于缺血性改变,胆管上皮细胞远较肝细 胞敏感脆弱。供肝缺血期间细胞内外三磷酸腺苷（$TU 消耗增加,细胞转向无氧呼吸；再灌注后,细胞重新开始 有氧呼吸,产生大量自由基,造成供肝胆管上皮细胞严 重损伤,胆管上皮细胞损伤使得患者在移植术后发生胆 管坏死和狭窄的概率大大增加&G3（"
+2.2.2.2微血管血栓VeaA等&G4（认为DCD供肝额外的热 缺血时间会导致微血管血栓形成,继而导致DTEL.然而， Adc7e等因发现:供肝缺血状态可诱导血栓调节蛋白的表 达、蛋白质C的激活以及纤溶酶原激活物抑制剂<1的消 耗,并增强组织型纤溶酶原激活剂的作用.后续的研究 则进一步提示&吃仅有26%的供肝中存在毛细血管血栓. 2X2X2X3 细胞毒性损伤 胆盐的毒性反应近年来被发 现与移植术后胆管损伤有关.正常情况下,疏水性的胆 盐需要与磷脂结合,形成结合胆汁酸后才排入毛细胆 管,否则可造成毛细胆管的损伤.肝移植时,磷脂分泌落 后于胆盐,高疏水性胆汁盐与磷脂比值升高,胆盐的毒 性释放，继而引起胆管损伤&17（"细胞毒性损伤是否和 DTEL的发生相关还需要进一步探索.
+2X2X2X4 再生能力削弱 肝移植时胆管上皮损伤的严 重程度并不能很好预测DTEL的发生"因此，有学者认 为，胆管上皮再生能力削弱是DTEL发生的真正原因&12（" 2X2X2X5 供肝热缺血影响 器官从供体供血停止到冷 保存开始的这段时间即为热缺血时间.胆道组织对热缺 血很敏感,热缺血时间过长可导致血管内皮细胞水肿, 一氧化氮与内皮素平衡失调引起血管收缩,血流减慢, 血小板聚集等,导致胆道微循环障,最终引起胆管损 伤喙DCD肝移植时，应尽可能保证热缺血时间<30;i/。 2X2X2X6 供肝冷缺血影响 冷缺血时间是器官从冷保 存开始到移植后供血恢复的这段时间,冷缺血时间的 延长也会导致弥散性肝内胆管狭窄及严重的微循环障 碍&71" DCD肝移植时,应尽可能保证冷缺血时间<10h。
+2x2x2x7其他因素Eaecaca/7等&20（发现供肝脂肪变〉 25%是DTEL的危险因素.捐献者年龄、捐献者EMD、器 官保存液、AEZ血型不合、急慢性排异反应、巨细胞病 毒感染、原发性硬化性胆管炎等原发疾病也被发现与 DTEL有密切关系.
+8 胆道并发症的诊断
+3X1 临床表现及肝功能检查 胆漏时,腹腔引流管引
+! 241!
+浙江医学!"#$年第%#卷第&期
+出黄色胆汁，患者可能存在发热!腹部压痛!反跳痛!肌 紧张等胆汁性等腹膜炎体征"吻合口狭窄及非吻合性胆 道狭窄时常出现发热!黄疸，同时伴随胆汁淤积性肝酶 的升高"!"#$一般发生在肝移植术后早期（%个月内多 见），主要临床症状也是黄疸和发热，早期可伴发胆漏， 晚期可出现严重的胆道感染，实验室检查可见胆红素升 高等异常"但是胆道并发症在不同患者的临床表现不尽 相同，可以从无症状到到发生休克"
+&’（ 影像学检查 腹部#超!磁共振胰胆管造影（）*+! ,-./0 1-23,*,0- 0435*,+/36*,01-*.3+1*6478 9:;＜）!逆行 性胆管造影（-,=32036/0 1-.13+1*=-0435*,+/3+1*647，＞:;） 及经皮肝穿刺胆道造影（6-10?.*,-3?2 .1*,24-6*./0 0435*,+/3+1*647，＜";）均是常用的检查手段"腹部#超 检查无创伤，但敏感性较低。有报道显示:＞60%的吻合 口狭窄的患者并不存在肝内胆管的显著扩张㈤"通过 ERC确诊的吻合口狭窄的患者，周前行腹部#超检 查,96%的患者并未发现明显异常叽 因此，腹部#超检 查正常的DCD肝移植术后的患者并不能排除存在胆道 并发症的可能性"MRCP无创伤，能清楚显示胆道系统， 因此已成为临床上怀疑有胆道并发症时的常规检查手 段"MRCP诊断胆道并发症的敏感性和特异性已分别达 到90%以上国。胆道造影仍然是诊断胆道并发症的金标 准"E：C常用于胆总管-胆总管吻合术后的患者，而 P"C常用于胆总管-空肠Roux-en-Y吻合术后的患者"
+% 胆道并发症的治疗
+4.1	胆漏DCD肝移植术后发生的胆漏，一般在保证 引流通畅的前提下，增进营养，预防感染，很多患者可以 自愈"若胆漏明显，每日腹腔引流管引出的胆汁量＞ 300）5,则可行ERCP放置鼻胆管或植入支架来充分引 流胆汁"目前,ERCP治疗手段已被广泛认可,有文献报 道ERCP治疗胆漏的成功率达到80%~90%汽 但对于 行胆总管空肠吻合的受体，无法行ERCP治疗,P"C置 管引流也十分有效"少数保守治疗失败的患者或继发于 胆道血供不良（如肝动脉血栓形成）的胆漏，建议尽早手 术治疗"
+4.2	胆道狭窄 ①吻合口狭窄：目前多采用内镜下球 囊扩张加支架植入来治疗吻合口狭窄,并能达到较好的 治愈率咒内镜治疗失败的吻合口狭窄患者，则选择手术 治疗。总体上讲,有10%~20%的肝移植术后吻合口狭窄 的患者最终需要手术治疗,尤其是接受胆总管空肠吻合 的患者"（2）非吻合性胆道狭窄:目前内镜下或经皮穿刺 行球囊扩张和支架植入仍然是首选的治疗方案,治疗的
+成功率取决于胆管狭窄的程度、数量及部位咒
+4.3	!"#$的治疗 内镜和放射介入治疗是!"#$的一 线治疗方法,治疗手段包括:鼻胆管引流、胆道支架植入 及狭窄胆管球囊扩张等"内镜和放射介入治疗困难的, 应考虑外科手术治疗,甚至再次肝移植"!"#$是导致 DCD肝移植术后患者再次肝移植的主要原因闽"
+7 CBC肝移植的热点问题
+DCD肝移植术后!"#$已严重影响肝移植患者的 生活质量和长期生存率,因此,如何预防!"#$的发生显 得尤为重要"
+U.1 常温腹腔区域灌注 通过建立独立于全身循环的 腹部区域循环,限制了缺血和恢复了细胞能量底物"来 自密歇根的学者提出采用常温腹腔区域灌注可显著减 少!"#$的发生叱爱丁堡、剑桥及伯明翰的联合研究小 组采用常温腹腔区域灌注，11例DCD肝移植患者没有 1例发生ITBLBQ
+U’F 低温机械灌注 是指在保存过程中持续向肝脏泵 入适量的氧气、代谢底物及保存液直至移植,低温状态 下可以有效对抗缺血性损伤"来自苏黎世的研究小组采 用低温机械灌注,25例DCD肝移植患者没有W例发生 !T#LBF8D"
+Z 小结和展望
+我国既是肝病大国,又是肝移植大国"每年有大量 的患者因得不到供体器官失去重生的机会,而公民对 “脑死亡0勺概念普遍不接受，造成我国DBD肝移植的 发展受到限制。我国于2XWW年发布了 DCD器官分类标 准叫为DCD器官捐献工作的开展奠定了制度和理论 基础，随后DCD肝移植数量不断增加,2X13年我国完 成了 626例DCD肝移植手术,DCD已成为现阶段供肝 的主要来源之一"DCD肝移植术后胆道并发症严重影 响肝移植患者的生活质量及长期生存率，是导致DCD 肝移植术后患者再次移植甚至死亡的最不利因素之一" 有效预防胆道并发症的发生并逐步提高诊治水平将造 福万千。虽然DCD肝移植的3年存活率低于DBD肝移 植段，但通过缺血时间的严格控制，改善移植物功能延 迟恢复或无功能的情况,DCD肝移植仍拥有较高存活 率"相信通过持续推进DCD肝移植并不断总结归纳， DCD肝移植患者将不断受益"
+a 参考文献
+[1]	O'Neill S, Roebuck A, Khoo E, et al. A meta-analysis and
+! 842!
+浙江医学!"#$年第%#卷第&期
+meta-regression of outcomes including biliary complications in donation after cardiac death liver transplantation [J]. Transpl Int, 2014, 27 (11): 1159-1174. DOI: 10.1111/tri.12403.
+[2]	Casavilla A, Ramirez C, Shapiro R, et al. Experience with liver and kidney allografts from non-heart-beating donors[J]. Transplantation, 1995, 59 (2): 197-203.
+[3]	Kootstra G, Daemen JH, Oomen AP. Categori es of nonheartbeating donors [J]. Transplant Proc, 1995, 27 (5): 2893-2894.
+[4]	吕国悦,邱伟.我国心脏死亡器官捐献供肝现状及其肝移植的临床进 展 J .临床肝胆病杂,2014, 30 (1):11-13. DOI:10.3969/j.issn. 1001-5256.2014.01.004.
+[5]	Foley DP, Fernandez LA, Leverson G, et al. Biliary complications after liver transplantation from donation after cardiac death donors: an analysis of risk factors and long-term outcomes from a single center[J].Ann Surg, 2011, 253(4): 817-825. DOI: 10.1097/ SLA.0b013e3182104784.
+[6]	Seehofer D, Eurich D, Veltzke-Schlieker W, et al. Biliary Complications After Liver Transplantation: Old Problems and New Challenges[J]. American Journal of Transplantation, 2013, 13 (2): 253-265. DOI: 10.1111/ajt.12034.
+[7]康永振，沈中阳.肝移植术后胆道并发症的相关病因分析U/CD].实 用器官移植电子杂志,2013,1(4): 243-248.
+[8]	Saidi RF, Elias N, Ko DS, et al. Biliary reconstruction and complications after living-donor liver transplantation [J]. HPB (Oxford) , 2009, 11(6): 505-509. DOI: 10.1111/j.1477-2574.2009.00093.x.
+[9]	方程,严盛,郑树森.肝移植术后胆道并发症的影响因素及诊治进展 [J] .中华普通外科杂志, 2014, 29(6):486-488. DOI: 10.3760/cma.j. issn.1007-631x.2014.06.028.
+[10]	Koneru B, Sterling MJ, Bahramipour PF. Bile duct strictures after liver transplantation:a changing landscape of the Achilles'heel [J]. Liver Transpl, 2006, 12(5): 702-704. DOI:10.1002/lt.20753.
+[11]	Dacha S, Barad A, Martin J, et al. Association of hepatic artery stenosis and biliary strictures in liver transplant recipients[J].Liver Transpl, 2011, 17(7):849-854. DOI: 10.1002/lt.22298.
+[12]	Mourad MM, Algarni A, Liossis C, et al. Aetiology and risk factors of ischaemic cholangiopathy after liver transplantation [J].World J Gastroenterol, 2014, 20(20): 6159-6169. DOI: 10.3748/ wjg.v20.i20.6159.
+[13]	Hessheimer AJ, Co rdenas A, Garc.a-Valdecasas JC, et al. Can we prevent ischemic-type biliary lesions in donation after circulatory determination of death liver transplantation? [J]. Liver Transpl, 2016, 22(7):1025-1033. DOI: 10.1002/lt.24460.
+[14]	Seal JB, Bohorquez H, Reichman T,et al. Thrombolytic protocol minimizes ischemic-type biliary complications in liver transplantation from donation after circulatory death donors[J] . Liver Transpl, 2015,21(3): 321-328. DOI: 10.1002/lt.24071.
+[15]	Adrie C, Monchi M, Laurent I, et al. Coagulopathy after successful cardiopulmonary resuscitation following cardiac arrest: implication of the protein C anticoagulant pathway [J]. J Am Coll Cardiol, 2005, 46 (1): 21-28. DOI:10.1016/j.jacc.2005.03.046.
+[16]	Hansen T, Hollemann D, Pitton MB, et al. Histological
+examination and evaluation of donor bile ducts received during orthotopic liver transplantation-a morphological clue to ischemic-type biliary lesion? [J]. Virchows Arch, 2012, 461 (1): 41-48. DOI: 10.1007/s00428-012-1245-8.
+[17]	Geuken E, Visser D, Kuipers F, et al. Rapid increase of bile salt secretion is associated with bile duct injury after human liver transplantation [J]. J Hepatol, 2004, 41 (6):1017-1025. DOI: 10.1016/j.jhep.2004.08.023.
+[18]	Op den Dries S, Westerkamp AC, Karimian N, et al. Injury to peribiliary glands and vascular plexus before liver transplantation predicts formation of non-anastomotic biliary strictures [J]. J Hepatol, 2014, 60 (6):1172-1179. DOI: 10.1016/j.jhep.2014.02. 010.
+[19]	祝峰,艾秋宝,张诚华.胆管周围血管丛损伤与肝移植术后胆道并发 症[J].中国组织工程研究与临床康复,2011,15(53):10018-10022. DOI:10.3969/j.issn.1673-8225.2011.53.034.
+[20]	Baccarani U, Isola M, Adani GL, et al. Steatosis of the hepatic graft as a risk factor for post-transplant biliary complications [J]!Clin Transpl, 2010, 24(5):631-635. DOI: 10.1111/j.1399-0012.2009.01128.x.
+[21]	Zemel G, Zajko A, Skolnick ML, et al. The role of sonography and transhepatic cholangiography in the diagnosis of biliary complications after liver transplantation [J]. Am J Roentgenol, 1988, 151 (5): 943-946. DOI: 10.2214/ajr.151.5.943.
+[22]	Mahajani RV, Cotler SJ, Uzer MF. Efficacy of endoscopic management of anastomotic biliary strictures after hepatic transplantation [J]. Endoscopy, 2000, 32 (12): 943-949. DOI: 10.1055/s-2000-9619.
+[23]	Katz LH, Benjaminov O, Belinki A, et al. Magnetic resonance cholangiopancreatography for the accurate diagnosis of biliary complications after liver transplantation: Comparison with endoscopic retrograde cholangiography and percutaneous transhepatic cholangiography-long-term follow-up [J ] . Clin Transplant, 2010, 24 (5): E163-E169. DOI: 10.1111/j.1399-0012. 2010.01300.x.
+[24]	Akamatsu N, Sugawara Y, Hashimoto D. Biliary reconstruction, its complications and management of biliary complications after adult liver transplantation: A systematic review of the incidence, risk factors and outcome [J]. Transpl Int, 2011, 24 (4): 379-392. DOI: 10.1111/j.1432-2277.2010.01202.x.
+[25]	Skaro AI, Jay CI, Bader TB, et al. The Impact of Ischemic Chol-angiopathy following Donation after Cardiac Death Liver Transplantation-The Untold Story [J]. Surgery, 2009, 146 (4): 543-553. DOI:10.1016/j.surg.2009.06.052.
+[26]	Rojas-Pe(a A, Sall LE, Gravel MT, et al. Donation after circulatory determination of death: the University of Michigan experience with extracorporeal support [J] . Transplantation , 2014, 98 (3): 328-334. DOI: 10.1097/TP.0000000000000070.
+[27]	Oniscu GC, Randle LV, Muiesan P, et al. In situ normothermic regional perfusion for controlled donation after circulatory death-the United Kingdom experience [J]. Am J Transplant ,
+! !"#!
+浙江医学!"#$年第%#卷第&期
+2014, 14 (12): 2846-2854. DOI: 10.1111/ajt.12927.
+[28]	Dutkowski P, Polak WG, Muiesan P, et al. First comparison of hypothermic oxygenated perfusion versus static cold storage of human donation after cardiac death liver transplants: an international-matched case analysis [J]. Ann Surg, 2015, 262 (5): 764-771. DOI: 10.1097/SLA.0000000000001473.
+[29]	中华医学会器官移植学分会.中国心脏死亡器官捐献工作指南.2版
+[J].中华器官移植杂志,2011,32(12):756-758.
+[30]	Jay C, Ladner D, Wang E, et al. A comprehensive risk assessment of mortality following donation aft er cardiac death liver transplant-an analysis of the national registry [J]. J Hepatol, 2011, 55(4): 808-813.
+(收稿日期：2018-12-18)
+(本文编辑：俞骏文)
+(上接第&8&页)
+[3]	江飞云.足月妊娠合并肝豆状核变性一例 [J].皖南医学院学报,2014(2):152-153. DOI:10.3969/j.issn.1002-0217.2014.02. 019.
+[4]	贺淑芳.妊娠合并肝豆状核变性4例并文 献复习[J].江西医药，2015(6):564-566. DOI:10.3969/j.issn.1006-2238.2015.06.
+030.
+[5]	Pfeiffenberger J. Pregnancy in Wilson's disease: Management and outcome [J]. Hepatology, 2018,67 (4):1261-1269. DOI: 10.1002/hep.29490.
+[6]	曹海霞.特殊人群肝豆状核变性诊治进展 [J].实用肝脏病杂志,2015, 18(1):89-92. DOI:10.3969/j.issn.1672-5069.2015.01. 026.
+[7]	李惠珍.以习惯性流产起病的肝豆状核变 性1例[J].实用肝脏病杂志，2011, 14(5):
+382-382.DOI:10.3969/j.issn.1672-5069. 2011.05.031.
+[8]	沈丽贤.以习惯性流产为突出表现的肝豆 状核变性1例[J].肝脏，2010, 15(4):316-316.DOI:10.3969/j.issn.1008-1704.2010. 04.032.
+[9]	邵鸣.以习惯性流产起病的肝豆状核变性1 例[J].肝脏,2012, 17(5):373-373.DOI: 10.3969/j.issn.1008-1704.2012.05.029.
+(收稿日期：2018-11-16) (本文编辑：俞骏文)
+(上接第&8$页) 尚需进一步深入研究[8]"
+由于Rotor综合征与Dubin-Johnson 综合征两者的临床表现相似，且多以DB il 增高为主因而较易混淆，两者的鉴别方法 主要是肝活检％ Dubn-Johnson综合征患 者肝组织多为黑色!墨绿色或灰黑色[2，9]； 而Rotor综合征患者肝脏颜色正常，肝脏 病理学检查基本正常"该患者通过肝脏穿 刺活体组织检查示肝小叶结构基本正常， 小叶内未见明显肝细胞变性和坏死，门管 区无炎症，纤维化不明显，且铜!铁染色阴 性，结合其血清直接与间接胆红素升高， 以DBil升高为主，再结合外周血肝炎病毒 全套!自身免疫性肝病抗体阴性等，得以 与Dubin-Johnson综合征及肝豆状核变 性、自身免疫性肝病等区分,诊断为Rotor 综合征"
+Rotor综合征目前暂无特殊疗法,可不 必治疗"这种病没有特效药物，有学者使 用苯巴比妥来促进胆红素转运及排泄"本 病的预后良好，肝功能正常，肝酶没有上 升，肝脏也未出现肿大，远期不会演变为 肝癌或肝硬化[1，3-4]"患者的寿命也正常，病 情不会恶化"
+总结本病例及文献复习，临床上对于
+不明原因的黄疸在怀疑Rotor综合征时， 应注意与病毒性肝炎、梗阻性黄疸、 Dubn-Johson综合征、EB病毒感染等疾病 鉴别"必要时应及早行肝脏穿刺活体组织 检查及基因检测，以明确病因，从而减少 误诊、误治的发生，减轻患者精神和经济 负担"
+参考文献
+[1]汤善宏，曾维政,曾建梅，等.Rotor综合征1
+例[J].肝脏,2016 (3):231-232. DOI: 10.3969/j.issn.1008-1704.2016.03.022.
+[2] Radlovi, N. Hereditary hyperbilirubinemias [J ] . Srpski Arhiv Za Celokupno Lekarstvo, 2014, 142 (3-4):257-260. DOI: 10.2298/SARH1404257R.
+[3]肖玉珍,邵鸣,王建华.Rotor综合征1例[J]. 肝脏,2013(1):69. DOI:10.3969/j.issn.1008-1704.2013.01.023.
+[4]张志华，郑必霞,李玫,等.一例Rotor综合征 SLCO1B1和SLCO1B3基因突变分析[J]. 肝脏,2016(7):542-544,605. DOI:10.3969/ j.issn.1008-1704.2016.07.006.
+[5]曾祥源，张涛，孙克伟,等.Rotor综合征合并 HBsAg携带者1例报道[』.胃肠病学和肝 病学杂志,2016(4):446-447. DOI:10.3969/ j.issn.1006-5709.2016.04.024.
+[6]	Pratt E, Sissung TM, Figg WD. Loss of OATP1B3 function causes Rotor syndrome: Implications for potential use of inhibitors in cancer [J]. Cancer Biology & Therapy, 2012, 13 (14):1374-1375. DOI: 10.4161/cbt.22010.
+[7]	Steeg EVD, Strdneckg V, Hartmannov! H, et al. Complete OATP1B1 and OATP1B3 deficiency causes human Rotor syndrome by interrupting conjugated bilirubin reuptake into the liver[J]. Journal of Clinical Investigation, 2012, 122 (2): 519-528. DOI: 10.1172/JCI59526.
+[8]	Kagawa T, Oka A, Kobayashi Y, et al. Recessive Inheritance of Population-Specific Intronic LINE-1 Insertion Causes a Rotor Syndrome Phenotype[J]. Human Mutation, 2015, 36 (3):327-332. DOI: 10.1002/humu.22745.
+[9]	Strassburg CP. Hyperbilirubinemia syn-dromes(Gilbert-Meulengracht, Crigler-Najjar, Dubin-Johnson, and Rotor syndrome) [J]. Best Practice & Research Clinical Gastroenterology, 2010, 24 (5): 555-571. DOI: 10.1016/j.bpg.2010.07.007.
+(收稿日期：2018-11-16)
+(本文编辑：俞骏文)
+! !""!

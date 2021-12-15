@@ -1,0 +1,113 @@
+﻿中华普通外科学文献(电子版)2019 年 12 月第 13 卷第 6 期 Chin Arch Gen Surg (Electronic Edition), December 2019, Vol. 13, No.6
+• 421 •
+•述评•
+体外膜肺氧合在心脏死亡器官捐献供肝 保护中的应用
+古晨廖小卒李斌飞
+肝移植是肝硬化、失代偿性疾病、急性肝衰竭 和肝癌患者的首选治疗方法口。1963年Starzl等实 施首例肝移植手术后，全球肝移植手术至2014年 累计超过100万例，患者术后1年生存率提升至 80%~90%［2］。等待接受肝移植的患者数量不断增 加，但供体严重短缺。在脑死亡器官捐献(donation after brain death，DBD)不能满足器官移植需要的 时候，心脏死亡器官捐献(donation after circulatory death，DCD)越来越重要。由于DCD供体的器官 存在热缺血损伤，器官弃用率高于DBD供体，移 植后移植物原发性无功能(primary non-function， PNF)和缺血性胆管病的发生率升高，术后1年和 3年生存率下降0-5。体外膜肺氧合(extracorporeal membrane oxygenation, ECMO )能迅速改善器官低 氧血症和低灌注情况，缩短器官热缺血时间(warm ischemia time, WIT )。目前ECMO技术已应用于 DCD供肝保护，对扩大潜在供者数量、改善供肝质 量、提高移植成功率和受者术后远期生存质量有 极大作用。
+一、ECMO对DCD供肝保护的原理
+ECMO的概念起源于20世纪60年代末，是一 种以体外循环系统为基本设备、采用体外循环技术 进行操作和管理的中短期心肺辅助治疗技术［6］，主 要作用是替代心肺功能，将静脉血经管道从体内引 流到体外，利用体外循环替代人体自然循环，由离 心泵提供血流动力，通过气体交换装置对静脉血进 行氧合后成为动脉血，重新灌注入体内。ECMO技 术保证组织器官的氧合和血供，在临床用于救治严 重呼吸功能衰竭或心力衰竭的患者。
+DCD供者从撤除生命支持(拔气管导管或停 呼吸机、停用升压药)到心脏停跳5 min宣布死亡， 再到器官获取冷灌注开始，这段时间为WIT,肝脏
+DOI：10.3877/cma.j.issn.1674-0793.2019.06.001
+作者单位：528400 中山，广东省中山市人民医院麻醉科
+通信作者:李斌飞，Email ： lbf8@msn.com
+的耐受上限为30 min。当收缩压低于50 mmHg (1 mmHg=0.133 kPa )时，器官会出现热缺血损伤， 一旦收缩压持续(至少2 min )低于50 mmHg或血 红蛋白氧饱和度低于70%，则进入功能性热缺血 期17。WIT延长是DCD肝移植术后胆道缺血性损 伤、移植物功能障碍和PNF等肝移植主要并发症 的根本原因％因此，DCD供肝保护的目标是纠正 组织细胞缺氧。在器官灌注支持时，DCD与DBD 的肝移植受者存活率差异无统计学意义［8］。
+相对于传统的器官保护措施，ECMO技术可在 多个方面发挥对DCD供肝的保护：(1 )在供肝冷 灌注、切取之前提供自体血再循环，改善肝组织低 氧血症和低灌注情况，减少热缺血损伤；(2)部分 恢复肝组织中三磷酸腺苷和谷胱甘肽水平，降低 炎性因子表达水平，减轻氧化应激损伤［4］；(3)维持 肝组织中腺苷和黄嘌呤表达水平，保护DCD供体 肝细胞功能回(4)为精确评估DCD供肝状态、供 肝获取和移植手术准备提供充分时间。另外，研究 发现ECMO能抑制缺血再灌注损伤引起的移植后 肝细胞癌复发和生长［10］。
+二、ECMO对DCD供体器官支持的操作技术
+(一)DCD供体分类
+目前国际通用的DCD分类由1995年荷兰马 斯特里赫特国际会议通过，即Maastricht分类", 11］o 2013年巴黎举行的DCD会议对分类标准进行修 改和更新叫将Maastricht- I类和II类再细分为院 外死亡和院内死亡。
+Maastricht- I类：发现时已死亡者，突发的心 脏停搏且无医疗团队心肺复苏尝试，属于“不可控 制”类型，WIT未知。其中IA类为院外死亡者，B 类为在院死亡者。
+Maastricht- I类：被目睹的心跳骤停者，突发 未预见的不可逆转心跳骤停且医疗团队行心肺复 苏失败，WIT通常已知，属于“不可控制”类型。其 中n a类为院外死亡者,，b类为院内死亡者。
+• 422 •
+中华普通外科学文献(电子版)2019年 12月第 13卷第6期Chin Arch Gen Surg (Electronic Edition), December 2019, Vol. 13, No.6
+Maastricht-出类：有计划撤除生命支持后等待 心脏停搏者，WIT已知，属于“可控制”类型。
+Maastricht- N类：脑死亡判定后发生心脏停搏 者，WIT已知，属于“可控制”类型。
+但是，上述分类标准并不完全适合我国国 情。因此，中国人体器官移植技术临床应用委员 会制定了中国人体器官捐献分类标准。中国二类 （C- n）即国际标准化DCD,包括Maastricht标准 分类中的I ~ N类。中国三类（C-出）指中国过 渡时期脑-心双死亡标准器官捐献（donation after brain death awaiting cardiac death, DBCD ），即已诊 断患者脑死亡，但家属不能接受心脏未停搏情况 下行器官捐献。这种情况下，按心脏停搏供者捐献 方式实施捐献，即撤除呼吸机，待心脏停搏后再行 器官获取叫DBCD是DCD Maastricht- N类的一 个特殊类型，也是我国DCD的一大特点。
+（二）ECMO对DCD器官支持的操作流程
+在使用ECMO对DCD器官支持时，采用V-A 模式。首先需评估患者情况，判断是否为DCD供 者，并与患者家属签署ECMO支持下的DCD知 情同意书（包括同意成为DCD供者和同意放置 ECMO装置）。目前我国ECMO支持下的DCD主 要应用于Maastricht-出类和N类DCD供者，即可 控制型DCD。对于此类供者，我国指南建议在家 属签署同意书后进行ECMO体外循环装置预充和 相关药品准备。经股动静脉行ECMO置管，同时 经对侧股动脉送入球囊导管至胸主动脉。我国指 南建议置管完成后撤除生命维持治疗，也有团队 在撤除生命支持措施之后置管，但都需在心脏功 能停止2~5 min、宣布死亡后再开始ECMO循环， 并将主动脉球囊充气，阻断大脑和冠状动脉血供。 家属临终告别后，在ECMO灌注下将供者转运至 手术室行器官获取。确认供者已处于脑死亡或存 在不可逆脑损害后，使用或撤除生命支持系统的 时机，应该主要考虑捐献的器官有最佳预后［12］，可 以在ECMO转流支持下行腹腔脏器原位氧合血灌 注2~4 h （最长不超过4 h）,也可同时使用血液净 化技术稳定DCD供者内环境巴冷灌注开始进行时 停止运转ECMO。
+对于不可控制型DCD供体即Maastricht- I 类和n类，ECMO的应用除了置管时机不同外， 其余操作流程相同。在供体心跳停止、经抢救无 效宣布死亡，家属签署同意书后，继续胸外按压及 气管插管持续人工呼吸，同时快速经股动、静脉行
+ECMO置管，立即开始ECMO循环。
+三、ECMO在DCD供肝保护中的应用情况
+1963年Marchioro等时提出将ECMO应用于 移植器官保护，希望能联合运用当时已知的两种 改善器官功能的方法，即低温和用不同液体行器 官灌注。但因当时DCD供体器官质量不如DBD 供体，DCD供体移植较少。直到1987年Kontos等诃 和1989年Adachi等1国分别发表各自关于体外循 环低温灌注的动物实验结果，这种利用低温和维 持灌注改善移植器官功能的技术开始得到关注。 1989年Koyama等国首次报道临床应用ECMO保 护DCD供体完成供肾获取。早期ECMO多用于 肾移植中供体器官保护。1997年Johnson等四成 功实施1例供肝来自低温ECMO支持DBD供体 的肝移植手术。2003年Otero等网对DCD供体 进行体外循环支持，结果提示Maastricht- n类供 体在心外按压期间WIT不超过130 min，之后用 低温或常温的心肺旁路可使肝脏存活时间延长至 150 min。Jimenez-Galanes等回在对接受原位肝 移植的成人患者进行前瞻性病例对照研究中发 现，常温ECMO支持下的DCD供肝组移植后受 者缺血性胆管病发生率为5%，原发性非功能障 碍发生率为10%，而DBD供肝对照组分别为0和 2.5%；ECMO支持下的DCD组和DBD组1年累积 生存率分别为85.5%和87.5% （ P=0.768 ），两组 的1年累积移植物存活率分别为80.0%和87.5% （P=0.774 ）。Fondevila 等㈤分析了 Maastricht- n 类DCD供体在ECMO支持下行供肝获取，从2002 年至2010年共完成34例肝移植手术，1年受者 生存率和移植物存活率分别为82%和70%（中 位随访24个月）。Hagness等’2"报道挪威共8例 可控制型DCD在ECMO辅助下常温区域灌注 （normothermic regional perfusion，NRP ）获取供肝， 无移植功能延迟或移植物丢弃，移植后7例受者 随访1年，1例随访6个月，所有受者肝功能恢复 正常，2例发生胆道并发症。Rodriguez-SanjuOn 等团回顾分析11例接受ECMO支持DCD供肝的 肝移植受者短期并发症（死亡率、PNF和血管并发 症）和长期并发症（缺血性胆管病和生存率），并与 年龄、性别和终末期肝病模型评分相同的51例接 受DBD供肝的肝移植受者比较发现，ECMO支持 DCD组平均功能WIT为15.8 min，平均NRP时间 为94.1 min;供体血清丙氨酸氨基转移酶和天冬氨 酸氨基转移酶在常温区域灌注1h后升高，两组受
+中华普通外科学文献(电子版)2019 年 12 月第 13 卷第 6 期 Chin Arch Gen Surg (Electronic Edition), December 2019, Vol. 13, No.6
+• 423 •
+体移植24 h后肝酶升高幅度相似，表明DCD供肝 热缺血损伤轻微；两组受者血管或胆道并发症、再 次移植、住院死亡率和平均生存时间差异无统计 学意义。这些临床研究结果都提示，使用ECMO 支持的DCD供肝移植短期和长期效果可与DBD 供肝移植相媲美。
+成人DCD经验日益丰富，推动了 ECMO在儿 童DCD中的应用，对扩大小儿肝移植供体库有积 极意义。Isnardi等同报道1例14岁DBD供体在 ECMO支持下获取供肝，1例7岁的女孩接受此供 肝移植，15个月后肝功能恢复正常。尽管近来来 儿童DCD肝移植数量略有增加，移植效果和患儿 满意度高，但由于与DCD肝移植相关的不良结果， 在儿科受者中使用DCD肝移植仍然存在争议。
+因DBD在我国未被民众、社会接受，更未被法 律认可，我国公民死亡器官捐献仍以DCD为主。 由于公民生前表达捐献者极少，Maastricht- I类 和n类在我国较少，大多供者为DBCD。笔者所在 单位为我国最早开展ECMO临床应用的医院之一， 于2008年开始将ECMO用于DCD供者器官保护。 2008年至2016年，我院肝移植团队［24］完成88例 DBCD供者肝脏捐献，其中21例使用ECMO技术 维持至器官获取，ECMO转流时间（18 ± 6 ） h，移植 后受者恢复可。霍枫等［25-26］于2010年至2015年共 完成241例DCD,其中145例在ECMO辅助下行 供肝获取，在中国I、n、出类中ECMO应用率分 别为58.3%、62.5%和60.0%。但国内文献罕见报 道受体术后长时间随访结果。
+四、ECMO用于DCD供肝保护中存在的问题
+ECMO支持DCD供肝保护的应用很有前景， 目前已可与DBD供肝相媲美。然而这些临床研究 有样本量较小、多为回顾性分析、部分临床研究缺 乏对照组等局限性，关于理想的ECMO支持DCD 仍有许多问题有待解决。
+（一）置管时机
+因国家和地区相关法律不同，各研究团队对 DCD供体行ECMO置管时机存在差异，导致供肝 WIT不同，进而影响预后。在西班牙，不可控制型 DCD供体在宣布死亡后无需经家属同意，可继续 机械辅助胸外按压及机械通气维持组织灌注，同 时给予全身肝素化及股动静脉置管行ECMO支持， 因此供肝WIT短，1年受者生存率和移植物存活 率、缺血性胆管病发生率和PNF与Maastricht-出 类DCD供体相当117-18, 20,力；在美国，只允许可控制
+型DCD供体在撤除生命支持措施前行全身肝素化 及股动静脉置管［28-29］；在英国，在供体循环停止前不 允许全身肝素化和股动静脉置管［30-31］，无法早期全 身肝素化导致供体血管内及ECMO管路中易形成 血栓。因此，ECMO用于DCD供体肝移植无法取 得满意的效果。
+（二）运行时间
+到目前为止，临床报告和指南都建议ECMO 支持DCD的运行时间不超过4空6"01。也有个案病 例报道ECMO运行250 min,受体预后良好㈤。现 有的文献中，ECMO在DBCD供体中运行时间最长 380 min,这是因为ECMO的运行从脑死亡开始 计时西,与DCD中的ECMO运行时间不同。尽管 ECMO支持可为DCD供肝提供灌注，但供体死亡 后发生的一系列病理生理变化仍会给器官带来严 重的影响。血液中炎性因子释放、肝素等抗凝药物 以及其他多种因素均会制约ECMO长时间的运行。 目前尚缺乏关于ECMO最佳和最长运行时间的基 础或临床研究。
+（三）运行流量
+保证供肝充足的灌注量是ECMO应用于DCD 供肝保护的主要目的，灌注不足与灌注过高都会 对肝脏造成损伤。目前各研究报道的ECMO运行 流量并不统一，Barrou等为推荐2~3 L/min, Oniscu 等13"使用1.7~4 L/min，Fondevila等加认为不低于 1.7 L/min即可。Zhu等和使用超声监测肝动脉和 门静脉血流量，实时调控ECMO流量维持围手术 期最佳灌注，并通过肝酶评估供肝功能，证明这种 方法有助于提高肝移植的生存率。
+（四）灌注温度
+早期ECMO支持DCD采用的是低温灌注， 目的是降低细胞新陈代谢，但低温亦会对供肝造 成损伤，使移植肝功能恢复延迟甚至丧失功能［35］。 1997年Arias-Diaz等国在猪肝移植动物实验中 提出“常温灌注”理念，2001年Garcia-Valdecasas 等阻报道常温体外灌注可保存DCD供肝功能。目 前临床通常使用常温（35.5~37.5P）灌注e-22, 31, 38］， 但对ECMO灌注的最适合温度仍没有统一意见画。 Rojas-Pena等则发现室温（25°C ）与常温ECMO灌 注效果相当，而且省去热交换器使ECMO更简便 易行，但需要更多的基础和临床研究证实。
+综上所述，将ECMO应用于DCD供体肝移植 中可恢复供肝的血流灌注及氧供，减少热缺血损 伤，提高DCD供肝质量，同时能降低肝移植术后并
+• 424 •
+中华普通外科学文献(电子版)2019年 12月第 13卷第6期Chin Arch Gen Surg (Electronic Edition), December 2019, Vol. 13, No.6
+发症发生率。目前的文献报道大多为动物实验，相 关的临床研究数量少，且以回顾性、小样本、非对 照的研究为主。国内的临床研究数量少且质量不 高，缺乏后续随访结果。作为目前国际器官移植领 域研究的热点之一，ECMO应用于DCD供肝保护 值得医务工作者和研究人员进一步关注。
+参考文献
+[1]	Fox AN, Brown RS Jr. Is the patient a candidate for liver transplantation?[J]. Clin Liver Dis, 2012, 16(2): 435-448.
+[2]	Meirelles Junior RF, Salvalaggio P, Rezende MB, et al. Liver transplantation: history, outcomes and perspectives[J]. Einstein (Sao Paulo), 2015, 13(1): 149-152.
+[3]	Vodkin I, Kuo A. Extended criteria donors in liver transplan-tation[J]. Clin Liver Dis, 2017, 21(2): 289-301.
+[4]	唐晖, 傅斌生, 陈规划. 心脏死亡器官捐献肝移植的供体功能 维护[J].器官移植,2016, 7(1): 21-25.
+[5]	Jay C, Ladner D, Wang E, et al. A comprehensive risk assessment of mortality following donation after cardiac death liver transplantan analysis of the national registry[J]. J Hepatol, 2011, 55(4): 808813.
+[6]	孙煦勇, 秦科. 体外膜肺氧合在中国公民逝世后捐献供器官 保护中的应用专家共识( 2016版) [J/CD]. 中华移植杂志(电 子版), 2016, 10(3): 107-111.
+[7]	Thuong M, Ruiz A, Evrard P, et al. New classification of donation after circulatory death donors definitions and terminology[J]. Transpl Int, 2016, 29(7): 749-759.
+[8]	Dubbeld J, Hoekstra H, Farid W, et al. Similar liver transplantation survival with selected cardiac death donors and brain death donors[J]. Br J Surg, 2010, 97(5): 744-753.
+[9]	Net M, Valero R, Almenara R, et al. The effect of normothermic recirculation is mediated by ischemic preconditioning in NHBD liver transplantation[J]. Am J Transplant, 2005, 5(10): 2385-2392.
+[10]	Oldani G, Crowe LA, Orci LA, et al. Pre-retrieval reperfusion decreases cancer recurrence after rat ischemic liver graft transplantation[J]. J Hepatol, 2014, 61(2): 278-285.
+[11]	刘永锋. 中国心脏死亡器官捐献工作指南(第2版) [J/CD]. 实 用器官移植电子杂志, 2013, 1(1): 9-12.
+[12]	中华医学会器官移植学分会, 中华医学会外科学分会移植 学组, 中国医师协会器官移植医师分会. 中国心脏死亡捐献 器官评估与应用专家共识(2014版) [J]. 中华消化外科杂志, 2015, 14(1): 6-12.
+[13]	Marchioro TL, Huntley RT, Waddell WR, et al. Extracorporeal perfusion for obtaining postmortem homografts[J]. Surgery, 1963, 54: 900-911.
+[14]	Kontos GJ Jr, Adachi H, Borkon MA, et al. A no-flush, corecooling technique for successful cardiopulmonary preservation in heart-lung transplantation[J]. J Thorac Cardiovasc Surg, 1987, 94(6): 836-842.
+[15]	Adachi H, Ueda K, Koyama I, et al. Donor core cooling for multiple
+organ retrieval: new application of portable cardiopulmonary bypass for transplantation[J]. Transplant Proc, 1989, 21(1 Pt 2): 1200-1202.
+[16]	Koyama I, Hoshino T, Nagashima N, et al. A new approach to kidney procurement from non-heart-beating donors: core cooling on cardiopulmonary bypass[J]. Transplant Proc, 1989, 21(1 Pt 2): 1203-1205.
+[17]	Johnson LB, Plotkin JS, Howell CD, et al. Successful emergency transplantation of a liver allograft from a donor maintained on extracorporeal membrane oxygenation[J]. Transplantation, 1997, 63(6): 910-911.
+[18]	Otero A, G 6 mez-Guti e rrez M, Su a Rez F, et al. Liver transplantation from Maastricht category 2 non-heart-beating donors[J]. Transplantation, 2003, 76(7): 1068-1073.
+[19]	Jimenez-Galanes S, Meneu-Diaz MJ, Elola-Olaso AM, et al. Liver transplantation using uncontrolled non-heart-beating donors under normothermic extracorporeal membrane oxygenation[J]. Liver Transpl, 2009, 15(9): 1110-1118.
+[20]	Fondevila C, Hessheimer AJ, Flores E, et al. Applicability and results of Maastricht type 2 donation after cardiac death liver transplantation[J]. Am J Transplant, 2012, 12(1): 162-170.
+[21]	Hagness M, Foss S, Sorensen DW, et al. Liver transplant after normothermic regional perfusion from controlled donors after circulatory death: the Norwegian experience[J]. Transplant Proc, 2019, 51(2): 475-478.
+[22]	Rodriguez-SanjuAn JC, Ruiz N, Minambres E, et al. Liver transplant from controlled cardiac death donors using normothermic regional perfusion: comparison with liver transplants from brain dead donors[J]. Transplant Proc, 2019, 51(1): 12-19.
+[23]	Isnardi DI, Olivero F, Lerda R, et al. Extracorporeal membrane oxygenation as a bridge to organ donation: A case report[J]. Transplant Proc, 2013, 45(7): 2619-2620.
+[24]	武玉强, 胡泽民, 何坤, 等. 公民逝世后器官捐献供肝移植胆 道并发症的预防经验[J].器官移植,2017, 8(4): 299-303.
+[25]	霍枫, 汪邵平, 李鹏, 等. 体外膜肺氧合用于心死亡供肝的初 步经验[J].中华肝胆外科杂志,2012, 18(5): 354-356.
+[26]	霍枫, 汪邵平, 李鹏, 等. 体外膜肺氧合用于脑心双死亡供者 器官获取的流程和方法[J].中华器官移植杂志，2013, 34⑺: 396-400.
+[27]	Johnson LB, Plotkin JS, Howell CD, et al. Successful emergency transplantation of a liver allograft from a donor maintained on extracorporeal membrane oxygenation[J]. Transplantation, 1997, 63(6): 910-911.
+[28]	Magliocca JF, Magee JC, Rowe SA, et al. Extracorporeal support for organ donation after cardiac death effectively expands the donor pool[J]. J Trauma, 2005, 58(6): 1095-1101, discussion 1101-1102.
+[29]	Rojas-Pena A, Sall LE, Gravel MT, et al. Donation after circulatory determination of death: the university of michigan experience with extracorporeal support[J]. Transplantation, 2014, 98(3): 328-334.
+[30]	Academy of Medical Royal Colleges. A code of practice for the diagnosis and confirmation of death[EB/OL]. (2010-08-10). https://www.aomrc.org.uk/reports-guidance/ukdec-reports-and-
+中华普通外科学文献(电子版)2019 年 12 月第 13 卷第 6 期 Chin Arch Gen Surg (Electronic Edition), December 2019, Vol. 13, No.6
+• 425 •
+guidance/code-practice-diagnosis-confirmation-death.
+[31]	Oniscu GC, Randle LV, Muiesan P, et al. In situ normothermic regional perfusion for controlled donation after circulatory death -the United Kingdom experience[J]. Am J Transplant, 2014, 14(12): 2846-2854.
+[32]	Wang CC, Wang SH, Lin CC, et al. Liver transplantation from an uncontrolled non-heart-beating donor maintained on extracorporeal membrane oxygenation[J]. Transplant Proc, 2005, 37(10): 4331-4333.
+[33]	Barrou B, Billault C, Nicolas-Robin A. The use of extracorporeal membranous oxygenation in donors after cardiac death[J]. Curr Opin Organ Transplant, 2013, 18(2): 148-153.
+[34]	Zhu XS, Wang SS, Cheng Q, et al. Using ultrasonography to monitor liver blood flow for liver transplant from donors supported on extracorporeal membrane oxygenation[J]. Liver Transpl, 2016, 22(2): 188-191.
+[35]	Dutkowski P, Polak WG, Muiesan P, et al. First comparison of hypothermic oxygenated perfusion versus static cold storage of human donation after cardiac death liver transplants: An international-matched case analysis[J]. Ann Surg, 2015, 262(5):
+764-770.
+古晨，廖小卒，李斌飞.体外膜肺氧合在心脏死亡器官捐献供肝保护中的应用[J/CD].中华普通外科学文献(电子版), 2019, 13(6): 421-425.
+[36]	Arias-Diaz J, Alvarez J, Gomez M, et al. Changes in adenine nucleotides and lipid hydroperoxides during normothermic cardiopulmonary bypass in a porcine model of type II non-heartbeating donor[J]. Transplant Proc, 1997, 29(8): 3486-3487.
+[37]	Garcia-Valdecasas JC, Fondevila C. In-vivo normothermic recirculation: An update[J]. Curr Opin Organ Transplant, 2010, 15(2): 173-176.
+[38]	Watson CJE, Hunt F, Messer S, et al. In situ normothermic perfusion of livers in controlled circulatory death donation may prevent ischemic cholangiopathy and improve graft survival[J]. Am J Transplant, 2018, 19(6): 1745-1758.
+[39]	Ortega-Deballon I, Hornby L, Shemie SD. Protocols for uncontrolled donation after circulatory death: A systematic review of international guidelines, practices and transplant outcomes[J]. Crit Care, 2015, 19: 268.
+[40]	Rojas-Pena A, Hall CM, Cook KE, et al. Timing of heparin and perfusion temperature during procurement of organs with extracorporeal support in donors after circulatory determination of death[J]. ASAIO J, 2011, 57(5): 368-374.
+(收稿日期：2019-05-29)
+(本文编辑：丁文珠)
+•医学视听•
+肠系膜上动脉阻断技术在胰头癌联合门静脉切除中的应用
+刘颖斌
+【专家简介】教授，博士生导师，主任医师。上海交通大学医学院附属新华医院副院长、普外科主任，上海市胆道疾病研究 重点实验室主任，上海市胆道疾病研究中心主任，上海交通大学医学院胆道疾病研究所所长。先后入选教育部“长江学者”特聘 教授、国家百千万人才工程、美国外科医师学院外籍会员、国家卫生计生突出贡献中青年专家，获全国“五一劳动奖章”、“全国医 德标兵”、上海市“五一劳动奖章”、上海市领军人才、上海市优秀学科带头人等荣誉称号。长期从事肝、胆、胰外科的临床与基础 研究。进行了多项手术技术的创新。在国际上首次报道了胆囊癌体细胞突变的研究，文章发表于Nature Genetics杂志(IF=29.2)。 主持国家‘863”计划重大专项1项，获国家自然科学基金项目7项(其中重点项目1项)，省部级科研项目15项。发表SCI论文 70余篇，总IF>200,他引次数600余次，发表核心期刊收录论文百余篇。
+【内容简介】胰头癌是一种高度恶性的消化系统肿瘤，手术切除是目前唯一有效的治疗方 法，能否对其实施根治性的R0切除是决定胰头癌患者远期生存效果的关键。讲者系统性回顾分 析了胰头癌手术中影响R0切除效果的诸多因素，包括肿瘤的后腹膜神经侵犯、胰包膜侵犯、血管 侵犯、切缘阳性以及淋巴结转移等，尤其对因肿瘤血管侵犯导致R0切除的难度和风险作了详尽 阐述，并详细介绍了肠系膜上动脉(superior mesenteric artery，SMA)阻断技术在胰头癌联合门静 脉切除中的应用，该技术可以充分保障血管吻合时间，并能有效减少术中出血，为实施R0切除创 造有利条件。视频演示了其手术过程。
+【关键词】胰腺肿瘤;R0切除;SMA阻断
+扫描二维码 观看本期视频
+DOI：10.3877/cma.j.issn.1674-0793.2019.06.019
+作者单位：200092 上海交通大学医学院附属新华医院普外科
+刘颖斌.肠系膜上动脉阻断技术在胰头癌联合门静脉切除中的应用[J/CD].中华普通外科学文献(电子版),2019, 13(6): 425.
+专家风采
+李斌飞
+李1武飞，男，主任医师，中山市人民医院党委委员、公共事业发展部部长、手术麻醉 一科主任、体外膜肺氧合(extracorporeal membrane oxygenation, ECMO )研究室主任。 现任中国医师协会体外生命支持分会常务委员、青年委员会副主任委员，中国生物医学生物 工程学会委员，中国心胸血管麻醉学会体外生命支持分会常务委员，广东省体外循环学会副 主任委员，广东省医学会麻醉学分会常务委员，广东省医师协会麻醉科医师分会第四届委员 会副主任委员，广东省临床医学学会生命支持专业委员会副主任委员，中山市医学会麻醉学 专业委员会主任委员。被评为“广东省杰出青年医学人才”和“中山市优秀专家•拔尖人 才”。2015年荣获“广东省劳动模范”称号，2017年荣获全国“五一劳动”奖章，2018年其 创建的创新工作室被授予“广东省劳模和工匠人才创新工作室”称号。
+长期从事心血管麻醉及体外生命支持工作，尤其是在ECMO领域取得多项国内领先成 就，被业内誉为“中国大陆ECMO第一人”。开创了国内第一例应用ECMO技术对重症心肌 炎患者实施的成功救治，主持创立了国内第一个ECMO治疗中心。近年来，其领导的ECMO 团队实现多项突破和技术创新，在重症心肌炎、心跳骤停、心脏手术后低心排血量综合征、 急性呼吸窘迫综合征等疾病方面救治效果显著，被同行广泛认可，许多疾病的治疗方案及治 疗效果有所突破。目前其团队应邀参与救治的地区及医院遍及全国，大量危重患者获益，从 绝望走向新生，其中重症心肌炎导致严重心力衰竭的救治成功率极高，临床获得巨大成就。 近年来致力于国内ECMO的推广应用，参编了多本专业书籍。通过常年开设专业培训班、远 程带教、召开ECMO学术会议等，培养ECMO专业技术人才数百名。由中山市人民医院举办 的“华人ECMO高峰论坛”已经成为中国ECMO专业领域的一大盛会。

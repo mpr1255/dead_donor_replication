@@ -1,0 +1,130 @@
+﻿• 426 •
+Chinese Journal of Clinical Thoracic and Cardiovascular Surgery, Apr. 2020, Vol. 27, No.4
+•论著•先天性心脏病，
+输血与心脏移植术后急性肾损伤相关性研究鬻 曾晓东，雷黎明，熊卫萍，吴怡锦，黄劲松，庄建，陈寄梅，朱卫中，罗丹东	虚簿需
+广东省人民医院 广东省医学科学院 广东省心血管病研究所 心外科(广州 510080)
+【摘要】目的研究围术期输血和心脏移植术后急性肾损伤(acute kidney injury, AKI)的相关性。方法选 取 2016 年 1 月至 2018 年 12 月在广东省人民医院心外科行心脏移植术的 67 例患者作为研究对象。根据排除标准 最后纳入 63 例患者,其中男 53 例、女 10 例,平均年龄(44.3±12.9)岁。将 20 例心脏移植术后使用连续性肾脏替 代治疗(continuous renal replacement therapy，CRRT)的患者作为RT组，另外将没有使用CRRT的43例患者作为 非 RT 组。比较两组患者基线资料、围术期输血资料及临床预后等指标。结果 两组术前基线特征基本一致。两 组在围术期输注红细胞量和血浆量、术后24 h出血量、是否再次手术探查等方面差异均有统计学意义(P<0.05)。 多因素分析发现围术期输注红细胞量是AKI的独立危险因素(OR=1.115)。相关性分析显示肾损伤程度与围术期 输注红细胞量呈正相关(r=0.686, P<0.05)。受试者工作特征(ROC)曲线下面积为0.923(95%CI 0.852 ~ 0.995, P<0.001)。经ROC曲线计算发现围术期输注红细胞超过18 mL/kg将增加心脏移植术后AKI发生率。结论 围术 期输血和心脏移植术后 AKI 密切相关,临床中输血越多肾损伤发生率越高、预后越差,建议可开展多种节约用血 措施。
+【关键词】 心脏移植；输血；急性肾损伤；肾脏替代治疗
+Correlation between blood transfusion and postoperative acute kidney injury after heart transplantation
+ZENG Xiaodong, LEI Liming, XIONG Weiping, WU Yijin, HUANG Jingsong, ZHUANG Jian, CHEN Jimei, ZHU Weizhong, LUO Dandong
+Department of Cardiac Surgery, Guangdong Cardiovascular Institute, Guangdong Academy of Medical Sciences, Guangdong Provincial People’s Hospital, Guangzhou, 510080, P.R.China
+Corresponding author: CHEN Jimei, Email: jimei1965@gmail.com
+【Abstract】 Objective To explore the correlation between perioperative blood transfusion and acute kidney injury (AKI) after heart transplantation. Methods A retrospective study was performed on 67 patients who underwent heart transplantation in the Department of Cardiac Surgery, Guangdong Provincial People's Hospital from January 2016 to December 2018, and finally 63 patients were included according to the exclusion criteria. There were 53 males and 10 females with an average age of 44.3±12.9 years. Twenty patients who adopted continuous renal replacement therapy (CRRT) after heart transplantation were divided into a RT group and the other 43 patients who did not use CRRT were divided into a non-RT group. Baseline characteristics, perioperative blood transfusion data and clinical prognosis were compared between the two groups. Results The preoperative baseline characteristics of the two groups were basically the same. There were significant differences in perioperative infusion of red blood cells and plasma, postoperative 24 h bleeding and re-exploration (P<0.05) between the two groups. The area under the receiver operating characteristic (ROC) curve was 0.923 (95%CI 0.852 to 0.995, P<0.001). The ROC curve showed that perioperative infusion of red blood cells more than 18 mL/kg would increase the incidence of AKI after heart transplantation. Conclusion Perioperative blood transfusion is closely related to AKI after heart transplantation. The more blood transfusion is in clinics, the higher incidence of renal injury is and the worse prognosis is. It is suggested that various blood-saving measures can be carried out.
+【Key words】 Heart transplantation; blood transfusion; acute kidney injury; renal replacement therapy
+DOI：10.7507/1007-4848.201909006
+基金项目：国家重点研发计划资助(2018YFC1002600 );广东省科技计划(2017B030314109 );广东省登峰计划 (DFJH201802)
+通信作者：陈寄梅，Email： jimei1965@gmail.com
+http://www.tcsurg.org
+中国胸心血管外科临床杂志 2020年4月第27卷第4期
+• 427 •
+心脏移植是治疗终末期心脏病的重要手段，移 植手术后急性肾损伤(acute kidney injury, AKI)的 发生率高达40.3% ~ 76%［1-2］,其中重度肾损伤高达 11%~20.4%［2-3］,且AKI导致患者的死亡率增加，严 重制约手术的成功率。改善全球肾脏疾病预后组 织(the Kidney Disease: Improving Global Outcomes， KDIGO)在2012年指南中建议对轻度AKI只需加 强监测，不需要特殊治疗。心脏移植术后肾损伤发 生率较高，大部分为轻度肾损伤，2012 年 KDIGO 指南把开始血液透析患者列入 AKI 3 期［4］，本研究 纳入 AKI 患者均为血液透析患者。随着 AKI 分期 增加，死亡率逐渐增高，心脏移植术后 AKI 患者中 需要肾脏替代治疗者住院死亡率高达 46.9%［2］，因此 对 AKI 3 期患者展开研究具有重要意义。
+心脏外科手术患者输血比例高达25% ~ 95%, 输血导致成人冠状动脉外科术后死亡率增加 2.6 倍［5］。 研究［6］表明输血是 AKI 的独立危险因素,通过减少 输血控制危险因素,可以减少围术期并发症、增加 手术成功率。围术期输血是心脏移植的关键,合理 输血具有增加血液携氧能力、改善组织代谢、增强 免疫力和凝血功能的作用,尤其在心脏移植手术治 疗中发挥着极其重要的作用。本研究旨在探讨围 术期输血和心脏移植术后 AKI 的相关性。
+1	资料与方法
+1.1	临床资料和分组
+纳入 2016 年 1 月至 2018 年 12 月在广东省人 民医院心外科行心脏移植术患者 67 例。排除标 准：(1)术前血液透析患者；(2)术后 24 h 内死 亡；(3)术后 24 h 内自动出院或转院；(4)病历资 料不完整。排除患者 4 例(1 例资料不完整,1 例术 后 24 h 转院治疗,1 例术后 24 h 内因重度低心排血 量综合征死亡,1 例术前接受血液透析治疗)。最 终共纳入 63 例患者,其中男 53 例、女 10 例,平均 年龄(44.3±12.9)岁，平均体重(62.7±12.1)kg,平均 身高(166.1±7.0)cm。所有患者术前经心脏彩超明 确诊断。术前诊断分别为扩张型心肌病 39 例,冠 状动脉粥样硬化性心脏病 16 例,心脏瓣膜病 6 例, 先天性心脏病 1 例,心脏肿瘤 1 例。根据心脏移植 术后是否使用连续性肾脏替代治疗(continuous renal replacement therapy, CRRT)将患者分为 RT 组(20 例)和非 RT 组(43 例)。
+1.2	围术期管理
+术前完善实验室血常规、肝肾功能、凝血功 能、血气分析、HIV病毒、水痘病毒、肝炎病毒、弓
+形虫、心电图、心脏彩超或冠状动脉造影等检查。 术中使用血液回收机。术后到 ICU 监护治疗,使用 呼吸机辅助通气,常规给予泼尼松+吗替麦考酚酯 和他克莫司抗排斥治疗。严密监护患者生命体征, 观察每小时尿量、出血量,监测肝肾功能、凝血指 标、T淋巴细胞绝对值计数、炎症指标(降钙素原、 C 反应蛋白)等。定期复查心脏彩超。根据尿量、 血肌酐和病情必要时予 CRRT。
+1.3	数据收集
+通过电子病历系统回顾性收集患者资料,包括 术前资料(性别、年龄、体重、身高),围术期因素 (左室射血分数、左室舒张末期内径、血红蛋白、血 肌酐、是否合并糖尿病、高血压、高脂血症、体外循 环时间、主动脉阻断时间、冷缺血时间、围术期输 血量和血浆量、24 h 出血量、是否再次手术探查), 预后因素(机械通气时间、ICU停留时间、总住院 时间、30 d 死亡例数)。
+1.4	统计学分析
+使用 SSPS 23.0 统计软件对数据进行统计分 析。对计量资料进行正态检验,符合正态分布变量 采用均数土标准差(方±s)表示，组间比较使用 Student’s t 检验；不符合正态分布的变量用中位数 和上下四分位数(P25, P,5)表示，组间比较使用秩和 检验(Mann-Whitney U)。计数资料采用例数表 示，组间比较采用X2检验。将围术期P<0.05的因 素纳入多因素分析,肾损伤与各多因素相关性分析 采用二分类 logistic 回归。为进一步论证其相关性 采用 Spearman 分析围术期输血量和 AKI 的相关 性。采用受试者工作特征(receiver operating characteristic, ROC)曲线评价变量的拟合效果。 P<0.05 为差异有统计学意义。
+2	结果
+2.1	患者一般资料
+平均体外循环时间(244.8±64.6)min。共有7 例患者死亡,其中 2 例死于重度低心排血量综合 征,4 例死于感染性休克,1 例死于脑出血。63 例 患者中 20 例需要使用 CRRT,AKI 3 期的发生率高 达 31.7%。
+RT 组和非 RT 组术前基线特征基本一致。术 后 RT 组较非 RT 组围术期输注红细胞量和血浆量 更多,术后 24 h 出血量更多,再次手术探查几率增 大(P<0.05,表1)。此外，心脏移植术后RT组较非 RT组需要更长的术后呼吸机辅助时间、ICU停留 时间和住院时间，死亡率增加(P <0.05)。
+http://www.tcsurg.org
+• 428 •
+Chinese Journal of Clinical Thoracic and Cardiovascular Surgery, Apr. 2020, Vol. 27, No.4
+表1心脏移植患者基本资料、围术期因素和预后情况［例闻》/中位数（P25, P,5）］
+指标	RT 组(n=20)	非 RT 组(n=43)	x2值“值	P值
+男	18	35	0.250	0.617
+年龄（岁）	43.0±13.8	45.0±12.6	-0.576	0.567
+体重（kg）	62.1±12.7	63.0±11.8	-0.281	0.780
+身高（cm）	166.5(163.0,170.0)	168.0(162.0,171.0)	416.500	0.842
+左室射血分数（%）	24.2±8.3	25.4±9.0	-0.502	0.618
+左室舒张末期内径（cm）	69.3±8.3	72.7±12.4	-1.127	0.264
+血红蛋白（g/L）	134.9±13.4	139.7±22.2	-1.059	0.294
+血肌酐（pmol/L）	108.9(79.4,155.7)	93.0(78.8,102.3)	302.000	0.059
+糖尿病	5	5	1.828	0.176
+高血压	2	2	0.065	0.798
+高脂血症	2	6	0.001	0.974
+体外循环时间（min）	252.0±88.5	241.5±50.9	0.490	0.628
+主动脉阻断时间（min）	117.8±24.2	127.5±36.3	-1.101	0.275
+冷缺血时间（min）	195.0(171.2,229.0)	187.0(164.0,210.0)	384.000	0.497
+围术期输注红细胞量（mL/kg）	61.4(29.5,92.8)	6.8(0.0,12.2)	63.000	<0.001
+围术期输注血浆量（mL/kg）	33.5(16.5,71.0)	8.2(5.0,12.9)	66.000	<0.001
+24 h 出血量(mL/kg)	10.5(7.7,15.5)	5.6(5.1,8.3)	128.000	<0.001
+再次手术探查	5	1	0.573	0.017
+机械通气时间（h）	150(42.7,317.5)	21.0(17.0,86.0)	176.000	<0.001
+ICU停留时间（d）	15.0(14.0,40.0)	8.0(7.0,12.0)	72.500	<0.001
+总住院时间（d）	47.5(33.25,67.75)	21.0(12.0,32.0)	143.500	<0.001
+30 d 死亡	5	2	5.282	0.028
+2.2	围术期输注红细胞量、血浆量与 AKI 发生率 的关系
+根据围术期输注红细胞量和血浆量对患者进 行分组，分别统计各组术后 AKI 的发生情况，结果 提示心脏移植手术围术期输注红细胞或血浆量越 多，AKI发生率越高（P<0.001,表2）。
+2.3	多因素回归分析结果
+所有心脏移植围术期有统计学意义的因素 （P<0.05）纳入多因素分析，包括输注红细胞和血浆 量、术后 24 h 出血量、是否再次手术探查。发现围 术期输注红细胞量是术后 AKI 的独立影响因素 （表3）。
+2.4	围术期输注红细胞量与 AKI 相关性结果
+相关性分析显示肾损伤程度与围术期输注红 细胞量呈正相关（r=0.686, P<0.001）。心脏移植术 后 AKI 发生率和围术期输红细胞量的关系见图1。 2.5 术后 AKI 与围术期输注红细胞量的 ROC 曲线 围术期输注红细胞量是心脏移植患者术后 AKI
+表 2 围术期输注红细胞量、血浆量与心脏移植术后 AKI 发生 率的关系（例）
+项目	RT组 (n=20)	非RT组 (n=43)	发生率 （%）	P值
+围术期输红细胞量				<0.001
+这 20 mL/kg	3	37	7.5	
+>20 〜40 mL/kg	5	4	55.6	
+>40 mL/kg	12	2	85.7	
+围术期输血浆量				<0.001
+这 20 mL/kg	6	36	14.3	
+>20 〜40 mL/kg	5	5	50.0	
+>90 mL/kg	9	2	81.8	
+的独立危险因素,故作 ROC 曲线进一步评估。结 果显示ROC曲线下面积为0.923（95%CI 0.852 ~ 0.995, P<0.001）,即围术期输注红细胞量用于预测 心脏移植术后 AKI 发生危险的敏感度为 92.3%,临
+http://www.tcsurg.org
+中国胸心血管外科临床杂志 2020年4月第27卷第4期
+• 429 •
+表 3 心脏移植术后 AKI 的多因素回归分析
+自变量	/	SE	Wald xx 值	OR值	95% CI 值	P值
+再次手术探查	-2.155	1.819	1.403	0.116	0.003 〜4.101	0.236
+围术期输红细胞量	0.109	0.044	6.104	1.115	1.023 〜1.216	0.013
+围术期输血浆量	-0.051	0.046	1.229	0.950	0.869 〜1.040	0.268
+24 h 出血量	0.118	0.104	1.277	1.125	0.917 〜1.379	0.258
+常量	-3.641	1.022	12.691	0.026	-	-
+图 1 心脏移植术后 AKI 发生率和围术期输注红细胞量的关系
+界点 18 mL/kg (图 2)。
+3	讨论
+近年来国外研究［1-3］显示心脏移植术后 AKI 发 生率高达40.3% ~ 76%,高于其他心脏手术，其中 Ivey-Miranda 等［3］发现心脏移植术后 AKI 3 期发生 率为 20.3%。本研究显示心脏移植术后 AKI 发生率 约 61.9%,其中 AKI 3 期的发生率 31.7%,总体发生 率处于较高水平,这和选择不同的 AKI 标准密切相 关,其中 2012 年 KIDGO 指南敏感性较高。同时, AKI 发生率和术后观察时间相关,术后观察时间短 的研究发生率较观察时间长的研究低。本研究将 术后在 ICU 治疗期间出现透析情况患者均纳入 RT 组。
+本研究结果显示围术期血制品的使用与术后 AKI 的发生密切相关,术后 RT 组较非 RT 组围术 期输注红细胞量和血浆量更多,术后 24 h 出血量更 多，再次手术探查几率增大(P均＜0.05)。既往研 究［7］表明新鲜冰冻血浆是心脏外科术后肾功能衰竭 的危险因素。围术期输注血浆引起免疫反应,和血 浆中含有异体白细胞和其他物质,如脂质和细胞因 子带来的免疫机制有关［7-8］。因本组纳入病例数有 限,多因素分析中围术期输注血浆量未出现阳性结 果。临床中要注意术中止血,减少术后 24 h 出血 量,避免再次开胸,减少输注血浆量。
+多因素分析结果显示围术期输注红细胞量是
+图 2 围术期输注红细胞量与心脏移植术后 AKI 的 ROC 曲线
+术后AKI的独立危险因素，优势比较小(OR= 1.115)，和既往研究相近(OR =1.18)［9］。本组相关性 系数r=0.686,提示相关性强，即输红细胞量越多， AKI 的发生几率越大。目前专门研究输血和 AKI 相关性研究较少，Merchant等［10］发现输注红细胞、 使用强心药和缩血管药是经导管主动脉瓣置换术 后AKI的独立危险因素。Freeland等［11］发现心脏手 术后输血是 AKI 的独立危险因素。
+输血相关的 AKI 发病机制尚未完全阐明，主要 表现在对肾实质的影响：(1)红细胞储存相关损 伤。研究［12］表明心脏外科手术后输注储存时间超 过 2 周的红细胞会增加患者 AKI 的风险，同时也会 降低短期和长期生存率。长时间储存红细胞会降 低红细胞功能和变形能力，损耗 2，3-二磷酸甘油 酸，活性一氧化氮减少，导致血红蛋白氧离曲线左 移，输氧能力、血管调节作用减弱，加之红细胞膜 脆性增加、促炎物质增加，逐渐溶血导致铁负荷增 加，加剧溶血、铁负荷、血管收缩和氧化应激等，这 些因素可能导致对肾实质的损伤［13-14］。(2)急性溶 血反应是心脏移植术后肾损伤非常重要的因素。 心脏移植手术体外循环时间较长，本中心体外循环 平均时间长达244.8 min，体外循环的机械物理作 用会造成溶血，输血本身也会加重溶血［15］。溶血产 生的肾毒性机制可能与 Tamm-Horsfall 蛋白在肾小 管内形成管型致肾小管梗阻相关，同时由于血红素
+http://www.tcsurg.org j^Eg
+• 430 •
+Chinese Journal of Clinical Thoracic and Cardiovascular Surgery, Apr. 2020, Vol. 27, No.4
+本身的亲脂性、氧化性而出现细胞毒性作用［15-17］。 另外体外循环引起缺血-再灌注导致肾损伤后，输 血会进一步加重 AKI 的发生［18］。在以上因素综合 作用下，输血量和 AKI 发生率呈正相关。
+心脏移植术后接受血液透析治疗属于 AKI 的 严重阶段，预示预后不良，本研究显示心脏移植术 后 RT 组较非 RT 组需要更长的术后呼吸机辅助时 间、ICU停留时间和住院时间，死亡率增加 (P<0.05 )。Nam等［19］关于输血量和心脏移植术患 者临床预后的研究中，住院死亡率 8.4%，和本组死 亡率相近( 11.1%)，同时研究发现围术期输红细胞 超过 6 单位会导致患者住院死亡率和长期死亡率 增加，本研究发现围术期输注红细胞超过 18 mL/kg 将会导致 AKI 发生的敏感性和特异性增加，提示临 床中用血注意输红细胞量控制在6 ~ 9单位(1单位 红细胞=120 mL)。既往研究证明限制性输血组将 血红蛋白控制在 7.5 g/dL 以上对心脏术后 AKI 发生 率没有影响［20］。
+本研究系回顾性、单中心研究，受制于样本量 有限，纳入因素可能不够全面。
+综上所述，围术期输注红细胞与心脏移植术后 AKI密切相关，输血越多，AKI发生的风险越高， 建议心脏移植围术期开展多种节约用血措施以期 降低 AKI 发生率、提高手术成功率。
+利益冲突：无。
+作者贡献：曾晓东、雷黎明和吴怡锦负责采集、分析、 解释研究数据和初稿的撰写；朱卫中、罗丹东、熊卫萍、黄 劲松负责设计研究方案并修订稿件；陈寄梅、庄建负责稿 件审核、学术内容指导。
+参考文献
+1	Fortrie G, Manintveld OC, Caliskan K, et al. Acute kidney injury as a complication of cardiac transplantation: incidence, risk factors, and impact on 1 -year mortality and renal function. Transplantation, 2016, 100(8): 1740-1749.
+2	Garcia-Gigorro R, Renes-Carreno E, Corres Peiretti MA, et al. Incidence, risk factors and outcomes of early acute kidney injury after heart transplantation: an 18-year experience. Transplantation, 2018, 102(11): 1901-1908.
+3	Ivey-Miranda JB, Flores-Umanzor E, Farrero-Torres M, et al. Predictors of renal replacement therapy after heart transplantation and its impact on long-term survival. Clin Transplant, 2018, 32(10): e13401.
+4	Khwaja A. KDIGO clinical practice guidelines for acute kidney injury. Nephron Clin Pract, 2012, 120(4): c179-c184.
+5	Vlot EA, Verwijmeren L, van de Garde EMW, et al. Intra-operative red blood cell transfusion and mortality after cardiac surgery. BMC Anesthesiol, 2019, 19(1): 65.
+6	Karkouti K, Wijeysundera DN, Yau TM, et al. Acute kidney injury after cardiac surgery: focus on modifiable risk factors. Circulation, 2009, 119(4): 495-502.
+7	Parreiras VC, Rocha Ide S, Martins AS, et al. Influence of fresh frozen plasma as a trigger factor for kidney dysfunction in cardiovascular surgery. Rev Bras Cir Cardiovasc, 2012, 27(3): 405410.
+8	Khan H, Belsher J, Yilmaz M, et al. Fresh-frozen plasma and platelet transfusions are associated with development of acute lung injury in critically ill medical patients. Chest, 2007, 131(5): 13081314.
+9	Kindzelski BA, Corcoran P, Siegenthaler MP, et al. Postoperative acute kidney injury following intraoperative blood product transfusions during cardiac surgery. Perfusion, 2018, 33(1): 62-70.
+10	Merchant AM, Neyra JA, Minhajuddin A, et al. Packed red blood cell transfusion associates with acute kidney injury after transcatheter aortic valve replacement. BMC Anesthesiol, 2019, 19(1): 99.
+11	Freeland K, Hamidian Jahromi A, Duvall L, et al. Postoperative blood transfusion is an independent predictor of acute kidney injury in cardiac surgery patients. J Nephropathol, 2015, 4(4): 121-126.
+12	Koch CG, Li L, Sessler DI, et al. Duration of red-cell storage and complications after cardiac surgery. N Engl J Med, 2008, 358(12): 1229-1239.
+13	Obrador R, Musulin S, Hansen B. Red blood cell storage lesion. J Vet Emerg Crit Care, 2015, 25(2): 187-199.
+14	Bishnoi A, Garg P, Patel K, et al. Effect of red blood cell storage duration on outcome after paediatric cardiac surgery: a prospective observational study. Heart Lung Circ, 2019, 28(5): 784-791.
+15	Haase M, Haase-Fielitz A, Bellomo R. Cardiopulmonary bypass, hemolysis, free iron, acute kidney injury and the impact of bicarbonate. Contrib Nephrol, 2010, 165: 28-32.
+16	Qian Q, Nath KA, Wu Y, et al. Hemolysis and acute kidney failure. Am J Kidney Dis, 2010, 56(4): 780-784.
+17	Mamikonian LS, Mamo LB, Smith PB, et al. Cardiopulmonary bypass is associated with hemolysis and acute kidney injury in neonates, infants, and children. Pediatr Crit Care Med, 2014, 15(3): e111-e119.
+18	Karkouti K. Transfusion and risk of acute kidney injury in cardiac surgery. Br J Anaesth, 2012, 109 Suppl 1: i29-i38.
+19	Nam K, Jang EJ, Kim GH, et al. Perioperative red blood cell transfusion and mortality following heart transplantation: a retrospective nationwide population-based study between 2007 and 2016 in Korea. J Card Surg, 2019, 34(10): 927-932.
+20	Garg AX, Badner N, Bagshaw SM, et al. Safety of a restrictive versus liberal approach to red blood cell transfusion on the outcome of aki in patients undergoing cardiac surgery: a randomized clinical trial. J Am Soc Nephrol, 2019, 30(7): 12941304.
+收稿日期：2019-09-01 修回日期：2019-10-27 本文编辑：董 敏
+j^E? http://www.tcsurg.org

@@ -1,0 +1,92 @@
+﻿临床超声医学杂志2019年 10月第21 卷第 10期 J Clin Ultrasound in Med,October 2019,Vol.21 ,No.10
+• 743 •
+・临床研究•
+二维斑点追踪成像评价无排异心脏移植患者 左室收缩功能
+蔡 迪 姚 雪 曹 省 易仁凤 郭瑞强
+摘要目的应用二维斑点追踪成像(2D-STI)评价无排异心脏移植患者的左室收缩功能。方法选取在我院 行心脏移植手术后长期临床随访未发现明显排异反应的患者50例(心脏移植组)和同期健康志愿者30例(对照组),应用 2D-STI检查获取两组左室心肌内膜、心肌外膜、整体纵向应变(endoGLS、epiGLS、GLS)、环向应变(endoGCS、epiGCS、 GCS)及左室整体径向应变(GRS)，并对两组进行比较分析。结果心脏移植组纵向应变参数GLS、endoGLS、epiGLS分 别为(-16.02±2.95%)、(-18.75±3.44)%、(-15.41±2.46)%，环向应变参数 endoGCS、GCS、epiGCS 分别为(-25.74±4.59)%、 (-15.22±3.79)%、(-10.66±3.73)%，径向应变参数GRS为(26.62±6.11)%，均较对照组减低，差异均有统计学意义(均P <0.001)。 结论心脏移植患者即使未发生排异反应，其左室收缩功能仍较正常成人低。2D-STI是评价心脏移植患者左室收缩功 能的有效手段。
+关键词 斑点追踪成像，分层应变，二维；心脏移植；心室功能，左
+［中图法分类号］R540.45;R617	［文献标识码］A
+Evaluation of left ventricular systolic function by two-dimensional speckle tracking layer-specific imaging in patients with non-rejection heart transplantation
+CAI Di，YAO Xue，CAO Sheng，YI Renfeng，GUO Ruiqiang
+Department of Ultrasonography，Renmin Hospital of Wuhan University，Wuhan 430060，China
+ABSTRACT Objective To evaluate left ventricular systolic function in patients with non-rejection heart transplantation by two-dimensional speckle tracking imaging(2D-STI).Methods A total of 50 patients with no significant rejection after longterm clinical follow-up in our hospital were enrolled as heart transplantation group，and 30 healthy volunteers matched by age and sex at the same time as control group. Two-dimensional echocardiography was performed. The strain parameters analyzed by EchoPAC analysis software，including global longitudinal strain(GLS)，GLS of endocardial and epicardial layers(endoGLS and epiGLS)，global circumferential strain(GCS)，GCS of endocardial and epicardial layers(endoGCS and epiGCS)，global radial strain(GRS).The results of two groups were compared and analyzed.Results The longitudinal strain parameters GLS，endoGLS and epiGLS of the heart transplantation group were(- 16.02±2.95)%，(- 18.75 ±3.44)%，(- 15.41 ±2.46)%，and the hoop strain parameters endoGCS，GCS and epiGCS were(- 25.74 ± 4.59)%，(- 15.22 ± 3.79)%，(- 10.66 ± 3.73)%，and the radial strain parameter GRS was(26.62 ± 6.11)%，which were lower than that in the control group，and the difference were statistically significan(t all P<0.001).Conclusion Patients with heart transplantation have lower left ventricular systolic function than that of normal adults even without rejection.2D-STI technology is an effective method to evaluate left ventricular systolic function in heart transplant patients.
+KEY WORDS Speckle tracking imaging，layer-specific imaging，two-dimensional；Heart transplantation；Ventricular function，left
+随着外科技术的进步及免疫抑制剂的使用，心脏	术后患者的生存率及生活质量明显改善，心内膜活检
+移植已成为治疗终末期心脏病的首选方法，心脏移植	是诊断排异反应的“金标准”，但因有创限制了其在临
+作者单位：430060 武汉市，武汉大学人民医院超声影像科
+通讯作者：郭瑞强，Email ： ruiqiangwhrm@hotmail.com
+• 744 •
+临床超声医学杂志2019年 10月第21 卷第 10期 J Clin Ultrasound in Med,October 2019,Vol.21,No.10
+床中的广泛应用E。二维斑点追踪成像(two-dimensional speckle tracking imaging，2D-STI)是近年来受到广泛关 注的超声应变新技术，在早期无创的诊断排异反应方 面具有潜在的应用价值。研究［2］表明，心内膜活检证 实发生n级及以上排异反应的心脏移植患者左室整 体纵向应变(global longitudinal strain，GLS)绝对值减 低，左室GLS<- 9.55%预测排异反应的敏感性达 87.50%，特异性54.17%。本研究应用2D-STI分析临 床状态稳定且无明显并发症的无排异心脏移植患者 左室应变参数，评价其与正常健康心脏左室收缩功能 的差异，为监测排异反应的发生提供参考。
+资料与方法
+一、研究对象
+选取2017年1月至2018年12月在我院复查的心 脏移植术后无排异患者50例(心脏移植组)，男35例， 女15例，年龄25~64岁，平均(52.31±7.29)岁。其中 27例扩张型心肌病终末期，17例缺血性心肌病终末 期，2例先天性心肌致密化不全，艾森门格综合征、肥 厚型心肌病继发扩张型心肌病、心肌炎、风湿性心脏 瓣膜病各1例。术后常规免疫抑制方案：他克莫司+赛 可平+泼尼松龙。纳入标准:①行常规超声心动图检 查，未发现明显节段性室壁运动异常及轻度以上瓣膜 反流;②未发生急性心力衰竭，左室射血分数(LVEF) 正常，55%~65% ；③所有入选者经详细询问病史、体格 检查、心电图、心肌酶学及超声检查排除急性排异反 应、心肌梗死、心律失常及其他器质性心脏疾患； ④排除图像质量欠佳，无法进行随访的患者。另随机 入选同期健康志愿者30例为对照组，其中男17例，女 13例，年龄26~65岁，平均(50.32±13.21)岁；经病史、 心电图、超声心动图及体格检查排除心血管疾病及其 他器质性疾病。本研究经我院医学伦理委员会批准， 所有研究对象均签署知情同意书。
+二、仪器与方法
+1	.仪器：使用GE Vivid E 9彩色多普勒超声诊断 仪，M5S探头，频率1.7~3.3 MHz；配备EchoPac工作站 及分析软件。
+2	.常规超声心动图参数检测：嘱受检者左侧卧位， 平静呼吸，连接同步心电图。所有受检者均常规获取 二尖瓣、乳头肌、心尖水平短轴切面、心尖四腔、三腔 及两腔切面，测量左室舒张期末期内径(LVEDd)、舒 张末期室间隔厚度(IVSd)、左室收缩末期内径 (LVESd)及左房内径(LAd)；双平面Simpon法测量
+LVEF ；测量二尖瓣口舒张早期血流峰值速度(E)和二 尖瓣环室间隔舒张早期运动峰值速度(e’)，并计算 E/e ’。连续采集3~5个心动周期清晰图像，存盘以 备分析。
+3	.左室2D-STI应变参数检测：将采集图像拷贝到 EchoPac工作站，Q-analysis的2DS软件进行图像分 析。通过血流频谱确定收缩期和舒张期，进入二维分 层应变分析模式，分别于二尖瓣、乳头肌、心尖水平短 轴切面，以及心尖四腔、三腔、两腔切面，依据软件指 示勾画心内膜，生成感兴趣区，手动调节区域宽度使 其与心肌厚度一致，软件自动将心肌分成心内膜心 肌、中层心肌及心外膜心肌3层，获取左室18个节段 心内膜心肌纵向应变及环向应变(endoGLS、 endoGCS)，外膜心肌纵向应变及环向应变(epiGLS、 epiGCS)，整体心肌纵向应变、环向应变及径向应变 (GLS、GCS、GRS)。
+4	.重复性检验：从心脏移植组及对照组中分别随 机抽取10例作为研究对象，由两名有经验的超声医师 获取图像并进行分析，每个病例均测量2次，进行观察 者内及观察者间endoGLS的重复性分析。
+三、统计学处理
+应用SPSS 22.0统计软件，计量资料以x±s表示，两 组比较行力检验;重复性检验采用Bland-Altman分析法。 P <0.05为差异有统计学意义。
+结果
+一、两组临床基本资料比较
+与对照组比较，心脏移植组心率加快，差异有统 计学意义(P<0.001)；两组年龄及血压比较差异均无统 计学意义。见表1。
+表1心脏移植组与对照组临床基本资料比较(X ± s)
+组别	年龄 (岁)	心率 (次/min)	收缩压 (mm Hg)	舒张压 (mm Hg)
+心脏移植组	52.31±7.29	85.73±11.23	132.73±18.72	81.68±8.13
+对照组	50.52±13.21	72.52±8.28	130.72±15.93	79.04±7.03
+t值	0.78	5.59	0.49	1.48
+P值	0.44	<0.001	0.63	0.14
+1 mm Hg=0.133 kPa				
+二、两组常规超声心动图参数比较
+心脏移植组LAd增大，IVSd增厚，与对照组比较 差异均有统计学意义(均P<0.001)。两组LVEDd、 LVESd、E/e’、LVEF比较差异均无统计学意义。 见表2。
+临床超声医学杂志2019年 10月第21 卷第 10期 J Clin Ultrasound in Med,October 2019,Vol.21 ,No.10
+• 745 •
+三、两组左室2D-STI应变参数比较
+心脏移植组纵向应变参数（GLS、endoGLS、 epiGLS），环向应变参数（endoGCS、GCS、epiGCS）及径 向应变参数GRS均较对照组减低，差异均统计学意义
+（均P<0.001）o见表3和图1。
+四、重复性分析
+观察者内和观察者间测量endoGLS的变异系数分 别为2.8%和3.4%。
+表2			两组常规超声心动图参数比较（I ± S）			
+组别	LAd(mm)	LVEDd(mm)	LVESd(mm)	IVSd(mm)	LVEF(%)	E/e’
+心脏移植组	38.3±2.84	42.3±1.32	27.3±5.54	10.1±1.27	62.14±2.23	11.12±2.91
+对照组	32.2±4.63	41.2±3.64	25.2±4.17	8.13±0.29	63.21±5.29	10.9±3.32
+t值	4.95	1.62	1.73	8.43	-1.26	0.25
+P值	<0.001	0.110	0.080	<0.001	0.210	0.800
+LAd：左房内径;LVEDd：左室舒张末期内径;LVESd：左室收缩末期内径;IVSd：舒张末期室间隔厚度;LVEF：左室射血分数;E/e’：二尖瓣口舒张 早期血流峰值速度与二尖瓣环室间隔舒张早期运动峰值速度比值
+表3两组左室2D-STI应变参数比较（I士s）	%
+组别	GLS	endoGLS	epiGLS	GCS	endoGCS	epiGCS	GRS
+心脏移植组	-16.02±2.95	-18.75±3.44	-15.41±2.46	-15.22±3.79	-25.74±4.59	-10.66±3.73	26.62±6.11
+对照组	-21.12±2.22	-24.31±2.58	-18.75±1.96	-21.26±4.22	-33.17±5.26	-13.32±3.56	41.10±6.04
+t值	-8.22	-7.65	-10.11	-6.55	-6.64	-4.33	10.30
+P	<0.001	<0.001	<0.001	<0.001	<0.001	<0.001	<0.001
+GLS、endoGLS、epiGLS分别表示整体、内膜、外膜纵向应变参数；GCS、endoGCS、epiGCS分别表示整体、内膜、外膜环向应变参数；GRS ：整体 径向应变
+人：对照组,endoGLS、GLS、epiGLS分别为-26.0%、-22.4%、-19.9%征：心
+脏移植组，endoGLS、GLS、epiGLS分别为-19.1%、-15.5%、-13.4%
+图1 两组左室内膜、外膜及整体纵向应变牛眼图
+讨论
+移植心脏发生急性排斥反应时,心肌组织内淋巴
+细胞、单核细胞浸润致心肌水肿变性、坏死、出血及间 质纤维化,心肌质量增加,室壁增厚,左室顺应性下 降；炎症细胞浸润实质组织,导致间质水肿和心肌细 胞纤维的后续损伤,影响心肌的收缩功能。因此,移 植心脏急性排斥反应的特异性表现主要有心功能的 变化、室壁厚度的变化及室壁运动的异常［3］。即使心 脏未发生排异反应,但其外科手术,供心术前的缺血 时间、去神经化,以及术前存在的肺动脉高压和术后 免疫排异药物的使用均可能影响移植心脏的功能［4］, 使得临床状态稳定的“健康”移植心脏与健康人的正 常心脏仍存在客观差异,本研究结果显示,心脏移植组 心率较对照组加快，差异有统计学意义（P<0.05）；本研 究还发现，心脏移植患者LAd较对照组增大（P <0.05）， 考虑是由于手术时保留部分左房壁所致；与对照组比 较，心脏移植患者IVSd增厚（P<0.05），可能主要是免 疫抑制治疗的影响。常用的免疫抑制药物具有一定 的副作用，常会导致肾功能不全及系统性高血压，而 这些并发症均可能导致IVSd增厚⑸。
+心脏移植术后对移植心脏左室收缩功能的监测 可早期发现心功能的损害，指导临床积极采取相应措 施以预防严重心血管事件的发生，对提高术后生存率 及其重要。LVEF是观察左室收缩功能最常用的指 标，但其对于左室收缩功能的改变缺乏足够的敏感
+• 746 •
+临床超声医学杂志2019年 10月第21 卷第 10期 J Clin Ultrasound in Med,October 2019,Vol.21,No.10
+性。研究[6]表明，在心内膜活检证实发生2级以上急 性排异反应的心脏移植患者中，LVEF仍在正常参考 值范围内，与对照组比较差异无统计学意义。李政 等G应用2D-STI技术评价移植心脏左、右室纵向收缩 功能，研究发现心脏移植排异组、无排异组及对照组 GLS比较差异有统计学意义（P<0.05）。推测左室应变 参数可预测心脏移植后排异反应。Du等18〕研究发现， 与对照组比较，心脏移植术后排异组GLS、GCS及GRS 均减低，差异均有统计学意义（均P<0.05）。本研究应 用2D-STI技术对移植心脏无排异反应患者进行分析， 结果显示，与对照组比较，心脏移植组LVEF未见明显 减低，左室GLS、GCS及GRS均减低，差异均有统计学意 义（均P<0.001）。本研究进一步应用2D-STI分层应变 技术获取心脏移植患者内膜及外膜心肌应变参数，发 现与对照组比较，心脏移植组endoGLS、endoGCS及 epiGLS、epiGCS 均降低，其中 endoGLS、endoGCS 下降 更明显，差异均有统计学意义（均P<0.001）。据我国 心脏移植注册中心数据显示，中国内地供体心脏冷缺 血时间中位数为4.0 h[9],当心肌短暂缺血缺氧时,心肌 缺血时心内膜下小血管网首先受累，因此心内膜下心 肌缺血表现更为严重〔10〕。本研究中endoGLS、 endoGCS下降幅度均较epiGLS、epiGCS更大，提示内 膜心肌较外膜心肌对左室收缩功能改变的反映更敏 感。本研究由两位超声医师从两组中随机抽取10例 进行重复性检验，结果显示观察者内和观察者间测量 endoGLS的变异系数分别为2.8%和3.4%,提示2D-STI分层应变参数endoGLS结果具有较高的可重复性。
+本研究存在一定的局限性:①2D-STI技术要求高 清晰的二维图像，而心脏移植术后患者往往图像清晰 度欠佳，较难获取标准图像，影响斑点追踪;②由于临 床限制，本研究未能对心脏移植术患者行心内膜活 检;③样本量较小，且未能排除心脏移植患者个体用 药对心脏的影响。因此后期需控制相关因素，扩大样 本量进一步研究。
+综上所述，移植心脏患者即使未发生排异反应且 LVEF正常，其左室收缩功能仍可能减低。2D-STI技
+术获取的应变参数，可早期反映移植心脏患者左室收 缩功能的变化;建立更适于移植心脏患者的左室应变 指标参考值范围，推动2D-STI技术在无创监测排异反 应方面的运用。
+参考文献
+[ 1〕 Ruiz Ortiz M，Pena ML，Mesa D，et al.Impact of asymptomatic acute cellular rejection on left ventricle myocardial function evaluated by means of two-dimensional speckle tracking echocardiography in heart transplant recipients[J〕 .Echocardiography，2015，32(2)： 229-237.
+[2〕 Du GQ，Hsiung MC，Wu Y，et al. Three-dimensional speckletracking echocardiographic monitoring of acute rejection in heart transplant recipients[J〕 .J Ultrasound Med，2016，35(6)：1167-1176.
+[3〕 于岩，王辉山，金岩，等.超声心动图监测心脏移植术后排斥反应 价值研究[J].临床军医杂志,2018,46( 12)： 1395-1397.
+[4] Monivas Palomero V, Mingo Santos S, Goirigolzarri Artaza J, et al. Two - dimensional speckle tracking echocardiography in heart transplant patients：two -year follow-up of right and left ventricular function[J〕 .Echocardiography,2016,33(5)：703-713.
+〔5] Soderlund C , Radegran G. Immunosuppressive therapies after heart transplantation--The balance between under- and over-immunosuppression[J] .Transplant Rev(Orlando)，2015，29(3)： 181-189.
+[6] Mingo-Santos S，Monivas-Palomero V，Garcia-Lunar I，et al. Usefulness of two-dimensional strain parameters to diagnose acute rejection after heart transplantation[J] . J Am Soc Echocardiogr， 2015，28(10)：1149-1156.
+[7] 李政，潘翠珍，舒先红，等.二维斑点追踪及组织多普勒技术评价 移植心脏纵向收缩功能的临床研究J].中华超声影像学杂志， 2014，23(4)：281-284.
+[ 8] Du GQ,Hsiung MC,Wu Y,et al. Three-dimensional speckletracking echocardiographic monitoring of acute rejection in heart transplant recipients[J].J Ultrasound Med,2016,35(6)：1167-1176.
+[9]胡盛寿.中国心脏移植现状仃].中华器官移植杂志,2017,38(8)： 449-454.
+[ 10] Sarvari SI,Haugaa KH,Zahid W,et al. Layer-specific quantification of myocardial deformation by strain echocardiography may reveal significant CAD in patients with non-ST-segment elevation acute coronary syndrome[J] .JACC Cardiovasc Imaging,2013,6(5)： 535-544.
+(收稿日期：2019-01-19)
+免收稿件处理费的通知
+为鼓励作者投稿,简便投稿手续,经我刊编委会讨论通过,本刊免收文章稿件处理费。
+本刊编辑部

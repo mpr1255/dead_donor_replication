@@ -1,0 +1,119 @@
+﻿中国循环杂志 2019 年 8 月 第 34 卷 第 8 期(总第 254 期)Chinese Circulation Journal,August,2019,Vol. 34 No.8(Serial No.254)
+761
+冠心病研究
+心脏移植物血管病变特点和介入治疗八例分析
+田宏伟，乔树宾，黄洁，胡奉环，杨伟宪，袁建松，崔锦钢，刘圣文
+摘要
+目的：分析心脏移植物血管病变(CAV)特点和接受经皮冠状动脉介入治疗(PCI)的临床结果。
+方法：在2012年9月至2018年6月期间，阜外医院共进行454例心脏移植。移植前供体心脏冠状动脉均正常。 本研究回顾性分析确诊为CAV并接受冠状动脉造影和PCI治疗患者的临床症状、病变特点、治疗情况和远期随访结果。
+结果：接受PCI治疗的8例(1.8%)CAV患者中，男性7例，女性1例。接受心脏移植时年龄(41.9±16.1)岁， 心脏移植后至接受PCI的时间为(6.1±2.4)年。患者因胸痛、呼吸困难、乏力、恶心、头晕等症状住院，但仅4例(50%) 为典型胸痛症状者。药物洗脱支架(DES)共治疗成功11处病变。术后平均电话随访(31.4±24.7)个月，4例患者冠 状动脉造影复查，3例患者有3处靶病变发生支架内再狭窄(ISR), 2例患者有6处病变为闭塞性病变接受再次PCI。 未行冠状动脉造影复查的4例患者，2例患者发生心原性死亡。
+结论：发生CAV的患者缺血症状不典型，弥漫性闭塞病变发生率较高，PCI是CAV的主要治疗手段。 关键词 心脏移植物血管病变；经皮冠状动脉介入治疗；药物涂层支架；支架内再狭窄
+The Characteristics and Clinical Outcomes of 8 Patients With Cardiac Allograft Vasculopathy Treated With Percutaneous Coronary Intervention
+TIAN Hongwei, QIAO Shubin, HUANG Jie, HU Fenghuan, YANG Weixian，YUAN Jiansong, CUI Jingang, LIU Shengwen. Department of Cardiology, National Center for Cardiovascular Diseases and Fuwai Hospital, CAMS and PUMC, Beijing(100037), China Corresponding Author: QIAO Shubin, Email: qsbfw@sina.com
+Abstract
+Objectives: To analyze the clinical characteristics and clinical outcomes of 8 patients with cardiac allograft vasculopathy (CAV) treated with percutaneous coronary intervention (PCI).
+Methods: A total of 454 patients underwent heart transplantation in fuwai hospital from September 2012 to June 2018. The coronary arteries of the donor heart were normal before transplantation. The present study retrospectively analyzed the clinical symptoms, lesion characteristics, treatment and long-term follow-up results of 8 patients with CAV treated with PCI.
+Results: Among the 8 (1.8%) CAV patients (7 males, 1 female) treated with drug-eluting stent percutaneous coronary intervention (PCI DES), the mean age in heart transplantation was (41.9±16.1) year and the mean time from heart transplantation to first intervention was (6.1±2.4 )years. The patients were hospitalized due to chest pain, dyspnea, fatigue, nausea, dizziness. However, only 4 cases (50%) were typical chest pain symptoms. Among 11 lesions treated with PCI DES, 6 were chronic occlusion lesions. During a mean follow-up with telephone after PCI DES of (31.4±24.7 )months, 4 patients were followed up with coronary angiography (CAG) after PCI DES. In-stent restenosis (ISR) occurred in 3 lesions, 2 patients underwent PCI DES again. Among the other 4 patients without CAG after PCI, 2 deaths occurred after PCI DES.
+Conclusions: CAV patients often present with atypical ischemic symptoms and the incidence of diffuse occlusion lesions is high. PCI is still the main treatment of CAV.
+Key words cardiac allograft vasculopathy；percutaneous coronary intervention；drug-coated stents; in-stent restenosis (Chinese Circulation Journal,2019, 34, 761.)
+作者单位：10003工北京市，中国医学科学院 北京协和医学院 国家心血管病中心 阜外医院 心内科
+通信作者：乔树宾 Email：qsbfw@sina.com
+中图分类号:R541 文献标识码:A 文章编号：1000-3614（2019）08-0761-04 DOI:10.3969/j.issn.1000-3614.2019. 08.005
+762
+中国循环杂志 2019 年 8 月 第 34 卷 第 8 期(总第 254 期)Chinese Circulation Journal,August,2019,Vol. 34 No.8(Serial No.254)
+中国是当今全球心血管病（CVD）负担最重的 国家之一［1］。目前，心血管病死亡占城乡居民总死 亡原因的首位［2］。心脏移植物血管病变（CAV）是心 脏移植后1年的主要死亡病因［3-4］oCAV目前的病 因包括组织兼容性差、急性排斥反应、慢性炎症、 巨细胞病毒感染等。除此之外，还包括高血压、糖 尿病等疾病，这些病因造成内皮细胞损伤、功能异 常［5-7］o与局灶性动脉粥样硬化斑块不同，CAV是 以弥漫性、进行性内膜增生为特点的冠状动脉（冠 脉）病变。CAV以末端小血管病变开始，逐渐蔓延 到心外膜冠脉，导致冠脉狭窄甚至闭塞。病理检查 发现CAV有大量的巨噬细胞和T淋巴细胞浸润，使 内皮细胞和平滑肌细胞在炎症环境中大量增生，导 致管腔发生弥漫性狭窄，甚至闭塞［5］。目前的治疗方 案包括抗细胞增殖药物、血运重建、心脏再次移植等。 本研究总结分析8例CAV患者接受经皮冠脉介入治 疗（PCI）置入药物洗脱支架（DES）的临床结果。
+1资料与方法
+临床资料：选取2012年9月至2018年6月期 间，阜外医院共进行454例心脏移植。移植前供体 心脏冠脉均正常，由于胸痛、呼吸困难、乏力、恶心、 头晕等临床症状入院接受PCI DES治疗的CAV患者 8例（1.8%），其中男性7例（87.5%），合并高血压4 例，合并糖尿病4例，多支病变患者为2例，发病 时伴有胸痛症状者4例，接受心脏移植时的平均年 龄为（41.9±16.1）岁。8例患者接受心脏移植的病因 包括冠心病（3例）、肥厚型心肌病（1例）、扩张型 心肌病（2例）、大动脉转位（1例）和心肌致密化不 全（1例）o PCI术前所有患者均接受免疫抑制剂药
+物治疗。PCI手术适应证：移植心脏的血管近中段狭 窄＞ 80%,无PCI手术禁忌证。
+治疗方法：冠脉造影及PCI术均由本中心经验 丰富的独立术者实施。
+心脏移植血管狭窄程度的定义：移植血管狭窄程 度的计算公式为（参考管腔直径-最小管腔直径）/参 考管腔直径。PCI后残余狭窄＜50%定义为PCI成功， PCI术后随访复查冠脉造影，血管支架内狭窄＞50% 定义为支架内再狭窄（ISR）o
+随访：采用电话随访和接受冠脉造影检查随访。
+本研究采用无士 S和百分比进行结果分析。
+2结果
+8例患者的一般资料：8例患者首次接受PCI DES的平均年龄为（48.0±16.2）岁。心脏移植术后 首次PCI DES时间为（6.1±2.4）年（表1）。8例患者 共有11处靶病变行PCI DES治疗，其中有6处病 变为闭塞病变，另外5处靶病变狭窄程度在80%和 90%（表2）。
+表1|8例患者的一般临床资料［例（％）］	
+项目	数据
+男性	7 (87.50)
+胸痛	4 (50.00)
+糖尿病	4 (50.00)
+高血压	4 (50.00)
+多支病变	2 (25.00)
+心脏移植时年龄（岁，又土s）	41.9±16.1
+第一次PCI时年龄（岁，x±s）	48.0±16.2
+心脏移植术后到首次PCI时间（年，X土s）	6.1±2.4
+免疫抑制剂	8 (100.00)
+注:PCI：经皮冠状动脉介入治疗
+表2|8例患者心脏移植术后首次PCI DES的临床资料				
+病例编号	病变血管	病变狭窄程度（％）	支架枚数	支架名称及规格
+1	LAD	100	1	Resolute Integrity 3.0 mmx24.0mm
+2	LAD	100	1	Promus Premier 3.0 mmx32.0 mm
+3	LAD	80	1	Partner 3.5 mmx12 mm
+4	LAD	90	1	Xience Xpedition 3.5 mmx18.0 mm
+5	LCX	100	1	Excel 2.75 mmx14.00 mm
+	OM1	80	1	Promus Premier 3.5 mmx8.0 mm
+	OM2	80	1	Firehawk 2.25 mmx18.00 mm
+6	RCA	100	2	Firebird 2.75 mmx33.00 mm ; Excel 3.0 mmx36.0 mm
+7	LAD	90	1	Partner 2.5 mmx33.0 mm
+	RCA	100	1	Partner 3.0 mmx36.0 mm
+8	LAD	100	1	Resolute Integrity 2.75 mmx24.00 mm
+注:PCI：经皮冠状动脉介入治疗；DES：药物洗脱支架；LAD：左前降支;LCX：左回旋支;OM1：第1钝缘支;OM2：第2钝缘支;RCA：右冠状动脉
+中国循环杂志 2019 年8月 第 34卷 第 8 期(总第 254 期死屁皿牙© Circulation Journal,August,2019,Vol. 34 No.8( Serial No.254)
+763
+8例患者的治疗结果：8例患者11处靶病变均 行PCI DES治疗，共置入12枚DES,其中1例置 入3枚DES, 2例各置入2枚DES,其余5例各置 入1枚DES （表2）。治疗过程中无急性血栓、边 支闭塞、无复流等并发症发生，8例患者PCI手术 均成功。
+随访结果：8例患者PCI DES后平均电话随访 （31.4±24.7）个月，4例患者的4处靶病变PCI DES 后平均（31.7±21.0）个月接受冠脉造影,其中1例 患者1处靶病变原支架通畅；3例患者3处靶病变出
+现ISR，1例支架内狭窄100%，未再行PCI；2例支 架内狭窄同时合并新生病变,支架内狭窄程度为分 别为50%和60%，新生病变狭窄程度分别为90% 和100%，均给予PCI治疗。首次PCI DES术后未 行冠脉造影复查的4例患者中，2例随访未发现心 血管不良事件，2例患者发生心原性死亡，死亡原 因分别为心原性猝死和心力衰竭（表3）。心脏移植 术后首次PCI DES至死亡时间分别为1个月和1年；， 心脏移植术后至死亡时间分别为1年和8.3年，8例 患者无再次接受心脏移植（表4）。
+表3|8例患者首次PCI DES术后造影及随访事件资料			
+病例编号	是否造影随访	造影结果	随访事件
+1	是	ISR 50%、LCX新生病变狭窄100%	ISR、再次 PCI（LCX）
+2	否	一	无
+3	是	支架通畅	无
+4	否	一	无
+5	否	一	因心力衰竭死亡
+6	是	ISR 100%	ISR，拒绝再次PCI
+7	否	-	心原性猝死
+8	是	ISR 60%、LCX新生病变狭窄90%	ISR、再次 PCI(LCX)
+注:PCI：经皮冠状动脉介入治疗；DES：药物洗脱支架；ISR：支架内再狭窄；LCX：左回旋支。-：未做
+表418例患者的随访资料	
+项目	数据
+PCI术后随访时间（月，天土s）	31.4土24.7 (1.0~70.6)*
+死亡［例（％）］	2 (25)
+心原性死亡［例（％）］	2 (25)
+再次心脏移植［例（％）］	0 (0)
+再次PCI［例（％）］	2 (25)
+注:PCI：经皮冠状动脉介入治疗；*:括号内为范围
+3讨论
+心脏移植目前已成为治疗终末期心脏病较有 效的手段［8］，虽然心脏移植后患者5年生存率高 达88% ［9］，但是CAV仍然是患者死亡的主要原因。 CAV具有广泛的形态学和组织病理学变化，通常表 现为弥漫性或局限性阻塞病变，病理变化包括血管 内膜增厚、粥样斑块形成等［10-11］。研究表明，2/3 的近中段病变表现为脂质斑块，68%的远端弥漫性 病变表现为血管内膜纤维化增生［12］。对CAV的预 防和治疗对心内科医生来说是一个重要的挑战，有 可能提高患者移植后的长期存活率，不幸的是目前 关于CAV的治疗非常有限。CAV多表现为远端血 管弥漫性病变，因此冠脉旁路移植术（CABG）治疗
+CAV效果有限［13］。心脏再次移植并不是所有患者的 选择，死亡率也较高［14］。因此对于CAV的第一道 防线仍然是免疫抑制剂的规范使用，免疫抑制剂通 过阻断细胞增殖的传导信号抑制细胞增殖。研究表 明，免疫抑制剂的规范使用能够显著降低心脏移植 术后的CAV发生率［15-16］。晚期CAV病变多以冠脉 管腔严重狭窄导致心肌缺血为主要表现，免疫抑制 剂对此无效。由于CAV近中段的病理变化与冠脉粥 样硬化病理变化类似，因此，介入治疗可以用来治 疗CAV近中段病变［17-18］。
+CAV患者临床表现为急性心肌梗死、顽固性心 力衰竭、猝死等。由于心脏移植去神经，CAV患者 发病时通常缺少典型胸痛症状，通常以呼吸困难、 乏力、恶心、头晕、心悸等临床症状入院就诊。本 研究中有4例患者表现为典型的胸痛症状，研究显 示典型胸痛症状可能和心脏移植后神经再生有关， 胸痛发生率约为10%~30%，胸痛发生的具体机制目 前研究不清［19］。
+PCI治疗CAV具有手术成功率高、降低发病 率和死亡率等优点，国际心肺移植协会（ISHLT）分 级为3级的CAV患者远期死亡率明显增高，PCI能 够明显降低这些患者的远期死亡率。另外，他汀类 药物能够提高这些患者的生存率［20］。尽管如此，但
+764	中国循环杂志 2019 年 8 月 第 34 卷第 8 期(总第 254 期第屁口6$6 Circulation Journal, August,2019,Vol. 34 No.8( Serial No.254)
+是PCI后靶病变再狭窄发生率仍然很高，普通球囊 血管成形术(POBA)再狭窄发生率为35% ~100%， DES再狭窄发生率为20% ~56%[5]。本研究接受冠 脉造影随访的4例患者中有3例发生ISR，稍高于 文献报道，可能与样本量少有关。因此，PCI治疗 CAV被认为是一种缓解性治疗方案，并不能阻断 CAV发病进展。与金属裸支架(BMS)和POBA相比， DES能够显著降低靶病变再狭窄和靶病变再次血运 重建发生率[5, 21-22]。目前，再次心脏移植被认为是 CAV患者的唯一确切治疗方法，但是与原发性CAV 患者相比，再次心脏移植能增加远期死亡率[23]。
+总之，CAV多表现为弥漫性闭塞病变。尽管 PCI治疗CAV患者ISR发生率高，但是再次心脏移 植供心紧缺，费用昂贵。目前，PCI仍然是CAV的 主要治疗手段。
+利益冲突：所有作者均声明不存在利益冲突
+参考文献
+[1]	赵冬.当前中国心血管病流行的特征和防治需求[J].中国循环杂志，
+2019, 34(4): 313-315. DOI： 10.3969/j.issn. 1000-3614. 2019. 04. 001.
+[2]	胡盛寿,高润霖,刘力生,等《中国心血管病报告2018》概要[J]. 中国循环杂志, 2019, 34(3): 209-220. DOI: 10.3969/j.issn. 10003614. 2019. 03. 001.
+[3]	Dasari TW, Hennebry TA, Hanna EB, et al. Drug eluting versus bare metal stents in cardiac allograft vasculopathy: a systematic review of literature[J]. Catheter Cardiovasc Interv, 2011, 77(7): 962-969. DOI: 10. 1002/ccd. 22975.
+[4]	Gao SZ, Hunt SA, Schroeder JS, et al. Does rapidity of development of transplant coronary artery disease portend a worse prognosis? [J]. J Heart Lung Transplant, 1994, 13(6): 1119-1124. DOI: 10. 1002/ccd. 1810330324.
+[5]	Colombo P, Bruschi G, Sacco A, et al. Percutaneous coronary interventions in cardiac allograft vasculopathy: a single-center experience [J]. Transplant Proc, 2010, 42(4): 1286-1290. DOI: 10. 1016/j. transproceed. 2010. 03. 065.
+[6]	Ramzy D, Rao V, Brahm J, et al. Cardiac allograft vasculopathy: a review[J]. Can J Surg, 2005, 48(4): 319-327. DOI: 10. 1161/01. CIR. 96. 6. 2069.
+[7]	Pober JS, Jane-wit D, Qin L, et al. Interacting mechanisms in the pathogenesis of cardiac allograft vasculopathy [J]. Arterioscler Thromb Vasc Biol, 2014, 34(8): 1609-1614. DOI: 10. 1161/ ATVBAHA. 114. 302818.
+[8]	宋来凤.阜外医院400例心脏移植的临床病理学表现的启示[J]. 中国循环杂志, 2015, 30(3): 204-205. DOI: 10. 3969/j. issn. 10003614. 2015. 03. 002.
+[9]	胡盛寿，王巍，宋云虎，等.单中心心脏移植生存率报道[J].中国 循环杂志, 2013, 28(z1): 188-189. DOI: 10. 3969/j. issn. 1000-3614.
+2013. z1. 543.
+[10]	Billingham ME. Histopathology of graft coronary disease [J]. J Heart Lung Transplant, 1992, 11(3 Pt 2): S38-44, 1992, 11(3 Pt 2): S38.
+[11]	Pomerance A, Stovin PG. Heart transplant pathology: the British experience [J]. J Clin Pathol, 1985, 38(2): 146-159. 1985, 38(2): 146. DOI: 10. 1136/jcp. 38. 2. 146.
+[12]	Johnson DE, Alderman EL, Schroeder JS, et al. Transplant coronary artery disease: histopathologic correlations with angiographic morphology[J]. J Am Coll Cardiol, 1991, 17(2): 449-457. DOI: 10. 1016/S0735-1097(10)80114-7.
+[13]	Rd HA, Disciascio G, Massin EK, et al. Coronary angioplasty, atherectomy and bypass surgery in cardiac transplant recipients[J]. J Am Coll Cardiol, 1995, 26(1): 120-128. DOI: 10. 1016/0735-1097(95)00124-I.
+[14]	Avery RK. Cardiac-allograft vasculopathy. N Engl J Med, 2003, 349(9): 829-830. DOI: 10. 1056/NEJMp038124.
+[15]	Eisen HJ, Tuzcu EM, Dorent R, et al. Everolimus for the prevention of allograft rejection and vasculopathy in cardiac-transplant recipients[J]. N Engl J Med, 2003, 349(9): 847-858. DOI: 10. 1056/ NEJMoa022171.
+[16]	Arora S, Ueland T, Wennerblom B, et al. Effect of everolimus introduction on cardiac allograft vasculopathy-results of a randomized, multicenter trial[J]. Transplantation, 2011, 92(2): 235243. DOI: 10. 1097/TP. 0b013e31822057f1.
+[17]	Sandhu JS, Uretsky BF, Reddy PS, et al. Potential limitations of percutaneous transluminal coronary angioplasty in heart transplant recipients [J]. Am J Cardiol, 1992, 69(14): 1234-1237. DOI: 10. 1016/0002-9149(92)90942-R.
+[18]	Swan JW, Norell M, Yacoub M, et al. Coronary angioplasty in cardiac transplant recipients[J]. Eur Heart J, 1993, 14(1): 65-70. DOI: 10. 1093/eurheartj/14. 1. 65.
+[19]	Jr JMA, Hill J. Cardiac transplant vasculopathy[J]. Chest, 2000, 118(6): 1792-1800. DOI: 10. 1378/chest. 118. 6. 1792.
+[20]	Agarwal S, Parashar A, Kapadia SR, et al. Long-term mortality after cardiac allograft vasculopathy: implications of percutaneous intervention[J]. JACC Heart Fail, 2014, 2(3): 281-288. DOI: 10. 1016/j. jchf. 2014. 01. 003. 2014, 2(3): 281-288.
+[21]	Lee MS, Kobashigawa J, Tobis J. Comparison of percutaneous coronary intervention with bare-metal and drug-eluting stents for cardiac allograft vasculopathy[J]. JACC Cardiovasc Interv, 2008, 1(6): 710-715. DOI: 10. 1016/j. jcin. 2008. 10. 001.
+[22]	Zakliczynski M, Lekston A, Osuch M, et al. Comparison of long-term results of drug-eluting stent and bare metal stent implantation in heart transplant recipients with coronary artery disease[J]. Transplant Proc, 2007, 39(9): 2859-2861. DOI: 10. 1016/j. transproceed. 2007. 08. 068.
+[23]	Mahle WT, Vincent RN, Kanter KR. Cardiac retransplantation in childhood: analysis of data from the United Network for Organ Sharing [J]. J Thorac Cardiovasc Surg, 2005, 130(2): 542-546. DOI: 10. 1016/j. jtcvs. 2005. 02. 050.
+(收稿日期：2018-08-25) (编辑：曹洪红)

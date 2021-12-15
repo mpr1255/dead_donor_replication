@@ -1,0 +1,87 @@
+﻿中华移植杂志(电子版)2019 年 5 月第 13 卷第 2 期 Chin J Transplant ( Electronic Edition) , May2019, VoL 13, No.2 % 87 %
+%=疔规范%
+中国肺移植供肺获取与保护技术规范
+(2019 版)
+中华医学会器官移植学分会
+【摘要】自2016年我国设立人体器官转运绿色通道后，供肺转运过程得到保障。随着供 肺保存技术的进步，供肺可耐受冷缺血时间也显著延长。目前，肺移植供者质控的难点在于如何 降低由于供肺维护不当造成的弃用率以及如何有效解决供者来源性感染。同时，各捐献医院对 器官的维护经验与技术水平参差不齐。为进一步规范肺移植供肺获取与保护技术，中华医学会 器官移植学分会组织肺移植专家，总结国内外相关研究最新进展，并结合国际指南和临床实践， 针对肺移植供肺选择、获取和保护，制订中国肺移植供肺获取与保护技术规范(2019版)’
+【关键词】 肺移植；供肺选择；供肺获取；供肺保护；技术规范；标准
+!供者选择
+1.1供者选择标准
+脑死亡或脑心双死亡供者供肺并不一定都适合 移植。脑外伤供者可合并肺实质或支气管损伤，颅 内压升高也可引起神经源性肺水肿；昏迷状态下，可 能因误吸胃内容物引起化学性肺损伤。此外，供者 在ICU救治过程中易发生院内获得性肺炎(hospital acquired pneumonia, HAP)及呼吸机相关肺炎 (ventilation associated pneumonia, VAP)，而且随着有 创机械通气时间的延长，HAP及VAP的发生率也随 之升高。这些因素均可导致供肺捐献失败。早期国 外许多移植中心依据理想供肺标准评估供肺，但随 着肺移植学科的发展，近年来边缘供肺也被广泛应 用于临床肺移植。
+(1)年龄 回顾性队列研究显示，18~64岁~ 者供肺移植术后1年内受者死亡率并未显著增加， 因此目前倾向于供者年龄为18 ~64岁⑸。但对于 不在此年龄段的供者，仍应进行相应评估。建议可 接受的供者年龄＜70周岁。
+(2)吸烟史与无吸烟史供者相比，有吸烟史 供者供肺移植术后受者存活率略有降低;但吸烟指 数＜200支年的供者供肺，对受者存活率并无显著影 响⑹。如果供者既往吸烟指数＜400支年，或捐献前 戒烟！ 10年，则既往吸烟史不是供肺的排除标准。
+(3)纤维支气管镜检查及呼吸道微生物学检测
+DOI: 10.3877/cma. j. issn. 1674-3903.2019. 02. 002
+通信作者：陈静瑜(无锡市人民医院,Email: chenjy@ wuxiph.com)
+确定为潜在供者后应常规行纤维支气管镜检查，及 时有效清理气道分泌物，防止发生肺部感染或肺不 张,并行痰培养’若痰培养阳性，则根据药敏试验结 果给予敏感抗菌药物控制感染。若痰培养发现多重 耐药、广泛耐药或全耐药细菌，应弃用该供肺。国外 研究提示:使用抗铜绿假单胞菌和金黄色葡萄球菌 药物预防供肺感染，供者来源感染的传播风险可忽 略不计*7］。因此,纤维支气管镜下可吸净的痰液和 微生物培养阳性，不是弃用供肺的标准。若纤维支 气管镜检查发现严重的气管-支气管炎，特别是脓 性分泌物被吸出后仍从段支气管的开口涌出，提示 供肺感染严重，无法使用。
+(4)胸部影像学检查 一般要求胸部X线检查 肺野相对清晰，排除严重感染、误吸及严重胸部外 伤。胸部CT排除明显占位或严重感染。
+(5)动脉血气分析动脉血气能基本反映供肺 氧合情况，导致氧合下降的原因包括肺挫伤、肺水 肿、肺部感染及肺不张等。因此，一般在吸入氧浓度 (fraction of inspiration oxygen,FiO2)为 1.0、呼气末正 压( positive end eKpirator9 pressure$PEEP) 为 5 cmH2 O (1 cmH20 =0.098 kPa,下同)的呼吸机支持条件下， 通气约30 min,外周动脉血氧分压(partial pressure of arterial oxygen,PaO2) ＞300 mmHg( 1 mmHg =0.133 kPa, 下同)，即氧合指数(Pa02/FiO2) ＞300 mmHg是供 肺可用的基本要求。尤其注意，供肺获取前应 每2小时进行1次动脉血气分析，如不达标,在宣布 供肺不合格之前,应确保通气充足、气管内插管位置 正确及潮气量足够，经纤维支气管镜检查排除大气 道内分泌物阻塞，同时采取充分通气、维持最佳体液
+% 88 %	中华移植杂志(电子版)2019 年 5 月第 13 —第 2 期 Chin JTran/plant ( Electronic Edition) , May2019 , Vol. 13, No.2
+平衡等措施后，氧合指数仍＜250 mmHp,才能做出 供肺不适合移植的结论。
+(6)供肺容积评估 肺是人体内唯一随着所在 空间变化而塑形的器官。相对来说，肺纤维化受者 膈肌位置上提，胸廓容积显著减少;而肺气肿受者膈 肌下移，肋间隙增宽，胸廓容积显著增加。因此，供 肺的选择需要综合考虑原发病。尽管术后早期 (2周内)，受者膈肌、胸壁会在一定范围内逐渐与移 植肺达到一定程度的适应，但仍不建议超大容积供 肺匹配小胸腔受者。
+(7)冷缺血时间 随着肺移植技术的发展，目 前供肺冷缺血时间一般在12 h内，少数可延长至 12 h [8-15] 0
+1.2理想供者和可接受供者标准
+结合我国供肺临床特点，本规范制订了肺移植 理想供者和可接受供者标准。
+理想供者标准:(1) ABO血型相容;(2)年龄＜ 60周岁；(3)持续机械通气＜1周；(4) Pa。？ ＞ 300 mmHg( FiO2=1.0, PEEP =5 cmH2O) ; ( 5)胸部 X线检查示双侧肺野相对清晰;(6)纤维支气管镜 检查各气道腔内相对干净;(7)痰培养无特殊致病 菌;(8)无胸部外伤。
+可接受供肺标准：(1) ABO血型相容；(2)年 龄＜70周岁；(3)吸烟史不作硬性要求;(4)呼吸机 应用时间不作硬性要求；(5) PaO2 ＞ 250 mmHg (FiOz =1.0,PEEP=5 cmH2O) ; ( 6)胸部 X 线检查 示肺野内有少量至中等量渗出影；(7)可根据供肺 体积与受者胸腔容积匹配度行供肺减容或肺叶移 植;(8)如氧合指数＞300 mmHg,胸部外伤不作为排 除标准;(9)如存在轻微误吸或脓毒症，经治疗维护 后改善，不作为排除标准；(10)如气道内存在脓性分 泌物，经治疗维护后改善，不作为排除标准；(11)供 肺痰标本细菌培养不作硬性要求，但如果培养则需 排除多重耐药、广泛耐药或全耐药细菌；(12)多次 维护评估不合格的供肺获取后，经离体肺灌注修复 后达标;(13)冷缺血时间原则上不超过12 ho
+2供肺获取和保护
+2.1供肺维护策略
+供肺评估-维护-再评估是多学科协作的整体 过程[16],旨在发现适合移植的潜在供肺，提高供肺 利用率；同时发现不适合作为潜在供肺的证据，避免 盲目扩大边缘供肺，影响肺移植近期及远期效果，减 少医疗资源浪费。供肺进入评估流程时，均存在气 管插管和机械通气。ICU医护人员和供肺获取医师
+应尽早维护供肺，提高捐献成功率。
+(1)抗感染治疗 我国肺移植供肺的主要来源 是脑死亡器官捐献。脑死亡供者神经源性肺水肿发 生率高，出现后极易发生肺部感染，同时肺水肿会引 起肺泡弥散功能下降，导致低氧血症[17-18]。此外， 由于长期卧床及气管插管，坠积性肺炎亦常发生，故 早期积极预防性抗感染治疗是必要的。病原体培养 阴性的供肺较少，但通过选用敏感抗菌药物仍能获 得较满意的移植效果。留取合格的下呼吸道标本 后，可预防性使用广谱抗菌药物及抗真菌药物，其后 再根据痰涂片及培养结果调整抗感染方案。
+(2)气道管理 适量翻身、拍背，每日行纤维支 气管镜检查、清理气道，确保肺扩张良好，尤其是防 止下叶肺不张，行胸部X线和血气检查等。有效清 除气道分泌物比积极抗感染治疗更为重要，应 每2小时经气管插管吸痰1次，必要时经纤维支气 管镜吸痰。如气道分泌物吸净后短期内镜下再次看 到脓性分泌物涌出，则应放弃该供肺。如气道中发 现水样分泌物，则应积极与ICU医师沟通，采取利 尿、限制液体入量及应用胶体液等措施，以尽量减轻 肺水肿等因素导致的肺功能恶化。
+(3)液体管理 对于ICU医师而言，脑死亡器 官捐献供者的液体管理极具挑战性。不同器官获取 小组对供者的液体管理要求差异较大，例如供肾获 取组要求给予供者充足液体,维持肾脏的血流灌注； 而供肺获取组则要求尽量限制液体入量回，减少晶 体液用量，提高胶体液比例,循环稳定的情况下尽量 维持负平衡的，控制中心静脉压(central venous pressure,CVP) ＜ 10 mmHg,必要时行连续肾脏替代 治疗，避免或减轻容量负荷过重和肺水肿。既往研 究表明，CVP为4~6 mmHg是肺保护的最佳选择， CVP为8 ~ 10 mmHg则有助于肺泡-动脉血氧梯度 增加。因此，当仅获取腹部器官时，建议维持CVP 为10 ~ 12 mmHg;仅获取供肺时，维持CVP ＜ 8 mmHg;如果同时获取腹部器官和供肺，则维持 CVP为8 ~ 10 mmHg[21-22] o目前虽暂无临床试验结 果验证，但从生理学角度来看，肺移植供肺复苏时建议 输注胶体液，以最大限度减轻肺水肿⑷。
+(4)保护性通气注重呼吸机的有效管理，采 用保护性肺通气策略。维持一定潮气量、PEEP及 间断肺复张(至少1次/d)，可以有效防止肺不张及 肺泡萎陷，这对自主呼吸停止的捐献者尤为重要;此 外,需定时监测氧合指数及肺顺应性以评估供肺状 态。FiO2应控制在0.4 ~0.5,潮气量6~8 mL/kg, 避免潮气量过大损伤肺泡[23-24+o保持PEEP为
+中华移植杂志"电子版)！"19 年 5 月第 13 卷第2期 Chi* J ,-.*/p1.*2 " Electronic Edition) , M.y!"#9, VoL #3, No；! % =$ %
+E[= cCN!?,c]:B)AB’ EFMNP~B? 每次吸痰后均应短时间内增加潮气量及PEEP,使萎 BPB)3$,O<7｝’
+(5)获取前激素的应用脑死亡导致下丘脑c垂 +[O\BC(rT‘0V]UMq(LCWO\M 全和甲状腺功能减退，这些情况会加剧休克*!5+’脑 死亡早期由于抗利尿激素分泌不足易引发尿崩症， 导致严重的低血容量和高钠血症’相对于补充血容 量，建议使用血管加压素(100 [200 COB h)，更易保 持适当尿量*!E+’糖皮质激素可以减轻与脑死亡相 关的炎症反应，减轻肺水肿，从而优化供肺功 能*2Ag2=+，故建议对潜在肺移植供者在诊断脑死亡后 常规应用甲泼尼龙(15 mp/kp) *2E+’暂不建议常规 ]甲状腺激素*29+’ 2; 2 供肺获取
+在红十字会全程监督和参与下，供者家属签字 同意捐献肺脏，供肺初步评估合格后，器官获取组织 ( o-p.n 0-ocJ-4C4nt o-p.ni_.tion, ?P?) n %9+pq 分配网络分配供肺，移植医院供肺获取小组在?P? 协调员的帮助下，进行供肺评估与维护’供肺维护 后如符合获取标准，经供肺所在地区？P?协调，明 确多脏器获取时间后，各团队统一进行‘6’ 2; 2; 1 uj
+(1)灌注液选择 器官保存液建议使用低钾右 旋糖Y( 1ow-potassium dextran, LPD)液或 Peifadex 液’与细胞内液相4,使用LPD液保存的供器官移 植围手术期原发性移植物功能障碍发生率以及 30天死亡率降低*30G31+’
+(2)肺原位顺行灌注供者取仰卧位，常规消 毒铺巾，选择正中切口，逐层切开皮肤、皮下组织，分 离剑突下，锯开胸骨进胸，剪开心包并确认供者已充 分肝素化’打开心包，充分暴露心脏，依次分离主动 脉-肺动脉间隔和上、下腔静脉，升主动脉荷包缝合 处理后留置心脏灌注管，收紧荷包并妥善固定，连接 灌注管道’距左、右肺动脉开口下方约2 5m的肺动 脉:上1荷包缝合,荷包中间留置肺灌注管1 [ 2 5m并固定，注意避免灌注管深入一侧肺动脉，从 而导致对侧肺灌注不充分’荷包完成后，打开两侧 纵隔胸膜，阻断上腔静脉，剪开左心耳及下腔静脉， 主动脉灌注管远心端和肺动脉灌注管近心端阻断 后，心肺同时灌注’灌注开始时心包腔及两侧胸腔 放入冰屑帮助心肺迅6降温’灌注过程中要时刻注 意灌注管的位置，防止滑脱或进入一侧肺动脉过0’
+(3)注意事项 ①肺动脉灌注压为10 [ 15 mmNp,灌注压过高或过低均不利于完全、均匀灌
+注*&&+)②灌注总量为50 [ 60 mL/kp,但可根据肺表 面灌注情况及左心耳流出的灌注液清澈程度，决定 是否增加/减少顺行灌注量;③呼吸机设置:在肺顺 行灌注时保证呼吸机持续通气，Fi?2为0；5，潮气量 为10 mL/kp, PEEP为5 cmN2?、气道平均压力\ 20 cmN2?,呼吸频率为14 ~18次/min’ J条件的 情况下可请麻醉医师在肺灌注前行纤维支气管镜/ 吸痰管吸痰’
+2; 2; 2 心肺获取、分离和保存
+(1)心肺整块获取 心肺灌注完成后，离断两 侧纵隔胸膜以及下肺韧带，于胸廓入口处离断气管 周围纵隔组织，游离气管，保持肺中度膨胀，退出气 管插管的同时使用2把阻断钳钳夹气管，于2把阻 断钳中间离断气管，气管残端消毒处理’向上牵拉 气管远端，分离两侧纵隔胸膜，于气管食管间隙内自 上而下游离,左侧需离断降主动脉，整体取出心肺后 于｛1|上分离’ 平左、右肺动脉分｝处离断肺动 脉干和升主动脉，仔细解剖并游离上腔静脉至右心 房，注意勿损伤后方的右肺动脉’将心脏轻轻托起牵 向右侧,于左侧上、,肺静脉%合处上方 0; 5 [1a 0 5m 处剪开左房壁;再将心脏牵向左侧暴露右侧上、下肺 静脉左房%合处,同\位置剪开左房 1; 0 5m 左右1 为定位标$,右侧左房|/常短小,\要时可游离房 间沟，适当延长左房长度，避免伤及右房，最后自左 向右剪开左房，完成心肺分离’供肺逆行灌注，每个 肺静脉分别灌注250 mL左右，逆灌注结束后，供肺 取出放于4层塑料器官保存袋中，第1层内放入适 量灌注液以保存供肺,肺表面(以))*,第3 层内 放入碎冰屑，完成后放入冰桶内转运备用’
+(2)心肺分别获取 心肺灌注完成后，先行心 脏摘取，方法同心肺整块获取中的心肺分离方法’ 心脏-取后在体内行肺逆行灌注,灌注结束后再获 取供肺,获取保存方法同上’
+=>! EF! -./01#2" # GXH! -./0 1#2"# 123! -./01#2"# EI! -./ 01#2"
+?@AB! 78! !9:;#2$!<#$=$2> ?@A#$2"# BCD! !9:;#2$-./0 1#2"
+@CAB! EFGHIJK" ! L<M! NO P$"Q #2"# BRS! !TP$UVW#2"# BXY! ! 日友好医院);程才！华中科技大学同济医学院附属 同济医院);冯刚！四川省人民医院):韩威力(浙江 大学医学院附属第一医院):何文新(同济大学附属
+% $" %
+中华移植杂志"电子版)2019 年 5 月第 13 卷,!期 Chin J ,-.*/p1.*t " Electronic Edition) , M.y 2019 , VoL #3 , N。； 2
+mn/o=#2" # pqr! -./01#2" # sqt ! uv#=P$_‘ij#2"# wx! ! <=$\ yP$_‘ij#2"# z{|!}~/ij!!# 2"#"#! $%#=P$_‘>?&’#2"# (&’! !9:;#2" #)Y*! +,P$01# 2" # -x!.Tc01#2" # /0! uv#=P$ _‘ij#2"# 123! -./01#2"# 45 ! -./01#2"
+DEFG
+#卫生部医管司；卫生部办公厅关于启动心脏死亡捐献器官移植 |-+1P/z; J/;"**2011+E2 2*>XB?O+ ; "2019G01G 1A) * 2011 G05 G03+ ; (ttp& B B III; n(Mpc; PoT; cn B 9_9PD B /35=E h B 201105 B03ddc=Ec0d9AFc05==32=0AMAF1Fd59E; /(tC1;
+2国家卫生和计划生育委员会脑损伤质控评价中心；脑死亡判定 标准与技术规范(成人质控版*JB’>+；中华移植杂志:电子版， 2015,9" 1) & 13G1E;
+3中华医学会器官移植学分会；中国心脏死亡器官捐献工作指南 (第2版*JBC>+；中华移植杂志:电子版，2012,6( 3) &43WE；
+F Snell Y@, Paraskeva 8, Westall YU； Donor selection and canagement *J+ ; L4Cin Z4/pi- C-it C.-4 84d,2013 ,34( 3) & 3E1G3A0;
+5 XaldIin 8Z,Ueterson EZ,East(aJsen @,et al； Donor aPe and earl9 PraMt MailJre aMter lJnP transplantation& a co(ort stJd9*J+ ； Wm J ,ransplant,2013, 13( 10) & 2E=5G2E95；
+E Xonser ZS,,a9lor Z,Collett D,et al； EMMect oM donor smokinP on sJrvival aMter lJnP transplantation& a co(ort stJd9 oM a prospective rePistr9*J+ ； Oancet,2012,3=0(9=F3) & AFAGA55；
+A C(ane9 J,SJ_Jki ], CantJ E 3rd, et al； OJnP donor selection criteria*J+ ； J ,(orac Dis,201F, E(=) & 1032G103=；
+=王振兴，陈静瑜，郑明峰，8；肺移植供肺获取100例:冷缺血 时间！6(及肺减容对预后的影响*J+；中国组织工程研究， 2012 , 1E ( 5) & =35G=3=；
+9 Yammie JS,StJkJs DZ,U(am S8,et al； EMMect oM isc(emic time on sJrvival in clinical lJnP transplantation*J+ ； Wnn ,(orac SJrP, 1999 , E=( E) & 2015G2020；
+10 ?rens JX, Xoe(ler W,de Uerrot 8,et al； W revieI oM lJnP transplant donor acceptaSilit9 criteria*J+ ； J Neart OJnP ,ransplant,2003 ,22 ( 11) & 11=3G1200；
+11 StJder S8, ?rens JX； Cadaveric donor selection and manaPement *J+ ； Semin Zespir Crit Care 8ed,200E ,2A( 5) & F92G500；
+12 Van Zaemdonck D,Ne9rinck W,Verleden Y8,et al； OJnP donor selection and manaPement*J+ ； Uroc Wm ,(orac Soc,2009 ,E ( 1) & 2=G3=；
+13 8Jlvi(ill 8S,YJlack XC,Yanapat(i W8,et al； ,(e association oM donor aPe and sJrvival is independent oM isc(emic time MolloinP deceaseddonor lJnP transplantation*J+ ； Clin ,ransplant,201A ,31 (A)；
+1F C(amSers DC,]Jsen ZD,C(erik( WS, et al； ,(e ZePistr9 oM t(e @nternational Societ9 Mor Neart and OJnP ,ransplantation& ,(irt9G MoJrt( WdJlt OJnP and NeartGOJnP ,ransplantation ZeportG201A ) MocJs t(eme& alloPraMt isc(emic time*J+ ； J Neart OJnP ,ransplant, 201A, 3E( 10) & 10FAG1059；
+15 Na9es D Jr,NartIiP 8Y,,oSias JD,et al； OJnP transplant center volJme ameliorates adverse inMlJence oM prolonPed isc(emic time on
+!"#$%&’()$*%； !<o()JoKL:M ! 2" ’ =AG90；
+mortalit9*J+ ； Wm J ,ransplant,201A , 1A( 1) & 21=G22E；
+1E Snell Y@,Westall YU； Selection and manaPement oM t(e lJnP donor *J+ ； Clin C(est 8ed,2011 , 32(2) & 223G232；
+1A马春林，梁道业，郑福奎;高呼气末正压在神经源性肺水肿机械 通气中的作用*J+；中华危重病急救医学杂志，2014, 26 ( 5) & 339G3F2；
+1=冯艳，于国东，王华，8；神经源性肺水肿的液体治疗策略探讨 *J+； 中华神经医学杂志,2015, 14(2) & 1A6G1=0；
+19 8inamSres E,ZodriPo E, Xallesteros 8,et al； @mpact oM restrictive MlJid Salance MocJsed to increase lJnP procJrement on renal MJnction aMter kidne9 transplantation*J+ ； Nep(rol Dial ,ransplant,2010 ,25 ( A) & 2352G2356；
+20 8Jns(i O,ges(avDee S, C9pel 8； Donor manaPement and lJnP preservation Mor lJnP transplantation*J+ ； Oancet Zespir 8ed,2013 , 1(4) & 31=G32=；
+21 UenneMat(er S,XJllock Z, 8antle D, et al； jse oM loI dose arPinine vasopressin to sJpport SrainGdead donors*J+ ； ,ransplantation, 1995 , 59( 1) & 5=G62；
+22 ,JttleGNeI(all J, Collins X, gJo U, et al； ?rPan donation and treatment oM mJltiGorPan donor*J+ ； CJrrUroS SJrP,2003 ,40 ( 5 ) & 266G310；
+23 Determann Z,Zo9akkers W,Wolt(Jis E, et al； Ventilation Iit( loIer tidal volJmes as compared Iit( conventional tidal volJmes Mor patients Iit(oJt acJte lJnP inDJr9& a preventive randomi_ed controlled trial*J+ ； Crit Care,2010, 14( 1) & Z1；
+24 8ascia O,Uasero D,SlJtsk9 W,et al； EMMect oM a lJnP protective strateP9 Mor orPan donors on eliPiSilit9 and availaSilit9 oM lJnPs Mor transplantation*J+ ； JW8W,2010 ,304( 23) & 2620G262A；
+25 NoIlett ,, geoP( W,Uerr9 O,et al； Wnterior and posterior pitJitar9 MJnction in SrainGstemGdead donors& a possiSle role Mor (ormonal replacement t(erap9*J+ ； ,ransplantation, 19=9 ,4A( 5) & =2=G=34；
+26 S(emie S,Zoss N,UaPliarello J,et al； ?rPan donor manaPement in Canada& recommendations oM t(e MorJm on medical manaPement to optimi_e donor orPan potential*J+ ； C8WJ,2006 , 1A4( 6) & S13GS30；
+2A DimopoJloJ @,,saParakis S,Wnt(i W, et al； NiP( prevalence oM decreased cortisol reserve in SrainGdead potential orPan donors*J+ ； Crit Care 8ed,2003 ,31(4) & 1113G111A；
+2= Vollette D, ZJdic( S, XaScock W； @mproved oK9Penation and increased lJnP donor recover9 Iit( (iP(Gdose steroid administration aMter Srain deat(*J+ ； J Neart OJnP ,ransplant, 199= , 1A ( 4) & 423G 429；
+29 8acdonald U,Wneman W,X(onaPiri D,et al； W s9stematic revieI and metaGanal9sis oM clinical trials oM t(9roid (ormone administration to Srain dead potential orPan donors*J+ ； Crit Care 8ed,2012 ,40 ( 5) & 1635G1645；
+30 WrnaoJtakis Y,Wllen J,8erlo C,et al； OoI potassiJm deKtran is sJperior to jniversit9 oM Wisconsin solJtion in (iP(Grisk lJnP transplant recipients*J+ ； J Neart OJnP ,ransplant,2010 ,29 ( 12) & 13=0G13=A；
+31 ,(aSJt Y,Vinatier @, XrJPikre ?,et al； @nMlJence oM preservation solJtion on earl9 PraMt MailJre in clinical lJnP transplantation*J+ ； Wm J Zespir Crit Care 8ed,2001 , 164( A) & 1204G120=；
+33 Sasaki 8,8Jraoka Z, C(iSa ], et al； @nMlJence oM pJlmonar9 arterial pressJre dJrinP MlJs(inP on lJnP preservation * J + ； ,ransplantation, 1996 ,61 ( 1 ) & 22G2A ；
+%J BCD&； !"()AB’ CD@$2019$13

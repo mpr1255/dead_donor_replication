@@ -1,0 +1,37 @@
+170	Chin JECC Vol 3 No 3 2005
+•论 著•
+“分离式”微温血灌注在心脏移植术中的应用
+胡志斌，葛根贤,严志焜
+(浙江省人民医院心胸外科，浙江杭州310014)
+摘要：目的探讨“分离式”微温(3。〜34C )氧合血持续逆灌对移植供心保护的临床效果。方法供心在移植 开始时即行微温氧合血经冠状静脉窦持续逆灌保护心肌。结果 14例同种原位心脏移植术中13例心脏自动复 跳，1例电击除颤1次成功复跳，长期心功能良好。结论 “分离式”微温氧合血持续逆灌可缩短供心缺血时间； 减少术中晶体液用量和避免钾的过度使用；获得理想的心肌保护效果。
+关键词：持续逆灌；心脏移植；心肌保护
+中图分类号：R654 1文献标识码：A	文章编号：1672—1403(2005)03—0170 —02
+M yocardial Protection w ith “Separate— type,,ContruousRetrograde Pertision of Lukewarm Oxygenated B ood n Heart T ran so Ian tat on
+HU Zhi —bin GE Gen—xian YAN Zhi —kun
+(Caidiac —thoiacic Suigeiy of Zhejiang Povincial PeopesHospital Hanghou 310014 China)
+Abstract OBJECT IV E To study he m yocarciial pot ection effect on donor heart w ilh " Sepanae —type” con tinuous ietiogiade perfiision of lukewam oxygenaed blood M ETHODS " Sepaarie — type” con tinuous eiograde perfiision of lukewaim oxygenaiedbloodwasiniiiaiedimmediaielyfiom ihebeginningioiheaoiiiccioss—clampingofduiingihedo-nor hearts tiansplanted- RESULTS Foureen tiansplanted hearts wee recovered to sinus hiylhm afei reperfiision and showed well cadiac function- CONCLUSION "Separate —type” continuous eirograde perfiision of lukewam oxygenated blood coud shorten the tine ofmyocandial ischemia educed quantity of ciystal sohiiion and potassium used and ac" quined bettermyocaidial protection-
+Keywords Con iniuous Retrograde Perfiisior； Heart Tansp lan tatioi； M yocaudal P or tec ion
+心脏移植是目前治疗各种终末期心脏病唯一有 效的方法。自1997年至2004年期间我院共施行同 种原位心脏移植术14例。供心术中的心肌保护均 采取自行设计的 “分离式”微温氧合血经冠状静脉 窦持续逆灌［1］，取得良好效果，现报告如下。
+1 临床资料
+14例受者均为男性，年龄13〜53岁，术前诊断 均为扩张性心肌病终末期,心功能W级。术前超声 心动图检查结果示：左室射血分数（LVEF）平均为 （24土5）%,肺动脉压力平均为（32±11）mmHg其 中1例合并严重硬化性肾小球肾炎，同时行心肾联 合移植术。供体均为男性,年龄25〜35岁,脑外伤、 脑死亡者。术前各项生理指标正常,没有心血管疾
+病史,供体选择符合UNOS选择标准四。供心在采 取时阻断循环后，经主动脉根部顺灌4C改良St Thomas液1000〜1800ml取出后置入4C心肌保护 液中备用。在移植开始时即行微温氧合血持续逆灌 保护心肌,至主动脉开放前停止。供心热缺血时间 为4〜6m in,绝对冷缺血时间平均为（74±23）min, 温血灌注时间平均为（65±17）m、手术平均体外 循环时间（122±35）mh主动脉阻断时间（87土16）
+m n
+2 结 果
+14例心脏移植术中复苏后心脏均复跳成功。
+其中13例在主动脉开放后自动复跳；1例经电击除
+颤1次后复跳。除1例术后发生严重肝功能衰竭于
+收稿日期：™:修订日期：20050509
+作者简介：胡志斌（1980 —11）,男，医师，大学
+第14天死亡,1例因右心衰竭行部分右心转流于第
+3天；	C等严重并发症死亡，其余均长期存活，
+中国体外循环杂志2005年第3卷第3期
+171
+即恢复至(6。±7)%；术后当天心肌肌钙蛋白I (Caidiac Troponin I cTnl)均未超过 200kg/L 术后 2 周cTnl水平均恢复正常。术后1〜2月心功能恢复 至I级。每年ECT检测除2例示有左心室局灶性 血流灌注减低外,未见其他异常；冠脉选择性造影未 见异常。
+3 结 论
+目前，移植术中供心心肌的保护方法主要有两 种：低温法和灌注法。各种保护方法仍然以低温为 基本原则，然低温心肌保护也有诸多缺点。如①降 低体内酶活性，ATP生成减少，导致心肌Na+、C> 积聚;②损伤细胞膜，破坏心肌细胞的完整性;③导 致心肌细胞的“冷挛缩”；@导致冠脉内皮细胞受 损，物质交换下降，微循环障碍;⑤导致含血停跳液 中细胞成分受损，堵塞毛细血管等内。从八十年代 起，大量研究应用常温血灌注保护心肌。但因某些 病种及手术方式的限制以及某些常温血灌注时不可 避免的机体反应，此法应用尚存在争议。因此有学 者主张微温作为最理想的体外循环和含血停跳液的 灌注温度[3]o微温保持细胞正常代谢活性的同时， 降低了细胞的代谢率；微温血持续灌注能克服上述 不足。此外，心脏主要是泵的功能，一方面必须在复 苏时就恢复其90%的功能以维持生命，另一方面心 脏是高能量依赖的器官[4]。因此心脏移植供心心 肌保护的关键是缩短心肌缺血时间与损伤程度，减 少心肌能量消耗，甚至补充能量。为此，我们自行设 计“分离式”微温30〜34C氧合血持续逆灌来保护 心肌。“分离式”灌注是指冠脉循环与体循环分离， 彼此独立又相互联系的灌注方式。即冠脉循环的血 流方向是:微温氧合血(含钾)一贮血滤血器一冠状 静脉一冠状动脉一吸引器一贮血滤血器(视具体情 况再增加新鲜氧合血或释放部分贮血滤血器血液回 体循环)这样周而复始循环，始终保持冠脉血液中 钾浓度。此法特点是使冠脉灌注循环相对独立，提 供心肌足够能量需求的同时，始终维持冠脉循环血 液中适宜的钾浓度，使心脏处于静止状态;而体循环 中血钾浓度维持正常水平，避免多次给钾造成术后 高钾血症。本组14例体外循环开放主动脉后测血 钾浓度均在正常范围3 5〜5 5mmol/L与其他血 清酶相比，心肌肌钙蛋白I是心肌损伤更特异更敏
+感的标记物，可以诊断心脏手术中的微小心肌损伤。 本组所有长期存活者术后当天cTnl水平和术后17 天cTnl水平恢复情况，以及术后1天LVEF的恢复 率，均表明供心的心肌保护效果确切。1例经电击 除颤复跳，可能与供心摘取时冷灌注不佳有关。2 例分别因肝功能衰竭和肺动脉压力高所致顽固性右 心衰竭死亡。我们认为“分离式”微温30〜34C氧 合血持续逆灌心肌保护有以下优点：①缩短心肌缺 血时间。供心在移植开始时即行微温氧合血经冠状 静脉窦持续逆灌，不仅能缩短心肌冷缺血时间，并能 避免反复多次的冷晶体间断灌注，减轻低温对心肌 的损伤。②维持心肌氧的正常代谢和能量供求平 衡。供心在缺血缺氧后能量逐渐消耗，内环境紊乱， 严重影响心肌的正常代谢和能量失衡。微温氧合血 持续逆灌可提供氧合代谢基质，提高ATP水平，使 心肌有氧代谢得以正常进行。③减少术中晶体液用 量和避免钾的过度使用。心脏移植患者因长期心衰 体内液体潴留，减少术中晶体液用量是非常必要的。 “分离式”微温氧合血持续逆灌不仅是符合生理要 求的微温氧合血灌注，减少因冷晶体或冷血(4： 1) 间断灌注的晶体用量和低温损伤，还保证了冠脉循 环血液中钾的浓度，使心肌始终处于松弛静止的状 态，获得理想的心肌保护，并避免了用钾量过大的弊 端。④经冠状静脉窦逆行灌注有利于手术操作，克 服了温血灌注流量过大等引起术野过于模糊的问 题。实践证明，我们自行设计的吩离式"微温氧合 血持续逆灌的心肌保护效果良好，并具有上述优越 性。
+参考文献：
+[1]李庶，刘晋萍•体外循环中不同温度停跳液的心肌保护作用 [J]心血管病学进展，2004 25(1)： 1-8.
+[2]	FleischerKJ BaumgartnerWA. Heart tianspknation[M ]• In： Henry Edmunds L ed Cardiac Surgery in he Adult New Yoric McGmw-HilI 1997. 1409-1449.
+[3]	Engeman RM, PleetAB, Rousou JA, et al. What is he best perfusion tanpemtue for coronaiy revascularization [ J]? J Tho" ac Cantiovasc Sug. 1996, 112(6)： 1622 —1632.
+[4]	Stringham JC Srouhad JH, Hegge J et al. Lm itations of heart preservation by cod storage] J]. Transplantation 1992, 53(2)：287-294.
