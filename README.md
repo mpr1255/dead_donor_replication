@@ -36,7 +36,7 @@ These file names should also be straightforward to interpret. Apart from the obv
 
 ### Code
 
-As shown below.
+As shown below. Note that the code was written and tested across Windows 10, Ubuntu (in WSL), and OSX. However, please also note that attempting to process the Chinese-language text files in Windows might lead to all manner of difficulties. The best environment for this is either Linux or OSX. 
 
     .
     ├── ...
