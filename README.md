@@ -7,13 +7,15 @@ Replication materials for "Execution by organ procurement: Breaching the dead do
 ### Structure of the project
 
     .
-    ├── appendix_1             # All files necessary for knitting Appendix 1, including full text files used in that analysis
+    ├── appendix_1             # All files necessary for knitting Appendix 1
     ├── appendix_2             # All files necessary for knitting Appendix 2
-    ├── code                   # All `R` and bash scripts plus a Word macro 
-    ├── data                   # All raw and processed txt, pdf, and intermediate files used for analysis
+    ├── code                   # All R and bash scripts plus a Word macro 
+    ├── data                   # All raw and processed txt, pdf, & analysis files
     ├── ms_rr                  # The manuscript for the revised and resubmitted version of the paper
+    ├── tables                 # Used in the ms
     ├── LICENSE
     └── README.md
+
 
 > Note: The project is around 1.5gb
 
