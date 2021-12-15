@@ -29,27 +29,63 @@ The file and folder structure should be intuitive, but:
 
 ### Appendix 2
 
-These file names should also be straightforward to interpret. `bdd_included.csv` and `bdd_included.csv`
+These file names should also be straightforward to interpret. Apart from the obvious files:
 
-Often it is beneficial to include some reference data into the project, such as
-Rich Text Format (RTF) documentation, which is usually stored into the `docs`
-or, less commonly, into the `doc` folder.
+- `bdd_included.csv` are all of the papers that were coded as containing problematic brain death declarations (BDD);
+- `bdd_included_translated_refs.csv` contain the unique docids, references, and translations of those papers
+
+### Code
+
+As shown below.
 
     .
     ├── ...
-    ├── docs                    # Documentation files (alternatively `doc`)
-    │   ├── TOC.md              # Table of contents
-    │   ├── faq.md              # Frequently asked questions
-    │   ├── misc.md             # Miscellaneous information
-    │   ├── usage.md            # Getting started guide
-    │   └── ...                 # etc.
+    ├── code                    			# we are here.
+    │   ├── 00_make_manuscript.R 			# acts as the makefile for the project 				
+    │   ├── 01_extract_from_database.R 		# pulls the original files from the major dataset and processes them for this project					
+    │   ├── 02_make_references.R 			# creates `.bib` files based on references in `.csv` format			
+    │   ├── 03_cleantxt.R 					# cleans up the `.txt` files after sometimes messy text conversion/OCR		
+    │   ├── 04_fuzzymatch.R 				# this is the primary algorithm that searches through the full text of the papers			
+    │   ├── 05_prisma.R 					# creates PRISMA diagram (Fig 1 in ms)		
+    │   ├── 06_deduplication.R 				# cleans up and deduplicates the hospitals from the references			
+    │   ├── 07_map.R 						# uses GIS libraries to plot the hospitals on a map of the PRC	
+    │   ├── 08_render.R 					# a few lines of code that actually renders the ms and appendices		
+    │   ├── dead_donor_word_macro.txt 		# used in Microsoft Word to fix track changes from merged documents					
+    │   ├── helper_functions.R 				# loads libraries and contains a few small functions used in project			
+    │   ├── helper_translate.R 				# calls Google Translate
+    │   ├── post_2015_analysis_for_ajt_review.R # code written to be sure no post-2015 findings during peer review process							
+    │   ├── scratch.R  						# rough notes.	
+    │   └── ...                
     └── ...
 
-> **Samples**: [HTML5 Boilerplate](https://github.com/h5bp/html5-boilerplate) `doc`, [Backbone](https://github.com/jashkenas/backbone) `docs`, [three.js](https://github.com/mrdoob/three.js) `docs`, [GitLab](https://github.com/gitlabhq/gitlabhq) `doc`, [Underscore.js](https://github.com/jashkenas/underscore) `docs`, [Discourse](https://github.com/emberjs/ember.js) `docs`, [Grunt](https://github.com/gruntjs/grunt) `docs`, [Emscripten](https://github.com/kripken/emscripten) `docs`, [RethinkDB](https://github.com/rethinkdb/rethinkdb) `docs`, [RequireJS](https://github.com/jrburke/requirejs) `docs`, [GitHub Hubot](https://github.com/github/hubot) `docs`, [Twitter Flight](https://github.com/flightjs/flight) `doc`, [Video.js](https://github.com/videojs/video.js) `docs`, [Bitcoin](https://github.com/bitcoin/bitcoin) `doc`, [MongoDB](https://github.com/mongodb/mongo) `docs`, [Facebook React](https://github.com/facebook/react) `docs`, [libgit2](https://github.com/libgit2/libgit2) `docs`, [Stylus](https://github.com/LearnBoost/stylus) `docs`, [Gulp](https://github.com/gulpjs/gulp) `docs`, [Brunch](https://github.com/brunch/brunch) `docs`
 
-### Scripts
+### Data
 
-...
+    .
+    ├── ...
+    ├── data                    					# we are here.
+    │   ├── /pdf									# original pdf files of medical papers
+    │   ├── /txt									# OCRed or otherwise converted txt of those papers	
+    │   ├── all_included_w_data.bib					# references to all included publications
+    │   ├── authors_in_bdd_included.csv    			# all unique author-docids, used to calculate the number of implicated surgeons in ms
+    │   ├── bdd_included_docids_w_hospitals.csv		# all unique hospital-docids, featuring deduplicated hospitals per code above
+    │   ├── bdd_not_included.csv					# papers not identified as problematic BDD, kept for reference
+    │   ├── cities_for_dedupe.txt					# a large number of Chinese city names, used to create blocking variables for deduplication
+    │   ├── database_nrow.txt						# number of rows in the main database this material was pulled from 		
+    │   ├── df2bib_template.bib						# template used to create `.bib` files based on data in `.csv`
+    │   ├── full_reference_data_nocode.csv    		# full citation material for all papers						
+    │   ├── hospital_addresses_nonames.txt			# full list of addresses for the hospitals, created from `map.R`; names are dropped here because irrelevant; only function was to establish the number of unique addresses
+    │   ├── hospital_mainpage_name_province_url_list.csv # a master list of over 9,000 hospitals and locations used as a reference 
+    │   ├── hospitals_canonical_list.csv			# a canonical list of hospitals used as part of deduplication code
+    │   ├── hospitals_deduped_w_latlon_clean.csv	# deduplicated hospitals with their latitude and longtitude coordinates
+    │   ├── hospitals_w_latlon_raw.Rds				# the raw `.Rds` file for the above
+    │   ├── post_2015_examination.xlsx				# code to create Excel file to examine papers published after 2015 specifically				
+    │   ├── round4_examine_strings.xlsx				# one of the files the authors used to examine the excerpts from the publications					
+    │   ├── unique_cities_provinces.txt				# a list of all the unique cities and provinces which held a hospital in bdd_included; generated from Google's GIS functions, thus in pinyin
+    │   └── ... 
+    └── ...
+
+
 
 ### Tools and utilities
 
