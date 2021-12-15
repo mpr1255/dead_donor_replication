@@ -58,6 +58,7 @@ As shown below. Note that the code was written and tested across Windows 10, Ubu
     │   └── ...                
     └── ...
 
+> Note: The manuscript may not knit, and you may not be able to completely reproduce all elements of the analysis, because you do not have the original database files used for a few of the operations. These have not been made public because (1) they are extremely large, (2) they would expose the source of this material. Ultimately however, those files only play a minor role in this paper. All of the pdf and txt files of all of the manuscripts actually analyzed are present in this repo. Please feel free to contact the authors with questions about the code and the manuscript's reproducibility.
 
 ### Data
 
