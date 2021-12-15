@@ -11,42 +11,25 @@ Replication materials for "Execution by organ procurement: Breaching the dead do
     ├── appendix_2             # All files necessary for knitting Appendix 2
     ├── code                   # All R and bash scripts plus a Word macro 
     ├── data                   # All raw and processed txt, pdf, & analysis files
+    ├── figures                # Figures used in the ms.
     ├── ms_rr                  # The manuscript for the revised and resubmitted version of the paper
     ├── tables                 # Used in the ms
     ├── LICENSE
     └── README.md
 
-
 > Note: The project is around 1.5gb
 
-### Source files
+### Appendix 1
 
-The actual source files of a software project are usually stored inside the
-`src` folder. Alternatively, you can put them into the `lib` (if you're
-developing a library), or into the `app` folder (if your application's source
-files are not supposed to be compiled).
+The file and folder structure should be intuitive, but: 
 
-> **Samples**: [jQuery](https://github.com/jquery/jquery) `src`, [Node.js](https://github.com/nodejs/node) `lib` and `src`, [D3.js](https://github.com/mbostock/d3) `src`, [AngularJS](https://github.com/angular/angular.js) `src`, [Adobe Brackets](https://github.com/adobe/brackets) `src`, [three.js](https://github.com/mrdoob/three.js) `src`, [Express](https://github.com/visionmedia/express) `lib`, [Socket.IO](https://github.com/LearnBoost/socket.io) `lib`, [Less.js](https://github.com/less/less.js) `lib`, [Redis](https://github.com/antirez/redis) `src`, [Ace](https://github.com/ajaxorg/ace) `lib`, [Semantic UI](https://github.com/Semantic-Org/Semantic-UI) `src`, [Zepto.js](https://github.com/madrobby/zepto) `src`, [Emscripten](https://github.com/kripken/emscripten) `src`, [RethinkDB](https://github.com/rethinkdb/rethinkdb) `src`, [Bitcoin](https://github.com/bitcoin/bitcoin) `src`, [MongoDB](https://github.com/mongodb/mongo) `src`, [Facebook React](https://github.com/facebook/react) `src`, [Rust](https://github.com/mozilla/rust) `src`, [ASP.NET](https://aspnetwebstack.codeplex.com/SourceControl/latest) `src`, [SignalR](https://github.com/SignalR/SignalR) `src`, [libgit2](https://github.com/libgit2/libgit2) `src`
+- `/references` contains the bibliographic material of the papers consulted for the pilot study; 
+- `/txt` contains the full text files that were consulted;
+- `appendix_1.Rmd` file knits to `.docx` format through the template file, used also in the other appendix and the manuscript file.
 
-### Automated tests
+### Appendix 2
 
-Automated tests are usually placed into the `test` or, less commonly, into the `spec` or `tests` folder.
-
-> **Q: Why tests are placed into a separate folder, as opposed to having them closer to the code under test?**
->
-> **A:** Because you don't want to test the code, you want to test the *program*.
-
-    .
-    ├── ...
-    ├── test                    # Test files (alternatively `spec` or `tests`)
-    │   ├── benchmarks          # Load and stress tests
-    │   ├── integration         # End-to-end, integration tests (alternatively `e2e`)
-    │   └── unit                # Unit tests
-    └── ...
-
-> **Samples**: [jQuery](https://github.com/jquery/jquery), [Node.js](https://github.com/joyent/node), [D3.js](https://github.com/mbostock/d3), [AngularJS](https://github.com/angular/angular.js), [Adobe Brackets](https://github.com/adobe/brackets), [three.js](https://github.com/mrdoob/three.js), [Express](https://github.com/visionmedia/express), [Socket.IO](https://github.com/LearnBoost/socket.io), [Less.js](https://github.com/less/less.js), [Bower](https://github.com/bower/bower), [Mozilla PDF.js](https://github.com/mozilla/pdf.js), [Grunt](https://github.com/gruntjs/grunt), [Gulp](https://github.com/gulpjs/gulp), [Semantic UI](https://github.com/Semantic-Org/Semantic-UI), [Zepto.js](https://github.com/madrobby/zepto), [Jade](https://github.com/visionmedia/jade), [RethinkDB](https://github.com/rethinkdb/rethinkdb), [Vagrant](https://github.com/mitchellh/vagrant), [Sails.js](https://github.com/balderdashy/sails), [GitHub Hubot](https://github.com/github/hubot), [Facebook React](https://github.com/facebook/react), [Ansible](https://github.com/ansible/ansible), [ASP.NET](https://aspnetwebstack.codeplex.com/SourceControl/latest), [browserify](https://github.com/substack/node-browserify), [Paper.js](https://github.com/paperjs/paper.js), [Julia](https://github.com/JuliaLang/julia), [Karma](https://github.com/karma-runner/karma)
-
-### Documentation files
+These file names should also be straightforward to interpret. `bdd_included.csv` and `bdd_included.csv`
 
 Often it is beneficial to include some reference data into the project, such as
 Rich Text Format (RTF) documentation, which is usually stored into the `docs`
