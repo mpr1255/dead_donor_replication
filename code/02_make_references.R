@@ -1,11 +1,11 @@
 # Set up functions. Action happens underneath. ---------------------------------
-template <- read_lines("./data/df2bib_template.bib")
 library(bib2df)
 library(tidyverse)
 library(janitor)
 library(data.table)
 library(glue)
 
+template <- read_lines("./data/df2bib_template.bib")
 options(Encoding="UTF-8")
 here <- rprojroot::find_rstudio_root_file()
 
@@ -44,7 +44,7 @@ make_bib_file <- function(x){
 }
 
 # Some local-only data cleaning and reconciliation here -------------------
-# This won't run on your computer, because it calls files that reveal the specific databases the papers came from, and doing so may limit further access to such sources. Thus, they are not published as part of the paper. Of course, all data used for the paper comes from officially published PRC scientific journals, and is available to anyone who subscribes to them. We also include the full text files in our dataset.
+# This won't run on your computer, because it calls files that reveal the specific databases the papers came from, and doing so may limit further access to such sources. Thus, they are not published as part of the paper. Of course, all data used for the paper comes from officially published PRC scientific journals and is available to anyone who subscribes to them. We also include the full text files in our dataset.
 
 all_included <- fread("./_data/..._and_new_id_codes_linking_old_new.csv", colClasses = 'character')
 dt_orig <- fread("../..._analysis/data/tbl_articles_all1.csv")
@@ -58,44 +58,3 @@ all_included_w_data <- all_included_authors[all_included_w_data, on = "document_
 
 # make bib file. 
 make_bib_file()
-
-################ CLEAN REFERENCE FILE ########################
-refs <- bib2df("./ms/dead_donor_references.bib")
-setDT(refs)
-
-actually_included <- str_remove(read_lines("./bib_files/actually_included_bibtags.txt"), "@")
-
-refs <- refs[BIBTEXKEY %in% actually_included] 
-
-refs <- janitor::remove_empty(refs, which = "cols")
-
-refs[,JOURNAL := str_to_title(JOURNAL)]
-refs[,TITLE := paste0("{", TITLE, "}")]
-
-# refs[TITLE %like% "\\}|\\{"]
-
-refs[TITLE %like% "Ethical and legislative perspectives"]$TITLE
-
-refs <- refs %>% 
-  filter(HOWPUBLISHED %like% "\\{|\\}") %>% 
-  mutate(HOWPUBLISHED = paste0(HOWPUBLISHED, "}")) %>% 
-  rbind(refs %>% filter(HOWPUBLISHED %notlike% "\\{|\\}"))
-
-# refs %>% 
-#   filter(AUTHOR %like% "\\{|\\}") %>% 
-#   select(AUTHOR)
-
-# save
-refs %>% df2bib("./ms/dead_donor_references1.bib")
-
-####################
-
-
-
-
-
-
-refs <- refs %>% mutate(BOOKTITLE = str_replace_all(BOOKTITLE, '"', "'"))
-
-dead_donor_references1 <- refs
-make_bib_file(dead_donor_references1)
