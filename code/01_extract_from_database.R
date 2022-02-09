@@ -6,10 +6,10 @@ source("./code/helper_functions.R", encoding = "utf-8")
 
 # Read in main dataset ----------------------------------------------------
 
-dt_orig <- fread("../cnki_analysis/data/tbl_articles_all1.csv")
+dt_orig <- fread("../DIR/data/tbl_articles_all1.csv")
 dt_orig[abstract_ch == "",abstract_ch := title_ch]
 
-search_terms <- read_rds("../cnki_analysis/data/tbl_articles_search_terms_all.Rds")
+search_terms <- read_rds("../DIR/data/tbl_articles_search_terms_all.Rds")
 ot_all <- search_terms %>% filter(search_terms == "OrganTransplantation_all")
 ot_other <- search_terms %>% filter(search_terms != "OrganTransplantation_all")
 ot_all_only <- ot_all %>% filter(document_id %notin% ot_other[["document_id"]])
