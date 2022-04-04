@@ -1,0 +1,765 @@
+# Clean environment, load functions and libs ---------------------------
+rm(list=ls())
+source("./code/helper_functions.R", encoding = "utf-8") 
+
+# Set locale to Chinese ---------------------------------------------------
+# All this is not necessary on Unix systems. R in Windows just doesn't play well with Chinese characters.
+# Sys.setlocale("LC_ALL", locale = "chs")
+# Sys.setlocale("LC_ALL", locale = "English_United States.1252")
+# Sys.setlocale("LC_CTYPE", locale = "C")
+# Sys.setlocale("LC_CTYPE", locale = "C.UTF-8")
+
+# Extract from local database -------------------------------------------------
+# Does not need to be run again; included for reference only.
+# source("./code/01_extract_from_database.R", encoding = 'utf-8')
+
+# Clean reference data -------------------------------------------------
+# Does not need to be run again; included for reference only.
+# source("./code/02_make_references.R", encoding = 'utf-8')
+
+# Clean text files --------------------------------------------------------
+# Does not need to be run again; included for reference only.
+# source("./code/03_cleantxt.R", encoding = "utf-8")
+
+# Fuzzymatch focused set of target strings over expanded corpus -----------------------
+# source("./code/04_fuzzymatch.R", encoding = "utf-8")
+
+# Generate prisma flowchat  ------------------------------------------
+# Does not need to be run again; included for reference only.
+# source("./code/05_prisma.R", encoding = "utf-8")
+
+# Deduplicate hospital names for geocoding ---------------------------------------------------
+# Does not need to be run again; included for reference only.
+# source("./code/06_deduplication.R", encoding = 'utf-8')
+
+# Generate map based on deduped hospital names ---------------------------------------------------
+# Does not need to be run again; included for reference only.
+# source("./code/07_map.R", encoding = 'utf-8')
+
+# Delete existing ms and appendices, render ----------------------------------------
+if (dir.exists("./manuscript/dead_donor_manuscript_cache")) {
+  
+  unlink("./manuscript/dead_donor_manuscript_cache", recursive = TRUE)
+  unlink("./appendix/appendix_1.docx", recursive = TRUE)
+  unlink("./appendix/appendix_2.docx", recursive = TRUE)
+  
+  source("./code/08_render.R", encoding = 'utf-8')
+  
+} else{
+  source("./code/08_render.R", encoding = 'utf-8')
+}
+source("./code/helper_functions.R", encoding = "utf-8")
+
+# EXPLANATION
+# You will be unable to run this file from your computer. It calls local datasets -- several gigabyes of flat files of references to academic publication on many topics -- and filters them for publications directly responsive to our research question in this paper. The code is presented here for transparency around the filters used.
+
+
+# Read in main dataset ----------------------------------------------------
+
+dt_orig <- fread("../DIR/data/tbl_articles_all1.csv")
+dt_orig[abstract_ch == "",abstract_ch := title_ch]
+
+search_terms <- read_rds("../DIR/data/tbl_articles_search_terms_all.Rds")
+ot_all <- search_terms %>% filter(search_terms == "OrganTransplantation_all")
+ot_other <- search_terms %>% filter(search_terms != "OrganTransplantation_all")
+ot_all_only <- ot_all %>% filter(document_id %notin% ot_other[["document_id"]])
+search_terms_sm <- search_terms %>% filter(document_id %notin% ot_all_only[["document_id"]])
+
+exclusion_title <- as_utf8(c("鼠","犬", "猪", "动物", "兔", "活体", "胰腺", "角膜", "腹部", "婴", "儿", "宝贝"))
+exclusion_abstract <- as_utf8(c("鼠", "猪", "兔", "活体", "胰腺", "腹部", "婴", "宝贝"))
+inclusion_any <- as_utf8(c("心脏移植","肺移植","心肺联合移植", "供体", "供者", "供心", "供肺", "原位心脏移植", "心、肺联合移植", "热缺血", "心移植", "心脏原位移植", "脑死亡", "心脏死亡", "脑死亡")) # any papers that include these in the title or abstract
+
+# apply the main filters to it -- now I have 2883 papers only that the fulltext fuzzy matching is going to run across. 
+dt <- dt_orig[document_id %notin% ot_all_only[["document_id"]]][title_ch %notlike% paste(exclusion_title, collapse = "|")][abstract_ch %notlike% paste(exclusion_abstract, collapse = "|")][title_ch %like% "心|肺|脑死亡"][abstract_ch %like% "手术|心脏移植|肺移植|心肺联合移植|脑死亡" & title_ch %like% paste(inclusion_any, collapse = "|")]
+
+# dt[document_id %like% "CJFD9899_ZDFB901.023"]
+
+
+
+
+# dt_orig %>% nrow() %>% write_lines("./data/database_nrow.txt")
+# Set up functions. Action happens underneath. ---------------------------------
+library(bib2df)
+library(tidyverse)
+library(janitor)
+library(data.table)
+library(glue)
+
+template <- read_lines("./data/df2bib_template.bib")
+options(Encoding="UTF-8")
+here <- rprojroot::find_rstudio_root_file()
+
+`%notlike%` <- Negate(`%like%`)
+
+make_bib_file <- function(x){
+  y <- as.character(substitute(x))
+  
+  if (!file.exists(paste0("./data/refs/", y,".bib"))){
+    
+    for (i in 1:nrow(x)){
+      
+      temp <- template 
+    
+      bibtexentry <- as.character(x[["docid"]][i])
+      title <- str_trim(x[["title_ch"]][i])
+      authors <- str_trim(x[["author_ch"]][i])
+      journal <- str_trim(x[["journal"]][i])
+      issue <- str_trim(x[["journal_issue"]][i])
+      year <- str_trim(x[["journal_year"]][i])
+      
+      temp <- gsub("\\{bibtexentry\\}", bibtexentry, temp)
+      temp <- gsub("\\{title\\}", title, temp)
+      temp <- gsub("\\{authors\\}", authors, temp)
+      temp <- gsub("\\{journal\\}", journal, temp)
+      temp <- gsub("\\{issue\\}", issue, temp)
+      temp <- gsub("\\{year\\}", year, temp)
+      
+      write_lines(temp, paste0("./bib_files/", y,".bib"), append=TRUE)
+      
+    } 
+    
+  }else{
+    print("bib file exists.")
+  }
+}
+
+# Some local-only data cleaning and reconciliation here -------------------
+# This won't run on your computer, because it calls files that reveal the specific databases the papers came from, and doing so may limit further access to such sources. Thus, they are not published as part of the paper. Of course, all data used for the paper comes from officially published PRC scientific journals and is available to anyone who subscribes to them. We also include the full text files in our dataset.
+
+all_included <- fread("./_data/..._and_new_id_codes_linking_old_new.csv", colClasses = 'character')
+dt_orig <- fread("../..._analysis/data/tbl_articles_all1.csv")
+dt_authors <-  fread("../..._analysis/data/transplant_authors_20210607_1307.csv")
+
+all_included_w_data <- dt_orig[all_included, on = "document_id"]
+all_included_authors <- dt_authors[document_id %in% all_included_w_data$document_id]
+all_included_authors[,author_ch := map(author_ch, ~paste0(.x, collapse = ","))]
+all_included_authors <- all_included_authors[, lapply(.SD, paste0, collapse=", "), by=document_id][,-c("V1")]
+all_included_w_data <- all_included_authors[all_included_w_data, on = "document_id"]
+
+# make bib file. 
+make_bib_file()# This code has already been run and the files on the github repo are cleaned. This is included for transparency. 
+# First I ran this in the command line after navigating to the folder holding the txt files: `for f in *.txt; do tr -d " \t\n\r" < "$f" > "${f%.txt}"--clean.txt; done`
+# Following that, the code below was used to fix the 'Chinese' Arabic numerals and Latin characters.
+
+# Fix the Chinese characters in the papers for the original folders --------------------------------
+
+path_in <- "./data/papers_txt/"
+path_in <- "./data/papers_ocr_txt/"
+
+file_list_no_path <- list.files(path_in)
+file_list_w_path <- list.files(path_in, full.names = TRUE) 
+file_list <- as.data.table(cbind(file_list_no_path, file_list_w_path))
+
+path_out <- "./data/papers_txt_clean/"
+
+en_ch_replace = list("～" = "~", "０" = "0", "１" = "1", "２" = "2", "３" = "3", "４" = "4", "５" = "5", "６" = "6", "７" = "7", "８" = "8", "９" = "9", "ａ" = "a", "ｂ" = "b", "ｃ" = "c", "ｄ" = "d", "ｅ" = "e", "ｆ" = "f", "ｇ" = "g", "ｈ" = "h", "ｉ" = "i", "ｊ" = "j", "ｋ" = "k", "ｌ" = "l", "ｍ" = "m", "ｎ" = "n", "ｏ" = "o", "ｐ" = "p", "ｑ" = "q", "ｒ" = "r", "ｓ" = "s", "ｔ" = "t", "ｕ" = "u", "ｖ" = "v", "ｗ" = "w", "ｘ" = "x", "ｙ" = "y", "ｚ" = "z")
+
+# this can be accessed two ways. paste0() will print the values. and names() will print the 'names', which are the things I want to replace.
+# names(en_ch_replace[1])
+# paste0(en_ch_replace[1])
+
+clean_text <- function(file){
+  file_in <- read_lines(paste0(path_in, file))
+  broken_up <- unlist(strsplit(file_in, split = ""))
+  res <- map(broken_up, ~replace(.x, .x == names(en_ch_replace[.x]), paste0(en_ch_replace[.x])))
+  file_out <- paste0(res, collapse = "")
+  write_lines(file_out, paste0(path_out, file))
+  # return(file_out)
+  invisible()
+}
+
+
+map(file_list[[1]], ~clean_text(.x))
+rm(list = ls())
+
+# This code takes a single vector of strings and searches across a vector of file paths (with the function reading in the file, searching, outputting results).
+
+# You have to tweak this per your computer settings.
+suppressMessages(library(furrr))
+plan(multisession, workers = 8)
+
+# Set up strings to match. ts = 'target strings'
+ts_intubation <- as_utf8(c("脑死亡后用麻醉机维持呼吸", "死亡后迅速建立人工呼吸", "自主呼吸丧失的脑死亡供体,在特定条件下应尽可能迅速建立辅助呼吸支持循环,维持供心的血氧供应,避免或缩短热缺血时间,同时迅速剖胸取心", "供体大脑死亡后,首先分秒必争地建立呼吸与静脉通道", "经气管切开气管插管建立人工呼吸", "快速胸部正中切口进胸", "供者脑死亡后迅速建立人工呼吸", "供心保护脑死亡后用麻醉机维持呼吸", "供体确定脑死亡后,气管插管,彻底吸除气道分泌物,用简易呼吸器人工控制呼吸", "供体脑死亡后,迅速建立人工呼吸", "供体脑死亡后快速正中开胸,同时插入气管导管人工通气", "脑死亡后,紧急气管插管", "供者行气管插管", "供者行气管插管,球囊加压通气,静脉注射肝素200mg", "脑死亡后，用麻醉机维持呼吸", "供体在确认脑死亡后,气管插管,建立人工呼吸", "脑死亡后气管紧急插管,纯氧通气", "供体死亡后行人工呼吸、循环支持", "脑死亡后,气管插管", "脑死亡后立即气管内插管给氧", "脑死亡,面罩加压给氧,辅助呼吸", "脑死亡后,将供体取仰卧位,争取做气管插管", "脑死亡后迅速气管插管", "脑死亡后迅速气管插管进行机械通气", "协助麻醉医生进行支纤镜检查后进行供体气管插管", "脑死亡后,4例气管插管,3例面罩吸氧", "脑死亡后插入气管导管", "在这紧急情况下,必须在紧急开胸的同时,进行紧急气管插管及辅助呼吸", "供体手术气管插管通气", "供体手术气管插管", "气管切开气管插管", "供体心脏的提取供心者取仰卧位,垫高胸腔,气管插管", "进行供心、肺切取,吸净气管分泌物,气管插管给氧", "供体心肺的切取气管插管", "供肺切取:供体气管插管", "供者平卧位,气管插管", "供心切取配合,护士协助医生气管插管辅助呼吸", "供心切取配合..气管插管", "供体平卧位，气管插管", "协助麻醉医生进行支纤镜检查后进行气管插管", "供体心肺的获取和保护..行气管插管通气", "供心的切取供体气管插管后", "供者气管插管", "供体全身肝素化后，仰卧位，经口气管内插管","面罩吸氧"))
+
+target_strings <- ts_intubation
+
+# Ensure no duplications. Output should be character(0)
+target_strings %>% .[duplicated(.)]
+
+# Read in list of files
+path <- ("./data/papers_txt_clean/")
+file_list_w_path <- list.files(path, full.names = TRUE)
+file_list_no_path <- list.files(path)
+file_list <- as.data.table(cbind(file_list_w_path, file_list_no_path))
+
+# Set up main functions
+get_string_matches <- function(file_text, target_string){
+  res <- afind(file_text, target_string, window = nchar(target_string), method="running_cosine")
+  location <- res$location
+  distance <- res$distance
+  match <- res$match
+  context <- substr(file_text, as.integer(location)-70, as.integer(location)+70)
+  res2 <- as.data.table(cbind(target_string, location, distance, match, context))
+  return(res2)
+}
+
+get_full_match <- function(path, file_name, target_strings) {
+  file_text <- fread(paste0(path, file_name), sep = NULL, header = FALSE)
+  res_afind <- future_map(target_strings, ~get_string_matches(file_text, .x))
+  res <- rbindlist(res_afind)
+  res3 <- as.data.table(cbind(path, file_name, res))
+  names(res3) <- c("path", "file_name", "target_string", "string_location",  "string_distance", "matching_string", "context")
+  return(res3)
+}
+
+all_res <- future_map_dfr(file_list$file_list_no_path, ~get_full_match(path, .x, target_strings))
+
+# Previously output here.
+# all_res <- fread("./data/string_match_full_output.csv")
+
+n_examined <- string_cutoff %>% distinct(file_name) %>% nrow()
+
+string_cutoff <- all_res[string_distance < .28][context %like% "供"]
+string_cutoff <- string_cutoff[,document_id := str_remove(file_name, "\\.txt")]
+
+
+# These were outputted and examined iteratively.
+# string_cutoff[document_id %notin% all_matched$document_id] %>% writexl::write_xlsx("./data/round3_examine_strings.xlsx")
+# string_cutoff[document_id %notin% all_matched$document_id] %>% writexl::write_xlsx("./data/round4_examine_strings.xlsx")suppressMessages(library(PRISMAstatement))
+
+# Note there are a few things happening here. The big difference is that I have simply copy/pasted the chief functions from the PRISMAstatement library into this script and directly modified them to swap the quantitative/qualitative box at the end (see https://cran.r-project.org/package=PRISMAstatement). So the only thing that actually calls the library is the prisma_pdf function; otherwise R looks directly in this namespace first and uses these functions. 
+
+source("./code/helper_functions.R", encoding = "utf-8") 
+
+
+prisma <- function (found, found_other, no_dupes, screened, screen_exclusions,
+                    full_text, full_text_exclusions, qualitative,
+                    labels = NULL, extra_dupes_box = FALSE, ..., dpi = 72, font_size = 10)
+{
+  DiagrammeR::grViz(prisma_graph(found = found, found_other = found_other,
+                                 no_dupes = no_dupes, screened = screened, screen_exclusions = screen_exclusions,
+                                 full_text = full_text, full_text_exclusions = full_text_exclusions,
+                                 qualitative = qualitative,
+                                 labels = labels, extra_dupes_box = extra_dupes_box,
+                                 dpi = dpi, font_size = font_size, ...))
+}
+
+
+prisma_graph <- function (found, found_other, no_dupes, screened, screen_exclusions, 
+                          full_text, full_text_exclusions, qualitative, quantitative = NULL, 
+                          labels = NULL, extra_dupes_box = FALSE, ..., dpi = 72, font_size = 10) 
+{
+  stopifnot(length(found) == 1)
+  stopifnot(length(found_other) == 1)
+  stopifnot(length(no_dupes) == 1)
+  stopifnot(length(screened) == 1)
+  stopifnot(length(screen_exclusions) == 1)
+  stopifnot(length(full_text) == 1)
+  stopifnot(length(full_text_exclusions) == 1)
+  stopifnot(length(qualitative) == 1)
+  stopifnot(is.null(quantitative) || length(quantitative) == 
+              1)
+  stopifnot(found == floor(found))
+  stopifnot(found_other == floor(found_other))
+  stopifnot(no_dupes == floor(no_dupes))
+  stopifnot(screened == floor(screened))
+  stopifnot(screen_exclusions == floor(screen_exclusions))
+  stopifnot(full_text == floor(full_text))
+  stopifnot(full_text_exclusions == floor(full_text_exclusions))
+  stopifnot(qualitative == floor(qualitative))
+  stopifnot(is.null(quantitative) || quantitative == floor(quantitative))
+  stopifnot(found >= 0)
+  stopifnot(found_other >= 0)
+  stopifnot(no_dupes >= 0)
+  stopifnot(screened >= 0)
+  stopifnot(screen_exclusions >= 0)
+  stopifnot(full_text >= 0)
+  stopifnot(full_text_exclusions >= 0)
+  stopifnot(qualitative >= 0)
+  stopifnot(is.null(quantitative) || quantitative >= 0)
+  stopifnot(no_dupes <= found + found_other)
+  stopifnot(screened <= no_dupes)
+  stopifnot(full_text <= screened)
+  stopifnot(qualitative <= full_text)
+  stopifnot(quantitative <= qualitative)
+  stopifnot(screen_exclusions <= screened)
+  stopifnot(full_text_exclusions <= full_text)
+  if (screened - screen_exclusions != full_text) 
+    warning("After screening exclusions, a different number of remaining ", 
+            "full-text articles is stated.")
+  if (full_text - full_text_exclusions != qualitative) 
+    warning("After full-text exclusions, a different number of remaining ", 
+            "articles for qualitative synthesis is stated.")
+  dupes <- found + found_other - no_dupes
+  labels_orig <- list(found = pnl("Records identified through", 
+                                  "database searching", paren(found)), found_other = pnl("Additional records identified", 
+                                                                                         "through other sources", paren(found_other)), no_dupes = pnl("Records after duplicates removed", 
+                                                                                                                                                      paren(no_dupes)), dupes = pnl("Duplicates excluded", 
+                                                                                                                                                                                    paren(dupes)), screened = pnl("Records screened", paren(screened)), 
+                      screen_exclusions = pnl("Records excluded", paren(screen_exclusions)), 
+                      full_text = pnl("Full-text articles assessed", "for eligibility", 
+                                      paren(full_text)), full_text_exclusions = pnl("Full-text articles excluded,", 
+                                                                                    "with reasons", paren(full_text_exclusions)), qualitative = pnl("Studies included in quantitative synthesis", # NOTE: The change is here; 'quant' swapped for 'qual'
+                                                                                                                                                    paren(qualitative)), quantitative = pnl("Studies included in", 
+                                                                                                                                                                                            "qualitative synthesis", paren(quantitative))) # and also here - vice versa
+  for (l in names(labels)) labels_orig[[l]] <- labels[[l]]
+  labels <- labels_orig
+  dupes_box <- sprintf("nodups -> incex;\n    nodups [label=\"%s\"];", 
+                       labels$no_dupes)
+  if (extra_dupes_box) 
+    dupes_box <- sprintf("nodups -> {incex; dups};\n       nodups [label=\"%s\"];\n       dups [label=\"%s\"]; {rank=same; nodups dups}", 
+                         labels$no_dupes, labels$dupes)
+  dot_template <- "digraph prisma {\n    node [shape=\"box\", fontsize = %d];\n    graph [splines=ortho, nodesep=1, dpi = %d]\n    a -> nodups;\n    b -> nodups;\n    a [label=\"%s\"];\n    b [label=\"%s\"]\n    %s\n    incex -> {ex; ft}\n    incex [label=\"%s\"];\n    ex [label=\"%s\"];\n    {rank=same; incex ex}\n    ft -> {qual; ftex};\n    ft [label=\"%s\"];\n    {rank=same; ft ftex}\n    ftex [label=\"%s\"];\n    qual -> quant\n    qual [label=\"%s\"];\n    quant [label=\"%s\"];\n  }"
+  sprintf(dot_template, font_size, dpi, labels$found, labels$found_other, 
+          dupes_box, labels$screened, labels$screen_exclusions, 
+          labels$full_text, labels$full_text_exclusions, labels$qualitative, 
+          labels$quantitative)
+}
+
+
+
+paren <- function (n){
+  sprintf("(n = %d)", n)
+}
+
+
+
+
+pnl <- function (...){
+  paste(..., sep = "\n")
+}
+
+n_all_entries <- as.integer(read_lines("./data/database_nrow.txt"))
+n_all_pdf_files <- length(list.files(glue("{here}/data/pdf")))
+n_all_text_files <- length(list.files(glue("{here}/data/txt")))
+n_couldnt_convert <- n_all_pdf_files - n_all_text_files
+n_all_examined <- fread(glue("{here}/data/string_match_full_output.csv"))[string_distance < .28][context %like% "供"] %>% distinct(file_name) %>% nrow()
+n_bdd_included <- nrow(fread(glue("{here}/appendix_2/bdd_included.csv")))
+
+
+prsm <- prisma(found = n_all_entries,
+               found_other = 0,
+               no_dupes = n_all_entries,
+               screened = n_all_entries,
+               screen_exclusions = n_all_entries - n_all_text_files,
+               full_text = n_all_text_files,
+               full_text_exclusions = n_all_text_files - n_all_examined,
+               qualitative = n_all_examined,
+               quantitative = n_bdd_included,
+               width = 50, height = 60,
+               font_size = 9,
+               font = "Times New Roman",
+               dpi = 72)
+
+pdf_out <- "./figures/Fig1.pdf"
+PRISMAstatement:::prisma_pdf(prsm, pdf_out)
+knitr::include_graphics(path = pdf_out)
+system(glue("pdftoppm -png {here}/{pdf_out} > {here}/figures/Fig1.png"))
+
+source("./code/helper_functions.R", encoding = "utf-8") 
+library(googleway)
+library(ggmap)
+
+
+filter_vect <- as_utf8('所|科|院|医院|室|校|基金会|队|中心|会|部|处|大学|集团|中学|公司|厂|站|社|组|委|局|报道|基地|厅|注册|临床|系')
+
+# Blocking vars
+cities = as_utf8("(北京|天津|上海|重庆|济南|青岛|滨州|菏泽|德州|济宁|聊城|淄博|日照|烟台|临沂|东营|泰安|威海|潍坊|枣庄|莱芜|广州|深圳|东莞|佛山|湛江|茂名|江门|韶关|珠海|汕头|中山|汕尾|肇庆|河源|揭阳|惠州|南京|常州|无锡|苏州|南通|徐州|泰州|扬州|镇江|连云港|宿迁|淮安|杭州|嘉兴|金华|丽水|台州|宁波|温州|湖州|绍兴|衢州|舟山|郑州|安阳|南阳|洛阳|开封|新乡|平顶山|三门峡|漯河|濮阳|信阳|焦作|商丘|许昌|武汉|荆州|襄阳|恩施州|黄石|十堰|随州|仙桃|潜江|宜昌|荆门|黄冈|鄂州|长沙|岳阳|常德|衡阳|益阳|郴州|怀化|邵阳|湘潭|吉首|永州|株洲|娄底|石家庄|唐山|张家口|邢台|保定|邯郸|秦皇岛|沧州|承德|廊坊|福州|厦门|漳州|南平|泉州|莆田|龙岩|沈阳|大连|锦州|辽阳|鞍山|本溪|抚顺|朝阳|丹东|盘锦|铁岭|长春|吉林|延边|哈尔滨|大庆|鸡西|牡丹江|齐齐哈尔|鹤岗|佳木斯|鸭山|七台河|合肥|芜湖|蚌埠|淮北|淮南|马鞍山|宣城|安庆|池州|毫州|阜阳|滁州|巢湖|六安|南昌|赣州|九江|吉安|宜春|上饶|景德镇|萍乡|南宁|柳州|桂林|钦州|贵港|百色|梧州|太原|大同|阳泉|长治|晋中|晋城|运城|成都|南充|乐山|德阳|绵阳|泸州|宜宾|自贡|达州|攀枝花|西安|宝鸡|咸阳|汉中|延安|昆明|曲靖|大理州|玉溪|楚雄彝族自治州|西双版纳傣族自治州|红河哈尼族彝族自治州|保山|呼和浩特|包头|赤峰|鄂尔多斯|通辽|乌兰察布|兴安盟|巴彦淖尔|贵阳|遵义|黔南布依族苗族自治州|乌鲁木齐|石河子|兰州|白银|嘉峪关|酒泉|海口|三亚|西宁|银川|拉萨|驻马店)")
+
+provinces = as_utf8("(山东|广东|江苏|浙江|河南|湖北|湖南|河北|福建|辽宁|吉林|黑龙江|安徽|江西|广西壮族自治区|山西|四川|陕西|云南|内蒙古自治区|贵州|新疆维吾尔自治区|甘肃|海南|青海|宁夏回族自治区|西藏自治区)") #"自治区 are not provinces" yes I know
+
+special_id_name = as_utf8("(华西|湘雅|协和|同仁|福州|新华|新桥|仁德|朝阳|友好|胜利)")
+
+special_id_type = as_utf8("(首都|医学|空军|军|人民|大学|武警|总队|附属|中心医院|医科|结合|总医院|总队|眼科|红旗|市立)")
+
+replace_nums <- as_utf8(c("一" = "1", "二" = "2", "三" = "3", "四" = "4", "五" = "5", "六" = "6", "七" = "7", "八" = "8", "九" = "9", "十" = "10", "０" = "0", "ｏ" = "0", "○" = "0", "〇" = "0"))
+
+replace_nums_back <- as_utf8(c("1" = "一","2" = "二","3" = "三","4" = "四","5" = "五","6" = "六","7" = "七","8" = "八","9" = "九","10" = "十","0" = "〇"))
+
+# nums = as_utf8("(一|二|三|四|五|六|七|八|九|十|０|ｏ|[0-9]{1,3})")
+nums = as_utf8("([0-9]{1,3})")
+
+######################################
+
+# Clean hospital names ----------------------------------------------------
+docids_w_hospitals <- fread("./data/bdd_included_docids_w_hospitals.csv", colClasses = "character")
+names(docids_w_hospitals) <- c("hospital", "docid")
+
+# hospitals <- unique(docids_w_hospitals$hospital)
+
+docids_w_hospitals[,hospital_clean := str_replace_all(hospital, "!.*", "")]
+docids_w_hospitals[,hospital_clean := str_replace_all(hospital_clean, "([0-9]{4,6})", "")]
+docids_w_hospitals[,hospital_clean := str_replace_all(hospital_clean, "\\s+.*", "")]
+docids_w_hospitals <- docids_w_hospitals[hospital_clean %like% filter_vect]
+
+
+
+unique_hospitals <- as.data.table(tibble("hospital" = unique(str_replace_all(unique(docids_w_hospitals[,.(hospital_clean)])$hospital_clean, "医院.*", "医院"))))
+
+# unique_hospitals <- unique_hospitals %>% 
+  # mutate(geo_date = 
+options(pillar.sigfig=8)
+
+hospitals_deduped_w_latlon <- unique_hospitals %>% 
+  mutate(geocoded = map_dfr(hospital, ~geocode(location = .x, 
+                                              output = 'latlon', 
+                                              source = "google", 
+                                              force = TRUE, 
+                                              language ="zh-CN",
+                                              messaging=TRUE, 
+                                              override_limit=TRUE)))
+
+
+hospitals_deduped_w_latlon1 <- tibble(hospitals_deduped_w_latlon) 
+
+hospitals_deduped_w_latlon1$lon <- hospitals_deduped_w_latlon1$geocoded$lon
+hospitals_deduped_w_latlon1$lat <- hospitals_deduped_w_latlon1$geocoded$lat
+hospitals_deduped_w_latlon1$lonlat <- paste(hospitals_deduped_w_latlon1$geocoded$lon, hospitals_deduped_w_latlon1$geocoded$lat, sep = "--")
+
+hospitals_deduped_w_latlon1 <- hospitals_deduped_w_latlon1 %>% distinct(lonlat, .keep_all = TRUE)
+
+hospitals_deduped_w_latlon1_clean <- hospitals_deduped_w_latlon1
+
+# hospitals_deduped_w_latlon1_clean %>% select(-c(geocoded, lonlat)) %>% fwrite("./data/hospitals_deduped_w_latlon_clean.csv")
+
+
+hospitals_rev_geocoding <- read_rds("./data/hospitals_w_latlon_raw.Rds")
+test1 <- hospitals_rev_geocoding
+
+res <- list()
+for(i in 1:nrow(test1$geocoded)){
+  res[[i]] <- as.numeric(as.data.table(test1$geocoded)[i])
+}
+
+# res2 <- map(res, ~(revgeocode(.x, output = "address")))
+split_all <- map(res2, ~str_split(.x, "\\,"))
+# split_all %>% write_lines("./data/hospital_addresses_nonames.txt")
+
+library(sf)
+library(spData)
+library(ggplot2)
+library(googleway)
+library(ggmap)
+library(ggrepel)
+# register_google(key = '')  you put your API key here.
+
+
+
+#Thanks to Masumbuko Semba for publishing the main code used below (https://semba-blog.netlify.app/10/20/2018/genetic-connectivity-in-western-indian-ocean-region/), and Dominic Woolf on Stack Overflow for the degree symbol workaround (https://stackoverflow.com/a/57468208/15181607)
+
+hospitals_deduped_w_latlon_clean <- fread("./data/hospitals_deduped_w_latlon_clean.csv")
+
+sf_point <- hospitals_deduped_w_latlon_clean %>% 
+  st_as_sf(coords = c("lon", "lat")) %>% 
+  st_set_crs(4326)
+
+xlabs = c(80, 120)
+ylabs = c(20, 40)
+
+china_map <- ggplot() + 
+  geom_sf(data = spData::world, col = 1, fill = "ivory") +
+  coord_sf(xlim = c(70,140), ylim = c(15,50)) +
+  geom_point(data = hospitals_deduped_w_latlon_clean, aes(x = lon, y = lat), size = 2.5, color = "red", shape = "circle") +
+  ggrepel::geom_text_repel(data = hospitals_deduped_w_latlon_clean, aes(x = lon, y = lat, label = NA), nudge_y = 1.5, nudge_x = 5) +
+  theme_bw() +
+  theme(axis.text = element_text(size = 11, colour = 1),
+        panel.background = element_rect(fill = "lightblue"), axis.title = element_blank(),
+        panel.grid = element_line(colour = NA)) +
+  scale_x_continuous(breaks = xlabs, labels = paste0(xlabs,'°E')) +
+  scale_y_continuous(breaks = ylabs, labels = paste0(ylabs,'°N')) +
+  theme(axis.text = element_text(size=16)) +
+  labs(x = NULL, y = NULL)
+
+ggsave("./figures/Fig2.png")
+
+rmarkdown::render(glue("{here}/ms/dead_donor_manuscript.Rmd"))
+rmarkdown::render(glue("{here}/appendix_1/appendix_1.Rmd"))
+rmarkdown::render(glue("{here}/appendix_2/appendix_2.Rmd"))library(bib2df)
+library(tidyverse)
+library(janitor)
+library(data.table)
+library(glue)
+here <- rprojroot::find_rstudio_root_file()
+`%notlike%` <- Negate(`%like%`)
+refs <- bib2df("./bib_files/dead_donor_references_original.bib")
+setDT(refs)
+actually_included <- str_remove(read_lines("./bib_files/actually_included_bibtags.txt"), "@")
+refs <- refs[BIBTEXKEY %in% actually_included] 
+refs <- janitor::remove_empty(refs, which = "cols")
+refs[,JOURNAL := str_to_title(JOURNAL)]
+refs[JOURNAL == "Bbc", JOURNAL :=  "BBC"]
+refs[JOURNAL %like% "Bmc", JOURNAL := str_replace(JOURNAL, "Bmc", "BMC")]
+
+# There are incomplete references in the database to some of the Chinese articles. I have to now export them, get the full metadata from elsewhere, and bring them back in. 
+# Identify these problematic cases first....
+# refs[is.na(VOLUME) & ISSUE %like% "[0-9]"] %>% df2bib("./bib_files/chinese_paper_w_missing_metadata.bib")
+# Made some changes upstream to dead_donor_references_original.bib and the rest of the cleaning follows. 
+
+# Filter out the Chinese papers and fix up the titles ---------------------
+refs[grepl("[\\p{Han}]", TITLE, perl = T), TITLE := str_extract(TITLE, "(?<=\\[).*?(?=\\])")]
+refs[grepl("[\\p{Han}]", BOOKTITLE, perl = T), BOOKTITLE := str_extract(BOOKTITLE, "(?<=\\[).*?(?=\\])")]
+refs[grepl("[\\p{Han}]", CONFERENCE, perl = T), CONFERENCE := str_extract(CONFERENCE, "(?<=\\[).*?(?=\\])")]
+refs[grepl("[\\p{Han}]", PUBLISHER, perl = T), PUBLISHER := str_extract(PUBLISHER, "(?<=\\[).*?(?=\\])")]
+refs[, AUTHOR := map_chr(AUTHOR, ~paste0(.x, collapse = "; "))]
+refs[grepl("[\\p{Han}]", AUTHOR, perl = T), AUTHOR := str_replace_all(AUTHOR, ",", ";")]
+refs[grepl("[\\p{Han}]", AUTHOR, perl = T), AUTHOR := str_extract(AUTHOR, "(?<=\\[).*?(?=\\])")]
+refs[,TITLE := paste0("{", TITLE, "}")]
+
+# Fix cases that have non-closing curly braces ----------------------------
+refs[HOWPUBLISHED %like% "\\{" & HOWPUBLISHED %notlike% "\\}", HOWPUBLISHED := paste0(HOWPUBLISHED, "}")]
+
+# Fix Chinese journal name volume/issue
+refs[ISSUE %like% "年", VOLUME := str_extract(ISSUE, "(?<=年).*?(?=期)")]
+refs[, YEAR := parse_number(YEAR)]
+refs[JOURNAL %like% ";", JOURNAL := str_trim(str_extract(JOURNAL, "(?<=;).*$"))]
+refs[grepl("[\\p{Han}]", JOURNAL, perl = T), JOURNAL := str_extract(JOURNAL, "(?<=\\[).*?(?=\\])")]
+refs[AUTHOR %like% ";", AUTHOR := str_replace_all(AUTHOR, ";", " and")]
+
+
+# save
+refs %>% df2bib("./ms_rr/dead_donor_references.bib")
+suppressMessages(library(reclin))
+suppressMessages(library(rsvg))
+suppressMessages(library(DiagrammeRsvg))
+suppressMessages(library(data.table))
+suppressMessages(library(here))
+suppressMessages(library(scales))
+suppressMessages(library(tidyverse))
+suppressMessages(library(glue))
+suppressMessages(library(janitor))
+suppressMessages(library(readtext))
+suppressMessages(library(readr))
+suppressMessages(library(stringr))
+suppressMessages(library(stringdist))
+suppressMessages(library(stringi))
+suppressMessages(library(utf8))
+suppressMessages(library(readxl))
+suppressMessages(library(writexl))
+suppressMessages(library(bib2df))
+suppressMessages(library(tictoc))
+suppressMessages(library(googleLanguageR))
+
+`%notlike%` <- Negate(`%like%`)
+`%notin%` <- Negate(`%in%`)
+
+here <- here()
+
+join_to_year <- function(x) {
+  left_join(x, paper_reference_data, by = "id_number") %>% 
+    select(-c(doc_id, title_ch, authors_ch, institutions, funding, journal, issue, keywords_ch, abstract_ch)) %>% 
+    mutate(year = as.integer(year))
+}
+
+library(flextable)
+library(data.table)
+library(officer)
+library(tidyverse)
+library(here)
+library(glue)
+library(janitor)
+library(googleLanguageR)
+
+
+here <- rprojroot::find_root("dead_donor_replication.Rproj")
+
+gl_auth("/mnt/c/Program Files/R/google_translate_api/try-apis-9f00867d8be6.json") #You'll need your own token to rerun these.
+
+translate_text <- function(.x) {
+  gl_translate(.x, target = "en")$translatedText
+}
+
+# Set up functions. Action happens underneath. ---------------------------------
+template <- read_lines("./data/df2bib_template.bib")
+
+make_bib_file <- function(x){
+  y <- as.character(substitute(x))
+  
+  if (!file.exists(paste0("./data/bib_files/", y,".bib"))){
+    
+    for (i in 1:nrow(x)){
+      
+      temp <- template 
+      
+      bibtexentry <- as.character(x[["bibtexkey"]][i])
+      title <- str_trim(x[["full_title"]][i])
+      authors <- str_trim(x[["full_authors"]][i])
+      journal <- str_trim(x[["journal"]][i])
+      issue <- str_trim(x[["issue"]][i])
+      year <- str_trim(x[["year"]][i])
+      
+      temp <- gsub("\\{bibtexentry\\}", bibtexentry, temp)
+      temp <- gsub("\\{title\\}", title, temp)
+      temp <- gsub("\\{authors\\}", authors, temp)
+      temp <- gsub("\\{journal\\}", journal, temp)
+      temp <- gsub("\\{issue\\}", issue, temp)
+      temp <- gsub("\\{year\\}", year, temp)
+      
+      write_lines(temp, paste0("./bib_files/", y,".bib"), append=TRUE)
+      
+    } 
+    
+  }else{
+    print("bib file exists.")
+  }
+}
+
+
+# Fix references in appendix 2 --------------------------------------------
+
+tbl_a <- fread(glue("{here}/appendix_2/bdd_included.csv", sep = "\t", colClasses = 'character', quote=""))[,`:=` (year = as.character(year), id = as.character(str_pad(id, 4, "left", 0)))][order(year)]
+
+appendix2_refs <- tbl_a$id
+
+all_papers <- bib2df::bib2df("./data/all_included_w_data.bib")
+setDT(all_papers)
+
+all_papers <- clean_names(all_papers)
+
+all_papers <- all_papers[bibtexkey %in% appendix2_refs]
+
+all_papers <- all_papers[,.(bibtexkey, author, title, journal, issue)]
+
+all_papers$title
+
+all_papers[,eng_titles := map_chr(title, ~translate_text(.x))]
+all_papers[,eng_authors := map_chr(author, ~translate_text(.x))]
+
+all_papers %>% fwrite("./appendix_2/bdd_included_translated_refs.csv")
+
+str(all_papers)
+
+
+# Fix references in main part of the paper --------------------------------
+# This can't really be run as a program. It was done interactively until it worked; a lot of trial and error just to get the references in the main bib file translated using the google translate function. For that reason I've just commented it all out. 
+
+# refs <- bib2df::bib2df("./bib_files/papers_only.bib")
+# setDT(refs)
+# refs <- clean_names(refs)
+# 
+# refs <- refs[,.(bibtexkey, author, title, journal, year, issue)]
+# 
+# refs[,eng_titles := map_chr(title, ~translate_text(.x))] 
+# refs[,eng_authors := map_chr(author, ~try(translate_text(.x)))]
+# refs[dt_eng_authors1, on = "bibtexkey"]
+# # refs[,category := "ARTICLE"] %>% bib2df::df2bib("./bib_files/papers_with_eng.bib")
+# 
+# dt_eng_authors <- bib2df::bib2df("./bib_files/papers_with_eng.bib")
+# setDT(dt_eng_authors)
+# dt_eng_authors1 <- dt_eng_authors[,.(BIBTEXKEY, ENG_AUTHORS)]
+# dt_eng_authors1 <- clean_names(dt_eng_authors1)
+# 
+# refs1 <- refs[,full_title := paste0(title, " [", eng_titles, "]")]
+# refs1 <- refs[,full_authors := paste0(authors, " [", eng_authors, "]")]
+# authors_only <- refs1[,.(bibtexkey, author)]
+# 
+# refs2 <- refs1[,.(bibtexkey, full_title, full_authors, journal, issue)]
+# refs_join <- refs[,.(bibtexkey, year)]
+# refs2 <- refs2[refs_join, on = "bibtexkey"]
+# refs2 <- refs2[,-c("full_authors")]
+# 
+# refs2 <- refs2[dt_eng_authors1, on = "bibtexkey"]
+# refs2 <- refs2[authors_only, on = "bibtexkey"]
+# refs2[,full_authors := paste0(author, " [", eng_authors, "]")]
+# 
+# 
+# refs3 <- refs2[,.(category, bibtexkey, full_authors, full_title, journal, year, issue)]
+# setcolorder(refs2, "category")
+# 
+# refs2 %>% bib2df::df2bib("./bib_files/papers_with_eng2.bib")
+# 
+# make_bib_file(refs3)
+rm(list=ls())
+source("./code/helper_functions.R", encoding = "utf-8") 
+
+here <- rprojroot::find_rstudio_root_file()
+
+suppressMessages(library(furrr))
+plan(multisession, workers = 8)
+
+# Set up strings to match. ts = 'target strings'
+ts_intubation <- as_utf8(c("脑死亡后用麻醉机维持呼吸", "死亡后迅速建立人工呼吸", "自主呼吸丧失的脑死亡供体,在特定条件下应尽可能迅速建立辅助呼吸支持循环,维持供心的血氧供应,避免或缩短热缺血时间,同时迅速剖胸取心", "供体大脑死亡后,首先分秒必争地建立呼吸与静脉通道", "经气管切开气管插管建立人工呼吸", "快速胸部正中切口进胸", "供者脑死亡后迅速建立人工呼吸", "供心保护脑死亡后用麻醉机维持呼吸", "供体确定脑死亡后,气管插管,彻底吸除气道分泌物,用简易呼吸器人工控制呼吸", "供体脑死亡后,迅速建立人工呼吸", "供体脑死亡后快速正中开胸,同时插入气管导管人工通气", "脑死亡后,紧急气管插管", "供者行气管插管", "供者行气管插管,球囊加压通气,静脉注射肝素200mg", "脑死亡后，用麻醉机维持呼吸", "供体在确认脑死亡后,气管插管,建立人工呼吸", "脑死亡后气管紧急插管,纯氧通气", "供体死亡后行人工呼吸、循环支持", "脑死亡后,气管插管", "脑死亡后立即气管内插管给氧", "脑死亡,面罩加压给氧,辅助呼吸", "脑死亡后,将供体取仰卧位,争取做气管插管", "脑死亡后迅速气管插管", "脑死亡后迅速气管插管进行机械通气", "协助麻醉医生进行支纤镜检查后进行供体气管插管", "脑死亡后,4例气管插管,3例面罩吸氧", "脑死亡后插入气管导管", "在这紧急情况下,必须在紧急开胸的同时,进行紧急气管插管及辅助呼吸", "供体手术气管插管通气", "供体手术气管插管", "气管切开气管插管", "供体心脏的提取供心者取仰卧位,垫高胸腔,气管插管", "进行供心、肺切取,吸净气管分泌物,气管插管给氧", "供体心肺的切取气管插管", "供肺切取:供体气管插管", "供者平卧位,气管插管", "供心切取配合,护士协助医生气管插管辅助呼吸", "供心切取配合..气管插管", "供体平卧位，气管插管", "协助麻醉医生进行支纤镜检查后进行气管插管", "供体心肺的获取和保护..行气管插管通气", "供心的切取供体气管插管后", "供者气管插管", "供体全身肝素化后，仰卧位，经口气管内插管","面罩吸氧"))
+
+target_strings <- ts_intubation
+
+# Ensure no duplications. Output should be character(0)
+target_strings %>% .[duplicated(.)]
+
+# Read in list of files
+path <- glue("{here}/data/txt/")
+file_list_w_path <- list.files(path, full.names = TRUE)
+file_list_no_path <- list.files(path)
+file_list <- as.data.table(cbind(file_list_w_path, file_list_no_path))
+
+# Set up main functions
+get_string_matches <- function(file_text, target_string){
+  res <- afind(file_text, target_string, window = nchar(target_string), method="running_cosine")
+  location <- res$location
+  distance <- res$distance
+  match <- res$match
+  context <- substr(file_text, as.integer(location)-70, as.integer(location)+70)
+  res2 <- as.data.table(cbind(target_string, location, distance, match, context))
+  return(res2)
+}
+
+get_full_match <- function(path, file_name, target_strings) {
+  if(file.size(paste0(path, file_name)) < 10 ){
+    print(paste0(file_name,"empty"))
+    return()
+  }
+  
+  file_text <- fread(paste0(path, file_name), sep = NULL, header = FALSE)
+  res_afind <- future_map(target_strings, ~get_string_matches(file_text, .x))
+  res <- rbindlist(res_afind)
+  res3 <- as.data.table(cbind(path, file_name, res))
+  names(res3) <- c("path", "file_name", "target_string", "string_location",  "string_distance", "matching_string", "context")
+  return(res3)
+}
+tic()
+all_res <- future_map_dfr(file_list$file_list_no_path, ~get_full_match(path, .x, target_strings))
+toc()
+# Previously output here.
+# all_res <- fread("./data/string_match_full_output.csv")
+
+
+# Now examining post 2015 only --------------------------------------------
+
+# First join these to the reference data
+ref_data <- fread(glue("{here}/data/full_reference_data_nocode.csv"))
+options(datatable.prettyprint.char=20L)
+
+res_joined <- ref_data[all_res, on = "file_name"]
+
+# links to original database
+link_codes <- fread("./_data/old_and_new_id_codes_linking_to_original_database.csv", colClasses = 'character')
+original_database <- fread("./_data/transplant_papers_20210607_1307.csv", colClasses = 'character')
+all_papers_joined <- original_database[document_id %in% link_codes$document_id]
+all_papers_joined <- all_papers_joined[link_codes, on = "document_id"]
+
+# Make all_res correspond with this one...
+
+all_res2 <- all_res[,docid := str_remove(file_name, "\\.txt")]
+
+all_joined_w_refs <- all_papers_joined[all_res2, on = "docid", allow.cartesian=TRUE]
+
+res4 <- all_joined_w_refs[journal_year > 2015, .(file_name, title_ch, journal_year,target_string, matching_string, string_distance, context)]
+
+res4 <- res4 %>% distinct(file_name, title_ch, journal_year,target_string, matching_string, string_distance, context)
+
+setorder(res4, "string_distance")
+res_2015 <- res4 
+res_2015 <- res_2015[string_distance < .5 & context %like% "供"]
+res_2015[,uniqueN(file_name)]
+
+# make sure each file actually has 'intubate' in it somewhere. 
+with_intubation <- map_lgl(paste0(path,res_2015$file_name), ~str_detect(read_file(.x), "插管"))
+res_2015 <- res_2015[with_intubation]
+
+res_2015[,.(file_name, title_ch, journal_year, target_string, matching_string, string_distance, context)] %>% writexl::write_xlsx(., glue("{here}/data/post_2015_examination.xlsx"))
+
+# count unique matching papers...
+
+res_2015a <- readxl::read_xlsx(glue("{here}/data/post_2015_examination.xlsx"))
+res_2015a %>% distinct(file_name) %>% nrow
+original_database[title_ch %like% "脑死",.(document_id, title_ch, title_en, journal_year)]
+
+options(datatable.prettyprint.char=40L)
