@@ -1,7 +1,7 @@
 Replication materials for "Execution by organ procurement: Breaching the dead donor rule in China" by Matthew P. Robertson and Jacob Lavee
 =====================================
 
-> This repository contains the replication materials for the above paper. 
+> This repository contains the replication materials for the above paper, published here on April 4, 2022: https://onlinelibrary.wiley.com/doi/full/10.1111/ajt.16969.  
 > Following is an explanation of the folder structure, the files, and the code that performed the analysis. 
 
 ### Structure of the project
