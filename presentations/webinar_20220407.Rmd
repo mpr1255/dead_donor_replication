@@ -39,7 +39,7 @@ knitr::opts_chunk$set(echo = FALSE)
 - States are supposed to criminalise and seek to suppress illicit trafficking activity
 
 # Organ trafficking in China
-- China is the only (known) country where state institutions are involved trafficking organs from prisoners on a systematic basis
+- China is the only (known) country where state institutions are involved in trafficking organs from prisoners on a systematic basis
 
 - Growth of the system began in 1980s-1990s; very rapid expansion in 2000
 
@@ -188,6 +188,8 @@ knitr::include_graphics("paper_example1.png")
 
 [0191] …weight 65kg, blood type O, the same as the recipient's blood type, brain death via external trauma. **Before the chest is opened, 100mg of heparin is injected and the mask is pressurized to give oxygen to assist breathing.**
 
+# Examples from paper
+
 [0278] 1. Donor extraction. **After the donor is declared brain dead, put donor in the supine position, strive for tracheal intubation,** quickly disinfect, drape, and cut.
 
 # Summary of results (Robertson)
@@ -198,7 +200,9 @@ knitr::include_graphics("paper_example1.png")
 
 - Total of 348 medical workers; 
 
-- Total of 56 hospitals (12 military or paramilitary) in 33 cities in 15 provinces. 
+- Total of 56 hospitals (12 military or paramilitary) in 33 cities in 15 provinces;
+
+- Scale? We think this is 'tip of iceberg': papers were found at the end of a very big funnel
 
 # Map
 
@@ -214,4 +218,4 @@ knitr::include_graphics("Fig2_cropped.png")
 
 - If prisoners _are_ still being used, then it would be rational to believe that this practice continues
 
-- We think there is compelling evidence that prisoners are in fact still being used
+- We think there is compelling evidence that prisoners are still being used
