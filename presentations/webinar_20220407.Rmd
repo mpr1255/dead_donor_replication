@@ -55,7 +55,7 @@ knitr::include_graphics("bmc.png")
 ```
 - Co-authored with Dr. Jacob Lavee, leading cardiac transplantation surgeon and long-term collaborator
 
-- Key player in reforms to Israeli law that prevented transplant tourism and encouraged domestic donations
+- Key figure in reforms to Israeli law that prevented transplant tourism and encouraged domestic donations
 
 # Research question: Inside the operating room
 - What is the role of the medical professional in this programme? 
@@ -84,36 +84,49 @@ knitr::include_graphics("bmc.png")
 
 - Demands tight coordination with security authorities who control the prisoner bodies
 
-# Brain death determination
+# Brain death determination (Lavee)
 - An evaluation for brain death should be considered in patients who have suffered a massive, irreversible brain injury of identifiable cause. 
+
 - Brain death is defined as the irreversible loss of all function of the brain, including the brain stem.
+
 - The three essential findings in brain death are coma, absence of brain stem reflexes, and apnea. 
 
 # Brain death determination
 - A patient properly determined to be brain dead is legally and clinically dead.
+
 - In the absence of either complete clinical findings consistent with brain death or ancillary tests demonstrating brain death, brain death cannot be diagnosed.
+
 - Organ procurement for transplantation can be commenced only after brain death has been determined or else the organ procurement becomes the mode of execution.
 
 # Brain death determination: coma
 - No evidence of responsiveness. 
+
 - Eye opening or eye movement to noxious stimuli is absent. 
+
 - Noxious stimuli should not produce a motor response other than spinally mediated reflexes.
 
-# Brain death determination: coma
-- Absence of brain stem reflexes:
-    + Absence of pupillary response to bright light in both eyes. 
-    + Absence of ocular movements using oculocephalic testing and oculovestibular reflex testing.
-    + Absence of corneal reflexes. 
-    + Absence of facial muscle movement in response to a noxious stimulus.
-    + Absence of pharyngeal (gag) and tracheal (cough) reflexes.
+# Brain death determination: Absence of brain stem reflexes
+   
+- Absence of pupillary response to bright light in both eyes. 
+
+- Absence of ocular movements using oculocephalic testing and oculovestibular reflex testing.
+
+- Absence of corneal reflexes. 
+
+- Absence of facial muscle movement in response to a noxious stimulus.
+
+- Absence of pharyngeal (gag) and tracheal (cough) reflexes.
 
 # Brain death determination: apnea test
 Before performing the apnea test, the physician must determine that the patient meets the following conditions:
 
-- Core temperature > 36°C or 96.8°F
-- PaCO2 35-45 mm Hg
-- Normal PaO2 
-- Normal blood pressure
+  - Core temperature > 36°C or 96.8°F
+  
+  - PaCO2 35-45 mm Hg
+  
+  - Normal PaO2 
+  
+  - Normal blood pressure
 
 # Brain death determination: apnea test
 - Connect a pulse oximeter
@@ -125,13 +138,12 @@ Before performing the apnea test, the physician must determine that the patient 
 - If respiratory movements are absent and PaCO2 is $\geq$ 60 mm Hg, the apnea test supports the diagnosis of brain death
 - If respiratory movements are observed, the apnea test result is negative (i.e., does not support the diagnosis of brain death)
 
-# Appropriate versus problematic declaration of brain death (Lavee)
+# Appropriate versus problematic declaration of brain death
 ```{r flowchart, echo=FALSE, out.width = '100%', fig.align = 'center', fig.show="hold"}
 knitr::include_graphics("flowchart.png")
 ```
 
 # Research design (Robertson)
-
 - If the prisoner is intubated _after_ being declared brain dead, or _immediately prior_ to procurement surgery, then they could not have been actually dead
 
 - If brain death was not established, then heart procurement by the surgeon would be the proximate cause of death
@@ -181,8 +193,11 @@ knitr::include_graphics("paper_example1.png")
 # Summary of results (Robertson)
 
 - We found 71 papers documenting dead donor rule violations; 
+
 - Published between 1980 and 2015; 
+
 - Total of 348 medical workers; 
+
 - Total of 56 hospitals (12 military or paramilitary) in 33 cities in 15 provinces. 
 
 # Map
@@ -194,6 +209,9 @@ knitr::include_graphics("Fig2_cropped.png")
 # Conclusion
 
 - Is this ongoing? We do not know. 
+
 - A simple heuristic: if prisoners are no longer being used, then naturally it would not
+
 - If prisoners _are_ still being used, then it would be rational to believe that this practice continues
+
 - We think there is compelling evidence that prisoners are in fact still being used
