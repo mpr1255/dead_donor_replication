@@ -63,7 +63,6 @@ if(file.exists(glue("{here}/data/_string_match_full_output.csv"))){
 
 n_all_entries <- as.integer(read_lines(glue("{here}/data/database_nrow.txt")))
 
-
 bdd_not_included <- fread(glue("{here}/data/bdd_not_included.csv"))
 bdd_included <- fread(glue("{here}/appendix_2/bdd_included.csv"))
 n_total_not_included <- nrow(bdd_not_included)

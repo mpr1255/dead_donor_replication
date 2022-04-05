@@ -1,6 +1,7 @@
 source("./code/helper_functions.R", encoding = "utf-8") 
 library(googleway)
 library(ggmap)
+library(utf8)
 
 
 filter_vect <- as_utf8('所|科|院|医院|室|校|基金会|队|中心|会|部|处|大学|集团|中学|公司|厂|站|社|组|委|局|报道|基地|厅|注册|临床|系')
@@ -35,7 +36,6 @@ docids_w_hospitals[,hospital_clean := str_replace_all(hospital_clean, "\\s+.*", 
 docids_w_hospitals <- docids_w_hospitals[hospital_clean %like% filter_vect]
 
 
-
 unique_hospitals <- as.data.table(tibble("hospital" = unique(str_replace_all(unique(docids_w_hospitals[,.(hospital_clean)])$hospital_clean, "医院.*", "医院"))))
 
 # unique_hospitals <- unique_hospitals %>% 
@@ -63,7 +63,6 @@ hospitals_deduped_w_latlon1 <- hospitals_deduped_w_latlon1 %>% distinct(lonlat, 
 hospitals_deduped_w_latlon1_clean <- hospitals_deduped_w_latlon1
 
 # hospitals_deduped_w_latlon1_clean %>% select(-c(geocoded, lonlat)) %>% fwrite("./data/hospitals_deduped_w_latlon_clean.csv")
-
 
 hospitals_rev_geocoding <- read_rds("./data/hospitals_w_latlon_raw.Rds")
 test1 <- hospitals_rev_geocoding
