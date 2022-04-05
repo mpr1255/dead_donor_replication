@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2021) (preloaded format=xelatex 2022.4.4)  4 APR 2022 17:23
+This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2021) (preloaded format=xelatex 2022.4.4)  5 APR 2022 14:33
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1176,14 +1176,7 @@ File: bmc.png Graphic file (type bmp)
 
 ] [8
 
-]
-File: flowchart.png Graphic file (type bmp)
-<flowchart.png>
-
-Overfull \vbox (45.65372pt too high) detected at line 263
- []
-
-[9
+] [9
 
 ] [10
 
@@ -1193,37 +1186,44 @@ Overfull \vbox (45.65372pt too high) detected at line 263
 
 ] [13
 
-] [14
-
 ]
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(1)/m/n' will be
-(Font)              scaled to size 7.8961pt on input line 382.
+(Font)              scaled to size 7.8961pt on input line 376.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(1)/m/n' will be
-(Font)              scaled to size 5.64008pt on input line 382.
-LaTeX Font Info:    Trying to load font information for OML+lmm on input line 382.
+(Font)              scaled to size 5.64008pt on input line 376.
+LaTeX Font Info:    Trying to load font information for OML+lmm on input line 376.
 (/Users/ma/Library/TinyTeX/texmf-dist/tex/latex/lm/omllmm.fd
 File: omllmm.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 11.28131pt on input line 382.
+(Font)              scaled to size 11.28131pt on input line 376.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 7.89691pt on input line 382.
+(Font)              scaled to size 7.89691pt on input line 376.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 5.64066pt on input line 382.
+(Font)              scaled to size 5.64066pt on input line 376.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
-(Font)              scaled to size 11.27914pt on input line 382.
+(Font)              scaled to size 11.27914pt on input line 376.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
-(Font)              scaled to size 7.8954pt on input line 382.
+(Font)              scaled to size 7.8954pt on input line 376.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
-(Font)              scaled to size 5.63957pt on input line 382.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 382.
+(Font)              scaled to size 5.63957pt on input line 376.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 376.
 (/Users/ma/Library/TinyTeX/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 382.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 376.
 (/Users/ma/Library/TinyTeX/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-) [15
+) [14
+
+]
+File: flowchart.png Graphic file (type bmp)
+<flowchart.png>
+
+Overfull \vbox (45.65372pt too high) detected at line 382
+ []
+
+[15
 
 ]
 LaTeX Font Info:    Font shape `TU/lmss/m/it' in size <10.95> not available
@@ -1295,6 +1295,13 @@ File: paper_example1.png Graphic file (type bmp)
 ] [22
 
 ]
+File: Fig2_cropped.png Graphic file (type bmp)
+<Fig2_cropped.png>
+[23
+
+] [24
+
+]
 \tf@nav=\write7
 \openout7 = `webinar_20220407.nav'.
 
@@ -1309,12 +1316,12 @@ Package rerunfilecheck Info: File `webinar_20220407.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 31400 strings out of 478179
- 666094 string characters out of 5853948
- 1063725 words of memory out of 5000000
- 51391 multiletter control sequences out of 15000+600000
+ 31421 strings out of 478179
+ 666485 string characters out of 5853948
+ 1063837 words of memory out of 5000000
+ 51412 multiletter control sequences out of 15000+600000
  474596 words of font info for 82 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  99i,15n,140p,521b,625s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on webinar_20220407.pdf (22 pages).
+Output written on webinar_20220407.pdf (24 pages).

@@ -84,11 +84,6 @@ knitr::include_graphics("bmc.png")
 
 - Demands tight coordination with security authorities who control the prisoner bodies
 
-# Appropriate versus problematic declaration of brain death (Lavee)
-```{r flowchart, echo=FALSE, out.width = '100%', fig.align = 'center', fig.show="hold"}
-knitr::include_graphics("flowchart.png")
-```
-
 # Brain death determination
 - An evaluation for brain death should be considered in patients who have suffered a massive, irreversible brain injury of identifiable cause. 
 - Brain death is defined as the irreversible loss of all function of the brain, including the brain stem.
@@ -130,6 +125,11 @@ Before performing the apnea test, the physician must determine that the patient 
 - If respiratory movements are absent and PaCO2 is $\geq$ 60 mm Hg, the apnea test supports the diagnosis of brain death
 - If respiratory movements are observed, the apnea test result is negative (i.e., does not support the diagnosis of brain death)
 
+# Appropriate versus problematic declaration of brain death (Lavee)
+```{r flowchart, echo=FALSE, out.width = '100%', fig.align = 'center', fig.show="hold"}
+knitr::include_graphics("flowchart.png")
+```
+
 # Research design (Robertson)
 
 - If the prisoner is intubated _after_ being declared brain dead, or _immediately prior_ to procurement surgery, then they could not have been actually dead
@@ -163,14 +163,14 @@ get_full_match <- function(path, file_name, target_strings) {
 ```
 
 # Raw data
-```{r example2, echo=FALSE, out.width = '40%', fig.align = 'default', fig.show="hold"}
+```{r echo=FALSE, out.width = '40%', fig.align = 'default', fig.show="hold"}
 knitr::include_graphics("paper_example2.png")
 knitr::include_graphics("paper_example1.png")
 ```
 
 # Examples from paper (Lavee)
 
-[0573] The donor was intravenously injected with heparin 3mg/kg 1h before the operation. The sternum was transected from the 4th intercostal space into the chest, and the pericardium cut open. **The heartbeat was weak and the myocardium was purple. After assisted ventilation through tracheal intubation, the myocardium turned red and the heartbeat turned strong.** A needle at the root of the ascending aorta was used to perfuse with 1000ml of cold cardioplegic solution at 4c°... **When the chest of the donor in this paper was opened, the chest wall incision was pale and bloodless, and the heart was purple and beating weakly. But the heartbeat became strong immediately after tracheal intubation and oxygenation.**
+[0573] The donor was intravenously injected with heparin 3mg/kg 1h before the operation. The sternum was transected from the 4th intercostal space into the chest, and the pericardium cut open. **The heartbeat was weak and the myocardium was purple. After assisted ventilation through tracheal intubation, the myocardium turned red and the heartbeat turned strong.** A needle at the root of the ascending aorta was used to perfuse with 1000ml of cold cardioplegic solution at 4c°... 
 
 # Examples from paper
 
@@ -178,7 +178,20 @@ knitr::include_graphics("paper_example1.png")
 
 [0278] 1. Donor extraction. **After the donor is declared brain dead, put donor in the supine position, strive for tracheal intubation,** quickly disinfect, drape, and cut.
 
-# Conclusion (Robertson)
+# Summary of results (Robertson)
+
+- We found 71 papers documenting dead donor rule violations; 
+- Published between 1980 and 2015; 
+- Total of 348 medical workers; 
+- Total of 56 hospitals (12 military or paramilitary) in 33 cities in 15 provinces. 
+
+# Map
+
+```{r echo=FALSE, out.width = '100%'}
+knitr::include_graphics("Fig2_cropped.png")
+```
+
+# Conclusion
 
 - Is this ongoing? We do not know. 
 - A simple heuristic: if prisoners are no longer being used, then naturally it would not
