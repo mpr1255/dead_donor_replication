@@ -104,3 +104,7 @@ _dead_donor_manuscript_RR_markup.docx
 _readme.md
 =======
 >>>>>>> refs/remotes/origin/master
+cache/*
+*/cache/*
+*/cache/*
+.sync-conflict*
