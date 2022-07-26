@@ -108,3 +108,4 @@ cache/*
 */cache/*
 */cache/*
 .sync-conflict*
+_tablet/*
