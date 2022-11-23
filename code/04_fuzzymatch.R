@@ -39,13 +39,13 @@ getFullMatch <- function(file, target_strings) {
   return(res)
 }
 possibly_getFullMatch <- possibly(getFullMatch, otherwise = NA)
-
-all_res <- future_map_dfr(file_list$file_w_path, ~possibly_getFullMatch(.x, target_strings))
+options(datatable.prettyprint.char=20000L)
+all_res <- future_map_dfr(file_list$file_w_path[1], ~possibly_getFullMatch(.x, target_strings))
 
 # Show-and-tell -----------------------------------------------------------
 result <- possibly_getFullMatch("./data/txt/0111.txt", target_strings)
 result[string_distance < .20]
-
+options(datatable.prettyprint.char=20L)
 setDT(result)
 
 
